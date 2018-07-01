@@ -1,0 +1,502 @@
+
+Yr#,Gm#,Date,Batter,Tm,Opp,Pitcher,Score,,Inn,RoB,Out,Pit(cnt)Sequence,RBI,WPA,RE24,LI,Play Description
+19001,3,2015-06-03,Anthony Rizzo,CHC,@MIA,Dan Haren,tied 0-0,Out,t1,---,2,1 (0-0),0,-0.01,-0.09,.39,Popfly: SS
+19002,4,2015-06-03,Dee Gordon,MIA,CHC,Jon Lester,tied 0-0,Out,b1,---,0,2 (1-0),0,-0.02,-0.22,.87,Bunt Popfly: P (Front of Home)
+19003,5,2015-06-03,Martin Prado,MIA,CHC,Jon Lester,tied 0-0,Out,b1,---,1,3 (0-2),0,-0.01,-0.15,.61,Popfly: SS (Deep SS)
+19004,6,2015-06-03,Giancarlo Stanton,MIA,CHC,Jon Lester,tied 0-0,Out,b1,---,2,1 (0-0),0,-0.01,-0.09,.40,Groundout: 3B-1B (SS-3B Hole)
+19005,7,2015-06-03,Junior Lake,CHC,@MIA,Dan Haren,tied 0-0,Out,t2,---,0,1 (0-0),0,-0.02,-0.22,.93,Bunt Groundout: 3B-1B (Weak 3B)
+19006,8,2015-06-03,Starlin Castro,CHC,@MIA,Dan Haren,tied 0-0,Out,t2,---,1,6 (3-2),0,-0.02,-0.15,.64,Flyball: CF (Deep CF)
+19007,9,2015-06-03,Chris Coghlan,CHC,@MIA,Dan Haren,tied 0-0,Out,t2,---,2,3 (1-1),0,-0.01,-0.09,.41,Groundout: 2B-1B
+19008,10,2015-06-03,Jeff Baker,MIA,CHC,Jon Lester,tied 0-0,SO,b2,---,0,5 (2-2),0,-0.02,-0.22,.92,Strikeout Looking
+19009,11,2015-06-03,Marcell Ozuna,MIA,CHC,Jon Lester,tied 0-0,1B,b2,---,1,6 (3-2),0,0.03,0.25,.65,Single to CF (Line Drive)
+19010,12,2015-06-03,Ichiro Suzuki,MIA,CHC,Jon Lester,tied 0-0,1B,b2,1--,1,2 (1-0),0,0.04,0.38,1.23,Single to LF (Line Drive to Short LF Line); Ozuna to 2B
+19011,13,2015-06-03,J.T. Realmuto,MIA,CHC,Jon Lester,tied 0-0,2B,b2,12-,1,7 (3-2),1,0.15,1.49,2.07,Double to LF (Line Drive to LF Line); Ozuna Scores; Suzuki to 3B
+19012,14,2015-06-03,Adeiny Hechavarria,MIA,CHC,Jon Lester,ahead 0-1,1B,b2,-23,1,2 (0-1),1,0.07,0.79,1.37,Single to 2B (Ground Ball to SS-2B); Suzuki Scores; Realmuto to 3B
+19013,15,2015-06-03,Dee Gordon,MIA,CHC,Jon Lester,ahead 0-2,1B,b2,1-3,2,3 (1-1),1,0.07,0.94,1.23,Single to SS (Ground Ball); Realmuto Scores; Hechavarria to 2B
+19014,16,2015-06-03,Martin Prado,MIA,CHC,Jon Lester,ahead 0-3,1B,b2,12-,2,5 (2-2),1,0.06,1.06,.83,Single to RF (Line Drive to Short RF Line); Hechavarria Scores; Gordon to 3B/Adv on E9
+19015,17,2015-06-03,Giancarlo Stanton,MIA,CHC,Jon Lester,ahead 0-4,Out,b2,1-3,2,2 (0-1),0,-0.02,-0.47,.62,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole)
+19016,18,2015-06-03,David Ross,CHC,@MIA,Dan Haren,down 4-0,Out,t3,---,0,4 (1-2),0,-0.02,-0.22,.63,Groundout: 3B-1B (Weak 3B)
+19017,19,2015-06-03,Addison Russell,CHC,@MIA,Dan Haren,down 4-0,1B,t3,---,2,2 (1-0),0,0.01,0.12,.24,Single to CF (Line Drive)
+19018,20,2015-06-03,Dexter Fowler,CHC,@MIA,Dan Haren,down 4-0,Out,t3,1--,2,1 (0-0),0,-0.01,-0.21,.52,Groundout: 2B-1B (2B-1B)
+19019,21,2015-06-03,Jeff Baker,MIA,CHC,Jon Lester,ahead 0-4,Out,b3,---,0,2 (0-1),0,-0.01,-0.22,.27,Groundout: 3B-1B (Weak 3B)
+19020,22,2015-06-03,Marcell Ozuna,MIA,CHC,Jon Lester,ahead 0-4,BB,b3,---,1,4 (3-0),0,0.01,0.25,.22,Walk
+19021,23,2015-06-03,Ichiro Suzuki,MIA,CHC,Jon Lester,ahead 0-4,Out,b3,1--,1,7 (3-2),0,-0.01,-0.27,.36,Flyball: CF (Deep CF)
+19022,24,2015-06-03,J.T. Realmuto,MIA,CHC,Jon Lester,ahead 0-4,Out,b3,1--,2,5 (1-2),0,-0.01,-0.21,.26,Groundout: SS-1B
+19023,1,2015-06-03,Brandon Phillips,CIN,@PHI,Cole Hamels,tied 0-0,Out,t1,---,0,2 (1-0),0,-0.02,-0.22,.87,*LEADOFF GM*:Lineout: LF (LF-CF)
+19024,2,2015-06-03,Joey Votto,CIN,@PHI,Cole Hamels,tied 0-0,2B,t1,---,1,5 (3-1),0,0.04,0.41,.61,Double to RF (Line Drive to Deep CF-RF)
+19025,3,2015-06-03,Todd Frazier,CIN,@PHI,Cole Hamels,tied 0-0,Out,t1,-2-,1,2 (1-0),0,-0.03,-0.30,1.24,Lineout: CF (Deep CF); Votto to 3B
+19026,4,2015-06-03,Jay Bruce,CIN,@PHI,Cole Hamels,tied 0-0,Out,t1,--3,2,5 (2-2),0,-0.04,-0.35,1.33,Lineout: LF (LF-CF)
+19027,5,2015-06-03,Odubel Herrera,PHI,CIN,Mike Leake,tied 0-0,Out,b1,---,0,5 (2-2),0,-0.02,-0.22,.87,Groundout: SS-1B (Weak SS)
+19028,6,2015-06-03,Jeff Francoeur,PHI,CIN,Mike Leake,tied 0-0,Out,b1,---,1,1 (0-0),0,-0.01,-0.15,.61,Groundout: SS-1B
+19029,7,2015-06-03,Chase Utley,PHI,CIN,Mike Leake,tied 0-0,Out,b1,---,2,5 (1-2),0,-0.01,-0.10,.40,Groundout: 2B-1B (2B-1B)
+19030,8,2015-06-03,Zack Cozart,CIN,@PHI,Cole Hamels,tied 0-0,Out,t2,---,0,1 (0-0),0,-0.02,-0.22,.93,Flyball: CF (Deep CF)
+19031,9,2015-06-03,Kristopher Negron,CIN,@PHI,Cole Hamels,tied 0-0,SO,t2,---,1,4 (1-2),0,-0.02,-0.15,.64,Strikeout Swinging
+19032,10,2015-06-03,Tucker Barnhart,CIN,@PHI,Cole Hamels,tied 0-0,1B,t2,---,2,2 (0-1),0,0.01,0.12,.41,Single to CF (Ground Ball thru SS-2B)
+19033,11,2015-06-03,Ryan Howard,PHI,CIN,Mike Leake,tied 0-0,Out,b2,---,0,9 (2-2),0,-0.02,-0.22,.92,Flyball: CF (Deep CF)
+19034,12,2015-06-03,Maikel Franco,PHI,CIN,Mike Leake,tied 0-0,SO,b2,---,1,5 (2-2),0,-0.02,-0.15,.66,Strikeout Looking
+19035,13,2015-06-03,Cody Asche,PHI,CIN,Mike Leake,tied 0-0,Out,b2,---,2,4 (2-1),0,-0.01,-0.10,.42,Groundout: 2B-1B (2B-1B)
+19036,14,2015-06-03,Billy Hamilton,CIN,@PHI,Cole Hamels,tied 0-0,BB,t3,---,0,6 (3-2),0,0.04,0.37,.99,Walk
+19037,15,2015-06-03,Brandon Phillips,CIN,@PHI,Cole Hamels,tied 0-0,1B,t3,1--,0,1 (0-0),0,0.06,0.60,1.67,Single to CF (Line Drive to CF-RF); Hamilton to 2B
+19038,16,2015-06-03,Joey Votto,CIN,@PHI,Cole Hamels,tied 0-0,Out,t3,12-,0,1 (0-0),0,-0.06,-0.57,2.17,Lineout: 2B
+19039,17,2015-06-03,Todd Frazier,CIN,@PHI,Cole Hamels,tied 0-0,SO,t3,-23,1,8 (3-2),0,-0.09,-0.79,1.78,Strikeout Looking
+19040,18,2015-06-03,Jay Bruce,CIN,@PHI,Cole Hamels,tied 0-0,BB,t3,-23,2,5 (3-1),0,0.02,0.17,2.28,Walk
+19041,19,2015-06-03,Zack Cozart,CIN,@PHI,Cole Hamels,tied 0-0,Out,t3,123,2,2 (1-0),0,-0.08,-0.74,3.30,Foul Popfly: 1B (1B Foul)
+19042,20,2015-06-03,Freddy Galvis,PHI,CIN,Mike Leake,tied 0-0,Out,b3,---,0,3 (1-1),0,-0.02,-0.22,.99,Groundout: 2B-1B (2B-1B)
+19043,21,2015-06-03,Carlos Ruiz,PHI,CIN,Mike Leake,tied 0-0,Out,b3,---,1,4 (2-1),0,-0.02,-0.15,.71,Lineout: CF (Deep CF)
+19044,1,2015-06-03,Curtis Granderson,NYM,@SDP,James Shields,tied 0-0,BB,t1,---,0,6 (3-2),0,0.04,0.37,.87,*LEADOFF GM*:Walk
+19045,2,2015-06-03,Ruben Tejada,NYM,@SDP,James Shields,tied 0-0,Out,t1,1--,0,2 (1-0),0,-0.03,-0.33,1.52,Foul Popfly: 2B (1B Foul)
+19046,3,2015-06-03,Lucas Duda,NYM,@SDP,James Shields,tied 0-0,Out,t1,1--,1,2 (0-1),0,-0.03,-0.26,1.17,Flyball: RF (Short RF)
+19047,4,2015-06-03,Daniel Murphy,NYM,@SDP,James Shields,tied 0-0,1B,t1,1--,2,1 (0-0),0,0.02,0.20,.80,Single to RF (Ground Ball thru 2B-1B); Granderson to 2B
+19048,5,2015-06-03,Wilmer Flores,NYM,@SDP,James Shields,tied 0-0,Out,t1,12-,2,5 (2-2),0,-0.04,-0.40,1.68,Groundout: 3B unassisted/Forceout at 3B (SS-3B Hole); Murphy to 2B
+19049,6,2015-06-03,Will Venable,SDP,NYM,Dillon Gee,tied 0-0,Out,b1,---,0,6 (1-2),0,-0.02,-0.21,.87,Lineout: LF (Deep LF-CF)
+19050,7,2015-06-03,Derek Norris,SDP,NYM,Dillon Gee,tied 0-0,RoE,b1,---,1,3 (1-1),0,0.02,0.24,.61,Reached on E5 (Ground Ball to Short LF Line)
+19051,8,2015-06-03,Justin Upton,SDP,NYM,Dillon Gee,tied 0-0,BB,b1,1--,1,5 (3-1),0,0.04,0.37,1.17,Walk; Norris to 2B
+19052,9,2015-06-03,Matt Kemp,SDP,NYM,Dillon Gee,tied 0-0,1B,b1,12-,1,6 (3-2),0,0.06,0.65,2.00,Single to CF (Ground Ball thru SS-2B); Norris to 3B; Upton to 2B
+19053,10,2015-06-03,Yonder Alonso,SDP,NYM,Dillon Gee,tied 0-0,HBP,b1,123,1,1 (0-0),1,0.09,1.00,2.69,Hit By Pitch; Norris Scores/unER; Upton to 3B; Kemp to 2B
+19054,11,2015-06-03,Will Middlebrooks,SDP,NYM,Dillon Gee,ahead 0-1,Out,b1,123,1,3 (0-2),1,0.02,0.07,2.23,Flyball: CF/Sacrifice Fly (Deep CF-RF); Upton Scores/unER; Kemp to 3B; Alonso to 2B
+19055,12,2015-06-03,Cory Spangenberg,SDP,NYM,Dillon Gee,ahead 0-2,Out,b1,-23,2,3 (1-1),0,-0.04,-0.56,1.35,Groundout: 2B-1B
+19056,13,2015-06-03,Darrell Ceciliani,NYM,@SDP,James Shields,down 2-0,2B,t2,---,0,2 (0-1),0,0.06,0.61,.91,Ground-rule Double (Line Drive to Deep RF Line)
+19057,14,2015-06-03,Juan Lagares,NYM,@SDP,James Shields,down 2-0,Out,t2,-2-,0,2 (1-0),0,-0.10,-0.95,1.41,Double Play: Lineout: RF; Ceciliani out at 3B/RF-3B
+19058,15,2015-06-03,Anthony Recker,NYM,@SDP,James Shields,down 2-0,SO,t2,---,2,6 (3-2),0,-0.01,-0.09,.38,Strikeout Looking
+19059,16,2015-06-03,Alexi Amarista,SDP,NYM,Dillon Gee,ahead 0-2,Out,b2,---,0,2 (0-1),0,-0.01,-0.21,.57,Flyball: CF (Short CF)
+19060,17,2015-06-03,Will Venable,SDP,NYM,Dillon Gee,ahead 0-2,SO,b2,---,2,3 (0-2),0,-0.01,-0.09,.27,Strikeout Looking
+19061,18,2015-06-03,Curtis Granderson,NYM,@SDP,James Shields,down 2-0,Out,t3,---,1,5 (3-1),0,-0.02,-0.14,.64,Flyball: LF (LF-CF)
+19062,19,2015-06-03,Ruben Tejada,NYM,@SDP,James Shields,down 2-0,Out,t3,---,2,2 (0-1),0,-0.01,-0.09,.40,Flyball: RF (Deep RF)
+19063,20,2015-06-03,Derek Norris,SDP,NYM,Dillon Gee,ahead 0-2,RoE,b3,---,0,4 (1-2),0,0.02,0.37,.56,Reached on E5 (throw) (Ground Ball)
+19064,21,2015-06-03,Justin Upton,SDP,NYM,Dillon Gee,ahead 0-2,Out,b3,1--,0,4 (2-1),0,-0.02,-0.33,.94,Groundout: SS-2B/Forceout at 2B (SS-3B Hole)
+19065,22,2015-06-03,Matt Kemp,SDP,NYM,Dillon Gee,ahead 0-2,Out,b3,1--,1,1 (0-0),0,-0.02,-0.26,.76,Flyball: RF (Short RF)
+19066,23,2015-06-03,Yonder Alonso,SDP,NYM,Dillon Gee,ahead 0-2,1B,b3,1--,2,1 (0-0),0,0.02,0.25,.53,Single to RF (Line Drive); Upton to 3B
+19067,24,2015-06-03,Will Middlebrooks,SDP,NYM,Dillon Gee,ahead 0-2,Out,b3,1-3,2,3 (1-1),0,-0.03,-0.45,1.20,Flyball: LF (Deep LF)
+19068,1,2015-06-03,Brett Gardner,NYY,@SEA,Taijuan Walker,tied 0-0,SO,t1,---,0,5 (1-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Strikeout Swinging
+19069,2,2015-06-03,Chase Headley,NYY,@SEA,Taijuan Walker,tied 0-0,SO,t1,---,1,4 (1-2),0,-0.01,-0.15,.61,Strikeout Swinging
+19070,3,2015-06-03,Alex Rodriguez,NYY,@SEA,Taijuan Walker,tied 0-0,Out,t1,---,2,2 (0-1),0,-0.01,-0.09,.39,Groundout: P-1B
+19071,4,2015-06-03,Logan Morrison,SEA,NYY,Masahiro Tanaka,tied 0-0,SO,b1,---,0,3 (0-2),0,-0.02,-0.22,.87,Strikeout Swinging
+19072,5,2015-06-03,Austin Jackson,SEA,NYY,Masahiro Tanaka,tied 0-0,Out,b1,---,1,4 (1-2),0,-0.01,-0.15,.61,Groundout: 3B-1B (SS-3B Hole)
+19073,6,2015-06-03,Robinson Cano,SEA,NYY,Masahiro Tanaka,tied 0-0,Out,b1,---,2,3 (1-1),0,-0.01,-0.09,.40,Groundout: SS-1B (SS-2B)
+19074,7,2015-06-03,Mark Teixeira,NYY,@SEA,Taijuan Walker,tied 0-0,HR,t2,---,0,4 (2-1),1,0.11,1.00,.93,Home Run (Fly Ball to Deep RF)
+19075,8,2015-06-03,Brian McCann,NYY,@SEA,Taijuan Walker,ahead 0-1,Out,t2,---,0,4 (1-2),0,-0.02,-0.22,.81,Groundout: 2B-1B (2B-1B)
+19076,9,2015-06-03,Garrett Jones,NYY,@SEA,Taijuan Walker,ahead 0-1,SO,t2,---,1,3 (0-2),0,-0.01,-0.15,.57,Strikeout Looking
+19077,10,2015-06-03,Didi Gregorius,NYY,@SEA,Taijuan Walker,ahead 0-1,1B,t2,---,2,3 (0-2),0,0.01,0.12,.37,Single to CF (Line Drive)
+19078,11,2015-06-03,Stephen Drew,NYY,@SEA,Taijuan Walker,ahead 0-1,Out,t2,1--,2,3 (1-1),0,-0.02,-0.21,.75,Groundout: P-1B (Short 1B Line)
+19079,12,2015-06-03,Nelson Cruz,SEA,NYY,Masahiro Tanaka,down 1-0,SO,b2,---,0,3 (0-2),0,-0.02,-0.22,1.00,Strikeout Looking
+19080,13,2015-06-03,Kyle Seager,SEA,NYY,Masahiro Tanaka,down 1-0,SO,b2,---,1,3 (0-2),0,-0.02,-0.15,.70,Strikeout Looking
+19081,14,2015-06-03,Seth Smith,SEA,NYY,Masahiro Tanaka,down 1-0,Out,b2,---,2,3 (1-1),0,-0.01,-0.09,.45,Groundout: SS-1B (SS-2B)
+19082,15,2015-06-03,Ramon Flores,NYY,@SEA,Taijuan Walker,ahead 0-1,SO,t3,---,0,4 (1-2),0,-0.02,-0.22,.85,Strikeout Swinging
+19083,16,2015-06-03,Brett Gardner,NYY,@SEA,Taijuan Walker,ahead 0-1,Out,t3,---,1,6 (3-2),0,-0.01,-0.15,.60,Lineout: CF (LF-CF)
+19084,17,2015-06-03,Chase Headley,NYY,@SEA,Taijuan Walker,ahead 0-1,Out,t3,---,2,5 (1-2),0,-0.01,-0.09,.40,Groundout: 2B-1B (2B-1B)
+19085,18,2015-06-03,Brad Miller,SEA,NYY,Masahiro Tanaka,down 1-0,3B,b3,---,0,4 (2-1),0,0.12,0.91,1.09,Triple to CF (Line Drive to Deep CF-RF)
+19086,19,2015-06-03,Dustin Ackley,SEA,NYY,Masahiro Tanaka,down 1-0,2B,b3,--3,0,5 (3-1),1,0.08,0.70,1.42,Double to LF (Line Drive to Deep LF); Miller Scores
+19087,20,2015-06-03,Mike Zunino,SEA,NYY,Masahiro Tanaka,tied 1-1,SO,b3,-2-,0,4 (1-2),0,-0.05,-0.42,1.40,Strikeout Looking
+19088,21,2015-06-03,Logan Morrison,SEA,NYY,Masahiro Tanaka,tied 1-1,1B,b3,-2-,1,5 (1-2),0,-0.05,-0.43,1.42,Single to LF (Ground Ball thru SS-3B Hole); Ackley out at Hm/LF-C
+19089,22,2015-06-03,Austin Jackson,SEA,NYY,Masahiro Tanaka,tied 1-1,SO,b3,1--,2,3 (0-2),0,-0.03,-0.21,.92,Strikeout Looking
+19090,1,2015-06-03,Josh Harrison,PIT,@SFG,Tim Hudson,tied 0-0,SO,t1,---,0,6 (1-2),0,-0.02,-0.21,.87,*LEADOFF GM*:Strikeout Swinging
+19091,2,2015-06-03,Gregory Polanco,PIT,@SFG,Tim Hudson,tied 0-0,Out,t1,---,1,5 (2-2),0,-0.01,-0.14,.61,Groundout: P-1B (Front of Home)
+19092,3,2015-06-03,Andrew McCutchen,PIT,@SFG,Tim Hudson,tied 0-0,Out,t1,---,2,2 (0-1),0,-0.01,-0.09,.39,Popfly: 2B (Deep 2B-1B)
+19093,4,2015-06-03,Nori Aoki,SFG,PIT,Francisco Liriano,tied 0-0,SO,b1,---,0,6 (1-2),0,-0.02,-0.21,.87,Strikeout Swinging
+19094,5,2015-06-03,Joe Panik,SFG,PIT,Francisco Liriano,tied 0-0,Out,b1,---,1,4 (1-2),0,-0.01,-0.14,.61,Groundout: P-1B (Front of Home)
+19095,6,2015-06-03,Angel Pagan,SFG,PIT,Francisco Liriano,tied 0-0,Out,b1,---,2,3 (1-1),0,-0.01,-0.09,.40,Groundout: 3B-1B (Weak 3B)
+19096,7,2015-06-03,Neil Walker,PIT,@SFG,Tim Hudson,tied 0-0,Out,t2,---,0,2 (1-0),0,-0.02,-0.21,.93,Flyball: CF
+19097,8,2015-06-03,Pedro Alvarez,PIT,@SFG,Tim Hudson,tied 0-0,Out,t2,---,1,2 (1-0),0,-0.02,-0.14,.64,Groundout: 1B unassisted
+19098,9,2015-06-03,Jose Tabata,PIT,@SFG,Tim Hudson,tied 0-0,Out,t2,---,2,3 (1-1),0,-0.01,-0.09,.41,Groundout: 3B-1B (Short 3B Line)
+19099,10,2015-06-03,Buster Posey,SFG,PIT,Francisco Liriano,tied 0-0,SO,b2,---,0,5 (2-2),0,-0.02,-0.21,.92,Strikeout Swinging
+19100,11,2015-06-03,Matt Duffy,SFG,PIT,Francisco Liriano,tied 0-0,SO,b2,---,1,3 (0-2),0,-0.02,-0.14,.65,Strikeout Swinging
+19101,12,2015-06-03,Andrew Susac,SFG,PIT,Francisco Liriano,tied 0-0,Out,b2,---,2,6 (3-2),0,-0.01,-0.09,.42,Groundout: 2B-1B
+19102,13,2015-06-03,Francisco Cervelli,PIT,@SFG,Tim Hudson,tied 0-0,Out,t3,---,0,3 (1-1),0,-0.02,-0.21,.99,Groundout: SS-1B
+19103,14,2015-06-03,Jordy Mercer,PIT,@SFG,Tim Hudson,tied 0-0,Out,t3,---,1,3 (1-1),0,-0.02,-0.14,.70,Lineout: P-1B
+19104,15,2015-06-03,Josh Harrison,PIT,@SFG,Tim Hudson,tied 0-0,Out,t3,1--,2,1 (0-0),0,-0.02,-0.21,.92,Groundout: SS-1B
+19105,16,2015-06-03,Justin Maxwell,SFG,PIT,Francisco Liriano,tied 0-0,Out,b3,---,0,3 (1-1),0,-0.02,-0.21,.99,Groundout: 3B-1B (Weak 3B)
+19106,17,2015-06-03,Joaquin Arias,SFG,PIT,Francisco Liriano,tied 0-0,Out,b3,---,1,4 (0-2),0,-0.02,-0.14,.70,Groundout: 2B-1B (2B-1B)
+19107,18,2015-06-03,Nori Aoki,SFG,PIT,Francisco Liriano,tied 0-0,1B,b3,-2-,2,6 (3-2),0,0.02,0.16,1.36,Single to CF (Line Drive); Hudson to 3B
+19108,19,2015-06-03,Joe Panik,SFG,PIT,Francisco Liriano,tied 0-0,1B,b3,1-3,2,4 (2-1),1,0.12,0.94,2.05,Single to LF (Line Drive to Short LF-CF); Hudson Scores; Aoki to 2B
+19109,1,2015-06-03,Jean Segura,MIL,@STL,John Lackey,tied 0-0,Out,t1,---,0,2 (1-0),0,-0.02,-0.22,.87,*LEADOFF GM*:Flyball: LF (Deep LF-CF)
+19110,2,2015-06-03,Gerardo Parra,MIL,@STL,John Lackey,tied 0-0,1B,t1,---,1,4 (1-2),0,0.02,0.25,.62,Single to LF (Ground Ball thru SS-3B Hole)
+19111,3,2015-06-03,Carlos Gomez,MIL,@STL,John Lackey,tied 0-0,Out,t1,1--,1,4 (0-2),0,-0.03,-0.28,1.15,Lineout: RF (Deep CF-RF)
+19112,4,2015-06-03,Adam Lind,MIL,@STL,John Lackey,tied 0-0,1B,t1,1--,2,4 (2-1),0,0.02,0.20,.79,Single to LF (Ground Ball thru SS-3B Hole); Parra to 2B
+19113,5,2015-06-03,Jonathan Lucroy,MIL,@STL,John Lackey,tied 0-0,Out,t1,12-,2,5 (3-1),0,-0.04,-0.42,1.64,Flyball: RF (Deep RF)
+19114,6,2015-06-03,Kolten Wong,STL,MIL,Jimmy Nelson,tied 0-0,2B,b1,---,0,2 (1-0),0,0.06,0.62,.87,Double to LF (Line Drive to Deep LF-CF)
+19115,7,2015-06-03,Matt Carpenter,STL,MIL,Jimmy Nelson,tied 0-0,1B,b1,-2-,0,4 (1-2),0,0.07,0.73,1.23,Single to 2B (Ground Ball); Wong to 3B
+19116,8,2015-06-03,Matt Holliday,STL,MIL,Jimmy Nelson,tied 0-0,BB,b1,1-3,0,6 (3-2),0,0.04,0.49,1.60,Walk; Carpenter to 2B
+19117,9,2015-06-03,Jhonny Peralta,STL,MIL,Jimmy Nelson,tied 0-0,1B,b1,123,0,4 (2-1),1,0.08,1.00,2.11,Single to CF (Line Drive to Short CF); Wong Scores; Carpenter to 3B; Holliday to 2B
+19118,10,2015-06-03,Randal Grichuk,STL,MIL,Jimmy Nelson,ahead 0-1,RoE,b1,123,0,4 (0-2),1,0.06,1.00,1.71,Reached on E5 (Ground Ball to Short LF); Carpenter Scores; Holliday to 3B; Peralta to 2B
+19119,11,2015-06-03,Mark Reynolds,STL,MIL,Jimmy Nelson,ahead 0-2,1B,b1,123,0,1 (0-0),1,0.05,1.00,1.31,Single to CF (Line Drive to Short CF); Holliday Scores; Peralta to 3B; Grichuk to 2B
+19120,12,2015-06-03,Yadier Molina,STL,MIL,Jimmy Nelson,ahead 0-3,Out,b1,123,0,2 (0-1),1,0.00,-0.14,.96,Flyball: CF/Sacrifice Fly (Deep CF); Peralta Scores; Grichuk to 3B
+19121,13,2015-06-03,Jason Heyward,STL,MIL,Jimmy Nelson,ahead 0-4,Out,b1,1-3,1,2 (1-0),1,0.01,0.06,.72,Lineout: CF/Sacrifice Fly (Deep CF); Grichuk Scores/unER
+19122,14,2015-06-03,Shane Peterson,MIL,@STL,John Lackey,down 5-0,Out,t2,---,0,4 (0-2),0,-0.01,-0.22,.50,Flyball: CF (Short CF)
+19123,15,2015-06-03,Hector Gomez,MIL,@STL,John Lackey,down 5-0,BB,t2,---,1,6 (3-2),0,0.01,0.25,.32,Walk
+19124,16,2015-06-03,Hernan Perez,MIL,@STL,John Lackey,down 5-0,Out,t2,1--,1,2 (0-1),0,-0.02,-0.28,.66,Flyball: CF (Deep CF-RF)
+19125,17,2015-06-03,Kolten Wong,STL,MIL,Jimmy Nelson,ahead 0-5,Out,b2,---,0,6 (3-2),0,-0.01,-0.22,.20,Groundout: 1B unassisted
+19126,18,2015-06-03,Matt Carpenter,STL,MIL,Jimmy Nelson,ahead 0-5,Out,b2,---,1,2 (1-0),0,-0.00,-0.15,.15,Groundout: 1B unassisted
+19127,19,2015-06-03,Matt Holliday,STL,MIL,Jimmy Nelson,ahead 0-5,Out,b2,---,2,8 (2-2),0,-0.00,-0.10,.10,Groundout: SS-1B (SS-3B Hole)
+19128,20,2015-06-03,Jean Segura,MIL,@STL,John Lackey,down 5-0,SO,t3,---,0,6 (2-2),0,-0.01,-0.22,.49,Strikeout Looking
+19129,21,2015-06-03,Gerardo Parra,MIL,@STL,John Lackey,down 5-0,HR,t3,---,1,1 (0-0),1,0.04,1.00,.31,Home Run (Fly Ball to Deep RF)
+19130,22,2015-06-03,Carlos Gomez,MIL,@STL,John Lackey,down 5-1,Out,t3,---,1,1 (0-0),0,-0.01,-0.15,.43,Foul Popfly: 2B (1B Foul)
+19131,23,2015-06-03,Adam Lind,MIL,@STL,John Lackey,down 5-1,Out,t3,---,2,3 (1-1),0,-0.01,-0.10,.25,Groundout: 1B unassisted
+19132,24,2015-06-03,Jhonny Peralta,STL,MIL,Jimmy Nelson,ahead 1-5,Out,b3,---,0,3 (1-1),0,-0.01,-0.22,.28,Groundout: P-1B (Front of Home)
+19133,25,2015-06-03,Randal Grichuk,STL,MIL,Jimmy Nelson,ahead 1-5,SO,b3,---,1,3 (0-2),0,-0.00,-0.15,.21,Strikeout Swinging
+19134,26,2015-06-03,Mark Reynolds,STL,MIL,Jimmy Nelson,ahead 1-5,SO,b3,---,2,3 (0-2),0,-0.00,-0.10,.14,Strikeout Looking
+19135,1,2015-06-03,Adam Eaton,CHW,@TEX,Nick Martinez,tied 0-0,Out,t1,---,0,6 (3-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Flyball: LF (Short LF)
+19136,2,2015-06-03,Melky Cabrera,CHW,@TEX,Nick Martinez,tied 0-0,1B,t1,---,1,3 (1-1),0,0.02,0.26,.62,Single to RF (Line Drive)
+19137,3,2015-06-03,Jose Abreu,CHW,@TEX,Nick Martinez,tied 0-0,SO,t1,1--,1,3 (0-2),0,-0.03,-0.30,1.15,Strikeout Swinging
+19138,4,2015-06-03,Adam LaRoche,CHW,@TEX,Nick Martinez,tied 0-0,SO,t1,1--,2,3 (0-2),0,-0.02,-0.23,.79,Strikeout Looking
+19139,5,2015-06-03,Delino DeShields,TEX,CHW,Chris Sale,tied 0-0,1B,b1,---,0,6 (2-2),0,0.03,0.39,.87,Single to 2B (Ground Ball)
+19140,6,2015-06-03,Shin-Soo Choo,TEX,CHW,Chris Sale,tied 0-0,BB,b1,1--,0,6 (3-2),0,0.05,0.61,1.41,Walk; DeShields to 2B
+19141,7,2015-06-03,Elvis Andrus,TEX,CHW,Chris Sale,tied 0-0,SO,b1,12-,0,6 (1-2),0,-0.05,-0.59,1.81,Strikeout Swinging
+19142,8,2015-06-03,Mitch Moreland,TEX,CHW,Chris Sale,tied 0-0,Out,b1,12-,1,5 (1-2),0,-0.09,-0.92,1.90,Ground Ball Double Play: SS-1B (SS-2B)
+19143,9,2015-06-03,Avisail Garcia,CHW,@TEX,Nick Martinez,tied 0-0,HBP,t2,---,0,2 (0-1),0,0.04,0.39,.93,Hit By Pitch
+19144,10,2015-06-03,Alexei Ramirez,CHW,@TEX,Nick Martinez,tied 0-0,1B,t2,1--,0,3 (2-0),0,0.06,0.61,1.52,Single to LF (Ground Ball); Garcia to 2B
+19145,11,2015-06-03,Gordon Beckham,CHW,@TEX,Nick Martinez,tied 0-0,1B,t2,12-,0,2 (0-1),0,0.07,0.84,1.96,Single to CF (Line Drive to Deep CF); Garcia to 3B; Ramirez to 2B
+19146,12,2015-06-03,Tyler Flowers,CHW,@TEX,Nick Martinez,tied 0-0,SO,t2,123,0,6 (3-2),0,-0.07,-0.77,2.19,Strikeout Swinging
+19147,13,2015-06-03,Carlos Sanchez,CHW,@TEX,Nick Martinez,tied 0-0,1B,t2,123,1,5 (3-1),2,0.13,1.34,2.65,Single to CF (Line Drive to Deep LF-CF); Garcia Scores; Ramirez Scores; Beckham to 2B
+19148,14,2015-06-03,Adam Eaton,CHW,@TEX,Nick Martinez,ahead 0-2,2B,t2,-23,1,3 (0-2),2,0.09,1.27,1.15,Double to LF (Line Drive to Deep LF); Beckham Scores; Sanchez Scores
+19149,15,2015-06-03,Melky Cabrera,CHW,@TEX,Nick Martinez,ahead 0-4,SO,t2,-2-,1,6 (2-2),0,-0.02,-0.36,.57,Strikeout Looking
+19150,16,2015-06-03,Jose Abreu,CHW,@TEX,Nick Martinez,ahead 0-4,HR,t2,-2-,2,3 (1-1),2,0.08,1.78,.56,Home Run (Fly Ball to Deep CF); Eaton Scores
+19151,17,2015-06-03,Adam LaRoche,CHW,@TEX,Nick Martinez,ahead 0-6,2B,t2,---,2,7 (1-2),0,0.01,0.22,.08,Double to CF (Line Drive to Deep LF-CF)
+19152,18,2015-06-03,Avisail Garcia,CHW,@TEX,Nick Martinez,ahead 0-6,SO,t2,-2-,2,4 (1-2),0,-0.01,-0.33,.28,Strikeout Swinging
+19153,19,2015-06-03,Adam Rosales,TEX,CHW,Chris Sale,down 6-0,1B,b2,---,0,3 (1-1),0,0.02,0.39,.44,Single to CF (Line Drive to Deep CF)
+19154,20,2015-06-03,Joey Gallo,TEX,CHW,Chris Sale,down 6-0,SO,b2,1--,0,4 (1-2),0,-0.02,-0.36,.79,Strikeout Swinging
+19155,21,2015-06-03,Jake Smolinski,TEX,CHW,Chris Sale,down 6-0,SO,b2,1--,1,6 (1-2),0,-0.01,-0.30,.58,Strikeout Swinging
+19156,22,2015-06-03,Carlos Corporan,TEX,CHW,Chris Sale,down 6-0,Out,b2,1--,2,3 (1-1),0,-0.01,-0.23,.35,Groundout: 3B-1B (Weak 3B)
+19157,23,2015-06-03,Alexei Ramirez,CHW,@TEX,Nick Martinez,ahead 0-6,Out,t3,---,0,3 (1-1),0,-0.00,-0.24,.18,Flyball: RF (RF Line)
+19158,24,2015-06-03,Gordon Beckham,CHW,@TEX,Nick Martinez,ahead 0-6,Out,t3,---,1,2 (0-1),0,-0.00,-0.16,.13,Popfly: 3B
+19159,25,2015-06-03,Tyler Flowers,CHW,@TEX,Nick Martinez,ahead 0-6,1B,t3,---,2,1 (0-0),0,0.00,0.13,.06,Single to CF (Ground Ball thru SS-2B)
+19160,26,2015-06-03,Carlos Sanchez,CHW,@TEX,Nick Martinez,ahead 0-6,Out,t3,1--,2,2 (0-1),0,-0.00,-0.23,.19,Groundout: SS-2B/Forceout at 2B
+19161,27,2015-06-03,Hanser Alberto,TEX,CHW,Chris Sale,down 6-0,SO,b3,---,0,4 (1-2),0,-0.01,-0.24,.43,Strikeout Swinging
+19162,28,2015-06-03,Delino DeShields,TEX,CHW,Chris Sale,down 6-0,2B,b3,---,1,2 (0-1),0,0.02,0.42,.28,Double to 3B (Ground Ball)
+19163,29,2015-06-03,Shin-Soo Choo,TEX,CHW,Chris Sale,down 6-0,BB,b3,-2-,1,6 (3-2),0,0.01,0.23,.57,Walk
+19164,30,2015-06-03,Elvis Andrus,TEX,CHW,Chris Sale,down 6-0,Out,b3,12-,1,7 (2-2),0,-0.02,-0.48,1.02,Lineout: 1B (2B-1B)
+19165,31,2015-06-03,Mitch Moreland,TEX,CHW,Chris Sale,down 6-0,Out,b3,12-,2,2 (0-1),0,-0.02,-0.44,.73,Lineout: 2B (2B-1B)
+19166,1,2015-06-03,Jose Reyes,TOR,@WSN,Taylor Jordan,tied 0-0,BB,t1,---,0,4 (3-0),0,0.04,0.38,.87,*LEADOFF GM*:Walk
+19167,2,2015-06-03,Josh Donaldson,TOR,@WSN,Taylor Jordan,tied 0-0,2B,t1,1--,0,4 (1-2),0,0.10,1.10,1.46,Double to CF (Line Drive to Deep CF); Reyes to 3B
+19168,3,2015-06-03,Jose Bautista,TOR,@WSN,Taylor Jordan,tied 0-0,1B,t1,-23,0,4 (1-2),1,0.07,0.86,1.47,Single to LF (Ground Ball); Reyes Scores; Donaldson to 3B
+19169,4,2015-06-03,Chris Colabello,TOR,@WSN,Taylor Jordan,ahead 0-1,1B,t1,1-3,0,7 (2-2),1,0.05,0.64,1.41,Single to RF (Line Drive to CF-RF); Donaldson Scores; Bautista to 2B
+19170,5,2015-06-03,Dioner Navarro,TOR,@WSN,Taylor Jordan,ahead 0-2,Out,t1,12-,0,4 (1-2),0,-0.00,-0.08,1.37,Groundout: 2B-P (2B-1B); Bautista to 3B; Colabello to 2B
+19171,6,2015-06-03,Justin Smoak,TOR,@WSN,Taylor Jordan,ahead 0-2,Out,t1,-23,1,3 (1-1),1,0.01,-0.03,1.14,Groundout: 1B unassisted; Bautista Scores; Colabello to 3B
+19172,7,2015-06-03,Kevin Pillar,TOR,@WSN,Taylor Jordan,ahead 0-3,1B,t1,--3,2,2 (1-0),1,0.06,0.87,.85,Single to LF (Ground Ball); Colabello Scores
+19173,8,2015-06-03,Ryan Goins,TOR,@WSN,Taylor Jordan,ahead 0-4,Out,t1,1--,2,4 (1-2),0,-0.01,-0.22,.38,Groundout: P-1B
+19174,9,2015-06-03,Denard Span,WSN,TOR,Mark Buehrle,down 4-0,Out,b1,---,0,3 (0-2),0,-0.02,-0.23,.70,Groundout: P-1B (Weak 1B)
+19175,10,2015-06-03,Ian Desmond,WSN,TOR,Mark Buehrle,down 4-0,1B,b1,---,1,1 (0-0),0,0.02,0.25,.47,Single to CF (Ground Ball thru SS-2B)
+19176,11,2015-06-03,Yunel Escobar,WSN,TOR,Mark Buehrle,down 4-0,Out,b1,1--,1,2 (0-1),0,-0.04,-0.51,.94,Ground Ball Double Play: SS-2B-1B
+19177,12,2015-06-03,Jose Reyes,TOR,@WSN,Taylor Jordan,ahead 0-4,Out,t2,1--,0,1 (0-0),0,-0.01,-0.35,.61,Flyball: RF (Deep CF-RF)
+19178,13,2015-06-03,Josh Donaldson,TOR,@WSN,Taylor Jordan,ahead 0-4,Out,t2,1--,1,3 (1-1),0,-0.01,-0.29,.50,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole)
+19179,14,2015-06-03,Jose Bautista,TOR,@WSN,Taylor Jordan,ahead 0-4,Out,t2,1--,2,1 (0-0),0,-0.01,-0.22,.36,Flyball: RF (RF Line)
+19180,15,2015-06-03,Bryce Harper,WSN,TOR,Mark Buehrle,down 4-0,Out,b2,---,0,1 (0-0),0,-0.02,-0.23,.73,Groundout: 1B-P (2B-1B)
+19181,16,2015-06-03,Ryan Zimmerman,WSN,TOR,Mark Buehrle,down 4-0,RoE,b2,---,1,2 (0-1),0,0.02,0.25,.48,Reached on E6 (Ground Ball)
+19182,17,2015-06-03,Wilson Ramos,WSN,TOR,Mark Buehrle,down 4-0,Out,b2,1--,1,2 (1-0),0,-0.02,-0.29,.96,Groundout: SS-2B/Forceout at 2B
+19183,18,2015-06-03,Tyler Moore,WSN,TOR,Mark Buehrle,down 4-0,Out,b2,1--,2,5 (2-2),0,-0.02,-0.22,.60,Groundout: SS-2B/Forceout at 2B
+19184,19,2015-06-03,Chris Colabello,TOR,@WSN,Taylor Jordan,ahead 0-4,SO,t3,---,0,5 (2-2),0,-0.01,-0.23,.37,Strikeout Swinging
+19185,20,2015-06-03,Dioner Navarro,TOR,@WSN,Taylor Jordan,ahead 0-4,SO,t3,---,1,3 (0-2),0,-0.01,-0.15,.26,Strikeout Swinging
+19186,21,2015-06-03,Justin Smoak,TOR,@WSN,Taylor Jordan,ahead 0-4,SO,t3,---,2,6 (1-2),0,-0.00,-0.10,.17,Strikeout Looking
+19187,22,2015-06-03,Danny Espinosa,WSN,TOR,Mark Buehrle,down 4-0,Out,b3,---,0,1 (0-0),0,-0.02,-0.23,.73,Groundout: SS-1B
+19188,23,2015-06-03,Denard Span,WSN,TOR,Mark Buehrle,down 4-0,Out,b3,1--,1,2 (1-0),0,-0.04,-0.51,.98,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+19189,1,2015-06-03 (1),Brian Dozier,MIN,@BOS,Eduardo Rodriguez,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Strikeout Swinging
+19190,2,2015-06-03 (1),Shane Robinson,MIN,@BOS,Eduardo Rodriguez,tied 0-0,BB,t1,---,1,6 (3-2),0,0.02,0.26,.62,Walk
+19191,3,2015-06-03 (1),Trevor Plouffe,MIN,@BOS,Eduardo Rodriguez,tied 0-0,SO,t1,1--,1,3 (0-2),0,-0.03,-0.30,1.15,Strikeout Swinging
+19192,4,2015-06-03 (1),Torii Hunter,MIN,@BOS,Eduardo Rodriguez,tied 0-0,Out,t1,1--,2,4 (1-2),0,-0.02,-0.24,.79,Groundout: P-1B
+19193,5,2015-06-03 (1),Dustin Pedroia,BOS,MIN,Phil Hughes,tied 0-0,1B,b1,---,0,4 (0-2),0,0.03,0.39,.87,Single to RF (Line Drive to Short RF)
+19194,6,2015-06-03 (1),Mookie Betts,BOS,MIN,Phil Hughes,tied 0-0,SO,b1,1--,0,3 (0-2),0,-0.03,-0.37,1.41,Strikeout Swinging
+19195,7,2015-06-03 (1),David Ortiz,BOS,MIN,Phil Hughes,tied 0-0,2B,b1,1--,1,3 (1-1),1,0.11,1.16,1.15,Double to CF (Fly Ball to Deep CF); Pedroia Scores
+19196,8,2015-06-03 (1),Hanley Ramirez,BOS,MIN,Phil Hughes,ahead 0-1,Out,b1,-2-,1,4 (1-2),0,-0.03,-0.32,1.04,Groundout: SS-1B; Ortiz to 3B
+19197,9,2015-06-03 (1),Mike Napoli,BOS,MIN,Phil Hughes,ahead 0-1,SO,b1,--3,2,4 (1-2),0,-0.03,-0.37,1.16,Strikeout Looking
+19198,10,2015-06-03 (1),Kurt Suzuki,MIN,@BOS,Eduardo Rodriguez,down 1-0,Out,t2,---,0,4 (1-2),0,-0.02,-0.24,.97,Flyball: CF (Deep CF)
+19199,11,2015-06-03 (1),Eduardo Escobar,MIN,@BOS,Eduardo Rodriguez,down 1-0,SO,t2,---,1,3 (0-2),0,-0.02,-0.17,.68,Strikeout Swinging
+19200,12,2015-06-03 (1),Eduardo Nunez,MIN,@BOS,Eduardo Rodriguez,down 1-0,Out,t2,---,2,1 (0-0),0,-0.01,-0.11,.42,Groundout: 2B-1B
+19201,13,2015-06-03 (1),Brock Holt,BOS,MIN,Phil Hughes,ahead 0-1,Out,b2,---,0,2 (0-1),0,-0.02,-0.24,.78,Groundout: 2B-1B
+19202,14,2015-06-03 (1),Xander Bogaerts,BOS,MIN,Phil Hughes,ahead 0-1,1B,b2,---,1,2 (0-1),0,0.02,0.26,.58,Single to LF (Line Drive to LF-CF)
+19203,15,2015-06-03 (1),Sandy Leon,BOS,MIN,Phil Hughes,ahead 0-1,Out,b2,1--,1,2 (1-0),0,-0.03,-0.30,1.04,Popfly: 3B
+19204,16,2015-06-03 (1),Rusney Castillo,BOS,MIN,Phil Hughes,ahead 0-1,SO,b2,1--,2,3 (0-2),0,-0.02,-0.24,.73,Strikeout Looking
+19205,17,2015-06-03 (1),Aaron Hicks,MIN,@BOS,Eduardo Rodriguez,down 1-0,SO,t3,---,0,5 (2-2),0,-0.03,-0.24,1.03,Strikeout Swinging
+19206,18,2015-06-03 (1),Danny Santana,MIN,@BOS,Eduardo Rodriguez,down 1-0,SO,t3,---,1,3 (0-2),0,-0.02,-0.17,.73,Strikeout Swinging
+19207,19,2015-06-03 (1),Brian Dozier,MIN,@BOS,Eduardo Rodriguez,down 1-0,HR,t3,---,2,3 (1-1),1,0.11,1.00,.46,Home Run (Line Drive to Deep LF Line)
+19208,20,2015-06-03 (1),Shane Robinson,MIN,@BOS,Eduardo Rodriguez,tied 1-1,SO,t3,---,2,4 (0-2),0,-0.01,-0.11,.46,Strikeout Swinging
+19209,21,2015-06-03 (1),Dustin Pedroia,BOS,MIN,Phil Hughes,tied 1-1,1B,b3,---,0,1 (0-0),0,0.04,0.39,.99,Single to LF (Line Drive to Short LF)
+19210,22,2015-06-03 (1),Mookie Betts,BOS,MIN,Phil Hughes,tied 1-1,Out,b3,1--,0,3 (1-1),0,-0.04,-0.37,1.59,Groundout: C unassisted (Deep LF); Pedroia stays at 1B
+19211,23,2015-06-03 (1),David Ortiz,BOS,MIN,Phil Hughes,tied 1-1,2B,b3,1--,1,3 (0-2),0,0.09,0.88,1.31,Double to CF (Line Drive to Deep LF Line); Pedroia to 3B
+19212,24,2015-06-03 (1),Hanley Ramirez,BOS,MIN,Phil Hughes,tied 1-1,1B,b3,-23,1,2 (0-1),1,0.08,0.78,1.65,Single to RF (Line Drive to Short RF Line); Pedroia Scores; Ortiz to 3B
+19213,25,2015-06-03 (1),Mike Napoli,BOS,MIN,Phil Hughes,ahead 1-2,Out,b3,1-3,1,2 (1-0),0,-0.06,-0.69,1.68,Flyball: RF
+19214,26,2015-06-03 (1),Brock Holt,BOS,MIN,Phil Hughes,ahead 1-2,Out,b3,1-3,2,3 (1-1),0,-0.05,-0.51,1.64,Flyball: CF
+19215,1,2015-06-03 (2),Brian Dozier,MIN,@BOS,Rick Porcello,tied 0-0,2B,t1,---,0,7 (3-2),0,0.06,0.63,.87,*LEADOFF GM*:Double to CF (Fly Ball to Deep CF-RF)
+19216,2,2015-06-03 (2),Torii Hunter,MIN,@BOS,Rick Porcello,tied 0-0,Out,t1,-2-,0,2 (1-0),0,-0.01,-0.19,1.20,Groundout: SS-1B (SS-2B); Dozier to 3B
+19217,3,2015-06-03 (2),Joe Mauer,MIN,@BOS,Rick Porcello,tied 0-0,SO,t1,--3,1,4 (1-2),0,-0.06,-0.58,1.32,Strikeout Swinging
+19218,4,2015-06-03 (2),Trevor Plouffe,MIN,@BOS,Rick Porcello,tied 0-0,SO,t1,--3,2,4 (1-2),0,-0.04,-0.37,1.29,Strikeout Swinging
+19219,5,2015-06-03 (2),Dustin Pedroia,BOS,MIN,Trevor May,tied 0-0,Out,b1,---,0,4 (1-2),0,-0.02,-0.24,.87,Groundout: SS-1B
+19220,6,2015-06-03 (2),Brock Holt,BOS,MIN,Trevor May,tied 0-0,Out,b1,---,1,1 (0-0),0,-0.02,-0.17,.62,Lineout: LF (LF-CF)
+19221,7,2015-06-03 (2),David Ortiz,BOS,MIN,Trevor May,tied 0-0,Out,b1,---,2,5 (2-2),0,-0.01,-0.11,.40,Lineout: LF (Deep LF)
+19222,8,2015-06-03 (2),Eddie Rosario,MIN,@BOS,Rick Porcello,tied 0-0,1B,t2,---,0,5 (3-1),0,0.04,0.39,.93,Single to CF (Line Drive)
+19223,9,2015-06-03 (2),Eduardo Escobar,MIN,@BOS,Rick Porcello,tied 0-0,SO,t2,-2-,0,5 (2-2),0,-0.04,-0.45,1.27,Strikeout Swinging
+19224,10,2015-06-03 (2),Chris Herrmann,MIN,@BOS,Rick Porcello,tied 0-0,2B,t2,-2-,1,4 (2-1),1,0.10,1.00,1.28,Double to CF (Fly Ball to Deep LF); Rosario Scores
+19225,11,2015-06-03 (2),Aaron Hicks,MIN,@BOS,Rick Porcello,ahead 0-1,1B,t2,-2-,1,5 (1-2),0,0.04,0.51,1.14,Single to LF (Line Drive to LF-CF); Herrmann to 3B
+19226,12,2015-06-03 (2),Danny Santana,MIN,@BOS,Rick Porcello,ahead 0-1,Out,t2,1-3,1,1 (0-0),1,0.02,0.13,1.69,Bunt Groundout: P-2B/Sacrifice (Short 1B Line); Herrmann Scores; Hicks to 2B
+19227,13,2015-06-03 (2),Brian Dozier,MIN,@BOS,Rick Porcello,ahead 0-2,Out,t2,-2-,2,5 (3-1),0,-0.03,-0.33,.92,Flyball: LF (Deep LF Line)
+19228,14,2015-06-03 (2),Mike Napoli,BOS,MIN,Trevor May,down 2-0,SO,b2,---,0,6 (3-2),0,-0.03,-0.24,.97,Strikeout Swinging
+19229,15,2015-06-03 (2),Pablo Sandoval,BOS,MIN,Trevor May,down 2-0,SO,b2,---,1,5 (2-2),0,-0.02,-0.17,.68,Strikeout Swinging
+19230,16,2015-06-03 (2),Xander Bogaerts,BOS,MIN,Trevor May,down 2-0,SO,b2,---,2,7 (2-2),0,-0.01,-0.11,.42,Strikeout Looking
+19231,17,2015-06-03 (2),Torii Hunter,MIN,@BOS,Rick Porcello,ahead 0-2,Out,t3,---,0,6 (2-2),0,-0.02,-0.24,.70,Groundout: SS-1B
+19232,18,2015-06-03 (2),Joe Mauer,MIN,@BOS,Rick Porcello,ahead 0-2,Out,t3,---,1,1 (0-0),0,-0.01,-0.17,.52,Flyball: LF (Deep LF)
+19233,19,2015-06-03 (2),Trevor Plouffe,MIN,@BOS,Rick Porcello,ahead 0-2,Out,t3,---,2,4 (1-2),0,-0.01,-0.11,.35,Groundout: SS-1B
+19234,20,2015-06-03 (2),Mookie Betts,BOS,MIN,Trevor May,down 2-0,SO,b3,---,0,3 (0-2),0,-0.03,-0.24,1.05,Strikeout Swinging
+19235,21,2015-06-03 (2),Blake Swihart,BOS,MIN,Trevor May,down 2-0,SO,b3,---,1,3 (0-2),0,-0.02,-0.17,.74,Strikeout Swinging
+19236,22,2015-06-03 (2),Carlos Peguero,BOS,MIN,Trevor May,down 2-0,1B,b3,---,2,2 (0-1),0,0.01,0.13,.46,Single to CF (Line Drive)
+19237,23,2015-06-03 (2),Dustin Pedroia,BOS,MIN,Trevor May,down 2-0,2B,b3,1--,2,2 (0-1),0,0.04,0.38,.92,Double to LF (Line Drive to Deep LF Line); Peguero to 3B
+19238,24,2015-06-03 (2),Brock Holt,BOS,MIN,Trevor May,down 2-0,Out,b3,-23,2,5 (2-2),0,-0.07,-0.61,2.32,Groundout: SS-1B (SS-2B)
+19239,1,2015-06-04,Ruben Tejada,NYM,@ARI,Robbie Ray,tied 0-0,1B,t1,---,0,8 (3-2),0,0.04,0.38,.87,*LEADOFF GM*:Single to RF (Line Drive)
+19240,2,2015-06-04,Daniel Murphy,NYM,@ARI,Robbie Ray,tied 0-0,2B,t1,1--,0,2 (0-1),0,0.10,1.10,1.46,Double to LF (Line Drive to Deep LF-CF); Tejada to 3B
+19241,3,2015-06-04,Michael Cuddyer,NYM,@ARI,Robbie Ray,tied 0-0,SO,t1,-23,0,6 (2-2),0,-0.05,-0.58,1.48,Strikeout Looking
+19242,4,2015-06-04,Lucas Duda,NYM,@ARI,Robbie Ray,tied 0-0,SO,t1,-23,1,3 (0-2),0,-0.08,-0.79,1.55,Strikeout Swinging
+19243,5,2015-06-04,Wilmer Flores,NYM,@ARI,Robbie Ray,tied 0-0,Out,t1,-23,2,6 (3-2),0,-0.06,-0.59,1.98,Groundout: 2B-1B (2B-1B)
+19244,6,2015-06-04,Ender Inciarte,ARI,NYM,Matt Harvey,tied 0-0,Out,b1,---,0,2 (0-1),0,-0.02,-0.23,.87,Lineout: CF (Deep CF)
+19245,7,2015-06-04,A.J. Pollock,ARI,NYM,Matt Harvey,tied 0-0,1B,b1,---,1,5 (3-1),0,0.02,0.25,.62,Single to LF (Line Drive to LF-CF)
+19246,8,2015-06-04,Paul Goldschmidt,ARI,NYM,Matt Harvey,tied 0-0,BB,b1,1--,1,5 (3-1),0,0.04,0.38,1.16,Walk; Pollock to 2B
+19247,9,2015-06-04,Yasmany Tomas,ARI,NYM,Matt Harvey,tied 0-0,Out,b1,12-,1,3 (0-2),0,-0.08,-0.89,1.94,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+19248,10,2015-06-04,John Mayberry,NYM,@ARI,Robbie Ray,tied 0-0,2B,t2,---,0,3 (1-1),0,0.06,0.62,.93,Double to LF (Line Drive to LF Line)
+19249,11,2015-06-04,Juan Lagares,NYM,@ARI,Robbie Ray,tied 0-0,1B,t2,-2-,0,5 (1-2),0,0.07,0.73,1.32,Single to LF (Line Drive to Short LF); Mayberry to 3B
+19250,12,2015-06-04,Kevin Plawecki,NYM,@ARI,Robbie Ray,tied 0-0,SO,t2,1-3,0,5 (1-2),0,-0.06,-0.66,1.73,Strikeout Swinging
+19251,13,2015-06-04,Ruben Tejada,NYM,@ARI,Robbie Ray,tied 0-0,Out,t2,1-3,2,6 (2-2),0,-0.05,-0.48,1.88,Flyball: CF
+19252,14,2015-06-04,David Peralta,ARI,NYM,Matt Harvey,tied 0-0,Out,b2,---,0,3 (1-1),0,-0.02,-0.23,.92,Flyball: RF (Deep RF)
+19253,15,2015-06-04,Chris Owings,ARI,NYM,Matt Harvey,tied 0-0,Out,b2,---,1,5 (1-2),0,-0.02,-0.15,.66,Groundout: SS-1B (Weak SS)
+19254,16,2015-06-04,Jarrod Saltalamacchia,ARI,NYM,Matt Harvey,tied 0-0,HR,b2,---,2,6 (3-2),1,0.12,1.00,.43,Home Run (Line Drive to Deep RF)
+19255,17,2015-06-04,Nick Ahmed,ARI,NYM,Matt Harvey,ahead 0-1,Out,b2,---,2,4 (2-1),0,-0.01,-0.10,.37,Bunt Groundout: C-1B (Short 1B Line)
+19256,18,2015-06-04,Daniel Murphy,NYM,@ARI,Robbie Ray,down 1-0,Out,t3,---,0,4 (1-2),0,-0.03,-0.23,1.03,Groundout: SS-1B
+19257,19,2015-06-04,Michael Cuddyer,NYM,@ARI,Robbie Ray,down 1-0,SO,t3,---,1,7 (3-2),0,-0.02,-0.15,.73,Strikeout Swinging
+19258,20,2015-06-04,Lucas Duda,NYM,@ARI,Robbie Ray,down 1-0,2B,t3,---,2,5 (1-2),0,0.03,0.21,.46,Double to LF (Line Drive to Deep LF)
+19259,21,2015-06-04,Wilmer Flores,NYM,@ARI,Robbie Ray,down 1-0,Out,t3,-2-,2,2 (1-0),0,-0.04,-0.31,1.33,Lineout: RF (Deep RF)
+19260,22,2015-06-04,Ender Inciarte,ARI,NYM,Matt Harvey,ahead 0-1,1B,b3,---,1,1 (0-0),0,0.02,0.25,.58,Single to RF (Line Drive to RF Line)
+19261,23,2015-06-04,A.J. Pollock,ARI,NYM,Matt Harvey,ahead 0-1,1B,b3,1--,1,7 (3-2),0,0.06,0.66,1.07,Single to RF (Ground Ball thru 2B-1B); Inciarte to 3B
+19262,24,2015-06-04,Paul Goldschmidt,ARI,NYM,Matt Harvey,ahead 0-1,SO,b3,1-3,1,4 (1-2),0,-0.06,-0.68,1.73,Strikeout Swinging
+19263,25,2015-06-04,Yasmany Tomas,ARI,NYM,Matt Harvey,ahead 0-1,SO,b3,1-3,2,6 (0-2),0,-0.04,-0.48,1.64,Strikeout Swinging
+19264,1,2015-06-04,Brian Dozier,MIN,@BOS,Steven Wright,tied 0-0,SO,t1,---,0,5 (1-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Strikeout Looking
+19265,2,2015-06-04,Torii Hunter,MIN,@BOS,Steven Wright,tied 0-0,Out,t1,---,1,5 (2-2),0,-0.02,-0.17,.62,Groundout: 2B-1B
+19266,3,2015-06-04,Joe Mauer,MIN,@BOS,Steven Wright,tied 0-0,Out,t1,---,2,4 (2-1),0,-0.01,-0.11,.40,Foul Popfly: 3B (3B Foul)
+19267,4,2015-06-04,Dustin Pedroia,BOS,MIN,Tommy Milone,tied 0-0,1B,b1,---,0,4 (1-2),0,0.03,0.39,.87,Single to 3B (Ground Ball to Short 3B Line)
+19268,5,2015-06-04,Hanley Ramirez,BOS,MIN,Tommy Milone,tied 0-0,Out,b1,1--,0,2 (1-0),0,-0.03,-0.37,1.41,Lineout: 2B
+19269,6,2015-06-04,David Ortiz,BOS,MIN,Tommy Milone,tied 0-0,Out,b1,1--,1,4 (1-2),0,-0.03,-0.30,1.15,Lineout: CF
+19270,7,2015-06-04,Mike Napoli,BOS,MIN,Tommy Milone,tied 0-0,1B,b1,1--,2,2 (0-1),0,0.02,0.21,.79,Single to 3B (Ground Ball to Short 3B Line); Pedroia to 2B
+19271,8,2015-06-04,Xander Bogaerts,BOS,MIN,Tommy Milone,tied 0-0,1B,b1,12-,2,5 (3-1),0,0.03,0.34,1.61,Single to SS (Ground Ball); Pedroia to 3B; Napoli to 2B
+19272,9,2015-06-04,Pablo Sandoval,BOS,MIN,Tommy Milone,tied 0-0,Out,b1,123,2,5 (1-2),0,-0.07,-0.78,2.78,Flyball: CF
+19273,10,2015-06-04,Trevor Plouffe,MIN,@BOS,Steven Wright,tied 0-0,Out,t2,---,0,2 (1-0),0,-0.02,-0.24,.93,Groundout: 2B-1B
+19274,11,2015-06-04,Eddie Rosario,MIN,@BOS,Steven Wright,tied 0-0,SO,t2,---,1,4 (1-2),0,-0.02,-0.17,.66,Strikeout Swinging
+19275,12,2015-06-04,Eduardo Escobar,MIN,@BOS,Steven Wright,tied 0-0,Out,t2,---,2,1 (0-0),0,-0.01,-0.11,.42,Groundout: SS-1B
+19276,13,2015-06-04,Mookie Betts,BOS,MIN,Tommy Milone,tied 0-0,2B,b2,---,0,2 (0-1),0,0.06,0.63,.92,Double to RF (Line Drive to Short RF Line)
+19277,14,2015-06-04,Blake Swihart,BOS,MIN,Tommy Milone,tied 0-0,Out,b2,-2-,0,2 (0-1),0,-0.04,-0.45,1.25,Groundout: P-1B (Front of Home)
+19278,15,2015-06-04,Rusney Castillo,BOS,MIN,Tommy Milone,tied 0-0,Out,b2,-2-,1,3 (1-1),0,-0.04,-0.36,1.27,Groundout: 3B-1B (Weak 3B)
+19279,16,2015-06-04,Dustin Pedroia,BOS,MIN,Tommy Milone,tied 0-0,BB,b2,-2-,2,6 (3-2),0,0.01,0.12,1.20,Walk
+19280,17,2015-06-04,Hanley Ramirez,BOS,MIN,Tommy Milone,tied 0-0,1B,b2,12-,2,3 (1-1),0,0.11,1.00,1.73,Single to 1B (Ground Ball to Weak 2B-1B); Betts Scores/unER/Adv on E5/No RBI; Pedroia to 2B
+19281,18,2015-06-04,David Ortiz,BOS,MIN,Tommy Milone,ahead 0-1,RoE,b2,12-,2,1 (0-0),0,0.09,1.00,1.47,Reached on E6 (Ground Ball); Pedroia Scores/No RBI/unER; Ramirez to 2B
+19282,19,2015-06-04,Mike Napoli,BOS,MIN,Tommy Milone,ahead 0-2,1B,b2,12-,2,4 (1-2),0,0.02,0.34,1.18,Single to 3B (Ground Ball to Weak 3B); Ramirez to 3B; Ortiz to 2B
+19283,20,2015-06-04,Xander Bogaerts,BOS,MIN,Tommy Milone,ahead 0-2,Out,b2,123,2,4 (1-2),0,-0.05,-0.78,1.97,Flyball: CF
+19284,21,2015-06-04,Kurt Suzuki,MIN,@BOS,Steven Wright,down 2-0,1B,t3,---,0,3 (1-1),0,0.04,0.39,.97,Single to RF (Line Drive)
+19285,22,2015-06-04,Shane Robinson,MIN,@BOS,Steven Wright,down 2-0,Out,t3,1--,0,7 (2-2),0,-0.04,-0.37,1.64,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole)
+19286,23,2015-06-04,Aaron Hicks,MIN,@BOS,Steven Wright,down 2-0,Out,t3,1--,1,2 (0-1),0,-0.03,-0.30,1.29,Groundout: SS-2B/Forceout at 2B
+19287,24,2015-06-04,Brian Dozier,MIN,@BOS,Steven Wright,down 2-0,Out,t3,1--,2,1 (0-0),0,-0.02,-0.24,.85,Flyball: CF (Short CF)
+19288,25,2015-06-04,Pablo Sandoval,BOS,MIN,Tommy Milone,ahead 0-2,Out,b3,---,0,1 (0-0),0,-0.02,-0.24,.62,Groundout: 2B-1B
+19289,26,2015-06-04,Mookie Betts,BOS,MIN,Tommy Milone,ahead 0-2,Out,b3,---,1,5 (2-2),0,-0.01,-0.17,.46,Lineout: 2B (2B-1B)
+19290,27,2015-06-04,Blake Swihart,BOS,MIN,Tommy Milone,ahead 0-2,HR,b3,---,2,3 (2-0),1,0.08,1.00,.32,Home Run (Fly Ball to Deep LF)
+19291,28,2015-06-04,Rusney Castillo,BOS,MIN,Tommy Milone,ahead 0-3,Out,b3,---,2,4 (1-2),0,-0.01,-0.11,.23,Groundout: SS-1B
+19292,1,2015-06-04,Billy Burns,OAK,@DET,Shane Greene,tied 0-0,Out,t1,---,0,1 (0-0),0,-0.02,-0.23,.87,*LEADOFF GM*:Groundout: 2B-1B (2B-1B)
+19293,2,2015-06-04,Ben Zobrist,OAK,@DET,Shane Greene,tied 0-0,Out,t1,---,1,4 (1-2),0,-0.02,-0.15,.62,Foul Popfly: 1B (1B Foul)
+19294,3,2015-06-04,Stephen Vogt,OAK,@DET,Shane Greene,tied 0-0,1B,t1,---,2,2 (0-1),0,0.01,0.12,.40,Single to RF (Line Drive)
+19295,4,2015-06-04,Billy Butler,OAK,@DET,Shane Greene,tied 0-0,SO,t1,1--,2,3 (0-2),0,-0.02,-0.22,.79,Strikeout Swinging
+19296,5,2015-06-04,Anthony Gose,DET,OAK,Jesse Hahn,tied 0-0,Out,b1,---,0,3 (2-0),0,-0.02,-0.23,.87,Flyball: LF
+19297,6,2015-06-04,Jose Iglesias,DET,OAK,Jesse Hahn,tied 0-0,Out,b1,---,1,7 (1-2),0,-0.02,-0.15,.62,Popfly: P (Front of Home)
+19298,7,2015-06-04,Miguel Cabrera,DET,OAK,Jesse Hahn,tied 0-0,Out,b1,---,2,2 (1-0),0,-0.01,-0.10,.40,Groundout: SS-1B
+19299,8,2015-06-04,Josh Reddick,OAK,@DET,Shane Greene,tied 0-0,1B,t2,---,0,4 (2-1),0,0.04,0.38,.93,Single to CF (Line Drive to Deep CF-RF)
+19300,9,2015-06-04,Brett Lawrie,OAK,@DET,Shane Greene,tied 0-0,1B,t2,1--,0,4 (1-2),0,0.10,0.97,1.56,Single to RF (Ground Ball thru 2B-1B); Reddick to 3B
+19301,10,2015-06-04,Eric Sogard,OAK,@DET,Shane Greene,tied 0-0,RoE,t2,1-3,0,5 (3-1),1,0.06,0.64,1.74,Reached on E1 (throw)/attempted forceout (Ground Ball); Reddick Scores; Lawrie to 2B
+19302,11,2015-06-04,Josh Phegley,OAK,@DET,Shane Greene,ahead 0-1,3B,t2,12-,0,1 (0-0),2,0.15,1.94,1.72,Triple to CF (Fly Ball to Deep CF-RF); Lawrie Scores/unER; Sogard Scores
+19303,12,2015-06-04,Sam Fuld,OAK,@DET,Shane Greene,ahead 0-3,SO,t2,--3,0,5 (1-2),0,-0.03,-0.47,.59,Strikeout Looking
+19304,13,2015-06-04,Billy Burns,OAK,@DET,Shane Greene,ahead 0-3,Out,t2,--3,1,1 (0-0),0,-0.04,-0.57,.87,Lineout: SS
+19305,14,2015-06-04,Ben Zobrist,OAK,@DET,Shane Greene,ahead 0-3,Out,t2,--3,2,3 (1-1),0,-0.02,-0.35,.83,Lineout: RF (Short RF)
+19306,15,2015-06-04,Yoenis Cespedes,DET,OAK,Jesse Hahn,down 3-0,SO,b2,---,0,4 (1-2),0,-0.02,-0.23,.86,Strikeout Swinging
+19307,16,2015-06-04,Ian Kinsler,DET,OAK,Jesse Hahn,down 3-0,BB,b2,---,1,4 (3-0),0,0.02,0.25,.59,Walk
+19308,17,2015-06-04,J.D. Martinez,DET,OAK,Jesse Hahn,down 3-0,Out,b2,1--,1,8 (2-2),0,-0.03,-0.28,1.15,Lineout: LF (Deep LF-CF)
+19309,18,2015-06-04,Tyler Collins,DET,OAK,Jesse Hahn,down 3-0,Out,b2,1--,2,4 (1-2),0,-0.02,-0.22,.73,Groundout: 1B-P (Weak 2B-1B)
+19310,19,2015-06-04,Stephen Vogt,OAK,@DET,Shane Greene,ahead 0-3,BB,t3,---,0,4 (3-0),0,0.02,0.38,.50,Walk
+19311,20,2015-06-04,Billy Butler,OAK,@DET,Shane Greene,ahead 0-3,2B,t3,1--,0,4 (1-2),1,0.07,1.24,.82,Double to LF (Fly Ball to Deep LF-CF); Vogt Scores
+19312,21,2015-06-04,Josh Reddick,OAK,@DET,Shane Greene,ahead 0-4,FC,t3,-2-,0,2 (1-0),0,-0.02,-0.59,.48,Fielder's Choice SS; Butler out at 3B/SS-3B
+19313,22,2015-06-04,Brett Lawrie,OAK,@DET,Shane Greene,ahead 0-4,Out,t3,1--,1,7 (2-2),0,-0.02,-0.50,.47,Double Play: Lineout: 1B unassisted; Reddick out at 1B/1B
+19314,23,2015-06-04,Nick Castellanos,DET,OAK,Jesse Hahn,down 4-0,1B,b3,---,0,2 (1-0),0,0.03,0.38,.73,Single to CF (Line Drive to CF-RF)
+19315,24,2015-06-04,Bryan Holaday,DET,OAK,Jesse Hahn,down 4-0,Out,b3,1--,0,8 (3-2),0,-0.03,-0.35,1.31,Flyball: CF (Deep CF)
+19316,25,2015-06-04,Anthony Gose,DET,OAK,Jesse Hahn,down 4-0,Out,b3,1--,1,5 (1-2),0,-0.04,-0.50,.97,Ground Ball Double Play: 2B-SS-1B
+19317,1,2015-06-04,Manny Machado,BAL,@HOU,Dallas Keuchel,tied 0-0,1B,t1,---,0,6 (3-2),0,0.04,0.38,.87,*LEADOFF GM*:Single to SS (Ground Ball)
+19318,2,2015-06-04,Delmon Young,BAL,@HOU,Dallas Keuchel,tied 0-0,SO,t1,1--,0,4 (0-2),0,-0.03,-0.35,1.45,Strikeout Swinging
+19319,3,2015-06-04,Adam Jones,BAL,@HOU,Dallas Keuchel,tied 0-0,SO,t1,1--,1,5 (2-2),0,-0.03,-0.29,1.15,Strikeout Swinging
+19320,4,2015-06-04,Chris Davis,BAL,@HOU,Dallas Keuchel,tied 0-0,1B,t1,-2-,2,8 (3-2),1,0.09,0.91,1.13,Single to RF (Line Drive); Machado Scores
+19321,5,2015-06-04,Steve Pearce,BAL,@HOU,Dallas Keuchel,ahead 0-1,SO,t1,1--,2,5 (2-2),0,-0.02,-0.22,.72,Strikeout Looking
+19322,6,2015-06-04,George Springer,HOU,BAL,Wei-Yin Chen,down 1-0,SO,b1,---,0,6 (2-2),0,-0.02,-0.23,.92,Strikeout Looking
+19323,7,2015-06-04,Jose Altuve,HOU,BAL,Wei-Yin Chen,down 1-0,Out,b1,---,1,3 (0-2),0,-0.02,-0.16,.65,Flyball: CF
+19324,8,2015-06-04,Evan Gattis,HOU,BAL,Wei-Yin Chen,down 1-0,SO,b1,---,2,3 (0-2),0,-0.01,-0.10,.42,Strikeout Swinging
+19325,9,2015-06-04,Travis Snider,BAL,@HOU,Dallas Keuchel,ahead 0-1,SO,t2,---,0,4 (1-2),0,-0.02,-0.23,.82,Strikeout Looking
+19326,10,2015-06-04,Caleb Joseph,BAL,@HOU,Dallas Keuchel,ahead 0-1,Out,t2,---,1,2 (0-1),0,-0.01,-0.16,.58,Groundout: 1B-P (2B-1B)
+19327,11,2015-06-04,Ryan Flaherty,BAL,@HOU,Dallas Keuchel,ahead 0-1,SO,t2,---,2,4 (1-2),0,-0.01,-0.10,.39,Strikeout Looking
+19328,12,2015-06-04,Chris Carter,HOU,BAL,Wei-Yin Chen,down 1-0,SO,b2,---,0,4 (1-2),0,-0.03,-0.23,.99,Strikeout Swinging
+19329,13,2015-06-04,Luis Valbuena,HOU,BAL,Wei-Yin Chen,down 1-0,SO,b2,---,1,3 (0-2),0,-0.02,-0.16,.71,Strikeout Looking
+19330,14,2015-06-04,Jonathan Villar,HOU,BAL,Wei-Yin Chen,down 1-0,SO,b2,---,2,9 (2-2),0,-0.01,-0.10,.46,Strikeout Looking
+19331,15,2015-06-04,Everth Cabrera,BAL,@HOU,Dallas Keuchel,ahead 0-1,BB,t3,---,0,6 (3-2),0,0.03,0.38,.87,Walk
+19332,16,2015-06-04,Manny Machado,BAL,@HOU,Dallas Keuchel,ahead 0-1,Out,t3,1--,0,4 (1-2),0,-0.03,-0.35,1.39,Flyball: RF (RF Line)
+19333,17,2015-06-04,Delmon Young,BAL,@HOU,Dallas Keuchel,ahead 0-1,SO,t3,1--,1,7 (3-2),0,-0.03,-0.29,1.14,Strikeout Swinging
+19334,18,2015-06-04,Adam Jones,BAL,@HOU,Dallas Keuchel,ahead 0-1,1B,t3,1--,2,2 (1-0),0,0.02,0.20,.80,Single to CF (Ground Ball thru SS-2B); Cabrera to 2B
+19335,19,2015-06-04,Chris Davis,BAL,@HOU,Dallas Keuchel,ahead 0-1,Out,t3,12-,2,6 (3-2),0,-0.04,-0.43,1.62,Groundout: 3B-1B (Weak SS)
+19336,20,2015-06-04,Hank Conger,HOU,BAL,Wei-Yin Chen,down 1-0,HR,b3,---,0,3 (2-0),1,0.12,1.00,1.08,Home Run (Fly Ball to Deep LF)
+19337,21,2015-06-04,Marwin Gonzalez,HOU,BAL,Wei-Yin Chen,tied 1-1,Out,b3,---,0,3 (1-1),0,-0.02,-0.23,.99,Foul Popfly: 1B (1B Foul)
+19338,22,2015-06-04,Jake Marisnick,HOU,BAL,Wei-Yin Chen,tied 1-1,Out,b3,---,1,2 (1-0),0,-0.02,-0.16,.72,Flyball: RF (Deep RF Line)
+19339,23,2015-06-04,George Springer,HOU,BAL,Wei-Yin Chen,tied 1-1,Out,b3,---,2,4 (2-1),0,-0.01,-0.10,.47,Flyball: RF
+19340,1,2015-06-04,Jason Kipnis,CLE,@KCR,Chris Young,tied 0-0,Out,t1,---,0,4 (2-1),0,-0.02,-0.24,.87,*LEADOFF GM*:Flyball: LF (Short LF)
+19341,2,2015-06-04,Carlos Santana,CLE,@KCR,Chris Young,tied 0-0,SO,t1,---,1,3 (0-2),0,-0.02,-0.16,.62,Strikeout Looking
+19342,3,2015-06-04,Michael Brantley,CLE,@KCR,Chris Young,tied 0-0,Out,t1,---,2,4 (2-1),0,-0.01,-0.10,.40,Groundout: P-1B (Front of Home)
+19343,4,2015-06-04,Alcides Escobar,KCR,CLE,Trevor Bauer,tied 0-0,BB,b1,---,0,6 (3-2),0,0.04,0.38,.87,Walk
+19344,5,2015-06-04,Mike Moustakas,KCR,CLE,Trevor Bauer,tied 0-0,SO,b1,-2-,0,7 (3-2),0,-0.04,-0.44,1.20,Strikeout Swinging
+19345,6,2015-06-04,Lorenzo Cain,KCR,CLE,Trevor Bauer,tied 0-0,Out,b1,-2-,1,1 (0-0),0,-0.03,-0.32,1.21,Flyball: CF; Escobar to 3B
+19346,7,2015-06-04,Eric Hosmer,KCR,CLE,Trevor Bauer,tied 0-0,SO,b1,--3,2,5 (2-2),0,-0.04,-0.36,1.32,Strikeout Swinging
+19347,8,2015-06-04,Brandon Moss,CLE,@KCR,Chris Young,tied 0-0,Out,t2,---,0,5 (3-1),0,-0.02,-0.24,.93,Flyball: CF (Deep CF)
+19348,9,2015-06-04,David Murphy,CLE,@KCR,Chris Young,tied 0-0,Out,t2,---,1,3 (0-2),0,-0.02,-0.16,.65,Lineout: CF
+19349,10,2015-06-04,Lonnie Chisenhall,CLE,@KCR,Chris Young,tied 0-0,1B,t2,---,2,7 (2-2),0,0.01,0.13,.42,Single to LF (Line Drive to Short LF)
+19350,11,2015-06-04,Mike Aviles,CLE,@KCR,Chris Young,tied 0-0,Out,t2,1--,2,5 (2-2),0,-0.02,-0.23,.84,Flyball: RF (Short RF)
+19351,12,2015-06-04,Kendrys Morales,KCR,CLE,Trevor Bauer,tied 0-0,Out,b2,---,0,4 (1-2),0,-0.02,-0.24,.92,Flyball: CF (Deep CF)
+19352,13,2015-06-04,Alex Gordon,KCR,CLE,Trevor Bauer,tied 0-0,BB,b2,---,1,5 (3-1),0,0.03,0.26,.67,Walk
+19353,14,2015-06-04,Alex Rios,KCR,CLE,Trevor Bauer,tied 0-0,Out,b2,1--,1,3 (2-0),0,-0.03,-0.29,1.22,Flyball: LF (LF-CF)
+19354,15,2015-06-04,Salvador Perez,KCR,CLE,Trevor Bauer,tied 0-0,SO,b2,1--,2,3 (0-2),0,-0.02,-0.23,.84,Strikeout Swinging (C-1B)
+19355,16,2015-06-04,Michael Bourn,CLE,@KCR,Chris Young,tied 0-0,1B,t3,---,0,3 (0-2),0,0.04,0.38,.99,Single to P (Ground Ball)
+19356,17,2015-06-04,Roberto Perez,CLE,@KCR,Chris Young,tied 0-0,Out,t3,-2-,0,6 (3-2),0,-0.02,-0.18,1.38,Groundout: 1B unassisted; Bourn to 3B
+19357,18,2015-06-04,Jason Kipnis,CLE,@KCR,Chris Young,tied 0-0,1B,t3,--3,1,1 (0-0),1,0.06,0.58,1.56,Single to RF (Ground Ball thru 2B-1B); Bourn Scores
+19358,19,2015-06-04,Carlos Santana,CLE,@KCR,Chris Young,ahead 0-1,2B,t3,1--,1,3 (2-0),0,0.08,0.88,1.14,Double to RF (Ground Ball); Kipnis to 3B
+19359,20,2015-06-04,Michael Brantley,CLE,@KCR,Chris Young,ahead 0-1,1B,t3,-23,1,2 (1-0),1,0.07,0.78,1.47,Single to RF (Line Drive); Kipnis Scores; Santana to 3B
+19360,21,2015-06-04,Brandon Moss,CLE,@KCR,Chris Young,ahead 0-2,SO,t3,1-3,1,4 (1-2),0,-0.05,-0.69,1.46,Strikeout Swinging
+19361,22,2015-06-04,David Murphy,CLE,@KCR,Chris Young,ahead 0-2,2B,t3,1-3,2,5 (2-2),2,0.14,1.82,1.41,Double to CF (Fly Ball to Deep CF); Santana Scores; Brantley Scores
+19362,23,2015-06-04,Lonnie Chisenhall,CLE,@KCR,Chris Young,ahead 0-4,Out,t3,-2-,2,2 (1-0),0,-0.01,-0.32,.53,Flyball: CF
+19363,24,2015-06-04,Omar Infante,KCR,CLE,Trevor Bauer,down 4-0,1B,b3,---,0,3 (1-1),0,0.03,0.38,.75,Single to LF (Fly Ball to Short LF-CF)
+19364,25,2015-06-04,Alcides Escobar,KCR,CLE,Trevor Bauer,down 4-0,Out,b3,1--,0,3 (1-1),0,-0.03,-0.36,1.32,Lineout: CF (CF-RF)
+19365,26,2015-06-04,Mike Moustakas,KCR,CLE,Trevor Bauer,down 4-0,Out,b3,1--,1,1 (0-0),0,-0.02,-0.29,.99,Popfly: SS (Deep SS)
+19366,27,2015-06-04,Lorenzo Cain,KCR,CLE,Trevor Bauer,down 4-0,HR,b3,1--,2,3 (1-1),2,0.14,1.87,.62,Home Run (Fly Ball to Deep CF); Infante Scores
+19367,28,2015-06-04,Eric Hosmer,KCR,CLE,Trevor Bauer,down 4-2,BB,b3,---,2,5 (3-1),0,0.01,0.13,.46,Walk
+19368,29,2015-06-04,Kendrys Morales,KCR,CLE,Trevor Bauer,down 4-2,1B,b3,1--,2,1 (0-0),0,0.03,0.27,.92,Single to CF (Ground Ball thru SS-2B); Hosmer to 3B
+19369,30,2015-06-04,Alex Gordon,KCR,CLE,Trevor Bauer,down 4-2,Out,b3,1-3,2,2 (1-0),0,-0.06,-0.50,2.06,Groundout: 1B unassisted
+19370,1,2015-06-04,Kolten Wong,STL,@LAD,Carlos Frias,tied 0-0,1B,t1,---,0,2 (0-1),0,0.04,0.37,.87,*LEADOFF GM*:Single to RF (Ground Ball)
+19371,2,2015-06-04,Matt Carpenter,STL,@LAD,Carlos Frias,tied 0-0,BB,t1,---,1,5 (3-1),0,0.02,0.24,.61,Walk
+19372,3,2015-06-04,Matt Holliday,STL,@LAD,Carlos Frias,tied 0-0,Out,t1,1--,1,2 (1-0),0,-0.03,-0.27,1.16,Groundout: 2B-SS/Forceout at 2B
+19373,4,2015-06-04,Jhonny Peralta,STL,@LAD,Carlos Frias,tied 0-0,1B,t1,1--,2,4 (0-2),0,0.02,0.20,.80,Single to RF (Ground Ball thru 2B-1B); Holliday to 2B
+19374,5,2015-06-04,Mark Reynolds,STL,@LAD,Carlos Frias,tied 0-0,SO,t1,12-,2,4 (1-2),0,-0.04,-0.41,1.67,Strikeout Swinging
+19375,6,2015-06-04,Joc Pederson,LAD,STL,Michael Wacha,tied 0-0,Out,b1,---,0,5 (2-2),0,-0.02,-0.21,.87,Lineout: RF (Deep CF-RF)
+19376,7,2015-06-04,Yasmani Grandal,LAD,STL,Michael Wacha,tied 0-0,SO,b1,---,1,4 (1-2),0,-0.01,-0.14,.61,Strikeout Looking
+19377,8,2015-06-04,Adrian Gonzalez,LAD,STL,Michael Wacha,tied 0-0,Out,b1,---,2,1 (0-0),0,-0.01,-0.09,.40,Groundout: 3B-1B
+19378,9,2015-06-04,Jason Heyward,STL,@LAD,Carlos Frias,tied 0-0,Out,t2,---,0,2 (1-0),0,-0.02,-0.21,.93,Groundout: 1B-P (2B-1B)
+19379,10,2015-06-04,Yadier Molina,STL,@LAD,Carlos Frias,tied 0-0,SO,t2,---,1,5 (2-2),0,-0.02,-0.14,.64,Strikeout Swinging
+19380,11,2015-06-04,Jon Jay,STL,@LAD,Carlos Frias,tied 0-0,Out,t2,---,2,2 (1-0),0,-0.01,-0.09,.41,Groundout: 2B-1B
+19381,12,2015-06-04,Justin Turner,LAD,STL,Michael Wacha,tied 0-0,1B,b2,---,0,3 (0-2),0,0.04,0.37,.92,Single to RF (Line Drive)
+19382,13,2015-06-04,Andre Ethier,LAD,STL,Michael Wacha,tied 0-0,Out,b2,1--,0,4 (1-2),0,-0.04,-0.34,1.57,Flyball: CF (Deep LF-CF)
+19383,14,2015-06-04,Alex Guerrero,LAD,STL,Michael Wacha,tied 0-0,SO,b2,1--,1,4 (1-2),0,-0.03,-0.27,1.23,Strikeout Swinging
+19384,15,2015-06-04,Jimmy Rollins,LAD,STL,Michael Wacha,tied 0-0,Out,b2,1--,2,5 (2-2),0,-0.02,-0.21,.85,Flyball: LF (LF-CF)
+19385,16,2015-06-04,Kolten Wong,STL,@LAD,Carlos Frias,tied 0-0,SO,t3,---,1,3 (0-2),0,-0.02,-0.14,.70,Strikeout Swinging
+19386,17,2015-06-04,Matt Carpenter,STL,@LAD,Carlos Frias,tied 0-0,RoE,t3,---,2,4 (1-2),0,0.01,0.12,.45,Reached on E5 (Ground Ball to SS-3B Hole)
+19387,18,2015-06-04,Matt Holliday,STL,@LAD,Carlos Frias,tied 0-0,1B,t3,1--,2,1 (0-0),0,0.02,0.20,.92,Single to CF (Line Drive to Deep CF); Carpenter to 2B
+19388,19,2015-06-04,Jhonny Peralta,STL,@LAD,Carlos Frias,tied 0-0,1B,t3,12-,2,3 (1-1),1,0.12,1.00,1.92,Single to CF (Ground Ball thru SS-2B); Carpenter Scores/unER; Holliday to 2B
+19389,20,2015-06-04,Mark Reynolds,STL,@LAD,Carlos Frias,ahead 0-1,1B,t3,12-,2,4 (1-2),1,0.11,1.06,1.62,Single to RF (Line Drive to CF-RF); Holliday Scores/unER; Peralta to 3B
+19390,21,2015-06-04,Jason Heyward,STL,@LAD,Carlos Frias,ahead 0-2,Out,t3,1-3,2,4 (1-2),0,-0.04,-0.46,1.36,Groundout: C-1B (Front of Home)
+19391,22,2015-06-04,Enrique Hernandez,LAD,STL,Michael Wacha,down 2-0,Out,b3,---,0,3 (0-2),0,-0.03,-0.21,1.04,Groundout: C-1B (Front of Home)
+19392,23,2015-06-04,Joc Pederson,LAD,STL,Michael Wacha,down 2-0,2B,b3,---,2,3 (1-1),0,0.02,0.21,.44,Double to LF (Line Drive to Deep LF-CF)
+19393,24,2015-06-04,Yasmani Grandal,LAD,STL,Michael Wacha,down 2-0,Out,b3,-2-,2,4 (2-1),0,-0.04,-0.30,1.29,Flyball: CF (Deep CF-RF)
+19394,1,2015-06-04,Brandon Phillips,CIN,@PHI,Aaron Harang,tied 0-0,1B,t1,---,0,3 (0-2),0,0.04,0.37,.87,*LEADOFF GM*:Single to RF (Line Drive to Short RF Line)
+19395,2,2015-06-04,Joey Votto,CIN,@PHI,Aaron Harang,tied 0-0,Out,t1,1--,0,4 (2-1),0,-0.03,-0.35,1.48,Flyball: RF (Deep RF Line)
+19396,3,2015-06-04,Todd Frazier,CIN,@PHI,Aaron Harang,tied 0-0,2B,t1,1--,1,1 (0-0),1,0.12,1.16,1.16,Double to CF (Line Drive to Deep LF-CF); Phillips Scores
+19397,4,2015-06-04,Jay Bruce,CIN,@PHI,Aaron Harang,ahead 0-1,Out,t1,-2-,1,4 (2-1),0,-0.03,-0.34,1.10,Foul Popfly: 3B (3B Foul)
+19398,5,2015-06-04,Brayan Pena,CIN,@PHI,Aaron Harang,ahead 0-1,Out,t1,-2-,2,3 (0-2),0,-0.03,-0.31,1.04,Flyball: LF (Short LF)
+19399,6,2015-06-04,Ben Revere,PHI,CIN,Anthony DeSclafani,down 1-0,3B,b1,---,0,4 (1-2),0,0.10,0.92,.93,Triple to RF (Line Drive to Deep CF-RF)
+19400,7,2015-06-04,Jeff Francoeur,PHI,CIN,Anthony DeSclafani,down 1-0,Out,b1,--3,0,4 (1-2),1,-0.01,-0.14,1.21,Groundout: 2B-1B (2B-1B); Revere Scores
+19401,8,2015-06-04,Chase Utley,PHI,CIN,Anthony DeSclafani,tied 1-1,2B,b1,---,1,4 (0-2),0,0.04,0.41,.61,Double to RF (Line Drive to Deep RF Line)
+19402,9,2015-06-04,Ryan Howard,PHI,CIN,Anthony DeSclafani,tied 1-1,Out,b1,-2-,1,3 (1-1),0,-0.03,-0.30,1.24,Groundout: SS-1B (SS-2B); Utley to 3B
+19403,10,2015-06-04,Maikel Franco,PHI,CIN,Anthony DeSclafani,tied 1-1,2B,b1,--3,2,3 (0-2),1,0.10,0.96,1.35,Double to CF (Line Drive to Deep CF); Utley Scores
+19404,11,2015-06-04,Cody Asche,PHI,CIN,Anthony DeSclafani,ahead 1-2,Out,b1,-2-,2,2 (1-0),0,-0.03,-0.31,1.01,Flyball: CF (Short CF-RF)
+19405,12,2015-06-04,Zack Cozart,CIN,@PHI,Aaron Harang,down 2-1,Out,t2,---,0,2 (1-0),0,-0.02,-0.22,.97,Groundout: SS-1B (SS-2B)
+19406,13,2015-06-04,Skip Schumaker,CIN,@PHI,Aaron Harang,down 2-1,Out,t2,---,1,5 (2-2),0,-0.02,-0.15,.67,Groundout: 1B unassisted (2B-1B)
+19407,14,2015-06-04,Freddy Galvis,PHI,CIN,Anthony DeSclafani,ahead 1-2,Out,b2,---,0,3 (0-2),0,-0.02,-0.22,.76,Flyball: LF (Short LF)
+19408,15,2015-06-04,Carlos Ruiz,PHI,CIN,Anthony DeSclafani,ahead 1-2,Out,b2,---,1,3 (1-1),0,-0.01,-0.15,.55,Groundout: 3B-1B (SS-3B Hole)
+19409,16,2015-06-04,Billy Hamilton,CIN,@PHI,Aaron Harang,down 2-1,Out,t3,---,0,5 (1-2),0,-0.03,-0.22,1.04,Lineout: CF (Deep CF)
+19410,17,2015-06-04,Brandon Phillips,CIN,@PHI,Aaron Harang,down 2-1,Out,t3,---,1,2 (0-1),0,-0.02,-0.15,.72,Lineout: LF (Deep LF-CF)
+19411,18,2015-06-04,Joey Votto,CIN,@PHI,Aaron Harang,down 2-1,Out,t3,---,2,2 (1-0),0,-0.01,-0.10,.45,Groundout: 2B-1B
+19412,19,2015-06-04,Ben Revere,PHI,CIN,Anthony DeSclafani,ahead 1-2,1B,b3,---,0,2 (1-0),0,0.03,0.37,.79,Single to CF (Ground Ball thru SS-2B)
+19413,20,2015-06-04,Jeff Francoeur,PHI,CIN,Anthony DeSclafani,ahead 1-2,Out,b3,1--,0,4 (1-2),0,-0.03,-0.35,1.31,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole)
+19414,21,2015-06-04,Chase Utley,PHI,CIN,Anthony DeSclafani,ahead 1-2,Out,b3,1--,1,1 (0-0),0,-0.05,-0.49,1.06,Double Play: Flyball: LF (LF Line); Francoeur out at 2B/LF-2B
+19415,1,2015-06-04,Brandon Guyer,TBR,@SEA,Roenis Elias,tied 0-0,Out,t1,---,0,2 (1-0),0,-0.02,-0.22,.87,*LEADOFF GM*:Groundout: 3B-1B (Weak 3B)
+19416,2,2015-06-04,Joey Butler,TBR,@SEA,Roenis Elias,tied 0-0,1B,t1,---,1,2 (0-1),0,0.02,0.25,.61,Single to RF (Ground Ball thru 2B-1B)
+19417,3,2015-06-04,Evan Longoria,TBR,@SEA,Roenis Elias,tied 0-0,SO,t1,1--,1,5 (2-2),0,-0.03,-0.27,1.16,Strikeout Swinging
+19418,4,2015-06-04,Logan Forsythe,TBR,@SEA,Roenis Elias,tied 0-0,Out,t1,-2-,2,5 (1-2),0,-0.03,-0.30,1.15,Foul Popfly: 1B (1B Foul)
+19419,5,2015-06-04,Austin Jackson,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b1,---,0,2 (0-1),0,-0.02,-0.22,.87,Groundout: 2B-1B
+19420,6,2015-06-04,Robinson Cano,SEA,TBR,Erasmo Ramirez,tied 0-0,1B,b1,---,1,3 (2-0),0,0.02,0.25,.61,Single to RF (Ground Ball)
+19421,7,2015-06-04,Nelson Cruz,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b1,1--,1,5 (2-2),0,-0.03,-0.27,1.17,Lineout: 3B (Weak 3B)
+19422,8,2015-06-04,Kyle Seager,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b1,1--,2,5 (2-2),0,-0.02,-0.21,.80,Lineout: LF (LF-CF)
+19423,9,2015-06-04,Steven Souza,TBR,@SEA,Roenis Elias,tied 0-0,BB,t2,---,0,6 (3-2),0,0.04,0.37,.93,Walk
+19424,10,2015-06-04,Jake Elmore,TBR,@SEA,Roenis Elias,tied 0-0,Out,t2,1--,0,3 (1-1),0,-0.04,-0.34,1.58,Flyball: CF
+19425,11,2015-06-04,Asdrubal Cabrera,TBR,@SEA,Roenis Elias,tied 0-0,Out,t2,1--,1,2 (0-1),0,-0.05,-0.49,1.24,Ground Ball Double Play: SS-2B-1B
+19426,12,2015-06-04,Mark Trumbo,SEA,TBR,Erasmo Ramirez,tied 0-0,1B,b2,---,0,1 (0-0),0,0.04,0.37,.92,Single to LF (Ground Ball thru SS-3B Hole)
+19427,13,2015-06-04,Seth Smith,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b2,1--,0,2 (1-0),0,-0.03,-0.34,1.56,Flyball: LF (Short LF-CF)
+19428,14,2015-06-04,Brad Miller,SEA,TBR,Erasmo Ramirez,tied 0-0,1B,b2,1--,1,5 (2-2),0,0.04,0.38,1.23,Single to RF (Ground Ball); Trumbo to 2B
+19429,15,2015-06-04,Mike Zunino,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b2,12-,1,5 (3-1),0,-0.05,-0.45,2.07,Flyball: LF (Short LF)
+19430,16,2015-06-04,Dustin Ackley,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b2,12-,2,2 (0-1),0,-0.04,-0.41,1.77,Popfly: SS (Deep SS)
+19431,17,2015-06-04,Mikie Mahtook,TBR,@SEA,Roenis Elias,tied 0-0,SO,t3,---,0,5 (2-2),0,-0.02,-0.22,.99,Strikeout Swinging
+19432,18,2015-06-04,Rene Rivera,TBR,@SEA,Roenis Elias,tied 0-0,Out,t3,---,1,5 (2-2),0,-0.02,-0.15,.70,Lineout: 3B (SS-3B Hole)
+19433,19,2015-06-04,Brandon Guyer,TBR,@SEA,Roenis Elias,tied 0-0,Out,t3,---,2,4 (1-2),0,-0.01,-0.09,.45,Groundout: 3B-1B (Weak 3B)
+19434,20,2015-06-04,Austin Jackson,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b3,---,0,2 (1-0),0,-0.02,-0.22,.99,Groundout: SS-1B
+19435,21,2015-06-04,Robinson Cano,SEA,TBR,Erasmo Ramirez,tied 0-0,SO,b3,---,1,5 (2-2),0,-0.02,-0.15,.70,Strikeout Swinging
+19436,22,2015-06-04,Nelson Cruz,SEA,TBR,Erasmo Ramirez,tied 0-0,Out,b3,---,2,1 (0-0),0,-0.01,-0.09,.46,Lineout: CF (Short CF)
+19437,1,2015-06-04,Adam Eaton,CHW,@TEX,Yovani Gallardo,tied 0-0,Out,t1,---,0,4 (2-1),0,-0.02,-0.24,.87,*LEADOFF GM*:Groundout: SS-1B
+19438,2,2015-06-04,Melky Cabrera,CHW,@TEX,Yovani Gallardo,tied 0-0,1B,t1,---,1,5 (1-2),0,0.04,0.42,.62,Single to CF (Ground Ball); Cabrera to 2B/Adv on E8
+19439,3,2015-06-04,Jose Abreu,CHW,@TEX,Yovani Gallardo,tied 0-0,BB,t1,-2-,1,5 (3-1),0,0.02,0.23,1.20,Walk
+19440,4,2015-06-04,Adam LaRoche,CHW,@TEX,Yovani Gallardo,tied 0-0,Out,t1,12-,1,3 (2-0),0,-0.04,-0.42,1.92,Flyball: RF (Deep CF-RF); Cabrera to 3B
+19441,5,2015-06-04,Avisail Garcia,CHW,@TEX,Yovani Gallardo,tied 0-0,BB,t1,1-3,2,8 (3-2),0,0.02,0.27,1.72,Walk; Abreu to 2B
+19442,6,2015-06-04,Alexei Ramirez,CHW,@TEX,Yovani Gallardo,tied 0-0,Out,t1,123,2,3 (2-0),0,-0.07,-0.78,2.80,Lineout: CF (Deep LF-CF)
+19443,7,2015-06-04,Delino DeShields,TEX,CHW,Carlos Rodon,tied 0-0,2B,b1,---,0,2 (0-1),0,0.06,0.63,.87,Double to RF (Line Drive to Deep RF)
+19444,8,2015-06-04,Shin-Soo Choo,TEX,CHW,Carlos Rodon,tied 0-0,BB,b1,-2-,0,4 (3-0),0,0.03,0.37,1.19,Walk
+19445,9,2015-06-04,Prince Fielder,TEX,CHW,Carlos Rodon,tied 0-0,1B,b1,12-,0,5 (2-2),1,0.11,1.35,1.81,Single to 2B (Ground Ball); DeShields Scores; Choo to 3B
+19446,10,2015-06-04,Mitch Moreland,TEX,CHW,Carlos Rodon,ahead 0-1,SO,b1,1-3,0,4 (1-2),0,-0.05,-0.66,1.25,Strikeout Swinging
+19447,11,2015-06-04,Elvis Andrus,TEX,CHW,Carlos Rodon,ahead 0-1,SO,b1,1-3,1,5 (2-2),0,-0.06,-0.69,1.55,Strikeout Swinging
+19448,12,2015-06-04,Joey Gallo,TEX,CHW,Carlos Rodon,ahead 0-1,SO,b1,1-3,2,4 (1-2),0,-0.04,-0.51,1.53,Strikeout Swinging
+19449,13,2015-06-04,Gordon Beckham,CHW,@TEX,Yovani Gallardo,down 1-0,1B,t2,---,0,5 (2-2),0,0.04,0.39,.97,Single to CF (Ground Ball thru SS-2B)
+19450,14,2015-06-04,Tyler Flowers,CHW,@TEX,Yovani Gallardo,down 1-0,Out,t2,1--,0,2 (0-1),0,-0.04,-0.36,1.59,Lineout: RF
+19451,15,2015-06-04,Carlos Sanchez,CHW,@TEX,Yovani Gallardo,down 1-0,Out,t2,1--,1,4 (2-1),0,-0.03,-0.30,1.28,Foul Popfly: C (Behind Home)
+19452,16,2015-06-04,Adam Eaton,CHW,@TEX,Yovani Gallardo,down 1-0,Out,t2,-2-,2,3 (1-1),0,-0.03,-0.33,1.20,Groundout: P-1B (Front of Home)
+19453,17,2015-06-04,Robinson Chirinos,TEX,CHW,Carlos Rodon,ahead 0-1,SO,b2,---,0,5 (1-2),0,-0.02,-0.24,.77,Strikeout Swinging
+19454,18,2015-06-04,Leonys Martin,TEX,CHW,Carlos Rodon,ahead 0-1,1B,b2,---,1,1 (0-0),0,0.02,0.26,.57,Single to P/Bunt (Bunt to Weak 1B)
+19455,19,2015-06-04,Hanser Alberto,TEX,CHW,Carlos Rodon,ahead 0-1,1B,b2,1--,1,3 (1-1),0,0.06,0.66,1.04,Single to CF (Fly Ball to Short CF); Martin to 3B
+19456,20,2015-06-04,Delino DeShields,TEX,CHW,Carlos Rodon,ahead 0-1,Out,b2,1-3,1,1 (0-0),0,-0.06,-0.69,1.61,Bunt Popfly: 1B (Weak 1B)
+19457,21,2015-06-04,Shin-Soo Choo,TEX,CHW,Carlos Rodon,ahead 0-1,BB,b2,-23,2,7 (3-2),0,0.01,0.17,1.76,Walk
+19458,22,2015-06-04,Prince Fielder,TEX,CHW,Carlos Rodon,ahead 0-1,Out,b2,123,2,1 (0-0),0,-0.06,-0.78,2.49,Groundout: 2B-1B (2B-1B)
+19459,23,2015-06-04,Melky Cabrera,CHW,@TEX,Yovani Gallardo,down 1-0,SO,t3,---,0,4 (1-2),0,-0.03,-0.24,1.03,Strikeout Looking
+19460,24,2015-06-04,Jose Abreu,CHW,@TEX,Yovani Gallardo,down 1-0,Out,t3,---,1,5 (3-1),0,-0.02,-0.16,.73,Flyball: RF (RF Line)
+19461,25,2015-06-04,Adam LaRoche,CHW,@TEX,Yovani Gallardo,down 1-0,SO,t3,---,2,8 (3-2),0,-0.01,-0.11,.46,Strikeout Swinging
+19462,26,2015-06-04,Mitch Moreland,TEX,CHW,Carlos Rodon,ahead 0-1,Out,b3,---,0,6 (3-2),0,-0.02,-0.24,.80,Flyball: LF (Deep LF)
+19463,27,2015-06-04,Elvis Andrus,TEX,CHW,Carlos Rodon,ahead 0-1,SO,b3,---,1,3 (0-2),0,-0.01,-0.16,.59,Strikeout Swinging
+19464,28,2015-06-04,Joey Gallo,TEX,CHW,Carlos Rodon,ahead 0-1,SO,b3,---,2,4 (1-2),0,-0.01,-0.11,.39,Strikeout Swinging (C-1B)
+19465,1,2015-06-04,Dexter Fowler,CHC,@WSN,Gio Gonzalez,tied 0-0,1B,t1,---,0,3 (1-1),0,0.04,0.38,.87,*LEADOFF GM*:Single to RF (Line Drive)
+19466,2,2015-06-04,Kris Bryant,CHC,@WSN,Gio Gonzalez,tied 0-0,BB,t1,1--,0,5 (3-1),0,0.06,0.61,1.46,Walk; Fowler to 2B
+19467,3,2015-06-04,Anthony Rizzo,CHC,@WSN,Gio Gonzalez,tied 0-0,1B,t1,12-,0,4 (0-2),0,0.07,0.85,1.91,Single to RF (Line Drive); Fowler to 3B; Bryant to 2B
+19468,4,2015-06-04,Junior Lake,CHC,@WSN,Gio Gonzalez,tied 0-0,BB,t1,123,0,8 (3-2),1,0.08,1.00,2.18,Walk; Fowler Scores; Bryant to 3B; Rizzo to 2B
+19469,5,2015-06-04,Starlin Castro,CHC,@WSN,Gio Gonzalez,ahead 0-1,Out,t1,123,0,8 (3-2),0,-0.06,-0.96,1.84,Ground Ball Double Play: SS-2B-1B; Bryant Scores; Rizzo to 3B
+19470,6,2015-06-04,Matt Szczur,CHC,@WSN,Gio Gonzalez,ahead 0-2,Out,t1,--3,2,4 (2-1),0,-0.03,-0.35,1.05,Groundout: 2B-1B (2B-1B)
+19471,7,2015-06-04,Denard Span,WSN,CHC,Jake Arrieta,down 2-0,SO,b1,---,0,5 (2-2),0,-0.02,-0.23,.91,Strikeout Swinging
+19472,8,2015-06-04,Anthony Rendon,WSN,CHC,Jake Arrieta,down 2-0,1B,b1,---,1,7 (3-2),0,0.03,0.25,.63,Single to RF (Line Drive to Deep CF-RF)
+19473,9,2015-06-04,Yunel Escobar,WSN,CHC,Jake Arrieta,down 2-0,SO,b1,1--,1,7 (3-2),0,-0.05,-0.51,1.20,Double Play: Strikeout Swinging Rendon Caught Stealing 2B (C-2B)
+19474,10,2015-06-04,David Ross,CHC,@WSN,Gio Gonzalez,ahead 0-2,SO,t2,---,0,5 (2-2),0,-0.02,-0.23,.67,Strikeout Swinging
+19475,11,2015-06-04,Addison Russell,CHC,@WSN,Gio Gonzalez,ahead 0-2,SO,t2,---,2,4 (1-2),0,-0.01,-0.10,.32,Strikeout Swinging
+19476,12,2015-06-04,Bryce Harper,WSN,CHC,Jake Arrieta,down 2-0,Out,b2,---,0,5 (3-1),0,-0.02,-0.23,.97,Flyball: CF (Short CF)
+19477,13,2015-06-04,Ryan Zimmerman,WSN,CHC,Jake Arrieta,down 2-0,Out,b2,---,1,6 (2-2),0,-0.02,-0.15,.66,Groundout: 1B-P
+19478,14,2015-06-04,Ian Desmond,WSN,CHC,Jake Arrieta,down 2-0,Out,b2,---,2,2 (0-1),0,-0.01,-0.10,.42,Flyball: RF (RF Line)
+19479,15,2015-06-04,Dexter Fowler,CHC,@WSN,Gio Gonzalez,ahead 0-2,Out,t3,---,0,3 (0-2),0,-0.02,-0.23,.68,Groundout: 3B-1B (Weak 3B)
+19480,16,2015-06-04,Kris Bryant,CHC,@WSN,Gio Gonzalez,ahead 0-2,Out,t3,---,1,1 (0-0),0,-0.01,-0.15,.50,Groundout: 1B-P (2B-1B)
+19481,17,2015-06-04,Anthony Rizzo,CHC,@WSN,Gio Gonzalez,ahead 0-2,Out,t3,---,2,4 (0-2),0,-0.01,-0.10,.33,Lineout: CF (Deep CF)
+19482,18,2015-06-04,Jose Lobaton,WSN,CHC,Jake Arrieta,down 2-0,SO,b3,---,0,4 (1-2),0,-0.03,-0.23,1.05,Strikeout Swinging
+19483,19,2015-06-04,Michael Taylor,WSN,CHC,Jake Arrieta,down 2-0,1B,b3,---,1,4 (1-2),0,0.03,0.25,.72,Single to 3B (Ground Ball to Short 3B Line)
+19484,20,2015-06-04,Denard Span,WSN,CHC,Jake Arrieta,down 2-0,SO,b3,-2-,2,9 (3-2),0,-0.04,-0.32,1.28,Strikeout Swinging
+19485,1,2015-06-05,Curtis Granderson,NYM,@ARI,Jeremy Hellickson,tied 0-0,1B,t1,---,0,2 (1-0),0,0.04,0.38,.87,*LEADOFF GM*:Single to CF (Line Drive to Deep CF)
+19486,2,2015-06-05,Ruben Tejada,NYM,@ARI,Jeremy Hellickson,tied 0-0,Out,t1,1--,0,2 (0-1),0,-0.03,-0.35,1.46,Groundout: SS-2B/Forceout at 2B (SS-3B Hole)
+19487,3,2015-06-05,Lucas Duda,NYM,@ARI,Jeremy Hellickson,tied 0-0,Out,t1,1--,1,2 (1-0),0,-0.05,-0.51,1.15,Ground Ball Double Play: 2B-SS-1B (2B-1B)
+19488,4,2015-06-05,Ender Inciarte,ARI,NYM,Jon Niese,tied 0-0,Out,b1,---,0,2 (1-0),0,-0.02,-0.23,.87,Bunt Groundout: P-1B (Weak 1B)
+19489,5,2015-06-05,A.J. Pollock,ARI,NYM,Jon Niese,tied 0-0,Out,b1,---,1,2 (0-1),0,-0.02,-0.15,.62,Flyball: CF
+19490,6,2015-06-05,Paul Goldschmidt,ARI,NYM,Jon Niese,tied 0-0,SO,b1,---,2,4 (1-2),0,-0.01,-0.10,.40,Strikeout Swinging
+19491,7,2015-06-05,Michael Cuddyer,NYM,@ARI,Jeremy Hellickson,tied 0-0,HR,t2,---,0,4 (0-2),1,0.11,1.00,.93,Home Run (Fly Ball to Deep LF)
+19492,8,2015-06-05,Wilmer Flores,NYM,@ARI,Jeremy Hellickson,ahead 0-1,Out,t2,---,0,3 (1-1),0,-0.02,-0.23,.82,Foul Popfly: 1B (1B Foul)
+19493,9,2015-06-05,Juan Lagares,NYM,@ARI,Jeremy Hellickson,ahead 0-1,Out,t2,---,1,6 (3-2),0,-0.01,-0.15,.58,Flyball: LF (Deep LF-CF)
+19494,10,2015-06-05,Eric Campbell,NYM,@ARI,Jeremy Hellickson,ahead 0-1,Out,t2,---,2,4 (0-2),0,-0.01,-0.10,.38,Lineout: CF (Deep CF)
+19495,11,2015-06-05,Yasmany Tomas,ARI,NYM,Jon Niese,down 1-0,1B,b2,---,0,6 (3-2),0,0.04,0.38,.99,Single to CF (Ground Ball thru SS-2B)
+19496,12,2015-06-05,Aaron Hill,ARI,NYM,Jon Niese,down 1-0,Out,b2,1--,0,1 (0-0),0,-0.08,-0.76,1.68,Ground Ball Double Play: SS-2B-1B
+19497,13,2015-06-05,Chris Owings,ARI,NYM,Jon Niese,down 1-0,1B,b2,---,2,3 (1-1),0,0.01,0.12,.46,Single to LF (Ground Ball thru SS-3B Hole)
+19498,14,2015-06-05,Welington Castillo,ARI,NYM,Jon Niese,down 1-0,SO,b2,1--,2,3 (0-2),0,-0.03,-0.22,.90,Strikeout Looking
+19499,15,2015-06-05,Anthony Recker,NYM,@ARI,Jeremy Hellickson,ahead 0-1,SO,t3,---,0,6 (2-2),0,-0.02,-0.23,.86,Strikeout Swinging
+19500,16,2015-06-05,Curtis Granderson,NYM,@ARI,Jeremy Hellickson,ahead 0-1,BB,t3,---,2,8 (3-2),0,0.01,0.12,.41,Walk

@@ -1,0 +1,502 @@
+
+Yr#,Gm#,Date,Batter,Tm,Opp,Pitcher,Score,,Inn,RoB,Out,Pit(cnt)Sequence,RBI,WPA,RE24,LI,Play Description
+46001,3,2016-08-24,Lorenzo Cain,KCR,@MIA,Jose Fernandez,tied 0-0,BB,t1,-2-,1,6 (3-2),0,0.02,0.22,1.24,Walk
+46002,4,2016-08-24,Eric Hosmer,KCR,@MIA,Jose Fernandez,tied 0-0,Out,t1,12-,1,3 (2-0),0,-0.04,-0.46,1.97,Flyball: RF (Short CF-RF)
+46003,5,2016-08-24,Salvador Perez,KCR,@MIA,Jose Fernandez,tied 0-0,Out,t1,12-,2,3 (1-1),0,-0.04,-0.42,1.65,Groundout: SS-2B/Forceout at 2B
+46004,6,2016-08-24,Dee Gordon,MIA,KCR,Dillon Gee,tied 0-0,SO,b1,---,0,4 (1-2),0,-0.02,-0.22,.87,Strikeout Swinging
+46005,7,2016-08-24,Martin Prado,MIA,KCR,Dillon Gee,tied 0-0,Out,b1,---,1,5 (2-2),0,-0.01,-0.15,.61,Foul Flyball: RF (RF Foul)
+46006,8,2016-08-24,Christian Yelich,MIA,KCR,Dillon Gee,tied 0-0,SO,b1,---,2,6 (3-2),0,-0.01,-0.10,.40,Strikeout Swinging
+46007,9,2016-08-24,Alex Gordon,KCR,@MIA,Jose Fernandez,tied 0-0,Out,t2,---,0,1 (0-0),0,-0.02,-0.22,.93,Flyball: CF
+46008,10,2016-08-24,Alcides Escobar,KCR,@MIA,Jose Fernandez,tied 0-0,1B,t2,---,1,7 (3-2),0,0.03,0.25,.64,Single to LF (Ground Ball)
+46009,11,2016-08-24,Raul Mondesi,KCR,@MIA,Jose Fernandez,tied 0-0,1B,t2,1--,1,1 (0-0),0,0.07,0.66,1.24,Single to CF (Line Drive to Deep CF); Escobar to 3B
+46010,12,2016-08-24,Paulo Orlando,KCR,@MIA,Jose Fernandez,tied 0-0,SO,t2,123,1,6 (2-2),0,-0.08,-0.79,2.79,Strikeout Swinging
+46011,13,2016-08-24,Christian Colon,KCR,@MIA,Jose Fernandez,tied 0-0,Out,t2,123,2,3 (0-2),0,-0.08,-0.74,3.09,Groundout: SS-2B/Forceout at 2B
+46012,14,2016-08-24,Marcell Ozuna,MIA,KCR,Dillon Gee,tied 0-0,Out,b2,---,0,3 (0-2),0,-0.02,-0.22,.92,Flyball: RF (RF Line)
+46013,15,2016-08-24,J.T. Realmuto,MIA,KCR,Dillon Gee,tied 0-0,Out,b2,---,1,2 (0-1),0,-0.02,-0.15,.66,Groundout: 3B-1B (SS-3B Hole)
+46014,16,2016-08-24,Ichiro Suzuki,MIA,KCR,Dillon Gee,tied 0-0,Out,b2,---,2,5 (2-2),0,-0.01,-0.10,.42,Groundout: 2B-1B
+46015,17,2016-08-24,Lorenzo Cain,KCR,@MIA,Jose Fernandez,tied 0-0,SO,t3,---,0,6 (3-2),0,-0.02,-0.22,.99,Strikeout Swinging
+46016,18,2016-08-24,Eric Hosmer,KCR,@MIA,Jose Fernandez,tied 0-0,Out,t3,---,1,2 (0-1),0,-0.02,-0.15,.71,Lineout: LF (LF-CF)
+46017,19,2016-08-24,Salvador Perez,KCR,@MIA,Jose Fernandez,tied 0-0,Out,t3,---,2,1 (0-0),0,-0.01,-0.10,.45,Groundout: 2B-1B
+46018,20,2016-08-24,Xavier Scruggs,MIA,KCR,Dillon Gee,tied 0-0,Out,b3,---,0,3 (1-1),0,-0.02,-0.22,.99,Groundout: 3B-1B (Weak 3B)
+46019,21,2016-08-24,Miguel Rojas,MIA,KCR,Dillon Gee,tied 0-0,Out,b3,---,1,3 (1-1),0,-0.02,-0.15,.71,Groundout: 1B-P
+46020,22,2016-08-24,Dee Gordon,MIA,KCR,Dillon Gee,tied 0-0,Out,b3,1--,2,7 (2-2),0,-0.03,-0.22,.92,Groundout: 1B unassisted
+46021,1,2016-08-24,Charlie Blackmon,COL,@MIL,Zach Davies,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Strikeout Swinging
+46022,2,2016-08-24,David Dahl,COL,@MIL,Zach Davies,tied 0-0,SO,t1,---,1,4 (1-2),0,-0.02,-0.16,.62,Strikeout Looking
+46023,3,2016-08-24,Nolan Arenado,COL,@MIL,Zach Davies,tied 0-0,HR,t1,---,2,3 (1-1),1,0.10,1.00,.40,Home Run (Line Drive to Deep LF)
+46024,4,2016-08-24,Carlos Gonzalez,COL,@MIL,Zach Davies,ahead 0-1,1B,t1,---,2,3 (1-1),0,0.01,0.13,.37,Single to 3B (Ground Ball to SS-3B Hole)
+46025,5,2016-08-24,Gerardo Parra,COL,@MIL,Zach Davies,ahead 0-1,1B,t1,1--,2,1 (0-0),0,0.02,0.21,.72,Single to LF (Ground Ball thru SS-3B Hole); Gonzalez to 2B
+46026,6,2016-08-24,Daniel Descalso,COL,@MIL,Zach Davies,ahead 0-1,BB,t1,12-,2,4 (3-0),0,0.03,0.33,1.48,Walk; Gonzalez to 3B; Parra to 2B
+46027,7,2016-08-24,Tony Wolters,COL,@MIL,Zach Davies,ahead 0-1,Out,t1,123,2,1 (0-0),0,-0.06,-0.77,2.54,Groundout: P-1B (Front of Home)
+46028,8,2016-08-24,Jonathan Villar,MIL,COL,Tyler Anderson,down 1-0,1B,b1,---,0,3 (0-2),0,0.04,0.38,.92,Single to LF (Line Drive)
+46029,9,2016-08-24,Keon Broxton,MIL,COL,Tyler Anderson,down 1-0,SO,b1,1--,0,8 (3-2),0,-0.04,-0.36,1.53,Strikeout Swinging
+46030,10,2016-08-24,Ryan Braun,MIL,COL,Tyler Anderson,down 1-0,Out,b1,1--,1,1 (0-0),0,-0.03,-0.29,1.23,Flyball: CF (Short CF)
+46031,11,2016-08-24,Hernan Perez,MIL,COL,Tyler Anderson,down 1-0,SO,b1,1--,2,3 (0-2),0,-0.02,-0.23,.83,Strikeout Swinging
+46032,12,2016-08-24,Cristhian Adames,COL,@MIL,Zach Davies,ahead 0-1,RoE,t2,---,0,6 (3-2),0,0.06,0.62,.82,Reached on E7 (Fly Ball to Deep LF-CF); Adames to 2B
+46033,13,2016-08-24,Charlie Blackmon,COL,@MIL,Zach Davies,ahead 0-1,SO,t2,-2-,1,5 (1-2),0,-0.03,-0.36,1.15,Strikeout Swinging
+46034,14,2016-08-24,David Dahl,COL,@MIL,Zach Davies,ahead 0-1,SO,t2,-2-,2,5 (2-2),0,-0.03,-0.32,1.08,Strikeout Swinging
+46035,15,2016-08-24,Chris Carter,MIL,COL,Tyler Anderson,down 1-0,SO,b2,---,0,5 (2-2),0,-0.03,-0.24,.99,Strikeout Swinging
+46036,16,2016-08-24,Domingo Santana,MIL,COL,Tyler Anderson,down 1-0,Out,b2,---,1,4 (1-2),0,-0.02,-0.16,.71,Lineout: RF
+46037,17,2016-08-24,Orlando Arcia,MIL,COL,Tyler Anderson,down 1-0,Out,b2,---,2,6 (3-2),0,-0.01,-0.10,.46,Flyball: CF (Deep CF)
+46038,18,2016-08-24,Nolan Arenado,COL,@MIL,Zach Davies,ahead 0-1,Out,t3,---,0,4 (2-1),0,-0.02,-0.24,.87,Groundout: SS-1B (SS-2B)
+46039,19,2016-08-24,Carlos Gonzalez,COL,@MIL,Zach Davies,ahead 0-1,Out,t3,---,1,2 (1-0),0,-0.02,-0.16,.62,Flyball: LF (LF-CF)
+46040,20,2016-08-24,Gerardo Parra,COL,@MIL,Zach Davies,ahead 0-1,SO,t3,---,2,3 (0-2),0,-0.01,-0.10,.41,Strikeout Looking
+46041,21,2016-08-24,Martin Maldonado,MIL,COL,Tyler Anderson,down 1-0,SO,b3,---,0,3 (0-2),0,-0.03,-0.24,1.08,Strikeout Swinging
+46042,22,2016-08-24,Jonathan Villar,MIL,COL,Tyler Anderson,down 1-0,SO,b3,---,2,6 (2-2),0,-0.01,-0.10,.49,Strikeout Swinging
+46043,1,2016-08-24,Cameron Maybin,DET,@MIN,Tyler Duffey,tied 0-0,SO,t1,---,0,6 (2-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Strikeout Swinging
+46044,2,2016-08-24,Erick Aybar,DET,@MIN,Tyler Duffey,tied 0-0,Out,t1,---,1,1 (0-0),0,-0.02,-0.16,.62,Groundout: 1B unassisted
+46045,3,2016-08-24,Miguel Cabrera,DET,@MIN,Tyler Duffey,tied 0-0,HR,t1,---,2,1 (0-0),1,0.10,1.00,.40,Home Run (Fly Ball to Deep CF)
+46046,4,2016-08-24,Victor Martinez,DET,@MIN,Tyler Duffey,ahead 0-1,1B,t1,---,2,1 (0-0),0,0.01,0.13,.37,Single to LF (Line Drive)
+46047,5,2016-08-24,J.D. Martinez,DET,@MIN,Tyler Duffey,ahead 0-1,Out,t1,1--,2,5 (2-2),0,-0.02,-0.23,.72,Groundout: SS-1B
+46048,6,2016-08-24,Brian Dozier,MIN,DET,Matt Boyd,down 1-0,1B,b1,---,0,6 (3-2),0,0.04,0.38,.92,Single to LF (Line Drive)
+46049,7,2016-08-24,Robbie Grossman,MIN,DET,Matt Boyd,down 1-0,BB,b1,1--,0,7 (3-2),0,0.06,0.61,1.53,Walk; Dozier to 2B
+46050,8,2016-08-24,Miguel Sano,MIN,DET,Matt Boyd,down 1-0,Out,b1,12-,0,7 (3-2),0,-0.03,-0.31,2.02,Flyball: RF; Dozier to 3B
+46051,9,2016-08-24,Trevor Plouffe,MIN,DET,Matt Boyd,down 1-0,1B,b1,1-3,1,2 (0-1),1,0.07,0.73,1.92,Single to LF (Ground Ball thru SS-3B Hole); Dozier Scores; Grossman to 2B
+46052,10,2016-08-24,Jorge Polanco,MIN,DET,Matt Boyd,tied 1-1,1B,b1,12-,1,1 (0-0),0,0.06,0.66,1.91,Single to CF (Line Drive); Grossman to 3B; Plouffe to 2B
+46053,11,2016-08-24,Eduardo Escobar,MIN,DET,Matt Boyd,tied 1-1,Out,b1,123,1,5 (2-2),0,-0.14,-1.57,2.48,Ground Ball Double Play: 2B-1B
+46054,12,2016-08-24,Justin Upton,DET,@MIN,Tyler Duffey,tied 1-1,1B,t2,---,0,6 (3-2),0,0.04,0.38,.93,Single to CF (Line Drive to Deep CF-RF)
+46055,13,2016-08-24,Casey McGehee,DET,@MIN,Tyler Duffey,tied 1-1,Out,t2,1--,0,2 (1-0),0,-0.08,-0.78,1.53,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+46056,14,2016-08-24,Jarrod Saltalamacchia,DET,@MIN,Tyler Duffey,tied 1-1,Out,t2,---,2,3 (1-1),0,-0.01,-0.10,.42,Groundout: 1B unassisted
+46057,15,2016-08-24,Max Kepler,MIN,DET,Matt Boyd,tied 1-1,SO,b2,---,0,4 (1-2),0,-0.02,-0.24,.92,Strikeout Swinging
+46058,16,2016-08-24,Kurt Suzuki,MIN,DET,Matt Boyd,tied 1-1,Out,b2,---,1,4 (1-2),0,-0.02,-0.16,.67,Popfly: 2B (Deep SS-2B)
+46059,17,2016-08-24,Eddie Rosario,MIN,DET,Matt Boyd,tied 1-1,Out,b2,---,2,8 (3-2),0,-0.01,-0.10,.43,Groundout: 1B unassisted
+46060,18,2016-08-24,Andrew Romine,DET,@MIN,Tyler Duffey,tied 1-1,SO,t3,---,0,3 (0-2),0,-0.03,-0.24,.99,Strikeout Swinging (C-1B)
+46061,19,2016-08-24,Cameron Maybin,DET,@MIN,Tyler Duffey,tied 1-1,1B,t3,---,1,1 (0-0),0,0.03,0.26,.72,Single to LF (Ground Ball thru SS-3B Hole)
+46062,20,2016-08-24,Erick Aybar,DET,@MIN,Tyler Duffey,tied 1-1,Out,t3,1--,1,7 (2-2),0,-0.02,-0.20,1.33,Groundout: 1B unassisted (Weak 1B); Maybin to 2B
+46063,21,2016-08-24,Miguel Cabrera,DET,@MIN,Tyler Duffey,tied 1-1,2B,t3,-2-,2,2 (0-1),1,0.12,1.00,1.30,Double to RF (Fly Ball to Deep RF); Maybin Scores
+46064,22,2016-08-24,Victor Martinez,DET,@MIN,Tyler Duffey,ahead 1-2,IBB,t3,-2-,2,4 (3-0),0,0.01,0.11,1.15,Intentional Walk
+46065,23,2016-08-24,J.D. Martinez,DET,@MIN,Tyler Duffey,ahead 1-2,1B,t3,12-,2,4 (2-1),1,0.10,1.00,1.62,Single to LF (Ground Ball thru SS-3B Hole); Cabrera Scores; Martinez to 2B
+46066,24,2016-08-24,Justin Upton,DET,@MIN,Tyler Duffey,ahead 1-3,HR,t3,12-,2,6 (2-2),3,0.19,2.67,1.30,Home Run (Line Drive to Deep LF-CF); Martinez Scores; Martinez Scores
+46067,25,2016-08-24,Casey McGehee,DET,@MIN,Tyler Duffey,ahead 1-6,Out,t3,---,2,5 (3-1),0,-0.00,-0.10,.13,Lineout: CF (Deep CF)
+46068,26,2016-08-24,Brian Dozier,MIN,DET,Matt Boyd,down 6-1,SO,b3,---,0,4 (1-2),0,-0.01,-0.24,.57,Strikeout Swinging
+46069,27,2016-08-24,Robbie Grossman,MIN,DET,Matt Boyd,down 6-1,HR,b3,---,1,3 (1-1),1,0.05,1.00,.38,Home Run (Fly Ball to Deep LF)
+46070,28,2016-08-24,Miguel Sano,MIN,DET,Matt Boyd,down 6-2,SO,b3,---,1,5 (2-2),0,-0.01,-0.16,.51,Strikeout Looking
+46071,29,2016-08-24,Trevor Plouffe,MIN,DET,Matt Boyd,down 6-2,SO,b3,---,2,3 (0-2),0,-0.01,-0.10,.29,Strikeout Swinging
+46072,1,2016-08-24,Carlos Santana,CLE,@OAK,Kendall Graveman,tied 0-0,Out,t1,---,0,6 (2-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Popfly: 3B (Deep SS)
+46073,2,2016-08-24,Jason Kipnis,CLE,@OAK,Kendall Graveman,tied 0-0,Out,t1,---,1,3 (1-1),0,-0.01,-0.15,.62,Groundout: 2B-1B
+46074,3,2016-08-24,Jose Ramirez,CLE,@OAK,Kendall Graveman,tied 0-0,2B,t1,---,2,3 (0-2),0,0.02,0.21,.40,Double to CF (Line Drive to Deep CF-RF)
+46075,4,2016-08-24,Mike Napoli,CLE,@OAK,Kendall Graveman,tied 0-0,HBP,t1,-2-,2,2 (0-1),0,0.01,0.11,1.14,Hit By Pitch
+46076,5,2016-08-24,Lonnie Chisenhall,CLE,@OAK,Kendall Graveman,tied 0-0,Out,t1,12-,2,2 (0-1),0,-0.04,-0.42,1.64,Flyball: LF (LF-CF)
+46077,6,2016-08-24,Jake Smolinski,OAK,CLE,Trevor Bauer,tied 0-0,Out,b1,---,0,5 (2-2),0,-0.02,-0.22,.87,Groundout: 2B-1B
+46078,7,2016-08-24,Danny Valencia,OAK,CLE,Trevor Bauer,tied 0-0,Out,b1,---,1,3 (1-1),0,-0.01,-0.15,.62,Lineout: RF
+46079,8,2016-08-24,Stephen Vogt,OAK,CLE,Trevor Bauer,tied 0-0,SO,b1,---,2,6 (2-2),0,-0.01,-0.10,.40,Strikeout Swinging
+46080,9,2016-08-24,Brandon Guyer,CLE,@OAK,Kendall Graveman,tied 0-0,Out,t2,---,0,3 (0-2),0,-0.02,-0.22,.93,Groundout: P-1B (Front of Home)
+46081,10,2016-08-24,Tyler Naquin,CLE,@OAK,Kendall Graveman,tied 0-0,Out,t2,---,1,9 (3-2),0,-0.02,-0.15,.65,Flyball: CF
+46082,11,2016-08-24,Roberto Perez,CLE,@OAK,Kendall Graveman,tied 0-0,BB,t2,---,2,7 (3-2),0,0.01,0.12,.42,Walk
+46083,12,2016-08-24,Michael Martinez,CLE,@OAK,Kendall Graveman,tied 0-0,Out,t2,1--,2,4 (1-2),0,-0.02,-0.22,.84,Groundout: 2B-1B (2B-1B)
+46084,13,2016-08-24,Khris Davis,OAK,CLE,Trevor Bauer,tied 0-0,3B,b2,---,0,4 (2-1),0,0.10,0.92,.92,Triple to CF (Fly Ball to Deep RF)
+46085,14,2016-08-24,Yonder Alonso,OAK,CLE,Trevor Bauer,tied 0-0,BB,b2,--3,0,6 (3-2),0,0.03,0.42,1.13,Walk
+46086,15,2016-08-24,Ryon Healy,OAK,CLE,Trevor Bauer,tied 0-0,1B,b2,1-3,0,2 (0-1),1,0.06,0.64,1.67,Single to LF (Line Drive to LF-CF); Davis Scores; Alonso to 2B
+46087,16,2016-08-24,Brett Eibner,OAK,CLE,Trevor Bauer,ahead 0-1,Out,b2,12-,0,2 (0-1),0,-0.00,-0.08,1.60,Groundout: 1B-P; Alonso to 3B; Healy to 2B
+46088,17,2016-08-24,Max Muncy,OAK,CLE,Trevor Bauer,ahead 0-1,1B,b2,-23,1,3 (1-1),1,0.06,0.78,1.35,Single to CF (Line Drive); Alonso Scores; Healy to 3B
+46089,18,2016-08-24,Chad Pinder,OAK,CLE,Trevor Bauer,ahead 0-2,Out,b2,1-3,1,6 (3-2),1,0.02,0.06,1.30,Lineout: RF/Sacrifice Fly; Healy Scores
+46090,19,2016-08-24,Jake Smolinski,OAK,CLE,Trevor Bauer,ahead 0-3,1B,b2,1--,2,7 (3-2),0,0.01,0.26,.42,Single to RF (Line Drive to CF-RF); Muncy to 3B
+46091,20,2016-08-24,Danny Valencia,OAK,CLE,Trevor Bauer,ahead 0-3,RoE,b2,-23,2,4 (2-1),0,0.09,1.64,1.01,Reached on E3 (Pop Fly to Short 1B Line); Muncy Scores/unER/No RBI; Smolinski Scores/unER/No RBI
+46092,21,2016-08-24,Stephen Vogt,OAK,CLE,Trevor Bauer,ahead 0-5,SO,b2,1--,2,8 (2-2),0,-0.01,-0.22,.21,Strikeout Swinging
+46093,22,2016-08-24,Carlos Santana,CLE,@OAK,Kendall Graveman,down 5-0,Out,t3,---,0,5 (2-2),0,-0.01,-0.22,.49,Groundout: 1B unassisted (2B-1B)
+46094,23,2016-08-24,Jason Kipnis,CLE,@OAK,Kendall Graveman,down 5-0,Out,t3,---,1,4 (2-1),0,-0.01,-0.15,.31,Lineout: LF (Deep LF)
+46095,24,2016-08-24,Jose Ramirez,CLE,@OAK,Kendall Graveman,down 5-0,1B,t3,---,2,4 (1-2),0,0.01,0.12,.16,Single to CF (Line Drive)
+46096,25,2016-08-24,Mike Napoli,CLE,@OAK,Kendall Graveman,down 5-0,Out,t3,1--,2,2 (1-0),0,-0.01,-0.22,.38,Flyball: CF (Deep CF)
+46097,26,2016-08-24,Khris Davis,OAK,CLE,Trevor Bauer,ahead 0-5,Out,b3,---,0,2 (0-1),0,-0.00,-0.22,.17,Groundout: 2B-1B (2B-1B)
+46098,27,2016-08-24,Yonder Alonso,OAK,CLE,Trevor Bauer,ahead 0-5,BB,b3,---,1,6 (3-2),0,0.00,0.25,.15,Walk
+46099,28,2016-08-24,Ryon Healy,OAK,CLE,Trevor Bauer,ahead 0-5,Out,b3,1--,1,3 (1-1),0,-0.01,-0.28,.24,Flyball: RF-SS/Forceout at 2B
+46100,29,2016-08-24,Brett Eibner,OAK,CLE,Trevor Bauer,ahead 0-5,1B,b3,1--,2,2 (0-1),0,0.00,0.20,.10,Single to RF (Line Drive to Short RF); Healy to 2B
+46101,30,2016-08-24,Max Muncy,OAK,CLE,Trevor Bauer,ahead 0-5,Out,b3,12-,2,5 (2-2),0,-0.01,-0.42,.35,Flyball: LF
+46102,1,2016-08-24,George Springer,HOU,@PIT,Gerrit Cole,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Strikeout Swinging
+46103,2,2016-08-24,Alex Bregman,HOU,@PIT,Gerrit Cole,tied 0-0,Out,t1,---,1,6 (2-2),0,-0.02,-0.16,.62,Popfly: 1B (2B-1B)
+46104,3,2016-08-24,Jose Altuve,HOU,@PIT,Gerrit Cole,tied 0-0,Out,t1,---,2,1 (0-0),0,-0.01,-0.10,.40,Groundout: 3B-1B (SS-3B Hole)
+46105,4,2016-08-24,Josh Harrison,PIT,HOU,Collin McHugh,tied 0-0,Out,b1,---,0,4 (1-2),0,-0.02,-0.23,.87,Groundout: SS-1B
+46106,5,2016-08-24,Matthew Joyce,PIT,HOU,Collin McHugh,tied 0-0,BB,b1,---,1,7 (3-2),0,0.02,0.26,.62,Walk
+46107,6,2016-08-24,Starling Marte,PIT,HOU,Collin McHugh,tied 0-0,Out,b1,1--,1,7 (2-2),0,-0.03,-0.29,1.16,Popfly: 2B
+46108,7,2016-08-24,Gregory Polanco,PIT,HOU,Collin McHugh,tied 0-0,Out,b1,1--,2,4 (1-2),0,-0.02,-0.23,.79,Groundout: 2B-1B (2B-1B)
+46109,8,2016-08-24,Carlos Correa,HOU,@PIT,Gerrit Cole,tied 0-0,1B,t2,---,0,5 (2-2),0,0.04,0.38,.93,Single to CF (Ground Ball thru SS-2B)
+46110,9,2016-08-24,Evan Gattis,HOU,@PIT,Gerrit Cole,tied 0-0,HR,t2,1--,0,4 (2-1),2,0.16,1.62,1.53,Home Run (Fly Ball to Deep CF); Correa Scores
+46111,10,2016-08-24,Marwin Gonzalez,HOU,@PIT,Gerrit Cole,ahead 0-2,Out,t2,---,0,3 (1-1),0,-0.02,-0.23,.68,Groundout: SS-1B
+46112,11,2016-08-24,A.J. Reed,HOU,@PIT,Gerrit Cole,ahead 0-2,Out,t2,---,1,5 (2-2),0,-0.01,-0.16,.49,Flyball: LF (Deep LF-CF)
+46113,12,2016-08-24,Teoscar Hernandez,HOU,@PIT,Gerrit Cole,ahead 0-2,2B,t2,---,2,1 (0-0),0,0.02,0.22,.33,Double to LF (Line Drive to LF Line)
+46114,13,2016-08-24,Josh Bell,PIT,HOU,Collin McHugh,down 2-0,Out,b2,---,0,6 (3-2),0,-0.02,-0.23,.97,Groundout: SS-1B (SS-2B)
+46115,14,2016-08-24,Francisco Cervelli,PIT,HOU,Collin McHugh,down 2-0,Out,b2,---,1,8 (3-2),0,-0.02,-0.16,.67,Flyball: LF (LF-CF)
+46116,15,2016-08-24,Sean Rodriguez,PIT,HOU,Collin McHugh,down 2-0,SO,b2,---,2,5 (1-2),0,-0.01,-0.10,.42,Strikeout Swinging
+46117,16,2016-08-24,George Springer,HOU,@PIT,Gerrit Cole,ahead 0-2,Out,t3,---,0,6 (3-2),0,-0.02,-0.23,.69,Popfly: 2B (2B-1B)
+46118,17,2016-08-24,Alex Bregman,HOU,@PIT,Gerrit Cole,ahead 0-2,Out,t3,---,1,2 (1-0),0,-0.01,-0.16,.51,Lineout: RF (Short RF)
+46119,18,2016-08-24,Jose Altuve,HOU,@PIT,Gerrit Cole,ahead 0-2,SO,t3,---,2,6 (2-2),0,-0.01,-0.10,.34,Strikeout Swinging
+46120,19,2016-08-24,Jordy Mercer,PIT,HOU,Collin McHugh,down 2-0,HR,b3,---,0,5 (2-2),1,0.11,1.00,1.05,Home Run (Fly Ball to Deep LF)
+46121,20,2016-08-24,Josh Harrison,PIT,HOU,Collin McHugh,down 2-1,Out,b3,---,1,3 (0-2),0,-0.02,-0.16,.77,Flyball: LF (LF Line)
+46122,21,2016-08-24,Matthew Joyce,PIT,HOU,Collin McHugh,down 2-1,Out,b3,---,2,3 (1-1),0,-0.01,-0.10,.49,Groundout: P-1B
+46123,1,2016-08-24,Dexter Fowler,CHC,@SDP,Paul Clemens,tied 0-0,2B,t1,---,0,5 (2-2),0,0.06,0.62,.87,*LEADOFF GM*:Double to RF (Line Drive to Deep RF Line)
+46124,2,2016-08-24,Kris Bryant,CHC,@SDP,Paul Clemens,tied 0-0,2B,t1,-2-,0,2 (0-1),0,0.08,0.86,1.24,Double to CF (Line Drive to Deep CF); Fowler to 3B
+46125,3,2016-08-24,Ben Zobrist,CHC,@SDP,Paul Clemens,tied 0-0,3B,t1,-23,0,4 (2-1),2,0.13,1.44,1.47,Triple to CF (Line Drive to Deep CF-RF); Fowler Scores; Bryant Scores
+46126,4,2016-08-24,Jorge Soler,CHC,@SDP,Paul Clemens,ahead 0-2,Out,t1,--3,0,1 (0-0),1,-0.00,-0.15,.78,Flyball: CF/Sacrifice Fly (Deep CF); Zobrist Scores
+46127,5,2016-08-24,Addison Russell,CHC,@SDP,Paul Clemens,ahead 0-3,SO,t1,---,1,5 (2-2),0,-0.01,-0.15,.38,Strikeout Looking
+46128,6,2016-08-24,Jason Heyward,CHC,@SDP,Paul Clemens,ahead 0-3,Out,t1,---,2,5 (2-2),0,-0.01,-0.10,.25,Flyball: LF (Deep LF-CF)
+46129,7,2016-08-24,Travis Jankowski,SDP,CHC,Kyle Hendricks,down 3-0,2B,b1,---,0,6 (2-2),0,0.06,0.62,.82,Double to LF (Ground Ball thru SS-3B Hole)
+46130,8,2016-08-24,Wil Myers,SDP,CHC,Kyle Hendricks,down 3-0,SO,b1,-2-,0,5 (2-2),0,-0.04,-0.43,1.25,Strikeout Swinging
+46131,9,2016-08-24,Yangervis Solarte,SDP,CHC,Kyle Hendricks,down 3-0,Out,b1,-2-,1,3 (0-2),0,-0.03,-0.31,1.15,Groundout: 1B unassisted; Jankowski to 3B
+46132,10,2016-08-24,Alex Dickerson,SDP,CHC,Kyle Hendricks,down 3-0,Out,b1,--3,2,6 (3-2),0,-0.03,-0.35,1.14,Popfly: SS (Short CF)
+46133,11,2016-08-24,Javier Baez,CHC,@SDP,Paul Clemens,ahead 0-3,1B,t2,---,0,4 (0-2),0,0.02,0.38,.52,Single to LF (Ground Ball thru SS-3B Hole)
+46134,12,2016-08-24,Willson Contreras,CHC,@SDP,Paul Clemens,ahead 0-3,Out,t2,1--,0,3 (1-1),0,-0.04,-0.76,.84,Double Play: Lineout: SS; Baez out at 1B/SS-1B
+46135,13,2016-08-24,Ryan Schimpf,SDP,CHC,Kyle Hendricks,down 3-0,3B,b2,---,0,3 (0-2),0,0.08,0.92,.86,Triple to RF (Line Drive to Deep CF-RF)
+46136,14,2016-08-24,Brett Wallace,SDP,CHC,Kyle Hendricks,down 3-0,Out,b2,--3,0,3 (2-0),1,-0.02,-0.15,1.22,Flyball: CF/Sacrifice Fly (Deep CF); Schimpf Scores
+46137,15,2016-08-24,Derek Norris,SDP,CHC,Kyle Hendricks,down 3-1,Out,b2,---,1,1 (0-0),0,-0.02,-0.15,.66,Flyball: LF (Deep LF)
+46138,16,2016-08-24,Luis Sardinas,SDP,CHC,Kyle Hendricks,down 3-1,RoE,b2,---,2,4 (1-2),0,0.01,0.12,.42,Reached on E4 (Ground Ball to 2B-1B)
+46139,17,2016-08-24,Dexter Fowler,CHC,@SDP,Paul Clemens,ahead 1-3,SO,t3,---,0,7 (3-2),0,-0.02,-0.23,.68,Strikeout Looking
+46140,18,2016-08-24,Kris Bryant,CHC,@SDP,Paul Clemens,ahead 1-3,SO,t3,---,1,6 (3-2),0,-0.01,-0.15,.50,Strikeout Swinging
+46141,19,2016-08-24,Ben Zobrist,CHC,@SDP,Paul Clemens,ahead 1-3,Out,t3,---,2,3 (1-1),0,-0.01,-0.10,.33,Groundout: 1B unassisted
+46142,20,2016-08-24,Travis Jankowski,SDP,CHC,Kyle Hendricks,down 3-1,1B,b3,---,0,2 (1-0),0,0.04,0.38,1.05,Single to LF (Line Drive)
+46143,21,2016-08-24,Wil Myers,SDP,CHC,Kyle Hendricks,down 3-1,3B,b3,1--,0,6 (1-2),1,0.18,1.54,1.79,Triple to CF (Line Drive to Deep CF-RF); Jankowski Scores
+46144,22,2016-08-24,Yangervis Solarte,SDP,CHC,Kyle Hendricks,down 3-2,Out,b3,--3,0,2 (1-0),0,-0.06,-0.47,1.37,Popfly: 3B (Weak 3B)
+46145,23,2016-08-24,Alex Dickerson,SDP,CHC,Kyle Hendricks,down 3-2,Out,b3,--3,1,1 (0-0),0,-0.07,-0.57,1.71,Popfly: 3B
+46146,24,2016-08-24,Ryan Schimpf,SDP,CHC,Kyle Hendricks,down 3-2,SO,b3,--3,2,6 (3-2),0,-0.04,-0.35,1.64,Strikeout Looking
+46147,1,2016-08-24,Brett Gardner,NYY,@SEA,Hisashi Iwakuma,tied 0-0,Out,t1,---,0,3 (1-1),0,-0.02,-0.23,.87,*LEADOFF GM*:Groundout: 2B-1B (2B-1B)
+46148,2,2016-08-24,Didi Gregorius,NYY,@SEA,Hisashi Iwakuma,tied 0-0,Out,t1,---,1,4 (1-2),0,-0.02,-0.16,.62,Groundout: 2B-1B
+46149,3,2016-08-24,Gary Sanchez,NYY,@SEA,Hisashi Iwakuma,tied 0-0,HR,t1,---,2,1 (0-0),1,0.10,1.00,.40,Home Run (Fly Ball to Deep LF)
+46150,4,2016-08-24,Mark Teixeira,NYY,@SEA,Hisashi Iwakuma,ahead 0-1,Out,t1,---,2,4 (2-1),0,-0.01,-0.10,.37,Groundout: SS-1B (Deep 2B)
+46151,5,2016-08-24,Nori Aoki,SEA,NYY,Masahiro Tanaka,down 1-0,Out,b1,---,0,3 (1-1),0,-0.02,-0.23,.92,Groundout: 1B unassisted
+46152,6,2016-08-24,Seth Smith,SEA,NYY,Masahiro Tanaka,down 1-0,Out,b1,---,1,4 (1-2),0,-0.02,-0.16,.65,Lineout: 3B (Deep 2B)
+46153,7,2016-08-24,Robinson Cano,SEA,NYY,Masahiro Tanaka,down 1-0,1B,b1,---,2,3 (1-1),0,-0.01,-0.10,.42,Single to RF (Line Drive to Deep CF-RF); Cano out at 2B/RF-SS
+46154,8,2016-08-24,Starlin Castro,NYY,@SEA,Hisashi Iwakuma,ahead 0-1,SO,t2,---,0,3 (0-2),0,-0.02,-0.23,.82,Strikeout Swinging
+46155,9,2016-08-24,Aaron Judge,NYY,@SEA,Hisashi Iwakuma,ahead 0-1,HBP,t2,---,1,6 (2-2),0,0.02,0.26,.58,Hit By Pitch
+46156,10,2016-08-24,Aaron Hicks,NYY,@SEA,Hisashi Iwakuma,ahead 0-1,1B,t2,1--,1,4 (2-1),0,0.03,0.39,1.10,Single to RF (Line Drive to Short RF); Judge to 2B
+46157,11,2016-08-24,Tyler Austin,NYY,@SEA,Hisashi Iwakuma,ahead 0-1,1B,t2,12-,1,6 (1-2),1,0.09,1.00,1.81,Single to LF (Ground Ball thru SS-3B Hole); Judge Scores; Hicks to 2B
+46158,12,2016-08-24,Ronald Torreyes,NYY,@SEA,Hisashi Iwakuma,ahead 0-2,Out,t2,12-,1,4 (1-2),0,-0.03,-0.41,1.47,Flyball: LF (Deep LF-CF); Hicks to 3B
+46159,13,2016-08-24,Brett Gardner,NYY,@SEA,Hisashi Iwakuma,ahead 0-2,Out,t2,1-3,2,4 (1-2),0,-0.04,-0.49,1.37,Groundout: 1B-P (2B-1B)
+46160,14,2016-08-24,Nelson Cruz,SEA,NYY,Masahiro Tanaka,down 2-0,Out,b2,---,0,1 (0-0),0,-0.02,-0.23,.97,Lineout: CF (CF-RF)
+46161,15,2016-08-24,Adam Lind,SEA,NYY,Masahiro Tanaka,down 2-0,1B,b2,---,1,4 (2-1),0,0.03,0.26,.67,Single to RF (Line Drive to CF-RF)
+46162,16,2016-08-24,Leonys Martin,SEA,NYY,Masahiro Tanaka,down 2-0,1B,b2,1--,1,1 (0-0),0,0.07,0.66,1.29,Single to RF (Line Drive to Deep RF Line); Lind to 3B
+46163,17,2016-08-24,Shawn O'Malley,SEA,NYY,Masahiro Tanaka,down 2-0,Out,b2,-23,1,8 (3-2),0,-0.08,-0.80,1.80,Groundout: P-1B (Short 1B Line)
+46164,18,2016-08-24,Chris Iannetta,SEA,NYY,Masahiro Tanaka,down 2-0,Out,b2,-23,2,6 (3-2),0,-0.06,-0.59,2.19,Groundout: SS-1B (SS-3B Hole)
+46165,19,2016-08-24,Didi Gregorius,NYY,@SEA,Hisashi Iwakuma,ahead 0-2,Out,t3,---,0,2 (0-1),0,-0.02,-0.23,.68,Flyball: LF (LF-CF)
+46166,20,2016-08-24,Gary Sanchez,NYY,@SEA,Hisashi Iwakuma,ahead 0-2,Out,t3,---,1,6 (3-2),0,-0.01,-0.16,.50,Foul Popfly: 3B (3B Foul)
+46167,21,2016-08-24,Mark Teixeira,NYY,@SEA,Hisashi Iwakuma,ahead 0-2,BB,t3,---,2,4 (3-0),0,0.01,0.12,.33,Walk
+46168,22,2016-08-24,Starlin Castro,NYY,@SEA,Hisashi Iwakuma,ahead 0-2,Out,t3,1--,2,6 (2-2),0,-0.02,-0.23,.64,Popfly: 2B
+46169,23,2016-08-24,Ketel Marte,SEA,NYY,Masahiro Tanaka,down 2-0,Out,b3,---,0,1 (0-0),0,-0.03,-0.23,1.05,Groundout: 2B-1B (2B-1B)
+46170,24,2016-08-24,Nori Aoki,SEA,NYY,Masahiro Tanaka,down 2-0,2B,b3,---,1,5 (2-2),0,0.05,0.41,.73,Double to LF (Line Drive to Deep LF Line)
+46171,25,2016-08-24,Seth Smith,SEA,NYY,Masahiro Tanaka,down 2-0,BB,b3,-2-,1,8 (3-2),0,0.03,0.23,1.46,Walk
+46172,26,2016-08-24,Robinson Cano,SEA,NYY,Masahiro Tanaka,down 2-0,Out,b3,12-,1,4 (1-2),0,-0.10,-0.90,2.39,Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+46173,1,2016-08-24,Jose Reyes,NYM,@STL,Carlos Martinez,tied 0-0,Out,t1,---,0,4 (1-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Groundout: 3B-1B (Weak 3B)
+46174,2,2016-08-24,Curtis Granderson,NYM,@STL,Carlos Martinez,tied 0-0,Out,t1,---,1,3 (0-2),0,-0.02,-0.16,.62,Groundout: P-1B (Front of Home)
+46175,3,2016-08-24,Yoenis Cespedes,NYM,@STL,Carlos Martinez,tied 0-0,Out,t1,---,2,2 (0-1),0,-0.01,-0.10,.40,Groundout: SS-1B
+46176,4,2016-08-24,Matt Carpenter,STL,NYM,Jacob deGrom,tied 0-0,HR,b1,---,0,6 (3-2),1,0.10,1.00,.87,Home Run (Fly Ball to Deep CF-RF)
+46177,5,2016-08-24,Jedd Gyorko,STL,NYM,Jacob deGrom,ahead 0-1,Out,b1,---,0,1 (0-0),0,-0.02,-0.23,.75,Lineout: CF
+46178,6,2016-08-24,Brandon Moss,STL,NYM,Jacob deGrom,ahead 0-1,SO,b1,---,1,5 (2-2),0,-0.01,-0.16,.54,Strikeout Swinging
+46179,7,2016-08-24,Stephen Piscotty,STL,NYM,Jacob deGrom,ahead 0-1,Out,b1,---,2,4 (0-2),0,-0.01,-0.10,.36,Groundout: 2B-1B
+46180,8,2016-08-24,Jay Bruce,NYM,@STL,Carlos Martinez,down 1-0,2B,t2,---,0,4 (1-2),0,0.07,0.62,.97,Double to LF (Fly Ball to Deep 3B)
+46181,9,2016-08-24,James Loney,NYM,@STL,Carlos Martinez,down 1-0,Out,t2,-2-,0,1 (0-0),0,-0.05,-0.44,1.38,Flyball: LF (Deep 3B)
+46182,10,2016-08-24,Asdrubal Cabrera,NYM,@STL,Carlos Martinez,down 1-0,2B,t2,-2-,1,2 (1-0),1,0.11,1.00,1.34,Double to RF (Line Drive to Deep CF-RF); De Aza Scores
+46183,11,2016-08-24,Kelly Johnson,NYM,@STL,Carlos Martinez,tied 1-1,Out,t2,-2-,1,2 (0-1),0,-0.04,-0.35,1.30,Groundout: 3B-1B (SS-3B Hole)
+46184,12,2016-08-24,Travis d'Arnaud,NYM,@STL,Carlos Martinez,tied 1-1,Out,t2,-2-,2,3 (1-1),0,-0.03,-0.32,1.21,Groundout: 1B-P
+46185,13,2016-08-24,Yadier Molina,STL,NYM,Jacob deGrom,tied 1-1,2B,b2,---,0,7 (2-2),0,0.06,0.62,.92,Double to RF (Fly Ball to Deep RF)
+46186,14,2016-08-24,Jhonny Peralta,STL,NYM,Jacob deGrom,tied 1-1,SO,b2,---,1,6 (3-2),0,-0.02,-0.16,.67,Strikeout Swinging
+46187,15,2016-08-24,Randal Grichuk,STL,NYM,Jacob deGrom,tied 1-1,2B,b2,---,2,2 (1-0),0,0.02,0.22,.43,Double to CF (Fly Ball to Deep CF)
+46188,16,2016-08-24,Greg Garcia,STL,NYM,Jacob deGrom,tied 1-1,1B,b2,-2-,2,1 (0-0),0,-0.03,-0.32,1.22,Single to RF (Line Drive to Short RF); Grichuk out at Hm/RF-C
+46189,17,2016-08-24,Jose Reyes,NYM,@STL,Carlos Martinez,tied 1-1,SO,t3,---,1,4 (1-2),0,-0.02,-0.16,.72,Strikeout Swinging
+46190,18,2016-08-24,Curtis Granderson,NYM,@STL,Carlos Martinez,tied 1-1,Out,t3,---,2,2 (1-0),0,-0.01,-0.10,.46,Groundout: 1B unassisted
+46191,19,2016-08-24,Matt Carpenter,STL,NYM,Jacob deGrom,tied 1-1,SO,b3,---,1,4 (1-2),0,-0.02,-0.16,.72,Strikeout Swinging
+46192,20,2016-08-24,Jedd Gyorko,STL,NYM,Jacob deGrom,tied 1-1,1B,b3,---,2,5 (2-2),0,0.01,0.12,.47,Single to RF (Line Drive to Short RF)
+46193,21,2016-08-24,Brandon Moss,STL,NYM,Jacob deGrom,tied 1-1,1B,b3,1--,2,2 (0-1),0,0.03,0.27,.92,Single to CF (Line Drive to Short CF); Gyorko to 3B
+46194,22,2016-08-24,Stephen Piscotty,STL,NYM,Jacob deGrom,tied 1-1,1B,b3,1-3,2,6 (3-2),1,0.11,0.94,2.01,Single to 3B (Ground Ball); Gyorko Scores; Moss to 2B
+46195,23,2016-08-24,Yadier Molina,STL,NYM,Jacob deGrom,ahead 1-2,Out,b3,12-,2,1 (0-0),0,-0.04,-0.43,1.52,Groundout: 2B-1B
+46196,1,2016-08-24,Dustin Pedroia,BOS,@TBR,Matt Andriese,tied 0-0,1B,t1,---,0,3 (1-1),0,0.04,0.38,.87,*LEADOFF GM*:Single to RF (Line Drive)
+46197,2,2016-08-24,Xander Bogaerts,BOS,@TBR,Matt Andriese,tied 0-0,SO,t1,1--,0,7 (3-2),0,-0.02,-0.20,1.46,Strikeout Swinging Pedroia Steals 2B
+46198,3,2016-08-24,David Ortiz,BOS,@TBR,Matt Andriese,tied 0-0,HR,t1,-2-,1,1 (0-0),2,0.16,1.59,1.23,Home Run (Fly Ball to Deep RF); Pedroia Scores
+46199,4,2016-08-24,Mookie Betts,BOS,@TBR,Matt Andriese,ahead 0-2,1B,t1,---,1,4 (2-1),0,0.02,0.25,.47,Single to SS (Ground Ball to SS-3B Hole)
+46200,5,2016-08-24,Jackie Bradley,BOS,@TBR,Matt Andriese,ahead 0-2,SO,t1,1--,1,4 (1-2),0,-0.02,-0.29,.88,Strikeout
+46201,6,2016-08-24,Sandy Leon,BOS,@TBR,Matt Andriese,ahead 0-2,SO,t1,1--,2,5 (1-2),0,-0.02,-0.22,.61,Strikeout Swinging
+46202,7,2016-08-24,Logan Forsythe,TBR,BOS,Rick Porcello,down 2-0,Out,b1,---,0,4 (2-1),0,-0.02,-0.23,.91,Lineout: CF (Deep CF)
+46203,8,2016-08-24,Kevin Kiermaier,TBR,BOS,Rick Porcello,down 2-0,Out,b1,---,1,2 (0-1),0,-0.02,-0.15,.63,Flyball: CF (Deep CF-RF)
+46204,9,2016-08-24,Evan Longoria,TBR,BOS,Rick Porcello,down 2-0,Out,b1,---,2,5 (2-2),0,-0.01,-0.10,.40,Lineout: LF (Deep LF-CF)
+46205,10,2016-08-24,Brock Holt,BOS,@TBR,Matt Andriese,ahead 0-2,Out,t2,---,0,2 (0-1),0,-0.02,-0.23,.67,Groundout: P-1B (Weak 2B)
+46206,11,2016-08-24,Travis Shaw,BOS,@TBR,Matt Andriese,ahead 0-2,Out,t2,---,1,4 (2-1),0,-0.01,-0.15,.48,Foul Popfly: 3B (3B Foul)
+46207,12,2016-08-24,Andrew Benintendi,BOS,@TBR,Matt Andriese,ahead 0-2,SO,t2,---,2,5 (2-2),0,-0.01,-0.10,.32,Strikeout Swinging
+46208,13,2016-08-24,Brad Miller,TBR,BOS,Rick Porcello,down 2-0,SO,b2,---,0,3 (0-2),0,-0.02,-0.23,.97,Strikeout Looking
+46209,14,2016-08-24,Matt Duffy,TBR,BOS,Rick Porcello,down 2-0,1B,b2,---,1,6 (3-2),0,0.03,0.25,.66,Single to SS (Ground Ball to SS-3B Hole)
+46210,15,2016-08-24,Logan Morrison,TBR,BOS,Rick Porcello,down 2-0,2B,b2,1--,1,1 (0-0),0,0.09,0.88,1.29,Double to CF (Fly Ball to Deep CF); Duffy to 3B
+46211,16,2016-08-24,Steven Souza,TBR,BOS,Rick Porcello,down 2-0,SO,b2,-23,1,4 (1-2),0,-0.08,-0.80,1.82,Strikeout Swinging
+46212,17,2016-08-24,Corey Dickerson,TBR,BOS,Rick Porcello,down 2-0,Out,b2,-23,2,6 (1-2),0,-0.06,-0.59,2.19,Groundout: 1B unassisted
+46213,18,2016-08-24,Dustin Pedroia,BOS,@TBR,Matt Andriese,ahead 0-2,BB,t3,---,0,5 (3-1),0,0.03,0.38,.68,Walk
+46214,19,2016-08-24,Xander Bogaerts,BOS,@TBR,Matt Andriese,ahead 0-2,Out,t3,1--,0,3 (1-1),0,-0.03,-0.35,1.10,Popfly: 3B (Weak 3B)
+46215,20,2016-08-24,David Ortiz,BOS,@TBR,Matt Andriese,ahead 0-2,Out,t3,1--,1,2 (0-1),0,-0.02,-0.29,.91,Flyball: CF (Deep CF-RF)
+46216,21,2016-08-24,Mookie Betts,BOS,@TBR,Matt Andriese,ahead 0-2,1B,t3,-2-,2,4 (2-1),1,0.07,0.68,.93,Single to RF (Ground Ball thru 2B-1B); Pedroia Scores; Betts out at 2B
+46217,22,2016-08-24,Bobby Wilson,TBR,BOS,Rick Porcello,down 3-0,1B,b3,---,0,3 (2-0),0,0.04,0.38,.90,Single to CF (Ground Ball thru SS-2B)
+46218,23,2016-08-24,Logan Forsythe,TBR,BOS,Rick Porcello,down 3-0,SO,b3,1--,0,4 (1-2),0,-0.04,-0.35,1.59,Strikeout Swinging
+46219,24,2016-08-24,Kevin Kiermaier,TBR,BOS,Rick Porcello,down 3-0,1B,b3,1--,1,4 (1-2),0,0.04,0.38,1.20,Single to RF (Line Drive); Wilson to 2B
+46220,25,2016-08-24,Evan Longoria,TBR,BOS,Rick Porcello,down 3-0,SO,b3,12-,1,5 (2-2),0,-0.05,-0.47,2.14,Strikeout Swinging
+46221,26,2016-08-24,Brad Miller,TBR,BOS,Rick Porcello,down 3-0,2B,b3,12-,2,7 (3-2),2,0.19,1.89,1.67,Double to RF (Ground Ball); Wilson Scores; Kiermaier Scores
+46222,27,2016-08-24,Matt Duffy,TBR,BOS,Rick Porcello,down 3-2,SO,b3,-2-,2,6 (3-2),0,-0.04,-0.32,1.41,Strikeout Looking
+46223,1,2016-08-24,Kole Calhoun,LAA,@TOR,Marco Estrada,tied 0-0,Out,t1,---,0,5 (2-2),0,-0.02,-0.25,.87,*LEADOFF GM*:Flyball: RF (Deep RF Line)
+46224,2,2016-08-24,Mike Trout,LAA,@TOR,Marco Estrada,tied 0-0,HR,t1,---,1,7 (3-2),1,0.10,1.00,.62,Home Run (Fly Ball to Deep LF)
+46225,3,2016-08-24,Albert Pujols,LAA,@TOR,Marco Estrada,ahead 0-1,HR,t1,---,1,2 (0-1),1,0.09,1.00,.57,Home Run (Line Drive to Deep LF-CF)
+46226,4,2016-08-24,C.J. Cron,LAA,@TOR,Marco Estrada,ahead 0-2,SO,t1,---,1,5 (2-2),0,-0.01,-0.17,.49,Strikeout Swinging
+46227,5,2016-08-24,Andrelton Simmons,LAA,@TOR,Marco Estrada,ahead 0-2,1B,t1,---,2,2 (1-0),0,0.01,0.13,.32,Single to LF (Ground Ball thru SS-3B Hole)
+46228,6,2016-08-24,Nick Buss,LAA,@TOR,Marco Estrada,ahead 0-2,SO,t1,1--,2,5 (1-2),0,-0.02,-0.24,.63,Strikeout Swinging
+46229,7,2016-08-24,Darwin Barney,TOR,LAA,Matt Shoemaker,down 2-0,Out,b1,---,0,4 (2-1),0,-0.02,-0.25,.91,Flyball: LF (Short LF-CF)
+46230,8,2016-08-24,Josh Donaldson,TOR,LAA,Matt Shoemaker,down 2-0,Out,b1,---,1,2 (1-0),0,-0.02,-0.17,.64,Popfly: C (Front of Home)
+46231,9,2016-08-24,Edwin Encarnacion,TOR,LAA,Matt Shoemaker,down 2-0,Out,b1,---,2,4 (2-1),0,-0.01,-0.11,.40,Groundout: 3B-1B
+46232,10,2016-08-24,Jett Bandy,LAA,@TOR,Marco Estrada,ahead 0-2,1B,t2,---,0,3 (0-2),0,0.03,0.39,.69,Single to LF (Line Drive to Short LF-CF)
+46233,11,2016-08-24,Kaleb Cowart,LAA,@TOR,Marco Estrada,ahead 0-2,Out,t2,1--,0,2 (1-0),0,-0.01,-0.21,1.10,Groundout: 2B-P (Deep 1B); Bandy to 2B
+46234,12,2016-08-24,Cliff Pennington,LAA,@TOR,Marco Estrada,ahead 0-2,BB,t2,-2-,1,5 (3-1),0,0.01,0.24,.95,Walk
+46235,13,2016-08-24,Kole Calhoun,LAA,@TOR,Marco Estrada,ahead 0-2,2B,t2,12-,1,2 (0-1),1,0.10,1.50,1.47,Double to RF (Ground Ball); Bandy Scores; Pennington to 3B
+46236,14,2016-08-24,Mike Trout,LAA,@TOR,Marco Estrada,ahead 0-3,IBB,t2,-23,1,4 (3-0),0,0.00,0.17,.91,Intentional Walk
+46237,15,2016-08-24,Albert Pujols,LAA,@TOR,Marco Estrada,ahead 0-3,Out,t2,123,1,5 (3-1),1,0.01,-0.09,1.46,Lineout: CF/Sacrifice Fly (Deep CF); Pennington Scores; Calhoun to 3B
+46238,16,2016-08-24,C.J. Cron,LAA,@TOR,Marco Estrada,ahead 0-4,1B,t2,1-3,2,4 (1-2),1,0.05,1.00,.84,Single to RF (Line Drive); Calhoun Scores; Trout to 3B
+46239,17,2016-08-24,Andrelton Simmons,LAA,@TOR,Marco Estrada,ahead 0-5,Out,t2,1-3,2,1 (0-0),0,-0.02,-0.51,.61,Groundout: SS-1B (Weak SS)
+46240,18,2016-08-24,Russell Martin,TOR,LAA,Matt Shoemaker,down 5-0,SO,b2,---,0,6 (3-2),0,-0.02,-0.25,.60,Strikeout Swinging
+46241,19,2016-08-24,Troy Tulowitzki,TOR,LAA,Matt Shoemaker,down 5-0,Out,b2,---,1,6 (2-2),0,-0.01,-0.17,.40,Popfly: 2B (Deep 2B)
+46242,20,2016-08-24,Michael Saunders,TOR,LAA,Matt Shoemaker,down 5-0,2B,b2,---,2,4 (1-2),0,0.01,0.22,.22,Double to LF (Line Drive to Short LF Line)
+46243,21,2016-08-24,Kevin Pillar,TOR,LAA,Matt Shoemaker,down 5-0,Out,b2,-2-,2,6 (1-2),0,-0.02,-0.33,.64,Groundout: 3B-1B (SS-3B Hole)
+46244,22,2016-08-24,Nick Buss,LAA,@TOR,Marco Estrada,ahead 0-5,Out,t3,---,0,3 (0-2),0,-0.01,-0.25,.28,Popfly: SS (Deep SS)
+46245,23,2016-08-24,Jett Bandy,LAA,@TOR,Marco Estrada,ahead 0-5,2B,t3,---,1,2 (0-1),0,0.01,0.42,.19,Double to LF (Ground Ball)
+46246,24,2016-08-24,Kaleb Cowart,LAA,@TOR,Marco Estrada,ahead 0-5,Out,t3,-2-,1,1 (0-0),0,-0.02,-0.70,.38,Double Play: Lineout: 2B (2B-1B); Bandy out at 2B/2B-SS
+46247,25,2016-08-24,Melvin Upton,TOR,LAA,Matt Shoemaker,down 5-0,SO,b3,---,0,4 (1-2),0,-0.02,-0.25,.59,Strikeout Swinging
+46248,26,2016-08-24,Ezequiel Carrera,TOR,LAA,Matt Shoemaker,down 5-0,Out,b3,---,1,3 (1-1),0,-0.01,-0.17,.40,Lineout: 1B
+46249,27,2016-08-24,Darwin Barney,TOR,LAA,Matt Shoemaker,down 5-0,Out,b3,---,2,2 (0-1),0,-0.01,-0.11,.22,Groundout: 2B-1B
+46250,1,2016-08-24,Adam Jones,BAL,@WSN,Tanner Roark,tied 0-0,Out,t1,---,0,4 (2-1),0,-0.02,-0.24,.87,*LEADOFF GM*:Flyball: CF (Deep CF-RF)
+46251,2,2016-08-24,Hyun Soo Kim,BAL,@WSN,Tanner Roark,tied 0-0,1B,t1,---,1,6 (3-2),0,0.02,0.26,.62,Single to LF (Line Drive)
+46252,3,2016-08-24,Manny Machado,BAL,@WSN,Tanner Roark,tied 0-0,HR,t1,1--,1,3 (2-0),2,0.17,1.74,1.15,Home Run (Fly Ball to Deep LF); Kim Scores
+46253,4,2016-08-24,Chris Davis,BAL,@WSN,Tanner Roark,ahead 0-2,2B,t1,---,1,5 (3-1),0,0.03,0.42,.48,Double to LF (Line Drive to Deep CF)
+46254,5,2016-08-24,Mark Trumbo,BAL,@WSN,Tanner Roark,ahead 0-2,BB,t1,-2-,1,5 (3-1),0,0.01,0.23,.93,Walk
+46255,6,2016-08-24,Jonathan Schoop,BAL,@WSN,Tanner Roark,ahead 0-2,HBP,t1,12-,1,6 (2-2),0,0.04,0.66,1.45,Hit By Pitch; Davis to 3B; Trumbo to 2B
+46256,7,2016-08-24,Matt Wieters,BAL,@WSN,Tanner Roark,ahead 0-2,HBP,t1,123,1,1 (0-0),1,0.06,1.00,1.86,Hit By Pitch; Davis Scores; Trumbo to 3B; Schoop to 2B
+46257,8,2016-08-24,J.J. Hardy,BAL,@WSN,Tanner Roark,ahead 0-3,Out,t1,123,1,4 (1-2),1,0.01,0.03,1.48,Flyball: CF/Sacrifice Fly; Trumbo Scores; Schoop to 3B; Wieters to 2B
+46258,9,2016-08-24,Trea Turner,WSN,BAL,Wade Miley,down 4-0,1B,b1,---,0,4 (2-1),0,0.03,0.38,.71,Single to CF (Line Drive)
+46259,10,2016-08-24,Jayson Werth,WSN,BAL,Wade Miley,down 4-0,HBP,b1,1--,0,1 (0-0),0,0.05,0.61,1.24,Hit By Pitch; Turner to 2B
+46260,11,2016-08-24,Daniel Murphy,WSN,BAL,Wade Miley,down 4-0,Out,b1,12-,0,4 (1-2),0,-0.03,-0.31,1.78,Groundout: 1B-SS/Forceout at 2B; Turner to 3B
+46261,12,2016-08-24,Bryce Harper,WSN,BAL,Wade Miley,down 4-0,SO,b1,1-3,1,3 (0-2),0,-0.05,-0.69,1.53,Strikeout Looking
+46262,13,2016-08-24,Anthony Rendon,WSN,BAL,Wade Miley,down 4-0,2B,b1,1-3,2,8 (2-2),1,0.03,0.50,1.35,Double to LF (Line Drive to Deep LF Line); Turner Scores; Murphy out at Hm/LF-SS-C
+46263,14,2016-08-24,Adam Jones,BAL,@WSN,Tanner Roark,ahead 1-4,1B,t2,---,0,3 (1-1),0,0.04,0.62,.54,Single to 3B (Ground Ball to SS-3B Hole); Jones to 2B/Adv on E5 (throw)
+46264,15,2016-08-24,Hyun Soo Kim,BAL,@WSN,Tanner Roark,ahead 1-4,SO,t2,-2-,0,4 (1-2),0,-0.03,-0.44,.71,Strikeout Swinging
+46265,16,2016-08-24,Manny Machado,BAL,@WSN,Tanner Roark,ahead 1-4,1B,t2,-2-,1,1 (0-0),1,0.05,0.84,.74,Single to CF (Line Drive to Deep CF); Jones Scores/unER
+46266,17,2016-08-24,Chris Davis,BAL,@WSN,Tanner Roark,ahead 1-5,SO,t2,1--,1,7 (3-2),0,-0.01,-0.29,.52,Strikeout Swinging
+46267,18,2016-08-24,Mark Trumbo,BAL,@WSN,Tanner Roark,ahead 1-5,HBP,t2,1--,2,3 (1-1),0,0.01,0.21,.37,Hit By Pitch; Machado to 2B
+46268,19,2016-08-24,Jonathan Schoop,BAL,@WSN,Tanner Roark,ahead 1-5,SO,t2,12-,2,5 (2-2),0,-0.02,-0.44,.75,Strikeout Swinging
+46269,20,2016-08-24,Wilson Ramos,WSN,BAL,Wade Miley,down 5-1,SO,b2,---,0,6 (3-2),0,-0.02,-0.24,.74,Strikeout Swinging
+46270,21,2016-08-24,Ryan Zimmerman,WSN,BAL,Wade Miley,down 5-1,Out,b2,---,1,5 (1-2),0,-0.01,-0.16,.50,Groundout: SS-1B (SS-3B Hole)
+46271,22,2016-08-24,Danny Espinosa,WSN,BAL,Wade Miley,down 5-1,Out,b2,---,2,4 (1-2),0,-0.01,-0.10,.29,Flyball: CF
+46272,23,2016-08-24,Matt Wieters,BAL,@WSN,Tanner Roark,ahead 1-5,Out,t3,---,0,5 (2-2),0,-0.01,-0.24,.38,Lineout: RF (CF-RF)
+46273,24,2016-08-24,J.J. Hardy,BAL,@WSN,Tanner Roark,ahead 1-5,Out,t3,---,1,2 (0-1),0,-0.01,-0.16,.27,Groundout: 3B-1B (SS-3B Hole)
+46274,25,2016-08-24,Adam Jones,BAL,@WSN,Tanner Roark,ahead 1-5,Out,t3,1--,2,2 (0-1),0,-0.01,-0.23,.36,Groundout: 2B-1B
+46275,26,2016-08-24,Trea Turner,WSN,BAL,Wade Miley,down 5-1,1B,b3,---,1,1 (0-0),0,0.02,0.26,.51,Single to P (Bunt to Front of Home)
+46276,27,2016-08-24,Jayson Werth,WSN,BAL,Wade Miley,down 5-1,BB,b3,1--,1,5 (3-1),0,0.03,0.39,.99,Walk; Turner to 2B
+46277,28,2016-08-24,Daniel Murphy,WSN,BAL,Wade Miley,down 5-1,Out,b3,12-,1,1 (0-0),0,-0.07,-0.91,1.77,Ground Ball Double Play: SS-2B-1B
+46278,1,2016-08-25,Ender Inciarte,ATL,@ARI,Robbie Ray,tied 0-0,Out,t1,---,0,2 (0-1),0,-0.02,-0.24,.87,*LEADOFF GM*:Groundout: P-1B
+46279,2,2016-08-25,Adonis Garcia,ATL,@ARI,Robbie Ray,tied 0-0,BB,t1,---,1,7 (3-2),0,0.02,0.27,.62,Walk
+46280,3,2016-08-25,Freddie Freeman,ATL,@ARI,Robbie Ray,tied 0-0,Out,t1,1--,1,4 (2-1),0,-0.02,-0.21,1.15,Groundout: 3B-1B; Garcia to 2B
+46281,4,2016-08-25,Matt Kemp,ATL,@ARI,Robbie Ray,tied 0-0,Out,t1,-2-,2,6 (2-2),0,-0.03,-0.33,1.11,Groundout: 3B-1B (SS-3B Hole)
+46282,5,2016-08-25,Jean Segura,ARI,ATL,Matt Wisler,tied 0-0,Out,b1,---,0,5 (3-1),0,-0.02,-0.24,.87,Groundout: SS-1B
+46283,6,2016-08-25,Michael Bourn,ARI,ATL,Matt Wisler,tied 0-0,BB,b1,---,1,5 (3-1),0,0.02,0.27,.62,Walk
+46284,7,2016-08-25,Paul Goldschmidt,ARI,ATL,Matt Wisler,tied 0-0,Out,b1,1--,1,7 (3-2),0,-0.03,-0.30,1.15,Flyball: CF (Deep CF-RF)
+46285,8,2016-08-25,Jake Lamb,ARI,ATL,Matt Wisler,tied 0-0,Out,b1,1--,2,5 (1-2),0,-0.02,-0.24,.79,Groundout: 2B-1B (2B-1B)
+46286,9,2016-08-25,Nick Markakis,ATL,@ARI,Robbie Ray,tied 0-0,SO,t2,---,0,4 (1-2),0,-0.02,-0.24,.93,Strikeout Looking
+46287,10,2016-08-25,Anthony Recker,ATL,@ARI,Robbie Ray,tied 0-0,SO,t2,---,1,3 (0-2),0,-0.02,-0.17,.66,Strikeout Swinging
+46288,11,2016-08-25,Dansby Swanson,ATL,@ARI,Robbie Ray,tied 0-0,1B,t2,---,2,2 (1-0),0,0.01,0.13,.42,Single to LF (Ground Ball thru SS-3B Hole)
+46289,12,2016-08-25,Gordon Beckham,ATL,@ARI,Robbie Ray,tied 0-0,IBB,t2,-2-,2,4 (3-0),0,0.01,0.12,1.19,Intentional Walk
+46290,13,2016-08-25,Mitch Haniger,ARI,ATL,Matt Wisler,tied 0-0,Out,b2,---,0,4 (2-1),0,-0.02,-0.24,.92,Flyball: RF (CF-RF)
+46291,14,2016-08-25,Chris Owings,ARI,ATL,Matt Wisler,tied 0-0,Out,b2,---,1,4 (2-1),0,-0.02,-0.17,.67,Groundout: SS-1B (SS-3B Hole)
+46292,15,2016-08-25,Brandon Drury,ARI,ATL,Matt Wisler,tied 0-0,Out,b2,---,2,4 (1-2),0,-0.01,-0.11,.43,Groundout: 3B-1B
+46293,16,2016-08-25,Ender Inciarte,ATL,@ARI,Robbie Ray,tied 0-0,1B,t3,---,0,6 (3-2),0,0.04,0.39,.99,Single to CF (Ground Ball thru SS-2B)
+46294,17,2016-08-25,Adonis Garcia,ATL,@ARI,Robbie Ray,tied 0-0,1B,t3,1--,0,3 (1-1),0,0.10,0.96,1.61,Single to RF (Ground Ball thru 2B-1B); Inciarte to 3B
+46295,18,2016-08-25,Freddie Freeman,ATL,@ARI,Robbie Ray,tied 0-0,1B,t3,1-3,0,3 (1-1),1,0.06,0.65,1.71,Single to RF (Ground Ball thru 2B-1B); Inciarte Scores; Garcia to 2B
+46296,19,2016-08-25,Matt Kemp,ATL,@ARI,Robbie Ray,ahead 0-1,Out,t3,12-,0,4 (1-2),0,-0.02,-0.32,1.72,Flyball: CF (Deep CF); Garcia to 3B
+46297,20,2016-08-25,Nick Markakis,ATL,@ARI,Robbie Ray,ahead 0-1,Out,t3,1-3,1,1 (0-0),1,0.01,0.03,1.77,Groundout: SS-2B/Forceout at 2B; Garcia Scores
+46298,21,2016-08-25,Anthony Recker,ATL,@ARI,Robbie Ray,ahead 0-2,BB,t3,1--,2,6 (3-2),0,0.02,0.21,.66,Walk; Markakis to 2B
+46299,22,2016-08-25,Dansby Swanson,ATL,@ARI,Robbie Ray,ahead 0-2,SO,t3,12-,2,4 (1-2),0,-0.03,-0.45,1.31,Strikeout Swinging
+46300,23,2016-08-25,Tuffy Gosewisch,ARI,ATL,Matt Wisler,down 2-0,Out,b3,---,0,5 (2-2),0,-0.03,-0.24,1.05,Lineout: SS (Deep SS-2B)
+46301,24,2016-08-25,Jean Segura,ARI,ATL,Matt Wisler,down 2-0,BB,b3,---,2,6 (3-2),0,0.01,0.13,.46,Walk
+46302,25,2016-08-25,Michael Bourn,ARI,ATL,Matt Wisler,down 2-0,Out,b3,1--,2,4 (2-1),0,-0.03,-0.24,.92,Groundout: 2B-1B (2B-1B)
+46303,1,2016-08-25,Nori Aoki,SEA,@CHW,Anthony Ranaudo,tied 0-0,BB,t1,---,0,5 (3-1),0,0.04,0.38,.87,*LEADOFF GM*:Walk
+46304,2,2016-08-25,Seth Smith,SEA,@CHW,Anthony Ranaudo,tied 0-0,2B,t1,1--,0,5 (2-2),1,0.12,1.24,1.46,Double to CF (Line Drive to Deep LF-CF); Aoki Scores
+46305,3,2016-08-25,Robinson Cano,SEA,@CHW,Anthony Ranaudo,ahead 0-1,Out,t1,-2-,0,5 (2-2),0,-0.01,-0.17,1.11,Flyball: LF (Deep LF-CF); Smith to 3B
+46306,4,2016-08-25,Nelson Cruz,SEA,@CHW,Anthony Ranaudo,ahead 0-1,Out,t1,--3,1,1 (0-0),1,0.02,0.17,1.27,Flyball: CF/Sacrifice Fly (Deep CF-RF); Smith Scores
+46307,5,2016-08-25,Adam Lind,SEA,@CHW,Anthony Ranaudo,ahead 0-2,Out,t1,---,2,6 (3-2),0,-0.01,-0.10,.30,Groundout: 2B-1B (Deep 2B)
+46308,6,2016-08-25,Adam Eaton,CHW,SEA,James Paxton,down 2-0,1B,b1,---,0,4 (2-1),0,0.04,0.38,.91,Single to SS (Ground Ball)
+46309,7,2016-08-25,Tim Anderson,CHW,SEA,James Paxton,down 2-0,1B,b1,1--,0,4 (0-2),0,0.06,0.60,1.56,Single to RF (Ground Ball thru 2B-1B); Eaton to 2B
+46310,8,2016-08-25,Jose Abreu,CHW,SEA,James Paxton,down 2-0,1B,b1,12-,0,3 (2-0),1,0.14,1.36,2.13,Single to RF (Ground Ball); Eaton Scores; Anderson to 3B
+46311,9,2016-08-25,Todd Frazier,CHW,SEA,James Paxton,down 2-1,SO,b1,1-3,0,3 (0-2),0,-0.06,-0.66,1.81,Strikeout Swinging
+46312,10,2016-08-25,Avisail Garcia,CHW,SEA,James Paxton,down 2-1,1B,b1,1-3,1,3 (0-2),1,0.07,0.72,1.98,Single to RF (Line Drive to Short RF); Anderson Scores; Abreu to 2B
+46313,11,2016-08-25,Justin Morneau,CHW,SEA,James Paxton,tied 2-2,1B,b1,12-,1,3 (1-1),0,0.06,0.66,1.94,Single to RF (Ground Ball thru 2B-1B); Abreu to 3B; Garcia to 2B
+46314,12,2016-08-25,Dioner Navarro,CHW,SEA,James Paxton,tied 2-2,Out,b1,123,1,8 (2-2),1,0.00,-0.12,2.54,Lineout: LF/Sacrifice Fly; Abreu Scores
+46315,13,2016-08-25,J.B. Shuck,CHW,SEA,James Paxton,ahead 2-3,Out,b1,12-,2,3 (1-1),0,-0.04,-0.42,1.42,Groundout: 1B unassisted
+46316,14,2016-08-25,Mike Zunino,SEA,@CHW,Anthony Ranaudo,down 3-2,SO,t2,---,0,5 (2-2),0,-0.02,-0.23,.97,Strikeout Swinging
+46317,15,2016-08-25,Leonys Martin,SEA,@CHW,Anthony Ranaudo,down 3-2,Out,t2,---,1,3 (0-2),0,-0.02,-0.15,.68,Groundout: SS-1B
+46318,16,2016-08-25,Shawn O'Malley,SEA,@CHW,Anthony Ranaudo,down 3-2,SO,t2,---,2,6 (2-2),0,-0.01,-0.10,.42,Strikeout Swinging
+46319,17,2016-08-25,Tyler Saladino,CHW,SEA,James Paxton,ahead 2-3,BB,b2,---,0,4 (3-0),0,0.03,0.38,.76,Walk
+46320,18,2016-08-25,Adam Eaton,CHW,SEA,James Paxton,ahead 2-3,Out,b2,1--,0,2 (0-1),0,-0.03,-0.35,1.27,Flyball: RF (Short CF-RF)
+46321,19,2016-08-25,Tim Anderson,CHW,SEA,James Paxton,ahead 2-3,1B,b2,1--,1,4 (2-1),0,0.03,0.38,1.04,Single to LF (Ground Ball thru SS-3B Hole); Saladino to 2B
+46322,20,2016-08-25,Jose Abreu,CHW,SEA,James Paxton,ahead 2-3,Out,b2,12-,1,2 (1-0),0,-0.08,-0.89,1.70,Double Play: Lineout: 2B unassisted; Saladino out at 2B/2B
+46323,21,2016-08-25,Ketel Marte,SEA,@CHW,Anthony Ranaudo,down 3-2,Out,t3,---,0,7 (2-2),0,-0.03,-0.23,1.03,Groundout: SS-1B (Weak SS)
+46324,22,2016-08-25,Nori Aoki,SEA,@CHW,Anthony Ranaudo,down 3-2,Out,t3,---,1,6 (2-2),0,-0.02,-0.15,.73,Groundout: 1B unassisted
+46325,23,2016-08-25,Seth Smith,SEA,@CHW,Anthony Ranaudo,down 3-2,Out,t3,---,2,2 (1-0),0,-0.01,-0.10,.46,Groundout: 1B unassisted
+46326,24,2016-08-25,Todd Frazier,CHW,SEA,James Paxton,ahead 2-3,SO,b3,---,0,6 (2-2),0,-0.02,-0.23,.79,Strikeout Swinging
+46327,25,2016-08-25,Avisail Garcia,CHW,SEA,James Paxton,ahead 2-3,SO,b3,---,1,4 (1-2),0,-0.01,-0.15,.58,Strikeout Swinging
+46328,26,2016-08-25,Justin Morneau,CHW,SEA,James Paxton,ahead 2-3,SO,b3,---,2,6 (2-2),0,-0.01,-0.10,.39,Strikeout Swinging
+46329,1,2016-08-25,Denard Span,SFG,@LAD,Ross Stripling,tied 0-0,Out,t1,---,0,5 (1-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Lineout: LF
+46330,2,2016-08-25,Angel Pagan,SFG,@LAD,Ross Stripling,tied 0-0,1B,t1,---,1,3 (1-1),0,0.02,0.25,.61,Single to LF (Line Drive to Short LF)
+46331,3,2016-08-25,Buster Posey,SFG,@LAD,Ross Stripling,tied 0-0,Out,t1,1--,1,4 (2-1),0,-0.03,-0.28,1.16,Flyball: RF (Deep RF)
+46332,4,2016-08-25,Hunter Pence,SFG,@LAD,Ross Stripling,tied 0-0,Out,t1,1--,2,3 (1-1),0,-0.02,-0.22,.80,Foul Popfly: 1B (1B Foul)
+46333,5,2016-08-25,Enrique Hernandez,LAD,SFG,Matt Moore,tied 0-0,SO,b1,---,0,3 (0-2),0,-0.02,-0.22,.87,Strikeout Swinging
+46334,6,2016-08-25,Howie Kendrick,LAD,SFG,Matt Moore,tied 0-0,Out,b1,---,1,5 (2-2),0,-0.01,-0.15,.61,Lineout: CF (Deep CF-RF)
+46335,7,2016-08-25,Corey Seager,LAD,SFG,Matt Moore,tied 0-0,Out,b1,---,2,7 (3-2),0,-0.01,-0.10,.40,Groundout: 2B-1B
+46336,8,2016-08-25,Brandon Crawford,SFG,@LAD,Ross Stripling,tied 0-0,2B,t2,---,0,6 (2-2),0,0.07,0.61,.93,Double to CF (Line Drive to Deep CF-RF)
+46337,9,2016-08-25,Eduardo Nunez,SFG,@LAD,Ross Stripling,tied 0-0,SO,t2,-2-,0,3 (0-2),0,-0.04,-0.43,1.34,Strikeout Swinging
+46338,10,2016-08-25,Brandon Belt,SFG,@LAD,Ross Stripling,tied 0-0,Out,t2,-2-,1,4 (2-1),0,-0.04,-0.34,1.32,Foul Popfly: 3B (3B Foul)
+46339,11,2016-08-25,Joe Panik,SFG,@LAD,Ross Stripling,tied 0-0,IBB,t2,-2-,2,4 (3-0),0,0.01,0.11,1.23,Intentional Walk
+46340,12,2016-08-25,Justin Turner,LAD,SFG,Matt Moore,tied 0-0,Out,b2,---,0,11 (3-2),0,-0.02,-0.22,.92,Groundout: 3B-1B (SS-3B Hole)
+46341,13,2016-08-25,Adrian Gonzalez,LAD,SFG,Matt Moore,tied 0-0,Out,b2,---,1,1 (0-0),0,-0.02,-0.15,.66,Lineout: CF (Deep LF-CF)
+46342,14,2016-08-25,Yasmani Grandal,LAD,SFG,Matt Moore,tied 0-0,BB,b2,---,2,6 (3-2),0,0.01,0.12,.42,Walk
+46343,15,2016-08-25,Rob Segedin,LAD,SFG,Matt Moore,tied 0-0,Out,b2,1--,2,4 (0-2),0,-0.02,-0.22,.85,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole)
+46344,16,2016-08-25,Denard Span,SFG,@LAD,Ross Stripling,tied 0-0,Out,t3,---,0,6 (2-2),0,-0.02,-0.22,.99,Groundout: 2B-1B (2B-1B)
+46345,17,2016-08-25,Angel Pagan,SFG,@LAD,Ross Stripling,tied 0-0,Out,t3,---,1,9 (3-2),0,-0.02,-0.15,.71,Groundout: 2B-1B (2B-1B)
+46346,18,2016-08-25,Buster Posey,SFG,@LAD,Ross Stripling,tied 0-0,1B,t3,---,2,1 (0-0),0,0.01,0.12,.45,Single to LF (Line Drive)
+46347,19,2016-08-25,Hunter Pence,SFG,@LAD,Ross Stripling,tied 0-0,Out,t3,1--,2,5 (2-2),0,-0.03,-0.22,.92,Groundout: 3B-1B (Weak 3B)
+46348,20,2016-08-25,Charlie Culberson,LAD,SFG,Matt Moore,tied 0-0,SO,b3,---,0,4 (1-2),0,-0.02,-0.22,.99,Strikeout Swinging (C-1B)
+46349,21,2016-08-25,Enrique Hernandez,LAD,SFG,Matt Moore,tied 0-0,Out,b3,---,2,4 (2-1),0,-0.01,-0.10,.46,Lineout: CF (Deep CF)
+46350,1,2016-08-25,Jarrod Dyson,KCR,@MIA,Tom Koehler,tied 0-0,Out,t1,---,0,3 (0-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Lineout: LF
+46351,2,2016-08-25,Cheslor Cuthbert,KCR,@MIA,Tom Koehler,tied 0-0,Out,t1,---,1,5 (3-1),0,-0.01,-0.15,.61,Groundout: 3B-1B (Weak 3B)
+46352,3,2016-08-25,Lorenzo Cain,KCR,@MIA,Tom Koehler,tied 0-0,1B,t1,---,2,5 (2-2),0,0.01,0.12,.39,Single to SS (Ground Ball)
+46353,4,2016-08-25,Eric Hosmer,KCR,@MIA,Tom Koehler,tied 0-0,Out,t1,1--,2,3 (1-1),0,-0.02,-0.22,.80,Groundout: 2B-1B (2B-1B)
+46354,5,2016-08-25,Dee Gordon,MIA,KCR,Edinson Volquez,tied 0-0,Out,b1,---,0,5 (1-2),0,-0.02,-0.22,.87,Groundout: 2B-1B
+46355,6,2016-08-25,Martin Prado,MIA,KCR,Edinson Volquez,tied 0-0,Out,b1,---,1,3 (1-1),0,-0.01,-0.15,.61,Lineout: CF
+46356,7,2016-08-25,Christian Yelich,MIA,KCR,Edinson Volquez,tied 0-0,Out,b1,---,2,7 (1-2),0,-0.01,-0.10,.40,Flyball: CF (Deep CF)
+46357,8,2016-08-25,Salvador Perez,KCR,@MIA,Tom Koehler,tied 0-0,SO,t2,---,0,3 (0-2),0,-0.02,-0.22,.93,Strikeout Looking
+46358,9,2016-08-25,Alex Gordon,KCR,@MIA,Tom Koehler,tied 0-0,BB,t2,---,1,5 (3-1),0,0.03,0.25,.64,Walk
+46359,10,2016-08-25,Alcides Escobar,KCR,@MIA,Tom Koehler,tied 0-0,RoE,t2,1--,1,1 (0-0),0,0.04,0.38,1.24,Reached on E5 (Ground Ball to Short LF); Gordon to 2B
+46360,11,2016-08-25,Raul Mondesi,KCR,@MIA,Tom Koehler,tied 0-0,Out,t2,12-,1,5 (3-1),0,-0.04,-0.40,2.09,Groundout: 2B-SS/Forceout at 2B; Gordon to 3B
+46361,12,2016-08-25,Marcell Ozuna,MIA,KCR,Edinson Volquez,tied 0-0,Out,b2,---,0,2 (0-1),0,-0.02,-0.22,.92,Groundout: 3B-1B (Weak 3B)
+46362,13,2016-08-25,J.T. Realmuto,MIA,KCR,Edinson Volquez,tied 0-0,Out,b2,---,1,6 (3-2),0,-0.02,-0.15,.66,Lineout: 2B
+46363,14,2016-08-25,Ichiro Suzuki,MIA,KCR,Edinson Volquez,tied 0-0,Out,b2,---,2,4 (0-2),0,-0.01,-0.10,.42,Lineout: SS
+46364,15,2016-08-25,Jarrod Dyson,KCR,@MIA,Tom Koehler,tied 0-0,Out,t3,---,0,1 (0-0),0,-0.02,-0.22,.99,Bunt Groundout: 3B-1B (Front of Home)
+46365,16,2016-08-25,Cheslor Cuthbert,KCR,@MIA,Tom Koehler,tied 0-0,2B,t3,---,1,7 (3-2),0,0.05,0.41,.71,Double to LF (Line Drive to Deep LF Line)
+46366,17,2016-08-25,Lorenzo Cain,KCR,@MIA,Tom Koehler,tied 0-0,Out,t3,-2-,1,3 (0-2),0,-0.04,-0.34,1.42,Groundout: P-1B
+46367,18,2016-08-25,Eric Hosmer,KCR,@MIA,Tom Koehler,tied 0-0,IBB,t3,-2-,2,4 (3-0),0,0.01,0.11,1.32,Intentional Walk
+46368,19,2016-08-25,Salvador Perez,KCR,@MIA,Tom Koehler,tied 0-0,2B,t3,12-,2,4 (2-1),1,0.14,1.16,1.90,Double to LF (Line Drive to Deep LF Line); Cuthbert Scores; Hosmer to 3B
+46369,20,2016-08-25,Alex Gordon,KCR,@MIA,Tom Koehler,ahead 0-1,Out,t3,-23,2,1 (0-0),0,-0.06,-0.58,1.95,Groundout: 1B unassisted
+46370,21,2016-08-25,Xavier Scruggs,MIA,KCR,Edinson Volquez,down 1-0,1B,b3,---,0,4 (1-2),0,0.05,0.37,1.09,Single to 2B (Ground Ball to SS-2B)
+46371,22,2016-08-25,Adeiny Hechavarria,MIA,KCR,Edinson Volquez,down 1-0,RoE,b3,1--,0,1 (0-0),0,0.11,0.97,1.85,Reached on E5 (throw)/attempted forceout (Ground Ball to SS-3B Hole); Scruggs to 3B
+46372,23,2016-08-25,Dee Gordon,MIA,KCR,Edinson Volquez,down 1-0,Out,b3,-23,1,2 (1-0),0,-0.10,-0.79,1.97,Groundout: P-1B (P's Left)
+46373,24,2016-08-25,Martin Prado,MIA,KCR,Edinson Volquez,down 1-0,Out,b3,-23,2,2 (0-1),0,-0.07,-0.58,2.51,Groundout: 3B-1B (Weak 3B)
+46374,1,2016-08-25,Josh Harrison,PIT,@MIL,Wily Peralta,tied 0-0,1B,t1,---,0,3 (0-2),0,0.04,0.38,.87,*LEADOFF GM*:Single to RF (Line Drive)
+46375,2,2016-08-25,Starling Marte,PIT,@MIL,Wily Peralta,tied 0-0,SO,t1,1--,0,6 (3-2),0,-0.07,-0.78,1.44,Double Play: Strikeout Swinging Harrison Caught Stealing 2B (C-2B)
+46376,3,2016-08-25,Andrew McCutchen,PIT,@MIL,Wily Peralta,tied 0-0,HR,t1,---,2,6 (3-2),1,0.10,1.00,.40,Home Run (Fly Ball to Deep LF Line)
+46377,4,2016-08-25,Gregory Polanco,PIT,@MIL,Wily Peralta,ahead 0-1,SO,t1,---,2,4 (1-2),0,-0.01,-0.10,.37,Strikeout Swinging
+46378,5,2016-08-25,Jonathan Villar,MIL,PIT,Chad Kuhl,down 1-0,SO,b1,---,0,3 (0-2),0,-0.02,-0.24,.92,Strikeout Swinging
+46379,6,2016-08-25,Scooter Gennett,MIL,PIT,Chad Kuhl,down 1-0,Out,b1,---,1,5 (2-2),0,-0.02,-0.16,.65,Groundout: 2B-1B (2B-1B)
+46380,7,2016-08-25,Ryan Braun,MIL,PIT,Chad Kuhl,down 1-0,Out,b1,---,2,1 (0-0),0,-0.01,-0.10,.42,Groundout: SS-1B
+46381,8,2016-08-25,David Freese,PIT,@MIL,Wily Peralta,ahead 0-1,Out,t2,---,0,5 (3-1),0,-0.02,-0.24,.82,Groundout: SS-1B
+46382,9,2016-08-25,Josh Bell,PIT,@MIL,Wily Peralta,ahead 0-1,BB,t2,---,1,6 (3-2),0,0.02,0.26,.59,Walk
+46383,10,2016-08-25,Francisco Cervelli,PIT,@MIL,Wily Peralta,ahead 0-1,Out,t2,1--,1,1 (0-0),0,-0.02,-0.20,1.10,Bunt Groundout: P-1B (Front of Home); Bell to 2B
+46384,11,2016-08-25,Jordy Mercer,PIT,@MIL,Wily Peralta,ahead 0-1,BB,t2,-2-,2,6 (3-2),0,0.01,0.12,1.08,Walk
+46385,12,2016-08-25,Hernan Perez,MIL,PIT,Chad Kuhl,down 1-0,Out,b2,---,0,2 (0-1),0,-0.03,-0.24,.99,Groundout: 2B-1B (2B-1B)
+46386,13,2016-08-25,Chris Carter,MIL,PIT,Chad Kuhl,down 1-0,Out,b2,---,1,3 (1-1),0,-0.02,-0.16,.71,Lineout: CF
+46387,14,2016-08-25,Kirk Nieuwenhuis,MIL,PIT,Chad Kuhl,down 1-0,SO,b2,---,2,5 (2-2),0,-0.01,-0.10,.46,Strikeout Swinging
+46388,15,2016-08-25,Josh Harrison,PIT,@MIL,Wily Peralta,ahead 0-1,Out,t3,---,0,3 (1-1),0,-0.02,-0.24,.87,Flyball: CF (Short CF-RF)
+46389,16,2016-08-25,Starling Marte,PIT,@MIL,Wily Peralta,ahead 0-1,1B,t3,---,1,1 (0-0),0,0.02,0.26,.62,Single to 3B (Ground Ball)
+46390,17,2016-08-25,Andrew McCutchen,PIT,@MIL,Wily Peralta,ahead 0-1,1B,t3,-2-,1,6 (2-2),1,0.08,0.84,1.20,Single to CF (Ground Ball); Marte Scores
+46391,18,2016-08-25,Gregory Polanco,PIT,@MIL,Wily Peralta,ahead 0-2,Out,t3,1--,1,8 (3-2),0,-0.01,-0.20,.92,Groundout: P-1B (Front of Home); McCutchen to 2B
+46392,19,2016-08-25,David Freese,PIT,@MIL,Wily Peralta,ahead 0-2,SO,t3,-2-,2,4 (1-2),0,-0.03,-0.32,.94,Strikeout Swinging
+46393,20,2016-08-25,Orlando Arcia,MIL,PIT,Chad Kuhl,down 2-0,SO,b3,---,0,4 (1-2),0,-0.03,-0.24,1.05,Strikeout Looking
+46394,21,2016-08-25,Manny Pina,MIL,PIT,Chad Kuhl,down 2-0,2B,b3,---,1,5 (2-2),0,0.05,0.42,.73,Double to LF (Line Drive to Deep LF Line)
+46395,22,2016-08-25,Jonathan Villar,MIL,PIT,Chad Kuhl,down 2-0,Out,b3,-2-,2,1 (0-0),0,-0.04,-0.32,1.27,Groundout: P unassisted (Weak 2B-1B)
+46396,1,2016-08-25,Ian Kinsler,DET,@MIN,Jose Berrios,tied 0-0,Out,t1,---,0,3 (1-1),0,-0.02,-0.24,.87,*LEADOFF GM*:Lineout: CF
+46397,2,2016-08-25,Tyler Collins,DET,@MIN,Jose Berrios,tied 0-0,BB,t1,---,1,5 (3-1),0,0.02,0.26,.62,Walk
+46398,3,2016-08-25,Miguel Cabrera,DET,@MIN,Jose Berrios,tied 0-0,BB,t1,1--,1,5 (3-1),0,0.04,0.39,1.15,Walk; Collins to 2B
+46399,4,2016-08-25,Victor Martinez,DET,@MIN,Jose Berrios,tied 0-0,Out,t1,12-,1,3 (1-1),0,-0.04,-0.47,1.93,Flyball: LF (Short LF-CF)
+46400,5,2016-08-25,J.D. Martinez,DET,@MIN,Jose Berrios,tied 0-0,SO,t1,12-,2,3 (0-2),0,-0.04,-0.44,1.62,Strikeout Swinging
+46401,6,2016-08-25,Brian Dozier,MIN,DET,Daniel Norris,tied 0-0,Out,b1,---,0,4 (2-1),0,-0.02,-0.24,.87,Groundout: 3B-1B (SS-3B Hole)
+46402,7,2016-08-25,Jorge Polanco,MIN,DET,Daniel Norris,tied 0-0,Out,b1,---,1,2 (0-1),0,-0.02,-0.16,.62,Groundout: 3B-1B (Weak 3B)
+46403,8,2016-08-25,Robbie Grossman,MIN,DET,Daniel Norris,tied 0-0,1B,b1,---,2,5 (2-2),0,0.01,0.13,.40,Single to CF (Line Drive)
+46404,9,2016-08-25,Trevor Plouffe,MIN,DET,Daniel Norris,tied 0-0,SO,b1,1--,2,4 (1-2),0,-0.02,-0.23,.79,Strikeout Swinging
+46405,10,2016-08-25,Justin Upton,DET,@MIN,Jose Berrios,tied 0-0,BB,t2,---,0,5 (3-1),0,0.04,0.38,.93,Walk
+46406,11,2016-08-25,Casey McGehee,DET,@MIN,Jose Berrios,tied 0-0,Out,t2,-2-,0,6 (2-2),0,-0.04,-0.44,1.29,Flyball: RF (Short RF Line)
+46407,12,2016-08-25,James McCann,DET,@MIN,Jose Berrios,tied 0-0,1B,t2,-2-,1,4 (1-2),0,0.05,0.51,1.29,Single to LF (Ground Ball thru SS-3B Hole); Upton to 3B
+46408,13,2016-08-25,Andrew Romine,DET,@MIN,Jose Berrios,tied 0-0,RoE,t2,1-3,1,1 (0-0),1,0.12,1.22,1.93,Reached on E4 (throw)/attempted forceout (Ground Ball); Upton Scores; McCann to 3B; Romine to 2B
+46409,14,2016-08-25,Ian Kinsler,DET,@MIN,Jose Berrios,ahead 0-1,2B,t2,-23,1,2 (1-0),2,0.11,1.28,1.40,Double to LF (Fly Ball to Deep LF-CF); McCann Scores/unER; Romine Scores
+46410,15,2016-08-25,Tyler Collins,DET,@MIN,Jose Berrios,ahead 0-3,Out,t2,-2-,1,2 (0-1),0,-0.02,-0.36,.74,Flyball: CF (Short CF)
+46411,16,2016-08-25,Miguel Cabrera,DET,@MIN,Jose Berrios,ahead 0-3,Out,t2,-2-,2,2 (1-0),0,-0.02,-0.32,.73,Groundout: 3B-1B (SS-3B Hole)
+46412,17,2016-08-25,Miguel Sano,MIN,DET,Daniel Norris,down 3-0,Out,b2,---,0,5 (3-1),0,-0.02,-0.24,.87,Flyball: CF (CF-RF)
+46413,18,2016-08-25,Max Kepler,MIN,DET,Daniel Norris,down 3-0,Out,b2,---,1,7 (3-2),0,-0.01,-0.16,.60,Flyball: LF
+46414,19,2016-08-25,Eduardo Escobar,MIN,DET,Daniel Norris,down 3-0,1B,b2,---,2,2 (0-1),0,0.01,0.13,.36,Single to 1B (Pop Fly to Deep 2B-1B)
+46415,20,2016-08-25,Juan Centeno,MIN,DET,Daniel Norris,down 3-0,Out,b2,1--,2,6 (3-2),0,-0.02,-0.23,.74,Groundout: 1B unassisted
+46416,21,2016-08-25,Victor Martinez,DET,@MIN,Jose Berrios,ahead 0-3,1B,t3,---,0,2 (0-1),0,0.02,0.38,.52,Single to CF (Ground Ball)
+46417,22,2016-08-25,J.D. Martinez,DET,@MIN,Jose Berrios,ahead 0-3,Out,t3,1--,0,3 (2-0),0,-0.02,-0.36,.84,Flyball: CF (CF-RF)
+46418,23,2016-08-25,Justin Upton,DET,@MIN,Jose Berrios,ahead 0-3,Out,t3,1--,1,3 (2-0),0,-0.01,-0.20,.69,Groundout: SS-1B (Weak SS); Martinez to 2B
+46419,24,2016-08-25,Casey McGehee,DET,@MIN,Jose Berrios,ahead 0-3,1B,t3,-2-,2,3 (1-1),0,0.01,0.18,.72,Single to 2B (Ground Ball to SS-2B); Martinez to 3B
+46420,25,2016-08-25,James McCann,DET,@MIN,Jose Berrios,ahead 0-3,HR,t3,-23,2,6 (3-2),3,0.13,2.50,1.17,Home Run (Fly Ball to Deep CF-RF); Martinez Scores; McGehee Scores
+46421,26,2016-08-25,Andrew Romine,DET,@MIN,Jose Berrios,ahead 0-6,Out,t3,---,2,4 (1-2),0,-0.00,-0.10,.08,Popfly: SS (Deep SS-3B Hole)
+46422,27,2016-08-25,Danny Santana,MIN,DET,Daniel Norris,down 6-0,Out,b3,---,0,6 (3-2),0,-0.01,-0.24,.42,Groundout: 2B-1B
+46423,28,2016-08-25,Brian Dozier,MIN,DET,Daniel Norris,down 6-0,SO,b3,---,1,4 (0-2),0,-0.01,-0.16,.27,Strikeout Swinging
+46424,29,2016-08-25,Jorge Polanco,MIN,DET,Daniel Norris,down 6-0,Out,b3,---,2,2 (0-1),0,-0.00,-0.10,.15,Flyball: LF (Deep LF)
+46425,1,2016-08-25,Jose Reyes,NYM,@STL,Adam Wainwright,tied 0-0,1B,t1,---,0,4 (1-2),0,0.04,0.38,.87,*LEADOFF GM*:Single to RF (Line Drive)
+46426,2,2016-08-25,Asdrubal Cabrera,NYM,@STL,Adam Wainwright,tied 0-0,Out,t1,1--,0,1 (0-0),0,-0.03,-0.36,1.45,Flyball: LF (LF-CF)
+46427,3,2016-08-25,Yoenis Cespedes,NYM,@STL,Adam Wainwright,tied 0-0,Out,t1,1--,1,2 (1-0),0,-0.05,-0.52,1.15,Ground Ball Double Play: SS-2B-1B
+46428,4,2016-08-25,Matt Carpenter,STL,NYM,Seth Lugo,tied 0-0,Out,b1,---,0,8 (3-2),0,-0.02,-0.23,.87,Flyball: CF (Deep CF)
+46429,5,2016-08-25,Jedd Gyorko,STL,NYM,Seth Lugo,tied 0-0,Out,b1,---,1,2 (0-1),0,-0.02,-0.16,.62,Groundout: 3B-1B (SS-3B Hole)
+46430,6,2016-08-25,Brandon Moss,STL,NYM,Seth Lugo,tied 0-0,Out,b1,---,2,2 (1-0),0,-0.01,-0.10,.40,Groundout: 2B-1B (Deep 2B-1B)
+46431,7,2016-08-25,James Loney,NYM,@STL,Adam Wainwright,tied 0-0,1B,t2,---,0,4 (0-2),0,0.04,0.38,.93,Single to CF (Line Drive to Deep CF)
+46432,8,2016-08-25,Curtis Granderson,NYM,@STL,Adam Wainwright,tied 0-0,2B,t2,1--,0,3 (0-2),0,0.11,1.10,1.54,Double to RF (Line Drive to RF Line); Loney to 3B
+46433,9,2016-08-25,Wilmer Flores,NYM,@STL,Adam Wainwright,tied 0-0,Out,t2,-23,0,4 (1-2),1,-0.02,-0.30,1.52,Flyball: LF/Sacrifice Fly (LF-CF); Loney Scores
+46434,10,2016-08-25,Alejandro De Aza,NYM,@STL,Adam Wainwright,ahead 0-1,SO,t2,-2-,1,6 (3-2),0,-0.03,-0.35,1.15,Strikeout Looking
+46435,11,2016-08-25,Rene Rivera,NYM,@STL,Adam Wainwright,ahead 0-1,IBB,t2,-2-,2,4 (3-0),0,0.01,0.11,1.08,Intentional Walk
+46436,12,2016-08-25,Stephen Piscotty,STL,NYM,Seth Lugo,down 1-0,SO,b2,---,0,7 (2-2),0,-0.03,-0.23,.99,Strikeout Swinging
+46437,13,2016-08-25,Yadier Molina,STL,NYM,Seth Lugo,down 1-0,1B,b2,---,1,3 (0-2),0,0.03,0.26,.71,Single to RF (Line Drive)
+46438,14,2016-08-25,Jhonny Peralta,STL,NYM,Seth Lugo,down 1-0,SO,b2,1--,1,6 (1-2),0,-0.03,-0.29,1.32,Strikeout Looking
+46439,15,2016-08-25,Randal Grichuk,STL,NYM,Seth Lugo,down 1-0,2B,b2,1--,2,5 (2-2),0,0.04,0.37,.90,Double to LF (Line Drive to Deep LF); Molina to 3B
+46440,16,2016-08-25,Greg Garcia,STL,NYM,Seth Lugo,down 1-0,IBB,b2,-23,2,4 (3-0),0,0.02,0.17,2.26,Intentional Walk
+46441,17,2016-08-25,Jose Reyes,NYM,@STL,Adam Wainwright,ahead 0-1,Out,t3,---,0,4 (1-2),0,-0.02,-0.23,.87,Foul Popfly: 3B (3B Foul)
+46442,18,2016-08-25,Asdrubal Cabrera,NYM,@STL,Adam Wainwright,ahead 0-1,2B,t3,---,1,1 (0-0),0,0.04,0.41,.62,Double to 2B (Pop Fly)
+46443,19,2016-08-25,Yoenis Cespedes,NYM,@STL,Adam Wainwright,ahead 0-1,Out,t3,-2-,1,2 (0-1),0,-0.03,-0.35,1.20,Groundout: SS-1B
+46444,20,2016-08-25,James Loney,NYM,@STL,Adam Wainwright,ahead 0-1,Out,t3,-2-,2,2 (0-1),0,-0.03,-0.32,1.15,Foul Popfly: 3B (3B Foul)
+46445,21,2016-08-25,Matt Carpenter,STL,NYM,Seth Lugo,down 1-0,Out,b3,---,0,3 (0-2),0,-0.03,-0.23,1.08,Groundout: P-1B (Front of Home)
+46446,22,2016-08-25,Jedd Gyorko,STL,NYM,Seth Lugo,down 1-0,SO,b3,---,1,6 (2-2),0,-0.02,-0.16,.77,Strikeout Looking
+46447,23,2016-08-25,Brandon Moss,STL,NYM,Seth Lugo,down 1-0,SO,b3,---,2,6 (3-2),0,-0.01,-0.10,.49,Strikeout Swinging
+46448,1,2016-08-25,Dustin Pedroia,BOS,@TBR,Jake Odorizzi,tied 0-0,Out,t1,---,0,2 (0-1),0,-0.02,-0.23,.87,*LEADOFF GM*:Lineout: SS
+46449,2,2016-08-25,Xander Bogaerts,BOS,@TBR,Jake Odorizzi,tied 0-0,Out,t1,---,1,1 (0-0),0,-0.02,-0.15,.62,Popfly: 2B (2B-1B)
+46450,3,2016-08-25,Mookie Betts,BOS,@TBR,Jake Odorizzi,tied 0-0,SO,t1,---,2,5 (1-2),0,-0.01,-0.10,.40,Strikeout Swinging
+46451,4,2016-08-25,Logan Forsythe,TBR,BOS,Drew Pomeranz,tied 0-0,SO,b1,---,0,4 (1-2),0,-0.02,-0.23,.87,Strikeout Swinging
+46452,5,2016-08-25,Kevin Kiermaier,TBR,BOS,Drew Pomeranz,tied 0-0,SO,b1,---,1,4 (1-2),0,-0.02,-0.15,.62,Strikeout Swinging
+46453,6,2016-08-25,Evan Longoria,TBR,BOS,Drew Pomeranz,tied 0-0,BB,b1,---,2,7 (3-2),0,0.01,0.12,.40,Walk
+46454,7,2016-08-25,Brad Miller,TBR,BOS,Drew Pomeranz,tied 0-0,Out,b1,1--,2,5 (2-2),0,-0.02,-0.22,.79,Lineout: CF
+46455,8,2016-08-25,Hanley Ramirez,BOS,@TBR,Jake Odorizzi,tied 0-0,Out,t2,---,0,7 (2-2),0,-0.02,-0.23,.93,Groundout: SS-1B
+46456,9,2016-08-25,Jackie Bradley,BOS,@TBR,Jake Odorizzi,tied 0-0,1B,t2,---,1,3 (1-1),0,0.03,0.25,.65,Single to RF (Ground Ball)
+46457,10,2016-08-25,Chris Young,BOS,@TBR,Jake Odorizzi,tied 0-0,Out,t2,1--,1,5 (3-1),0,-0.03,-0.29,1.23,Groundout: SS-2B/Forceout at 2B
+46458,11,2016-08-25,Aaron Hill,BOS,@TBR,Jake Odorizzi,tied 0-0,Out,t2,1--,2,5 (1-2),0,-0.02,-0.22,.84,Lineout: CF (Deep CF)
+46459,12,2016-08-25,Matt Duffy,TBR,BOS,Drew Pomeranz,tied 0-0,1B,b2,---,0,4 (1-2),0,0.04,0.38,.92,Single to CF (Ground Ball thru SS-2B)
+46460,13,2016-08-25,Corey Dickerson,TBR,BOS,Drew Pomeranz,tied 0-0,SO,b2,1--,0,4 (1-2),0,-0.03,-0.35,1.53,Strikeout Swinging
+46461,14,2016-08-25,Steven Souza,TBR,BOS,Drew Pomeranz,tied 0-0,SO,b2,1--,1,3 (0-2),0,-0.03,-0.29,1.22,Strikeout Swinging
+46462,15,2016-08-25,Mikie Mahtook,TBR,BOS,Drew Pomeranz,tied 0-0,SO,b2,1--,2,4 (1-2),0,-0.02,-0.22,.84,Strikeout Looking
+46463,16,2016-08-25,Travis Shaw,BOS,@TBR,Jake Odorizzi,tied 0-0,SO,t3,---,0,3 (0-2),0,-0.03,-0.23,.99,Strikeout Swinging
+46464,17,2016-08-25,Bryan Holaday,BOS,@TBR,Jake Odorizzi,tied 0-0,Out,t3,---,1,2 (0-1),0,-0.02,-0.15,.71,Bunt Groundout: 3B-1B (Weak 3B)
+46465,18,2016-08-25,Dustin Pedroia,BOS,@TBR,Jake Odorizzi,tied 0-0,1B,t3,---,2,2 (0-1),0,0.01,0.12,.46,Single to LF (Ground Ball thru SS-3B Hole)
+46466,19,2016-08-25,Xander Bogaerts,BOS,@TBR,Jake Odorizzi,tied 0-0,Out,t3,1--,2,2 (0-1),0,-0.03,-0.22,.91,Lineout: RF (Short RF Line)
+46467,20,2016-08-25,Luke Maile,TBR,BOS,Drew Pomeranz,tied 0-0,1B,b3,---,0,2 (1-0),0,0.04,0.38,.99,Single to LF (Line Drive)
+46468,21,2016-08-25,Logan Forsythe,TBR,BOS,Drew Pomeranz,tied 0-0,Out,b3,-2-,0,5 (2-2),0,-0.05,-0.44,1.37,Lineout: RF (Short RF)
+46469,22,2016-08-25,Kevin Kiermaier,TBR,BOS,Drew Pomeranz,tied 0-0,Out,b3,-2-,1,3 (1-1),0,-0.03,-0.31,1.39,Groundout: 1B unassisted; Maile to 3B
+46470,23,2016-08-25,Evan Longoria,TBR,BOS,Drew Pomeranz,tied 0-0,Out,b3,--3,2,2 (0-1),0,-0.04,-0.35,1.55,Flyball: CF (Deep CF-RF)
+46471,1,2016-08-25,Rajai Davis,CLE,@TEX,Cole Hamels,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.25,.87,*LEADOFF GM*:Strikeout Swinging
+46472,2,2016-08-25,Jason Kipnis,CLE,@TEX,Cole Hamels,tied 0-0,Out,t1,---,1,4 (1-2),0,-0.02,-0.18,.63,Groundout: 2B-1B (2B-1B)
+46473,3,2016-08-25,Francisco Lindor,CLE,@TEX,Cole Hamels,tied 0-0,1B,t1,---,2,3 (2-0),0,0.01,0.13,.41,Single to LF (Line Drive)
+46474,4,2016-08-25,Mike Napoli,CLE,@TEX,Cole Hamels,tied 0-0,Out,t1,1--,2,2 (0-1),0,-0.02,-0.25,.79,Groundout: SS-2B/Forceout at 2B
+46475,5,2016-08-25,Nomar Mazara,TEX,CLE,Josh Tomlin,tied 0-0,SO,b1,---,0,4 (1-2),0,-0.02,-0.25,.87,Strikeout Swinging (C-1B)
+46476,6,2016-08-25,Ian Desmond,TEX,CLE,Josh Tomlin,tied 0-0,Out,b1,---,1,1 (0-0),0,-0.02,-0.18,.63,Groundout: SS-1B
+46477,7,2016-08-25,Carlos Beltran,TEX,CLE,Josh Tomlin,tied 0-0,Out,b1,---,2,2 (0-1),0,-0.01,-0.11,.41,Popfly: 3B (SS-3B Hole)
+46478,8,2016-08-25,Carlos Santana,CLE,@TEX,Cole Hamels,tied 0-0,Out,t2,---,0,3 (0-2),0,-0.02,-0.25,.93,Groundout: SS-1B
+46479,9,2016-08-25,Jose Ramirez,CLE,@TEX,Cole Hamels,tied 0-0,Out,t2,---,1,2 (1-0),0,-0.02,-0.18,.67,Lineout: SS
+46480,10,2016-08-25,Brandon Guyer,CLE,@TEX,Cole Hamels,tied 0-0,Out,t2,---,2,2 (0-1),0,-0.01,-0.11,.43,Flyball: RF (Short RF)
+46481,11,2016-08-25,Adrian Beltre,TEX,CLE,Josh Tomlin,tied 0-0,Out,b2,---,0,2 (0-1),0,-0.02,-0.25,.92,Groundout: 3B-1B
+46482,12,2016-08-25,Rougned Odor,TEX,CLE,Josh Tomlin,tied 0-0,SO,b2,---,1,5 (2-2),0,-0.02,-0.18,.68,Strikeout Swinging
+46483,13,2016-08-25,Jonathan Lucroy,TEX,CLE,Josh Tomlin,tied 0-0,1B,b2,---,2,2 (0-1),0,0.01,0.13,.44,Single to CF (Line Drive)
+46484,14,2016-08-25,Mitch Moreland,TEX,CLE,Josh Tomlin,tied 0-0,BB,b2,-2-,2,6 (3-2),0,0.01,0.12,1.19,Walk
+46485,15,2016-08-25,Carlos Gomez,TEX,CLE,Josh Tomlin,tied 0-0,HR,b2,12-,2,2 (1-0),3,0.25,2.65,1.70,Home Run (Line Drive to Deep LF); Lucroy Scores; Moreland Scores
+46486,16,2016-08-25,Elvis Andrus,TEX,CLE,Josh Tomlin,ahead 0-3,BB,b2,---,2,4 (3-0),0,0.01,0.13,.25,Walk
+46487,17,2016-08-25,Nomar Mazara,TEX,CLE,Josh Tomlin,ahead 0-3,SO,b2,-2-,2,6 (3-2),0,-0.02,-0.34,.66,Strikeout Swinging (C-1B)
+46488,18,2016-08-25,Lonnie Chisenhall,CLE,@TEX,Cole Hamels,down 3-0,SO,t3,---,0,3 (0-2),0,-0.02,-0.25,.86,Strikeout Swinging
+46489,19,2016-08-25,Roberto Perez,CLE,@TEX,Cole Hamels,down 3-0,SO,t3,---,1,4 (1-2),0,-0.01,-0.18,.60,Strikeout Looking
+46490,20,2016-08-25,Rajai Davis,CLE,@TEX,Cole Hamels,down 3-0,Out,t3,---,2,2 (1-0),0,-0.01,-0.11,.36,Groundout: SS-1B
+46491,21,2016-08-25,Ian Desmond,TEX,CLE,Josh Tomlin,ahead 0-3,SO,b3,---,0,3 (0-2),0,-0.01,-0.25,.47,Strikeout Looking
+46492,22,2016-08-25,Carlos Beltran,TEX,CLE,Josh Tomlin,ahead 0-3,Out,b3,---,1,3 (1-1),0,-0.01,-0.18,.35,Groundout: 3B-1B
+46493,23,2016-08-25,Adrian Beltre,TEX,CLE,Josh Tomlin,ahead 0-3,Out,b3,---,2,3 (1-1),0,-0.01,-0.11,.24,Groundout: 3B-1B (SS-3B Hole)
+46494,1,2016-08-25,Kole Calhoun,LAA,@TOR,J.A. Happ,tied 0-0,SO,t1,---,0,6 (2-2),0,-0.02,-0.25,.87,*LEADOFF GM*:Strikeout Swinging
+46495,2,2016-08-25,Mike Trout,LAA,@TOR,J.A. Happ,tied 0-0,1B,t1,---,1,2 (1-0),0,0.02,0.27,.62,Single to RF (Line Drive to Short RF Line)
+46496,3,2016-08-25,Albert Pujols,LAA,@TOR,J.A. Happ,tied 0-0,1B,t1,1--,1,6 (2-2),0,0.04,0.39,1.15,Single to LF (Ground Ball thru SS-3B Hole); Trout to 2B
+46497,4,2016-08-25,C.J. Cron,LAA,@TOR,J.A. Happ,tied 0-0,Out,t1,12-,1,5 (2-2),0,-0.09,-0.94,1.90,Ground Ball Double Play: 2B-1B
+46498,5,2016-08-25,Jose Bautista,TOR,LAA,Jered Weaver,tied 0-0,SO,b1,---,0,4 (1-2),0,-0.02,-0.25,.87,Strikeout Swinging
+46499,6,2016-08-25,Josh Donaldson,TOR,LAA,Jered Weaver,tied 0-0,Out,b1,---,1,3 (1-1),0,-0.02,-0.17,.62,Groundout: SS-1B (Weak SS)
+46500,7,2016-08-25,Edwin Encarnacion,TOR,LAA,Jered Weaver,tied 0-0,2B,b1,---,2,4 (1-2),0,0.02,0.22,.40,Double to LF (Line Drive to Deep LF)

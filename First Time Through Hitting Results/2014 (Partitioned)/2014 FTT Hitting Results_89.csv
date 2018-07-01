@@ -1,0 +1,502 @@
+
+Yr#,Gm#,Date,Batter,Tm,Opp,Pitcher,Score,,Inn,RoB,Out,Pit(cnt)Sequence,RBI,WPA,RE24,LI,Play Description
+44001,16,2014-08-16,Ian Kinsler,DET,SEA,Felix Hernandez,ahead 0-1,SO,b2,1--,2,7 (2-2),0,-0.02,-0.22,.72,Strikeout Swinging
+44002,17,2014-08-16,Mike Zunino,SEA,@DET,David Price,down 1-0,SO,t3,---,0,3 (0-2),0,-0.03,-0.22,1.04,Strikeout Swinging
+44003,18,2014-08-16,Logan Morrison,SEA,@DET,David Price,down 1-0,Out,t3,---,1,3 (1-1),0,-0.02,-0.15,.72,Groundout: 2B-1B
+44004,19,2014-08-16,Chris Taylor,SEA,@DET,David Price,down 1-0,Out,t3,---,2,2 (0-1),0,-0.01,-0.10,.45,Lineout: CF (Deep CF)
+44005,20,2014-08-16,Ezequiel Carrera,DET,SEA,Felix Hernandez,ahead 0-1,Out,b3,---,0,3 (2-0),0,-0.02,-0.22,.79,Flyball: RF (Deep CF-RF)
+44006,21,2014-08-16,Miguel Cabrera,DET,SEA,Felix Hernandez,ahead 0-1,HBP,b3,---,1,6 (2-2),0,0.02,0.25,.57,Hit By Pitch
+44007,22,2014-08-16,Victor Martinez,DET,SEA,Felix Hernandez,ahead 0-1,Out,b3,1--,1,5 (2-2),0,-0.03,-0.28,1.06,Flyball: LF (Deep LF)
+44008,23,2014-08-16,Torii Hunter,DET,SEA,Felix Hernandez,ahead 0-1,1B,b3,1--,2,3 (0-2),0,0.02,0.20,.74,Single to CF (Line Drive); Cabrera to 2B
+44009,24,2014-08-16,J.D. Martinez,DET,SEA,Felix Hernandez,ahead 0-1,Out,b3,12-,2,3 (1-1),0,-0.04,-0.42,1.51,Groundout: 2B unassisted/Forceout at 2B (SS-2B)
+44010,1,2014-08-16,Carlos Gomez,MIL,@LAD,Clayton Kershaw,tied 0-0,Out,t1,---,0,5 (3-1),0,-0.02,-0.20,.87,*LEADOFF GM*:Foul Popfly: 2B (1B Foul)
+44011,2,2014-08-16,Jonathan Lucroy,MIL,@LAD,Clayton Kershaw,tied 0-0,SO,t1,---,1,4 (1-2),0,-0.01,-0.13,.60,Strikeout Swinging
+44012,3,2014-08-16,Ryan Braun,MIL,@LAD,Clayton Kershaw,tied 0-0,SO,t1,---,2,4 (0-2),0,-0.01,-0.09,.39,Strikeout Swinging (C-1B)
+44013,4,2014-08-16,Dee Gordon,LAD,MIL,Yovani Gallardo,tied 0-0,Out,b1,---,0,2 (1-0),0,-0.02,-0.20,.87,Flyball: LF (Deep LF-CF)
+44014,5,2014-08-16,Yasiel Puig,LAD,MIL,Yovani Gallardo,tied 0-0,Out,b1,---,1,1 (0-0),0,-0.01,-0.13,.60,Flyball: RF (Deep RF)
+44015,6,2014-08-16,Adrian Gonzalez,LAD,MIL,Yovani Gallardo,tied 0-0,Out,b1,---,2,2 (0-1),0,-0.01,-0.09,.39,Groundout: 3B-1B (SS-3B Hole)
+44016,7,2014-08-16,Aramis Ramirez,MIL,@LAD,Clayton Kershaw,tied 0-0,Out,t2,---,0,2 (0-1),0,-0.02,-0.20,.93,Flyball: RF
+44017,8,2014-08-16,Khris Davis,MIL,@LAD,Clayton Kershaw,tied 0-0,Out,t2,---,1,1 (0-0),0,-0.02,-0.13,.63,Groundout: 3B-1B (SS-3B Hole)
+44018,9,2014-08-16,Rickie Weeks,MIL,@LAD,Clayton Kershaw,tied 0-0,SO,t2,---,2,3 (0-2),0,-0.01,-0.09,.41,Strikeout Looking
+44019,10,2014-08-16,Matt Kemp,LAD,MIL,Yovani Gallardo,tied 0-0,Out,b2,---,0,3 (1-1),0,-0.02,-0.20,.92,Flyball: RF (Deep RF)
+44020,11,2014-08-16,Carl Crawford,LAD,MIL,Yovani Gallardo,tied 0-0,1B,b2,---,1,1 (0-0),0,0.03,0.24,.64,Single to LF (Line Drive)
+44021,12,2014-08-16,Justin Turner,LAD,MIL,Yovani Gallardo,tied 0-0,Out,b2,1--,1,3 (1-1),0,-0.03,-0.26,1.24,Groundout: 2B unassisted/Forceout at 2B (SS-2B)
+44022,13,2014-08-16,A.J. Ellis,LAD,MIL,Yovani Gallardo,tied 0-0,BB,b2,-2-,2,5 (3-1),0,0.01,0.10,1.28,Walk
+44023,14,2014-08-16,Miguel Rojas,LAD,MIL,Yovani Gallardo,tied 0-0,SO,b2,12-,2,5 (2-2),0,-0.04,-0.39,1.80,Strikeout Looking
+44024,15,2014-08-16,Mark Reynolds,MIL,@LAD,Clayton Kershaw,tied 0-0,Out,t3,---,0,1 (0-0),0,-0.02,-0.20,.99,Flyball: LF (Deep LF-CF)
+44025,16,2014-08-16,Elian Herrera,MIL,@LAD,Clayton Kershaw,tied 0-0,SO,t3,---,1,7 (3-2),0,-0.02,-0.13,.69,Strikeout Looking
+44026,17,2014-08-16,Dee Gordon,LAD,MIL,Yovani Gallardo,tied 0-0,Out,b3,---,1,3 (1-1),0,-0.02,-0.13,.69,Bunt Groundout: 3B-1B (Short 3B Line)
+44027,18,2014-08-16,Yasiel Puig,LAD,MIL,Yovani Gallardo,tied 0-0,1B,b3,---,2,3 (1-1),0,0.01,0.11,.46,Single to 2B (Ground Ball to 2B-1B)
+44028,19,2014-08-16,Adrian Gonzalez,LAD,MIL,Yovani Gallardo,tied 0-0,Out,b3,1--,2,3 (1-1),0,-0.02,-0.20,.92,Flyball: RF (Deep RF)
+44029,1,2014-08-16,Ender Inciarte,ARI,@MIA,Henderson Alvarez,tied 0-0,1B,t1,---,0,2 (1-0),0,0.04,0.37,.87,*LEADOFF GM*:Single to RF (Ground Ball thru 2B-1B)
+44030,2,2014-08-16,Cliff Pennington,ARI,@MIA,Henderson Alvarez,tied 0-0,1B,t1,1--,0,7 (3-2),0,0.06,0.60,1.50,Single to LF (Line Drive to Short LF-CF); Inciarte to 2B
+44031,3,2014-08-16,David Peralta,ARI,@MIA,Henderson Alvarez,tied 0-0,1B,t1,12-,0,4 (1-2),0,-0.05,-0.56,2.00,Single to CF (Line Drive); Inciarte out at Hm/CF-C; Pennington to 2B
+44032,4,2014-08-16,Mark Trumbo,ARI,@MIA,Henderson Alvarez,tied 0-0,Out,t1,-23,1,3 (1-1),1,0.01,-0.00,1.63,Lineout: CF/Sacrifice Fly (Deep CF); Pennington Scores; Peralta to 3B
+44033,5,2014-08-16,Miguel Montero,ARI,@MIA,Henderson Alvarez,ahead 0-1,Out,t1,--3,2,4 (2-1),0,-0.03,-0.33,1.22,Groundout: 2B-1B
+44034,6,2014-08-16,Christian Yelich,MIA,ARI,Wade Miley,down 1-0,SO,b1,---,0,4 (1-2),0,-0.02,-0.21,.93,Strikeout Looking
+44035,7,2014-08-16,Donovan Solano,MIA,ARI,Wade Miley,down 1-0,Out,b1,---,1,4 (2-1),0,-0.02,-0.14,.64,Groundout: 2B-1B
+44036,8,2014-08-16,Giancarlo Stanton,MIA,ARI,Wade Miley,down 1-0,Out,b1,---,2,5 (3-1),0,-0.01,-0.09,.41,Groundout: SS-1B (SS-3B Hole)
+44037,9,2014-08-16,Aaron Hill,ARI,@MIA,Henderson Alvarez,ahead 0-1,Out,t2,---,0,4 (2-1),0,-0.02,-0.21,.81,Groundout: 2B-1B
+44038,10,2014-08-16,Jake Lamb,ARI,@MIA,Henderson Alvarez,ahead 0-1,SO,t2,---,1,4 (1-2),0,-0.01,-0.14,.56,Strikeout Swinging
+44039,11,2014-08-16,Xavier Paul,ARI,@MIA,Henderson Alvarez,ahead 0-1,Out,t2,---,2,2 (0-1),0,-0.01,-0.09,.37,Lineout: LF (Short LF)
+44040,12,2014-08-16,Casey McGehee,MIA,ARI,Wade Miley,down 1-0,SO,b2,---,0,5 (2-2),0,-0.02,-0.21,1.00,Strikeout Looking
+44041,13,2014-08-16,Jeff Baker,MIA,ARI,Wade Miley,down 1-0,RoE,b2,---,1,4 (2-1),0,0.03,0.24,.70,Reached on E5 (throw) (Ground Ball); Baker to 1B
+44042,14,2014-08-16,Marcell Ozuna,MIA,ARI,Wade Miley,down 1-0,SO,b2,1--,1,6 (3-2),0,-0.03,-0.27,1.35,Strikeout Swinging
+44043,15,2014-08-16,Adeiny Hechavarria,MIA,ARI,Wade Miley,down 1-0,1B,b2,-2-,2,4 (0-2),0,0.03,0.26,1.32,Single to CF (Line Drive); Baker to 3B; Hechavarria to 2B/Adv on E8 (throw)
+44044,16,2014-08-16,Jeff Mathis,MIA,ARI,Wade Miley,down 1-0,SO,b2,-23,2,5 (2-2),0,-0.07,-0.56,2.35,Strikeout Swinging
+44045,17,2014-08-16,Ender Inciarte,ARI,@MIA,Henderson Alvarez,ahead 0-1,SO,t3,---,1,4 (1-2),0,-0.01,-0.14,.60,Strikeout Swinging
+44046,18,2014-08-16,Cliff Pennington,ARI,@MIA,Henderson Alvarez,ahead 0-1,BB,t3,---,2,5 (3-1),0,0.01,0.12,.40,Walk
+44047,19,2014-08-16,David Peralta,ARI,@MIA,Henderson Alvarez,ahead 0-1,SO,t3,1--,2,8 (3-2),0,-0.02,-0.21,.78,Strikeout Swinging
+44048,20,2014-08-16,Christian Yelich,MIA,ARI,Wade Miley,down 1-0,Out,b3,---,1,2 (0-1),0,-0.02,-0.14,.76,Groundout: 1B unassisted (2B-1B)
+44049,21,2014-08-16,Donovan Solano,MIA,ARI,Wade Miley,down 1-0,SO,b3,---,2,4 (1-2),0,-0.01,-0.09,.48,Strikeout Swinging
+44050,1,2014-08-16,Nori Aoki,KCR,@MIN,Phil Hughes,tied 0-0,Out,t1,---,0,2 (0-1),0,-0.02,-0.22,.87,*LEADOFF GM*:Groundout: 1B unassisted
+44051,2,2014-08-16,Omar Infante,KCR,@MIN,Phil Hughes,tied 0-0,Out,t1,---,1,1 (0-0),0,-0.01,-0.15,.62,Flyball: RF (CF-RF)
+44052,3,2014-08-16,Salvador Perez,KCR,@MIN,Phil Hughes,tied 0-0,Out,t1,---,2,3 (0-2),0,-0.01,-0.10,.40,Groundout: SS-1B
+44053,4,2014-08-16,Danny Santana,MIN,KCR,Yordano Ventura,tied 0-0,Out,b1,---,0,4 (2-1),0,-0.02,-0.22,.87,Flyball: CF (Deep CF)
+44054,5,2014-08-16,Brian Dozier,MIN,KCR,Yordano Ventura,tied 0-0,Out,b1,---,1,2 (0-1),0,-0.01,-0.15,.62,Groundout: 3B-1B (Weak 3B)
+44055,6,2014-08-16,Joe Mauer,MIN,KCR,Yordano Ventura,tied 0-0,Out,b1,---,2,2 (1-0),0,-0.01,-0.10,.40,Lineout: CF
+44056,7,2014-08-16,Billy Butler,KCR,@MIN,Phil Hughes,tied 0-0,Out,t2,---,0,5 (2-2),0,-0.02,-0.22,.93,Popfly: SS (Deep SS)
+44057,8,2014-08-16,Alex Gordon,KCR,@MIN,Phil Hughes,tied 0-0,Out,t2,---,1,1 (0-0),0,-0.02,-0.15,.65,Groundout: 2B-1B
+44058,9,2014-08-16,Lorenzo Cain,KCR,@MIN,Phil Hughes,tied 0-0,SO,t2,---,2,4 (1-2),0,-0.01,-0.10,.42,Strikeout Swinging
+44059,10,2014-08-16,Kennys Vargas,MIN,KCR,Yordano Ventura,tied 0-0,BB,b2,---,0,6 (3-2),0,0.04,0.38,.92,Walk
+44060,11,2014-08-16,Oswaldo Arcia,MIN,KCR,Yordano Ventura,tied 0-0,BB,b2,1--,0,8 (3-2),0,0.06,0.60,1.54,Walk; Vargas to 2B
+44061,12,2014-08-16,Trevor Plouffe,MIN,KCR,Yordano Ventura,tied 0-0,Out,b2,12-,0,2 (1-0),0,-0.02,-0.29,1.98,Groundout: 2B-SS/Forceout at 2B (2B-1B); Vargas to 3B
+44062,13,2014-08-16,Kurt Suzuki,MIN,KCR,Yordano Ventura,tied 0-0,BB,b2,1-3,1,8 (3-2),0,0.03,0.38,2.00,Walk; Plouffe to 2B
+44063,14,2014-08-16,Chris Parmelee,MIN,KCR,Yordano Ventura,tied 0-0,Out,b2,123,1,3 (0-2),0,-0.15,-1.54,2.69,Ground Ball Double Play: 2B-SS-1B
+44064,15,2014-08-16,Raul Ibanez,KCR,@MIN,Phil Hughes,tied 0-0,1B,t3,---,0,1 (0-0),0,0.04,0.38,.99,Single to RF (Line Drive)
+44065,16,2014-08-16,Mike Moustakas,KCR,@MIN,Phil Hughes,tied 0-0,Out,t3,1--,0,2 (0-1),0,-0.08,-0.75,1.66,Ground Ball Double Play: P-SS-1B
+44066,17,2014-08-16,Alcides Escobar,KCR,@MIN,Phil Hughes,tied 0-0,SO,t3,---,2,4 (0-2),0,-0.01,-0.10,.46,Strikeout Looking
+44067,18,2014-08-16,Jordan Schafer,MIN,KCR,Yordano Ventura,tied 0-0,BB,b3,---,0,4 (3-0),0,0.04,0.38,.99,Walk
+44068,19,2014-08-16,Danny Santana,MIN,KCR,Yordano Ventura,tied 0-0,Out,b3,-2-,0,2 (0-1),0,-0.05,-0.43,1.38,Popfly: SS (Deep SS)
+44069,20,2014-08-16,Brian Dozier,MIN,KCR,Yordano Ventura,tied 0-0,Out,b3,-2-,1,3 (1-1),0,-0.04,-0.35,1.40,Popfly: 3B (Weak 3B)
+44070,21,2014-08-16,Joe Mauer,MIN,KCR,Yordano Ventura,tied 0-0,Out,b3,-2-,2,3 (0-2),0,-0.04,-0.31,1.34,Flyball: LF (Deep LF Line)
+44071,1,2014-08-16,Chris Coghlan,CHC,@NYM,Jon Niese,tied 0-0,RoE,t1,---,0,5 (2-2),0,0.04,0.36,.87,*LEADOFF GM*:Reached on E1 (throw) (Ground Ball)
+44072,2,2014-08-16,Javier Baez,CHC,@NYM,Jon Niese,tied 0-0,RoE,t1,1--,0,5 (1-2),0,0.06,0.59,1.55,Reached on E5 (Ground Ball to SS-3B Hole); Coghlan to 2B
+44073,3,2014-08-16,Anthony Rizzo,CHC,@NYM,Jon Niese,tied 0-0,Out,t1,12-,0,4 (2-1),0,-0.02,-0.27,2.09,Flyball: CF (Deep LF-CF); Coghlan to 3B
+44074,4,2014-08-16,Starlin Castro,CHC,@NYM,Jon Niese,tied 0-0,Out,t1,1-3,1,4 (1-2),0,-0.12,-1.11,2.06,Ground Ball Double Play: 2B-SS-1B
+44075,5,2014-08-16,Curtis Granderson,NYM,CHC,Dan Straily,tied 0-0,SO,b1,---,0,5 (1-2),0,-0.02,-0.20,.87,Strikeout Swinging
+44076,6,2014-08-16,Daniel Murphy,NYM,CHC,Dan Straily,tied 0-0,SO,b1,---,1,5 (2-2),0,-0.01,-0.13,.60,Strikeout Swinging
+44077,7,2014-08-16,David Wright,NYM,CHC,Dan Straily,tied 0-0,Out,b1,---,2,2 (1-0),0,-0.01,-0.08,.39,Flyball: RF
+44078,8,2014-08-16,Justin Ruggiano,CHC,@NYM,Jon Niese,tied 0-0,SO,t2,---,0,3 (0-2),0,-0.02,-0.20,.93,Strikeout Swinging
+44079,9,2014-08-16,Arismendy Alcantara,CHC,@NYM,Jon Niese,tied 0-0,Out,t2,---,1,2 (0-1),0,-0.02,-0.13,.63,Groundout: P-1B (Front of Home)
+44080,10,2014-08-16,Welington Castillo,CHC,@NYM,Jon Niese,tied 0-0,Out,t2,---,2,3 (2-0),0,-0.01,-0.08,.40,Groundout: SS-1B (SS-3B Hole)
+44081,11,2014-08-16,Lucas Duda,NYM,CHC,Dan Straily,tied 0-0,BB,b2,---,0,5 (3-1),0,0.04,0.36,.92,Walk
+44082,12,2014-08-16,Travis d'Arnaud,NYM,CHC,Dan Straily,tied 0-0,Out,b2,1--,0,3 (2-0),0,-0.04,-0.33,1.61,Groundout: 3B-2B/Forceout at 2B (SS-3B Hole)
+44083,13,2014-08-16,Matt den Dekker,NYM,CHC,Dan Straily,tied 0-0,1B,b2,1--,1,1 (0-0),0,0.04,0.37,1.25,Single to RF (Ground Ball thru 2B-1B); d'Arnaud to 2B
+44084,14,2014-08-16,Juan Lagares,NYM,CHC,Dan Straily,tied 0-0,2B,b2,12-,1,4 (2-1),1,0.16,1.49,2.14,Ground-rule Double (Fly Ball to Deep CF-RF); d'Arnaud Scores; den Dekker to 3B
+44085,15,2014-08-16,Wilmer Flores,NYM,CHC,Dan Straily,ahead 0-1,1B,b2,-23,1,7 (3-2),2,0.10,1.14,1.42,Single to CF (Line Drive); den Dekker Scores; Lagares Scores
+44086,16,2014-08-16,Curtis Granderson,NYM,CHC,Dan Straily,ahead 0-3,Out,b2,1--,2,2 (1-0),0,-0.01,-0.20,.38,Flyball: CF (Deep CF-RF)
+44087,17,2014-08-16,Chris Valaika,CHC,@NYM,Jon Niese,down 3-0,Out,t3,---,0,3 (1-1),0,-0.02,-0.20,.79,Groundout: 3B-1B (SS-3B Hole)
+44088,18,2014-08-16,Chris Coghlan,CHC,@NYM,Jon Niese,down 3-0,Out,t3,1--,1,1 (0-0),0,-0.04,-0.45,1.07,Ground Ball Double Play: 2B-SS-1B
+44089,19,2014-08-16,Daniel Murphy,NYM,CHC,Dan Straily,ahead 0-3,Out,b3,---,0,2 (0-1),0,-0.01,-0.20,.37,Groundout: 2B-1B
+44090,20,2014-08-16,David Wright,NYM,CHC,Dan Straily,ahead 0-3,Out,b3,---,1,4 (2-1),0,-0.01,-0.13,.27,Flyball: CF (Deep CF)
+44091,21,2014-08-16,Lucas Duda,NYM,CHC,Dan Straily,ahead 0-3,Out,b3,---,2,1 (0-0),0,-0.00,-0.08,.17,Foul Popfly: 3B (3B Foul)
+44092,1,2014-08-16,Ben Revere,PHI,@SFG,Tim Hudson,tied 0-0,1B,t1,---,0,2 (0-1),0,0.04,0.36,.87,*LEADOFF GM*:Single to CF (Line Drive)
+44093,2,2014-08-16,Jimmy Rollins,PHI,@SFG,Tim Hudson,tied 0-0,Out,t1,1--,0,1 (0-0),0,-0.03,-0.33,1.54,Popfly: SS
+44094,3,2014-08-16,Chase Utley,PHI,@SFG,Tim Hudson,tied 0-0,SO,t1,1--,1,5 (0-2),0,-0.03,-0.26,1.17,Strikeout Swinging
+44095,4,2014-08-16,Ryan Howard,PHI,@SFG,Tim Hudson,tied 0-0,Out,t1,1--,2,2 (0-1),0,-0.02,-0.20,.80,Groundout: 2B-1B (Deep 2B-1B)
+44096,5,2014-08-16,Angel Pagan,SFG,PHI,Kyle Kendrick,tied 0-0,Out,b1,---,0,4 (1-2),0,-0.02,-0.20,.87,Groundout: 2B-1B (Weak 2B)
+44097,6,2014-08-16,Hunter Pence,SFG,PHI,Kyle Kendrick,tied 0-0,HR,b1,---,1,4 (2-1),1,0.11,1.00,.60,Home Run (Fly Ball to Deep LF-CF)
+44098,7,2014-08-16,Buster Posey,SFG,PHI,Kyle Kendrick,ahead 0-1,SO,b1,---,1,3 (0-2),0,-0.01,-0.13,.51,Strikeout Swinging
+44099,8,2014-08-16,Pablo Sandoval,SFG,PHI,Kyle Kendrick,ahead 0-1,Out,b1,---,2,2 (1-0),0,-0.01,-0.09,.33,Groundout: P-2B-1B
+44100,9,2014-08-16,Marlon Byrd,PHI,@SFG,Tim Hudson,down 1-0,Out,t2,---,0,2 (1-0),0,-0.02,-0.20,.97,Groundout: 3B-1B (SS-3B Hole)
+44101,10,2014-08-16,Domonic Brown,PHI,@SFG,Tim Hudson,down 1-0,BB,t2,---,1,6 (3-2),0,0.03,0.24,.66,Walk
+44102,11,2014-08-16,Wil Nieves,PHI,@SFG,Tim Hudson,down 1-0,1B,t2,1--,1,2 (0-1),0,0.04,0.37,1.32,Single to LF (Ground Ball); Brown to 2B
+44103,12,2014-08-16,Cody Asche,PHI,@SFG,Tim Hudson,down 1-0,Out,t2,12-,1,2 (1-0),0,-0.03,-0.27,2.30,Groundout: 1B unassisted; Brown to 3B; Nieves to 2B
+44104,13,2014-08-16,Mike Morse,SFG,PHI,Kyle Kendrick,ahead 0-1,3B,b2,---,0,3 (0-2),0,0.09,0.91,.74,Triple to RF (Line Drive to Deep CF-RF)
+44105,14,2014-08-16,Travis Ishikawa,SFG,PHI,Kyle Kendrick,ahead 0-1,Out,b2,--3,0,3 (1-1),0,-0.04,-0.44,.95,Flyball: RF (Short RF)
+44106,15,2014-08-16,Joe Panik,SFG,PHI,Kyle Kendrick,ahead 0-1,BB,b2,--3,1,4 (3-0),0,0.01,0.23,1.37,Walk
+44107,16,2014-08-16,Brandon Crawford,SFG,PHI,Kyle Kendrick,ahead 0-1,Out,b2,1-3,1,4 (2-1),0,-0.06,-0.66,1.77,Popfly: SS (Short LF-CF)
+44108,17,2014-08-16,Ben Revere,PHI,@SFG,Tim Hudson,down 1-0,Out,t3,---,0,6 (3-2),0,-0.03,-0.20,1.04,Flyball: CF (Deep LF-CF)
+44109,18,2014-08-16,Jimmy Rollins,PHI,@SFG,Tim Hudson,down 1-0,BB,t3,---,1,6 (3-2),0,0.03,0.24,.72,Walk
+44110,19,2014-08-16,Chase Utley,PHI,@SFG,Tim Hudson,down 1-0,1B,t3,1--,1,1 (0-0),0,0.05,0.37,1.43,Single to RF (Line Drive to CF-RF); Rollins to 2B
+44111,20,2014-08-16,Ryan Howard,PHI,@SFG,Tim Hudson,down 1-0,1B,t3,12-,1,7 (3-2),1,0.16,1.29,2.49,Single to RF (Line Drive); Rollins Scores; Utley to 3B/Adv on throw
+44112,21,2014-08-16,Marlon Byrd,PHI,@SFG,Tim Hudson,tied 1-1,Out,t3,1-3,1,3 (1-1),1,0.02,0.09,2.34,Flyball: CF/Sacrifice Fly (Deep CF); Utley Scores
+44113,22,2014-08-16,Domonic Brown,PHI,@SFG,Tim Hudson,ahead 1-2,Out,t3,1--,2,1 (0-0),0,-0.02,-0.20,.77,Groundout: 2B-1B (2B-1B)
+44114,23,2014-08-16,Angel Pagan,SFG,PHI,Kyle Kendrick,down 2-1,Out,b3,---,0,5 (3-1),0,-0.03,-0.20,1.09,Lineout: RF (Deep RF)
+44115,24,2014-08-16,Hunter Pence,SFG,PHI,Kyle Kendrick,down 2-1,Out,b3,---,1,4 (1-2),0,-0.02,-0.13,.75,Popfly: SS (Short CF)
+44116,25,2014-08-16,Buster Posey,SFG,PHI,Kyle Kendrick,down 2-1,Out,b3,---,2,4 (1-2),0,-0.01,-0.09,.48,Groundout: SS-1B
+44117,1,2014-08-16,Yangervis Solarte,SDP,@STL,Shelby Miller,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.21,.87,*LEADOFF GM*:Strikeout Swinging
+44118,2,2014-08-16,Abraham Almonte,SDP,@STL,Shelby Miller,tied 0-0,SO,t1,---,1,3 (0-2),0,-0.01,-0.14,.61,Strikeout Looking
+44119,3,2014-08-16,Seth Smith,SDP,@STL,Shelby Miller,tied 0-0,BB,t1,---,2,5 (3-1),0,0.01,0.12,.39,Walk
+44120,4,2014-08-16,Yasmani Grandal,SDP,@STL,Shelby Miller,tied 0-0,Out,t1,1--,2,4 (1-2),0,-0.02,-0.21,.80,Flyball: LF (Deep LF-CF)
+44121,5,2014-08-16,Matt Carpenter,STL,SDP,Jesse Hahn,tied 0-0,SO,b1,---,0,3 (0-2),0,-0.02,-0.21,.87,Strikeout Swinging
+44122,6,2014-08-16,Kolten Wong,STL,SDP,Jesse Hahn,tied 0-0,Out,b1,---,1,5 (0-2),0,-0.01,-0.14,.61,Lineout: CF (Deep CF)
+44123,7,2014-08-16,Matt Holliday,STL,SDP,Jesse Hahn,tied 0-0,Out,b1,---,2,3 (2-0),0,-0.01,-0.09,.40,Popfly: SS (Deep SS)
+44124,8,2014-08-16,Jedd Gyorko,SDP,@STL,Shelby Miller,tied 0-0,Out,t2,---,0,2 (0-1),0,-0.02,-0.21,.93,Groundout: 2B-1B
+44125,9,2014-08-16,Rymer Liriano,SDP,@STL,Shelby Miller,tied 0-0,BB,t2,---,1,4 (3-0),0,0.03,0.24,.64,Walk
+44126,10,2014-08-16,Jake Goebbert,SDP,@STL,Shelby Miller,tied 0-0,Out,t2,-2-,1,7 (3-2),0,-0.03,-0.30,1.34,Groundout: SS-1B (Weak SS-2B); Liriano to 3B
+44127,11,2014-08-16,Alexi Amarista,SDP,@STL,Shelby Miller,tied 0-0,IBB,t2,--3,2,4 (3-0),0,0.01,0.13,1.44,Intentional Walk
+44128,12,2014-08-16,Matt Adams,STL,SDP,Jesse Hahn,tied 0-0,1B,b2,---,0,5 (2-2),0,0.04,0.37,.92,Single to CF (Line Drive to Short CF)
+44129,13,2014-08-16,Jhonny Peralta,STL,SDP,Jesse Hahn,tied 0-0,2B,b2,1--,0,1 (0-0),1,0.13,1.24,1.57,Double to LF (Line Drive to Deep LF Line); Adams Scores
+44130,14,2014-08-16,A.J. Pierzynski,STL,SDP,Jesse Hahn,ahead 0-1,Out,b2,-2-,0,3 (0-2),0,-0.01,-0.15,1.09,Lineout: RF (Deep RF); Peralta to 3B
+44131,15,2014-08-16,Oscar Taveras,STL,SDP,Jesse Hahn,ahead 0-1,2B,b2,--3,1,4 (2-1),1,0.07,0.73,1.33,Double to CF (Fly Ball to Deep CF); Peralta Scores
+44132,16,2014-08-16,Jon Jay,STL,SDP,Jesse Hahn,ahead 0-2,HBP,b2,-2-,1,3 (0-2),0,0.01,0.22,.84,Hit By Pitch
+44133,17,2014-08-16,Matt Carpenter,STL,SDP,Jesse Hahn,ahead 0-2,2B,b2,1-3,2,4 (2-1),2,0.13,1.84,1.22,Double to LF (Line Drive to Deep CF); Taveras Scores; Miller Scores
+44134,18,2014-08-16,Kolten Wong,STL,SDP,Jesse Hahn,ahead 0-4,Out,b2,-2-,2,3 (2-0),0,-0.01,-0.30,.41,Groundout: 1B unassisted (2B-1B)
+44135,19,2014-08-16,Yangervis Solarte,SDP,@STL,Shelby Miller,down 4-0,Out,t3,---,0,4 (1-2),0,-0.02,-0.21,.62,Groundout: 2B-1B
+44136,20,2014-08-16,Abraham Almonte,SDP,@STL,Shelby Miller,down 4-0,1B,t3,---,1,1 (0-0),0,0.02,0.24,.41,Single to LF (Line Drive to Short LF)
+44137,21,2014-08-16,Seth Smith,SDP,@STL,Shelby Miller,down 4-0,1B,t3,1--,1,5 (2-2),0,0.05,0.65,.83,Single to RF (Ground Ball); Almonte to 3B
+44138,22,2014-08-16,Yasmani Grandal,SDP,@STL,Shelby Miller,down 4-0,SO,t3,1-3,1,6 (3-2),0,-0.05,-0.67,1.48,Strikeout Swinging
+44139,23,2014-08-16,Jedd Gyorko,SDP,@STL,Shelby Miller,down 4-0,1B,t3,1-3,2,5 (2-2),1,0.06,1.00,1.20,Single to RF (Line Drive to Short RF Line); Almonte Scores; Smith to 3B
+44140,24,2014-08-16,Rymer Liriano,SDP,@STL,Shelby Miller,down 4-1,BB,t3,1-3,2,7 (3-2),0,0.03,0.27,1.58,Walk; Gyorko to 2B
+44141,25,2014-08-16,Jake Goebbert,SDP,@STL,Shelby Miller,down 4-1,3B,t3,123,2,5 (2-2),3,0.27,2.61,2.90,Triple to RF (Ground Ball); Smith Scores; Gyorko Scores; Liriano Scores
+44142,26,2014-08-16,Alexi Amarista,SDP,@STL,Shelby Miller,tied 4-4,IBB,t3,--3,2,4 (3-0),0,0.01,0.13,1.57,Intentional Walk
+44143,27,2014-08-16,Matt Holliday,STL,SDP,Jesse Hahn,tied 4-4,Out,b3,---,0,2 (0-1),0,-0.02,-0.21,.99,Foul Popfly: C (Behind Home)
+44144,28,2014-08-16,Matt Adams,STL,SDP,Jesse Hahn,tied 4-4,Out,b3,---,1,3 (1-1),0,-0.02,-0.14,.70,Lineout: CF (Deep CF)
+44145,29,2014-08-16,Jhonny Peralta,STL,SDP,Jesse Hahn,tied 4-4,SO,b3,---,2,3 (0-2),0,-0.01,-0.09,.46,Strikeout Swinging
+44146,1,2014-08-16,Brett Gardner,NYY,@TBR,Drew Smyly,tied 0-0,SO,t1,---,0,4 (0-2),0,-0.02,-0.21,.87,*LEADOFF GM*:Strikeout Swinging (C-1B)
+44147,2,2014-08-16,Derek Jeter,NYY,@TBR,Drew Smyly,tied 0-0,Out,t1,---,1,6 (2-2),0,-0.01,-0.14,.61,Popfly: 1B (2B-1B)
+44148,3,2014-08-16,Jacoby Ellsbury,NYY,@TBR,Drew Smyly,tied 0-0,Out,t1,---,2,4 (2-1),0,-0.01,-0.09,.39,Popfly: SS (Short CF)
+44149,4,2014-08-16,Desmond Jennings,TBR,NYY,Shane Greene,tied 0-0,2B,b1,---,0,1 (0-0),0,0.06,0.61,.87,Double to CF (Line Drive to Deep CF-RF)
+44150,5,2014-08-16,Ben Zobrist,TBR,NYY,Shane Greene,tied 0-0,SO,b1,-2-,0,5 (2-2),0,-0.04,-0.42,1.26,Strikeout Swinging
+44151,6,2014-08-16,Matthew Joyce,TBR,NYY,Shane Greene,tied 0-0,Out,b1,-2-,1,3 (1-1),0,-0.03,-0.34,1.25,Foul Popfly: C (Behind Home)
+44152,7,2014-08-16,Evan Longoria,TBR,NYY,Shane Greene,tied 0-0,SO,b1,-2-,2,4 (1-2),0,-0.03,-0.30,1.17,Strikeout Swinging
+44153,8,2014-08-16,Mark Teixeira,NYY,@TBR,Drew Smyly,tied 0-0,Out,t2,---,0,3 (1-1),0,-0.02,-0.21,.93,Flyball: CF (Deep CF)
+44154,9,2014-08-16,Carlos Beltran,NYY,@TBR,Drew Smyly,tied 0-0,Out,t2,---,1,3 (1-1),0,-0.02,-0.14,.64,Flyball: RF (Short RF)
+44155,10,2014-08-16,Chase Headley,NYY,@TBR,Drew Smyly,tied 0-0,BB,t2,---,2,9 (3-2),0,0.01,0.12,.41,Walk
+44156,11,2014-08-16,Martin Prado,NYY,@TBR,Drew Smyly,tied 0-0,HR,t2,-2-,2,3 (0-2),2,0.20,1.79,1.24,Home Run (Fly Ball to Deep LF); Headley Scores
+44157,12,2014-08-16,Francisco Cervelli,NYY,@TBR,Drew Smyly,ahead 0-2,2B,t2,---,2,6 (2-2),0,0.02,0.21,.30,Double to CF (Line Drive to Deep CF)
+44158,13,2014-08-16,Brendan Ryan,NYY,@TBR,Drew Smyly,ahead 0-2,Out,t2,-2-,2,3 (0-2),0,-0.02,-0.30,.90,Flyball: CF
+44159,14,2014-08-16,James Loney,TBR,NYY,Shane Greene,down 2-0,SO,b2,---,0,5 (1-2),0,-0.02,-0.21,.96,Strikeout Swinging
+44160,15,2014-08-16,Yunel Escobar,TBR,NYY,Shane Greene,down 2-0,Out,b2,---,1,1 (0-0),0,-0.02,-0.14,.65,Groundout: 2B-1B
+44161,16,2014-08-16,Vince Belnome,TBR,NYY,Shane Greene,down 2-0,BB,b2,---,2,7 (3-2),0,0.01,0.12,.41,Walk
+44162,17,2014-08-16,Curt Casali,TBR,NYY,Shane Greene,down 2-0,1B,b2,1--,2,3 (1-1),0,0.02,0.20,.86,Single to CF (Line Drive to Deep CF); Belnome to 2B
+44163,18,2014-08-16,Kevin Kiermaier,TBR,NYY,Shane Greene,down 2-0,SO,b2,12-,2,5 (2-2),0,-0.05,-0.41,1.84,Strikeout Swinging
+44164,19,2014-08-16,Brett Gardner,NYY,@TBR,Drew Smyly,ahead 0-2,Out,t3,---,0,4 (2-1),0,-0.02,-0.21,.65,Lineout: RF (Deep RF)
+44165,20,2014-08-16,Derek Jeter,NYY,@TBR,Drew Smyly,ahead 0-2,SO,t3,---,1,6 (2-2),0,-0.01,-0.14,.47,Strikeout Swinging
+44166,21,2014-08-16,Jacoby Ellsbury,NYY,@TBR,Drew Smyly,ahead 0-2,Out,t3,---,2,2 (0-1),0,-0.01,-0.09,.31,Groundout: 1B unassisted
+44167,22,2014-08-16,Desmond Jennings,TBR,NYY,Shane Greene,down 2-0,Out,b3,---,0,6 (3-2),0,-0.03,-0.21,1.04,Lineout: LF
+44168,23,2014-08-16,Ben Zobrist,TBR,NYY,Shane Greene,down 2-0,1B,b3,---,1,3 (0-2),0,0.03,0.24,.71,Single to SS (Ground Ball to SS-3B Hole)
+44169,24,2014-08-16,Matthew Joyce,TBR,NYY,Shane Greene,down 2-0,SO,b3,1--,1,6 (2-2),0,-0.03,-0.27,1.39,Strikeout Swinging
+44170,25,2014-08-16,Evan Longoria,TBR,NYY,Shane Greene,down 2-0,SO,b3,1--,2,5 (2-2),0,-0.03,-0.21,.91,Strikeout Swinging
+44171,1,2014-08-16,Kole Calhoun,LAA,@TEX,Colby Lewis,tied 0-0,Out,t1,---,0,2 (1-0),0,-0.02,-0.23,.87,*LEADOFF GM*:Flyball: CF (Deep CF)
+44172,2,2014-08-16,Mike Trout,LAA,@TEX,Colby Lewis,tied 0-0,SO,t1,---,1,4 (1-2),0,-0.02,-0.15,.62,Strikeout Swinging
+44173,3,2014-08-16,Albert Pujols,LAA,@TEX,Colby Lewis,tied 0-0,HR,t1,---,2,3 (0-2),1,0.10,1.00,.40,Home Run (Line Drive to Deep LF Line)
+44174,4,2014-08-16,Josh Hamilton,LAA,@TEX,Colby Lewis,ahead 0-1,SO,t1,---,2,6 (2-2),0,-0.01,-0.10,.36,Strikeout Swinging
+44175,5,2014-08-16,Shin-Soo Choo,TEX,LAA,Matt Shoemaker,down 1-0,Out,b1,---,0,4 (2-1),0,-0.02,-0.23,.92,Flyball: CF (Deep CF)
+44176,6,2014-08-16,Elvis Andrus,TEX,LAA,Matt Shoemaker,down 1-0,SO,b1,---,1,4 (1-2),0,-0.02,-0.15,.65,Strikeout Swinging
+44177,7,2014-08-16,Alex Rios,TEX,LAA,Matt Shoemaker,down 1-0,Out,b1,---,2,9 (3-2),0,-0.01,-0.10,.42,Lineout: CF (Deep CF)
+44178,8,2014-08-16,Howie Kendrick,LAA,@TEX,Colby Lewis,ahead 0-1,HR,t2,---,0,2 (1-0),1,0.10,1.00,.82,Home Run (Fly Ball to Deep LF-CF)
+44179,9,2014-08-16,Erick Aybar,LAA,@TEX,Colby Lewis,ahead 0-2,1B,t2,---,0,1 (0-0),0,0.03,0.38,.67,Single to RF (Line Drive to Short RF)
+44180,10,2014-08-16,David Freese,LAA,@TEX,Colby Lewis,ahead 0-2,Out,t2,1--,0,2 (0-1),0,-0.03,-0.35,1.09,Flyball: CF (Deep CF-RF)
+44181,11,2014-08-16,Brennan Boesch,LAA,@TEX,Colby Lewis,ahead 0-2,Out,t2,1--,1,7 (1-2),0,-0.02,-0.29,.89,Foul Popfly: C (Behind Home)
+44182,12,2014-08-16,Chris Iannetta,LAA,@TEX,Colby Lewis,ahead 0-2,2B,t2,1--,2,1 (0-0),1,0.09,1.09,.63,Double to CF (Line Drive to Deep CF-RF); Aybar Scores
+44183,13,2014-08-16,Kole Calhoun,LAA,@TEX,Colby Lewis,ahead 0-3,SO,t2,-2-,2,4 (1-2),0,-0.02,-0.32,.72,Strikeout Swinging
+44184,14,2014-08-16,Adrian Beltre,TEX,LAA,Matt Shoemaker,down 3-0,Out,b2,---,0,2 (0-1),0,-0.02,-0.23,.86,Groundout: 3B-1B (SS-3B Hole)
+44185,15,2014-08-16,Leonys Martin,TEX,LAA,Matt Shoemaker,down 3-0,Out,b2,---,1,4 (2-1),0,-0.01,-0.15,.59,Flyball: RF (Deep RF)
+44186,16,2014-08-16,J.P. Arencibia,TEX,LAA,Matt Shoemaker,down 3-0,Out,b2,---,2,3 (2-0),0,-0.01,-0.10,.35,Flyball: RF (Deep 1B)
+44187,17,2014-08-16,Mike Trout,LAA,@TEX,Colby Lewis,ahead 0-3,SO,t3,---,0,7 (2-2),0,-0.01,-0.23,.50,Strikeout Looking
+44188,18,2014-08-16,Albert Pujols,LAA,@TEX,Colby Lewis,ahead 0-3,SO,t3,---,1,3 (0-2),0,-0.01,-0.15,.37,Strikeout Looking
+44189,19,2014-08-16,Josh Hamilton,LAA,@TEX,Colby Lewis,ahead 0-3,SO,t3,---,2,4 (1-2),0,-0.01,-0.10,.24,Strikeout Looking
+44190,20,2014-08-16,Jim Adduci,TEX,LAA,Matt Shoemaker,down 3-0,Out,b3,---,0,2 (0-1),0,-0.02,-0.23,.90,Bunt Groundout: C-1B (Front of Home)
+44191,21,2014-08-16,Robinson Chirinos,TEX,LAA,Matt Shoemaker,down 3-0,SO,b3,---,1,5 (1-2),0,-0.02,-0.15,.62,Strikeout Swinging
+44192,22,2014-08-16,Rougned Odor,TEX,LAA,Matt Shoemaker,down 3-0,SO,b3,---,2,5 (1-2),0,-0.01,-0.10,.37,Strikeout Swinging
+44193,1,2014-08-16,Josh Harrison,PIT,@WSN,Gio Gonzalez,tied 0-0,Out,t1,---,0,6 (1-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Popfly: SS (SS-2B)
+44194,2,2014-08-16,Gregory Polanco,PIT,@WSN,Gio Gonzalez,tied 0-0,SO,t1,---,1,7 (2-2),0,-0.01,-0.15,.61,Strikeout Swinging
+44195,3,2014-08-16,Russell Martin,PIT,@WSN,Gio Gonzalez,tied 0-0,1B,t1,---,2,3 (0-2),0,0.01,0.12,.39,Single to LF (Ground Ball thru SS-3B Hole)
+44196,4,2014-08-16,Starling Marte,PIT,@WSN,Gio Gonzalez,tied 0-0,1B,t1,1--,2,5 (2-2),0,0.02,0.20,.80,Single to LF (Ground Ball thru SS-3B Hole); Martin to 2B
+44197,5,2014-08-16,Gaby Sanchez,PIT,@WSN,Gio Gonzalez,tied 0-0,Out,t1,12-,2,6 (3-2),0,-0.04,-0.41,1.66,Lineout: RF (Deep RF)
+44198,6,2014-08-16,Denard Span,WSN,PIT,Jeff Locke,tied 0-0,Out,b1,---,0,3 (1-1),0,-0.02,-0.22,.87,Groundout: 2B-1B
+44199,7,2014-08-16,Kevin Frandsen,WSN,PIT,Jeff Locke,tied 0-0,1B,b1,---,1,6 (2-2),0,0.02,0.25,.61,Single to LF (Ground Ball thru SS-3B Hole)
+44200,8,2014-08-16,Anthony Rendon,WSN,PIT,Jeff Locke,tied 0-0,Out,b1,1--,1,6 (3-2),0,-0.02,-0.18,1.17,Groundout: 3B-1B (Weak 3B); Frandsen to 2B
+44201,9,2014-08-16,Adam LaRoche,WSN,PIT,Jeff Locke,tied 0-0,Out,b1,-2-,2,4 (2-1),0,-0.03,-0.31,1.16,Foul Popfly: P (3B Foul)
+44202,10,2014-08-16,Pedro Alvarez,PIT,@WSN,Gio Gonzalez,tied 0-0,SO,t2,---,0,6 (3-2),0,-0.02,-0.22,.93,Strikeout Swinging
+44203,11,2014-08-16,Jayson Nix,PIT,@WSN,Gio Gonzalez,tied 0-0,SO,t2,---,1,5 (1-2),0,-0.02,-0.15,.64,Strikeout Swinging
+44204,12,2014-08-16,Travis Snider,PIT,@WSN,Gio Gonzalez,tied 0-0,SO,t2,---,2,5 (2-2),0,-0.01,-0.09,.41,Strikeout Swinging
+44205,13,2014-08-16,Ian Desmond,WSN,PIT,Jeff Locke,tied 0-0,BB,b2,---,0,5 (3-1),0,0.04,0.37,.92,Walk
+44206,14,2014-08-16,Bryce Harper,WSN,PIT,Jeff Locke,tied 0-0,Out,b2,---,1,4 (1-2),0,-0.02,-0.15,.66,Groundout: 1B unassisted
+44207,15,2014-08-16,Wilson Ramos,WSN,PIT,Jeff Locke,tied 0-0,SO,b2,---,2,3 (0-2),0,-0.01,-0.09,.42,Strikeout Swinging
+44208,16,2014-08-16,Josh Harrison,PIT,@WSN,Gio Gonzalez,tied 0-0,1B,t3,---,1,2 (1-0),0,0.03,0.25,.71,Single to LF (Line Drive to LF-CF)
+44209,17,2014-08-16,Gregory Polanco,PIT,@WSN,Gio Gonzalez,tied 0-0,Out,t3,1--,1,2 (1-0),0,-0.03,-0.28,1.34,Groundout: 2B unassisted/Forceout at 2B
+44210,18,2014-08-16,Russell Martin,PIT,@WSN,Gio Gonzalez,tied 0-0,BB,t3,1--,2,6 (3-2),0,0.02,0.20,.92,Walk; Polanco to 2B
+44211,19,2014-08-16,Starling Marte,PIT,@WSN,Gio Gonzalez,tied 0-0,2B,t3,12-,2,1 (0-0),1,0.14,1.16,1.91,Double to LF (Line Drive to Short LF Line); Polanco Scores; Martin to 3B
+44212,20,2014-08-16,Gaby Sanchez,PIT,@WSN,Gio Gonzalez,ahead 0-1,1B,t3,-23,2,1 (0-0),2,0.17,1.64,1.95,Single to LF (Ground Ball thru SS-3B Hole); Martin Scores; Marte Scores
+44213,21,2014-08-16,Pedro Alvarez,PIT,@WSN,Gio Gonzalez,ahead 0-3,Out,t3,1--,2,5 (3-1),0,-0.01,-0.21,.45,Groundout: 2B-1B
+44214,22,2014-08-16,Danny Espinosa,WSN,PIT,Jeff Locke,down 3-0,Out,b3,---,0,7 (3-2),0,-0.02,-0.22,.90,Groundout: 3B-1B (SS-3B Hole)
+44215,23,2014-08-16,Denard Span,WSN,PIT,Jeff Locke,down 3-0,Out,b3,---,2,6 (3-2),0,-0.01,-0.09,.36,Flyball: LF (Short LF)
+44216,1,2014-08-17,Coco Crisp,OAK,@ATL,Mike Minor,tied 0-0,2B,t1,---,0,2 (0-1),0,0.06,0.61,.87,*LEADOFF GM*:Double to LF (Ground Ball)
+44217,2,2014-08-17,Jonny Gomes,OAK,@ATL,Mike Minor,tied 0-0,Out,t1,-2-,0,3 (2-0),0,-0.04,-0.42,1.30,Flyball: RF (Short CF-RF)
+44218,3,2014-08-17,Josh Donaldson,OAK,@ATL,Mike Minor,tied 0-0,BB,t1,-2-,1,6 (3-2),0,0.02,0.21,1.27,Walk
+44219,4,2014-08-17,Derek Norris,OAK,@ATL,Mike Minor,tied 0-0,Out,t1,12-,1,4 (1-2),0,-0.04,-0.44,2.02,Lineout: 3B (SS-3B Hole)
+44220,5,2014-08-17,Brandon Moss,OAK,@ATL,Mike Minor,tied 0-0,Out,t1,12-,2,3 (1-1),0,-0.04,-0.40,1.68,Groundout: 2B-1B
+44221,6,2014-08-17,Jason Heyward,ATL,OAK,Jon Lester,tied 0-0,Out,b1,---,0,5 (1-2),0,-0.02,-0.21,.87,Foul Flyball: LF (LF Foul)
+44222,7,2014-08-17,Philip Gosselin,ATL,OAK,Jon Lester,tied 0-0,Out,b1,---,1,5 (2-2),0,-0.01,-0.14,.61,Groundout: 3B-1B
+44223,8,2014-08-17,Freddie Freeman,ATL,OAK,Jon Lester,tied 0-0,SO,b1,---,2,6 (2-2),0,-0.01,-0.09,.40,Strikeout Looking
+44224,9,2014-08-17,Nate Freiman,OAK,@ATL,Mike Minor,tied 0-0,HR,t2,---,0,6 (3-2),1,0.12,1.00,.93,Home Run (Line Drive to Deep CF)
+44225,10,2014-08-17,Alberto Callaspo,OAK,@ATL,Mike Minor,ahead 0-1,SO,t2,---,0,5 (2-2),0,-0.02,-0.21,.80,Strikeout Looking
+44226,11,2014-08-17,Andy Parrino,OAK,@ATL,Mike Minor,ahead 0-1,Out,t2,---,1,4 (2-1),0,-0.01,-0.14,.55,Flyball: LF (Deep LF-CF)
+44227,12,2014-08-17,Justin Upton,ATL,OAK,Jon Lester,down 1-0,1B,b2,---,0,6 (3-2),0,0.04,0.37,1.00,Single to CF (Line Drive to LF-CF)
+44228,13,2014-08-17,Chris Johnson,ATL,OAK,Jon Lester,down 1-0,Out,b2,1--,0,2 (0-1),0,0.01,0.09,1.75,Lineout: 3B (SS-3B Hole); Upton to 3B/Adv on E5 (throw)
+44229,14,2014-08-17,Evan Gattis,ATL,OAK,Jon Lester,down 1-0,1B,b2,--3,1,1 (0-0),1,0.07,0.58,1.69,Single to RF (Line Drive to CF-RF); Upton Scores/unER
+44230,15,2014-08-17,Andrelton Simmons,ATL,OAK,Jon Lester,tied 1-1,Out,b2,1--,1,5 (3-1),0,-0.05,-0.47,1.24,Ground Ball Double Play: 2B-SS-1B
+44231,16,2014-08-17,Coco Crisp,OAK,@ATL,Mike Minor,tied 1-1,Out,t3,---,0,3 (1-1),0,-0.02,-0.21,.99,Groundout: 2B-1B
+44232,17,2014-08-17,Jonny Gomes,OAK,@ATL,Mike Minor,tied 1-1,SO,t3,---,1,5 (2-2),0,-0.02,-0.14,.70,Strikeout Looking
+44233,18,2014-08-17,Josh Donaldson,OAK,@ATL,Mike Minor,tied 1-1,Out,t3,---,2,4 (1-2),0,-0.01,-0.09,.45,Groundout: SS-1B
+44234,19,2014-08-17,Melvin Upton,ATL,OAK,Jon Lester,tied 1-1,Out,b3,---,0,1 (0-0),0,-0.02,-0.21,.99,Lineout: 3B (SS-3B Hole)
+44235,20,2014-08-17,Jason Heyward,ATL,OAK,Jon Lester,tied 1-1,Out,b3,---,2,4 (1-2),0,-0.01,-0.09,.46,Flyball: LF (LF-CF)
+44236,1,2014-08-17,Robbie Grossman,HOU,@BOS,Joe Kelly,tied 0-0,SO,t1,---,0,5 (2-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Strikeout Looking
+44237,2,2014-08-17,Jose Altuve,HOU,@BOS,Joe Kelly,tied 0-0,1B,t1,---,1,3 (0-2),0,0.02,0.25,.62,Single to RF (Line Drive)
+44238,3,2014-08-17,Chris Carter,HOU,@BOS,Joe Kelly,tied 0-0,Out,t1,1--,1,5 (2-2),0,-0.05,-0.51,1.15,Ground Ball Double Play: 3B-2B-1B (SS-3B Hole)
+44239,4,2014-08-17,Brock Holt,BOS,HOU,Collin McHugh,tied 0-0,1B,b1,---,0,4 (2-1),0,0.04,0.38,.87,Single to LF (Line Drive to Short LF)
+44240,5,2014-08-17,Daniel Nava,BOS,HOU,Collin McHugh,tied 0-0,SO,b1,1--,0,3 (0-2),0,-0.03,-0.35,1.44,Strikeout Looking
+44241,6,2014-08-17,David Ortiz,BOS,HOU,Collin McHugh,tied 0-0,Out,b1,1--,1,5 (2-2),0,-0.03,-0.29,1.16,Flyball: CF (LF-CF)
+44242,7,2014-08-17,Yoenis Cespedes,BOS,HOU,Collin McHugh,tied 0-0,Out,b1,1--,2,5 (2-2),0,-0.02,-0.22,.79,Groundout: SS-1B
+44243,8,2014-08-17,Dexter Fowler,HOU,@BOS,Joe Kelly,tied 0-0,1B,t2,---,0,2 (0-1),0,0.04,0.38,.93,Single to CF (Line Drive to Short CF)
+44244,9,2014-08-17,Jon Singleton,HOU,@BOS,Joe Kelly,tied 0-0,BB,t2,1--,0,4 (3-0),0,0.06,0.61,1.55,Walk; Fowler to 2B
+44245,10,2014-08-17,Carlos Corporan,HOU,@BOS,Joe Kelly,tied 0-0,1B,t2,12-,0,2 (1-0),0,0.08,0.85,2.02,Single to RF (Ground Ball thru 2B-1B); Fowler to 3B; Singleton to 2B
+44246,11,2014-08-17,Marc Krauss,HOU,@BOS,Joe Kelly,tied 0-0,1B,t2,123,0,4 (2-1),1,0.08,1.00,2.28,Single to LF (Fly Ball to Deep LF-CF); Fowler Scores; Singleton to 3B; Corporan to 2B
+44247,12,2014-08-17,Matt Dominguez,HOU,@BOS,Joe Kelly,ahead 0-1,Out,t2,123,0,1 (0-0),1,-0.02,-0.42,1.87,Flyball: CF/Sacrifice Fly (Deep CF); Singleton Scores
+44248,13,2014-08-17,Marwin Gonzalez,HOU,@BOS,Joe Kelly,ahead 0-2,Out,t2,12-,1,2 (1-0),0,-0.02,-0.30,1.46,Groundout: P-SS-1B; Corporan to 3B; Krauss to 2B
+44249,14,2014-08-17,Robbie Grossman,HOU,@BOS,Joe Kelly,ahead 0-2,BB,t2,-23,2,9 (3-2),0,0.01,0.17,1.52,Walk
+44250,15,2014-08-17,Jose Altuve,HOU,@BOS,Joe Kelly,ahead 0-2,HR,t2,123,2,2 (1-0),4,0.20,3.34,2.17,Home Run (Fly Ball to Deep LF); Corporan Scores; Krauss Scores; Grossman Scores
+44251,16,2014-08-17,Chris Carter,HOU,@BOS,Joe Kelly,ahead 0-6,Out,t2,---,2,2 (0-1),0,-0.00,-0.10,.09,Flyball: CF (Deep CF)
+44252,17,2014-08-17,Kelly Johnson,BOS,HOU,Collin McHugh,down 6-0,Out,b2,---,0,4 (1-2),0,-0.01,-0.23,.42,Groundout: 2B-1B (2B-1B)
+44253,18,2014-08-17,Xander Bogaerts,BOS,HOU,Collin McHugh,down 6-0,SO,b2,---,1,4 (1-2),0,-0.01,-0.15,.27,Strikeout Swinging
+44254,19,2014-08-17,Will Middlebrooks,BOS,HOU,Collin McHugh,down 6-0,1B,b2,---,2,3 (1-1),0,0.01,0.12,.13,Single to CF (Ground Ball thru SS-2B)
+44255,20,2014-08-17,Jackie Bradley,BOS,HOU,Collin McHugh,down 6-0,1B,b2,1--,2,3 (1-1),0,0.01,0.20,.33,Single to RF (Ground Ball thru 2B-1B); Middlebrooks to 2B
+44256,21,2014-08-17,Dan Butler,BOS,HOU,Collin McHugh,down 6-0,Out,b2,12-,2,4 (2-1),0,-0.02,-0.43,.75,Groundout: 3B unassisted/Forceout at 3B; Bradley to 2B
+44257,22,2014-08-17,Dexter Fowler,HOU,@BOS,Joe Kelly,ahead 0-6,HR,t3,---,0,2 (0-1),1,0.02,1.00,.14,Home Run (Fly Ball to Deep RF)
+44258,23,2014-08-17,Jon Singleton,HOU,@BOS,Joe Kelly,ahead 0-7,SO,t3,---,0,4 (0-2),0,-0.00,-0.23,.10,Strikeout Swinging
+44259,24,2014-08-17,Carlos Corporan,HOU,@BOS,Joe Kelly,ahead 0-7,BB,t3,---,1,6 (3-2),0,0.00,0.25,.09,Walk
+44260,25,2014-08-17,Marc Krauss,HOU,@BOS,Joe Kelly,ahead 0-7,BB,t3,1--,1,5 (3-1),0,0.00,0.38,.12,Walk; Corporan to 2B
+44261,26,2014-08-17,Matt Dominguez,HOU,@BOS,Joe Kelly,ahead 0-7,Out,t3,12-,1,4 (2-1),0,-0.00,-0.41,.22,Flyball: CF (Deep CF-RF); Corporan to 3B
+44262,27,2014-08-17,Marwin Gonzalez,HOU,@BOS,Joe Kelly,ahead 0-7,Out,t3,1-3,2,5 (3-1),0,-0.01,-0.49,.21,Groundout: 3B-1B
+44263,28,2014-08-17,Brock Holt,BOS,HOU,Collin McHugh,down 7-0,BB,b3,---,0,4 (3-0),0,0.01,0.38,.28,Walk
+44264,29,2014-08-17,Daniel Nava,BOS,HOU,Collin McHugh,down 7-0,2B,b3,1--,0,2 (0-1),1,0.00,0.39,.52,Double to RF (Line Drive to Deep RF Line); Holt Scores; Nava out at 3B
+44265,30,2014-08-17,David Ortiz,BOS,HOU,Collin McHugh,down 7-1,BB,b3,---,1,4 (3-0),0,0.01,0.25,.26,Walk
+44266,31,2014-08-17,Yoenis Cespedes,BOS,HOU,Collin McHugh,down 7-1,1B,b3,1--,1,3 (1-1),0,0.02,0.38,.52,Single to RF (Fly Ball to Short RF); Ortiz to 2B
+44267,32,2014-08-17,Kelly Johnson,BOS,HOU,Collin McHugh,down 7-1,SO,b3,-23,1,5 (2-2),0,-0.04,-0.80,.88,Strikeout Swinging
+44268,33,2014-08-17,Xander Bogaerts,BOS,HOU,Collin McHugh,down 7-1,Out,b3,-23,2,6 (3-2),0,-0.02,-0.59,.83,Groundout: 1B-P (2B-1B)
+44269,1,2014-08-17,Jose Reyes,TOR,@CHW,Scott Carroll,tied 0-0,2B,t1,---,0,3 (1-1),0,0.06,0.61,.87,*LEADOFF GM*:Double to RF (Line Drive to Deep RF Line)
+44270,2,2014-08-17,Melky Cabrera,TOR,@CHW,Scott Carroll,tied 0-0,Out,t1,-2-,0,1 (0-0),0,-0.01,-0.16,1.27,Bunt Groundout: C-1B/Sacrifice (Front of Home); Reyes to 3B
+44271,3,2014-08-17,Jose Bautista,TOR,@CHW,Scott Carroll,tied 0-0,FC,t1,--3,1,2 (1-0),1,0.06,0.58,1.46,Fielder's Choice 1B; Reyes Scores
+44272,4,2014-08-17,Edwin Encarnacion,TOR,@CHW,Scott Carroll,ahead 0-1,Out,t1,1--,1,3 (0-2),0,-0.04,-0.48,1.04,Ground Ball Double Play: SS-2B-1B
+44273,5,2014-08-17,Alejandro De Aza,CHW,TOR,Drew Hutchison,down 1-0,1B,b1,---,0,6 (3-2),0,0.04,0.37,.93,Single to 1B (Ground Ball)
+44274,6,2014-08-17,Alexei Ramirez,CHW,TOR,Drew Hutchison,down 1-0,Out,b1,1--,0,1 (0-0),0,-0.04,-0.34,1.60,Flyball: CF (Deep CF)
+44275,7,2014-08-17,Jose Abreu,CHW,TOR,Drew Hutchison,down 1-0,Out,b1,-2-,1,2 (0-1),0,-0.04,-0.34,1.34,Popfly: 2B
+44276,8,2014-08-17,Adam Dunn,CHW,TOR,Drew Hutchison,down 1-0,BB,b1,-2-,2,7 (3-2),0,0.02,0.16,1.22,Walk Wild Pitch; De Aza to 3B
+44277,9,2014-08-17,Avisail Garcia,CHW,TOR,Drew Hutchison,down 1-0,BB,b1,1-3,2,6 (3-2),0,0.03,0.27,1.90,Walk; Dunn to 2B
+44278,10,2014-08-17,Conor Gillaspie,CHW,TOR,Drew Hutchison,down 1-0,HR,b1,123,2,5 (2-2),4,0.34,3.36,3.17,Home Run (Fly Ball to Deep CF-RF); De Aza Scores; Dunn Scores; Garcia Scores
+44279,11,2014-08-17,Gordon Beckham,CHW,TOR,Drew Hutchison,ahead 1-4,1B,b1,---,2,5 (2-2),0,0.01,0.12,.21,Single to LF (Line Drive to Short LF-CF)
+44280,12,2014-08-17,Jordan Danks,CHW,TOR,Drew Hutchison,ahead 1-4,HR,b1,1--,2,2 (0-1),2,0.10,1.88,.41,Home Run (Fly Ball to Deep LF-CF); Beckham Scores
+44281,13,2014-08-17,Adrian Nieto,CHW,TOR,Drew Hutchison,ahead 1-6,SO,b1,---,2,5 (1-2),0,-0.00,-0.09,.10,Strikeout Swinging
+44282,14,2014-08-17,Adam Lind,TOR,@CHW,Scott Carroll,down 6-1,BB,t2,---,0,6 (3-2),0,0.02,0.37,.48,Walk
+44283,15,2014-08-17,Colby Rasmus,TOR,@CHW,Scott Carroll,down 6-1,SO,t2,1--,0,4 (1-2),0,-0.02,-0.34,.88,Strikeout Looking
+44284,16,2014-08-17,Munenori Kawasaki,TOR,@CHW,Scott Carroll,down 6-1,Out,t2,1--,1,7 (2-2),0,-0.01,-0.27,.63,Groundout: 2B-SS/Forceout at 2B (2B-1B)
+44285,17,2014-08-17,Juan Francisco,TOR,@CHW,Scott Carroll,down 6-1,Out,t2,1--,2,4 (2-1),0,-0.01,-0.21,.37,Groundout: SS-1B
+44286,18,2014-08-17,Alejandro De Aza,CHW,TOR,Drew Hutchison,ahead 1-6,2B,b2,---,0,3 (1-1),0,0.01,0.61,.21,Double to RF (Line Drive to Deep CF-RF)
+44287,19,2014-08-17,Alexei Ramirez,CHW,TOR,Drew Hutchison,ahead 1-6,Out,b2,-2-,0,2 (0-1),0,-0.01,-0.42,.26,Groundout: 3B-1B (SS-3B Hole)
+44288,20,2014-08-17,Jose Abreu,CHW,TOR,Drew Hutchison,ahead 1-6,1B,b2,-2-,1,1 (0-0),0,0.01,0.50,.28,Single to 3B (Ground Ball to Weak 3B); De Aza to 3B
+44289,21,2014-08-17,Adam Dunn,CHW,TOR,Drew Hutchison,ahead 1-6,Out,b2,1-3,1,1 (0-0),0,-0.03,-1.13,.44,Ground Ball Double Play: 2B-SS-1B
+44290,22,2014-08-17,Josh Thole,TOR,@CHW,Scott Carroll,down 6-1,Out,t3,---,0,3 (1-1),0,-0.01,-0.21,.46,Flyball: LF (LF Line)
+44291,23,2014-08-17,Jose Reyes,TOR,@CHW,Scott Carroll,down 6-1,Out,t3,---,1,3 (1-1),0,-0.01,-0.14,.29,Groundout: 2B-1B
+44292,24,2014-08-17,Melky Cabrera,TOR,@CHW,Scott Carroll,down 6-1,1B,t3,---,2,2 (0-1),0,0.01,0.12,.14,Single to CF (Line Drive)
+44293,25,2014-08-17,Jose Bautista,TOR,@CHW,Scott Carroll,down 6-1,1B,t3,1--,2,3 (0-2),0,0.01,0.20,.36,Single to LF (Ground Ball thru SS-3B Hole); Cabrera to 2B
+44294,26,2014-08-17,Edwin Encarnacion,TOR,@CHW,Scott Carroll,down 6-1,BB,t3,12-,2,6 (3-2),0,0.02,0.32,.84,Walk; Cabrera to 3B; Bautista to 2B
+44295,27,2014-08-17,Adam Lind,TOR,@CHW,Scott Carroll,down 6-1,Out,t3,123,2,3 (0-2),0,-0.04,-0.73,1.67,Groundout: 2B-1B
+44296,28,2014-08-17,Avisail Garcia,CHW,TOR,Drew Hutchison,ahead 1-6,Out,b3,---,0,2 (0-1),0,-0.00,-0.21,.16,Flyball: LF (Deep LF-CF)
+44297,29,2014-08-17,Conor Gillaspie,CHW,TOR,Drew Hutchison,ahead 1-6,Out,b3,---,1,2 (1-0),0,-0.00,-0.14,.11,Flyball: CF (Deep LF-CF)
+44298,30,2014-08-17,Gordon Beckham,CHW,TOR,Drew Hutchison,ahead 1-6,Out,b3,---,2,6 (2-2),0,-0.00,-0.09,.08,Foul Flyball: RF (RF Foul)
+44299,1,2014-08-17,Nick Markakis,BAL,@CLE,Danny Salazar,tied 0-0,Out,t1,---,0,2 (0-1),0,-0.02,-0.23,.87,*LEADOFF GM*:Groundout: SS-1B (SS-2B)
+44300,2,2014-08-17,Steve Pearce,BAL,@CLE,Danny Salazar,tied 0-0,Out,t1,---,1,4 (2-1),0,-0.02,-0.15,.62,Flyball: CF (Deep CF)
+44301,3,2014-08-17,Adam Jones,BAL,@CLE,Danny Salazar,tied 0-0,Out,t1,---,2,4 (2-1),0,-0.01,-0.10,.40,Flyball: RF (Deep CF-RF)
+44302,4,2014-08-17,Michael Bourn,CLE,BAL,Kevin Gausman,tied 0-0,BB,b1,---,0,7 (3-2),0,0.04,0.38,.87,Walk
+44303,5,2014-08-17,Jose Ramirez,CLE,BAL,Kevin Gausman,tied 0-0,Out,b1,1--,0,2 (0-1),0,-0.02,-0.19,1.44,Bunt Groundout: C-1B/Sacrifice (Short 1B Line); Bourn to 2B
+44304,6,2014-08-17,Michael Brantley,CLE,BAL,Kevin Gausman,tied 0-0,BB,b1,-2-,1,4 (3-0),0,0.02,0.23,1.23,Walk
+44305,7,2014-08-17,Carlos Santana,CLE,BAL,Kevin Gausman,tied 0-0,Out,b1,-23,1,6 (3-2),0,-0.08,-0.79,1.53,Foul Popfly: 3B (3B Foul)
+44306,8,2014-08-17,Jason Kipnis,CLE,BAL,Kevin Gausman,tied 0-0,Out,b1,-23,2,4 (2-1),0,-0.06,-0.59,1.98,Groundout: 2B-1B (SS-2B)
+44307,9,2014-08-17,Nelson Cruz,BAL,@CLE,Danny Salazar,tied 0-0,SO,t2,---,0,6 (2-2),0,-0.02,-0.23,.93,Strikeout Swinging
+44308,10,2014-08-17,Delmon Young,BAL,@CLE,Danny Salazar,tied 0-0,SO,t2,---,1,6 (1-2),0,-0.02,-0.15,.65,Strikeout Swinging
+44309,11,2014-08-17,J.J. Hardy,BAL,@CLE,Danny Salazar,tied 0-0,Out,t2,---,2,4 (1-2),0,-0.01,-0.10,.42,Flyball: CF
+44310,12,2014-08-17,Yan Gomes,CLE,BAL,Kevin Gausman,tied 0-0,Out,b2,---,0,1 (0-0),0,-0.02,-0.23,.92,Groundout: 2B-1B (SS-2B)
+44311,13,2014-08-17,Lonnie Chisenhall,CLE,BAL,Kevin Gausman,tied 0-0,SO,b2,---,1,6 (2-2),0,-0.02,-0.15,.66,Strikeout Swinging
+44312,14,2014-08-17,Zach Walters,CLE,BAL,Kevin Gausman,tied 0-0,SO,b2,---,2,5 (2-2),0,-0.01,-0.10,.43,Strikeout Swinging
+44313,15,2014-08-17,Chris Davis,BAL,@CLE,Danny Salazar,tied 0-0,2B,t3,---,0,1 (0-0),0,0.07,0.62,.99,Double to LF (Fly Ball to Deep LF)
+44314,16,2014-08-17,Nick Hundley,BAL,@CLE,Danny Salazar,tied 0-0,Out,t3,-2-,0,3 (1-1),0,-0.11,-1.00,1.41,Line Drive Double Play: 2B; Davis out at 2B/2B-SS
+44315,17,2014-08-17,Jonathan Schoop,BAL,@CLE,Danny Salazar,tied 0-0,RoE,t3,---,2,5 (0-2),0,0.03,0.21,.46,Reached on E5 (Ground Ball to SS-3B Hole); Schoop to 2B
+44316,18,2014-08-17,Nick Markakis,BAL,@CLE,Danny Salazar,tied 0-0,BB,t3,-2-,2,7 (3-2),0,0.01,0.11,1.32,Walk
+44317,19,2014-08-17,Steve Pearce,BAL,@CLE,Danny Salazar,tied 0-0,Out,t3,12-,2,5 (2-2),0,-0.05,-0.42,1.89,Popfly: 1B (Weak 2B-1B)
+44318,20,2014-08-17,Chris Dickerson,CLE,BAL,Kevin Gausman,tied 0-0,Out,b3,---,0,5 (2-2),0,-0.02,-0.23,.99,Flyball: CF (LF-CF)
+44319,21,2014-08-17,Michael Bourn,CLE,BAL,Kevin Gausman,tied 0-0,Out,b3,---,1,5 (2-2),0,-0.02,-0.15,.71,Groundout: 2B-1B
+44320,22,2014-08-17,Jose Ramirez,CLE,BAL,Kevin Gausman,tied 0-0,Out,b3,---,2,2 (1-0),0,-0.01,-0.10,.47,Lineout: RF (CF-RF)
+44321,1,2014-08-17,Austin Jackson,SEA,@DET,Robbie Ray,tied 0-0,Out,t1,---,0,4 (2-1),0,-0.02,-0.22,.87,*LEADOFF GM*:Flyball: CF (Deep CF-RF)
+44322,2,2014-08-17,Dustin Ackley,SEA,@DET,Robbie Ray,tied 0-0,BB,t1,---,1,4 (3-0),0,0.02,0.25,.61,Walk
+44323,3,2014-08-17,Robinson Cano,SEA,@DET,Robbie Ray,tied 0-0,1B,t1,-2-,1,4 (2-1),0,0.05,0.50,1.24,Single to RF (Ground Ball thru 2B-1B); Ackley to 3B
+44324,4,2014-08-17,Kendrys Morales,SEA,@DET,Robbie Ray,tied 0-0,1B,t1,1-3,1,3 (1-1),1,0.10,1.00,1.89,Single to CF (Line Drive to Deep CF); Ackley Scores; Cano to 3B
+44325,5,2014-08-17,Kyle Seager,SEA,@DET,Robbie Ray,ahead 0-1,Out,t1,1-3,1,7 (3-2),1,0.01,0.06,1.70,Flyball: CF/Sacrifice Fly (Deep CF-RF); Cano Scores
+44326,6,2014-08-17,Chris Denorfia,SEA,@DET,Robbie Ray,ahead 0-2,1B,t1,1--,2,2 (0-1),0,0.01,0.20,.60,Single to RF (Ground Ball thru 2B-1B); Morales to 2B
+44327,7,2014-08-17,Logan Morrison,SEA,@DET,Robbie Ray,ahead 0-2,Out,t1,12-,2,4 (1-2),0,-0.03,-0.42,1.25,Groundout: C-1B (Front of Home)
+44328,8,2014-08-17,Ian Kinsler,DET,SEA,Chris Young,down 2-0,Out,b1,---,0,6 (3-2),0,-0.02,-0.22,.91,Foul Flyball: LF (LF Foul)
+44329,9,2014-08-17,Ezequiel Carrera,DET,SEA,Chris Young,down 2-0,SO,b1,---,1,3 (0-2),0,-0.02,-0.15,.63,Strikeout Looking
+44330,10,2014-08-17,Miguel Cabrera,DET,SEA,Chris Young,down 2-0,Out,b1,---,2,5 (1-2),0,-0.01,-0.10,.39,Flyball: CF (Deep CF-RF)
+44331,11,2014-08-17,Chris Taylor,SEA,@DET,Robbie Ray,ahead 0-2,Out,t2,---,0,1 (0-0),0,-0.02,-0.22,.66,Flyball: CF (Deep CF-RF)
+44332,12,2014-08-17,Jesus Sucre,SEA,@DET,Robbie Ray,ahead 0-2,Out,t2,---,1,2 (0-1),0,-0.01,-0.15,.47,Lineout: 1B (2B-1B)
+44333,13,2014-08-17,Austin Jackson,SEA,@DET,Robbie Ray,ahead 0-2,1B,t2,---,2,5 (2-2),0,0.01,0.12,.31,Single to CF (Line Drive to Deep CF)
+44334,14,2014-08-17,Dustin Ackley,SEA,@DET,Robbie Ray,ahead 0-2,Out,t2,-2-,2,4 (1-2),0,-0.03,-0.31,.91,Flyball: LF (Short LF)
+44335,15,2014-08-17,Victor Martinez,DET,SEA,Chris Young,down 2-0,Out,b2,---,0,9 (2-2),0,-0.02,-0.22,.96,Groundout: 2B-1B
+44336,16,2014-08-17,J.D. Martinez,DET,SEA,Chris Young,down 2-0,2B,b2,---,1,1 (0-0),0,0.04,0.41,.66,Double to CF (Fly Ball to Deep CF)
+44337,17,2014-08-17,Nick Castellanos,DET,SEA,Chris Young,down 2-0,Out,b2,-2-,1,5 (2-2),0,-0.03,-0.31,1.36,Flyball: RF (Deep RF); Martinez to 3B
+44338,18,2014-08-17,Alex Avila,DET,SEA,Chris Young,down 2-0,SO,b2,--3,2,5 (2-2),0,-0.04,-0.35,1.39,Strikeout Swinging
+44339,19,2014-08-17,Robinson Cano,SEA,@DET,Robbie Ray,ahead 0-2,1B,t3,---,0,4 (2-1),0,0.03,0.38,.67,Single to RF (Line Drive to Deep RF)
+44340,20,2014-08-17,Kendrys Morales,SEA,@DET,Robbie Ray,ahead 0-2,Out,t3,1--,0,1 (0-0),0,-0.03,-0.35,1.10,Flyball: CF (Deep CF)
+44341,21,2014-08-17,Kyle Seager,SEA,@DET,Robbie Ray,ahead 0-2,Out,t3,1--,1,3 (1-1),0,-0.02,-0.28,.89,Flyball: CF (Deep CF-RF)
+44342,22,2014-08-17,Chris Denorfia,SEA,@DET,Robbie Ray,ahead 0-2,1B,t3,1--,2,4 (1-2),0,0.01,0.20,.63,Single to RF (Ground Ball thru 2B-1B); Cano to 2B
+44343,23,2014-08-17,Logan Morrison,SEA,@DET,Robbie Ray,ahead 0-2,1B,t3,12-,2,3 (2-0),0,0.02,0.33,1.27,Single to 1B (Ground Ball to 2B-1B); Cano to 3B; Denorfia to 2B
+44344,24,2014-08-17,Chris Taylor,SEA,@DET,Robbie Ray,ahead 0-3,SO,t3,-23,2,5 (2-2),0,-0.03,-0.58,1.13,Strikeout Swinging
+44345,25,2014-08-17,Andrew Romine,DET,SEA,Chris Young,down 3-0,Out,b3,---,0,7 (3-2),0,-0.02,-0.22,.90,Flyball: CF (Deep LF-CF)
+44346,26,2014-08-17,Rajai Davis,DET,SEA,Chris Young,down 3-0,BB,b3,---,1,4 (3-0),0,0.03,0.25,.61,Walk
+44347,27,2014-08-17,Ian Kinsler,DET,SEA,Chris Young,down 3-0,Out,b3,--3,1,4 (2-1),0,-0.05,-0.57,1.31,Foul Popfly: 1B (1B Foul)
+44348,28,2014-08-17,Ezequiel Carrera,DET,SEA,Chris Young,down 3-0,SO,b3,--3,2,5 (1-2),0,-0.03,-0.35,1.21,Strikeout Swinging
+44349,1,2014-08-17,Carlos Gomez,MIL,@LAD,Dan Haren,tied 0-0,BB,t1,---,0,5 (3-1),0,0.04,0.36,.87,*LEADOFF GM*:Walk
+44350,2,2014-08-17,Jonathan Lucroy,MIL,@LAD,Dan Haren,tied 0-0,HR,t1,1--,0,4 (2-1),2,0.17,1.64,1.53,Home Run (Fly Ball to Deep LF); Gomez Scores
+44351,3,2014-08-17,Ryan Braun,MIL,@LAD,Dan Haren,ahead 0-2,SO,t1,---,0,4 (1-2),0,-0.02,-0.20,.63,Strikeout Swinging (C-1B)
+44352,4,2014-08-17,Aramis Ramirez,MIL,@LAD,Dan Haren,ahead 0-2,SO,t1,---,1,5 (2-2),0,-0.01,-0.13,.44,Strikeout Swinging
+44353,5,2014-08-17,Scooter Gennett,MIL,@LAD,Dan Haren,ahead 0-2,SO,t1,---,2,4 (1-2),0,-0.01,-0.09,.28,Strikeout Swinging
+44354,6,2014-08-17,Dee Gordon,LAD,MIL,Wily Peralta,down 2-0,SO,b1,---,0,3 (0-2),0,-0.02,-0.20,.91,Strikeout Swinging (C-1B)
+44355,7,2014-08-17,Yasiel Puig,LAD,MIL,Wily Peralta,down 2-0,Out,b1,---,1,1 (0-0),0,-0.01,-0.13,.61,Flyball: CF (Deep CF)
+44356,8,2014-08-17,Adrian Gonzalez,LAD,MIL,Wily Peralta,down 2-0,BB,b1,---,2,8 (3-2),0,0.01,0.11,.38,Walk
+44357,9,2014-08-17,Matt Kemp,LAD,MIL,Wily Peralta,down 2-0,SO,b1,1--,2,3 (0-2),0,-0.02,-0.20,.80,Strikeout Swinging
+44358,10,2014-08-17,Khris Davis,MIL,@LAD,Dan Haren,ahead 0-2,1B,t2,---,0,5 (2-2),0,0.03,0.36,.64,Single to CF (Line Drive)
+44359,11,2014-08-17,Mark Reynolds,MIL,@LAD,Dan Haren,ahead 0-2,Out,t2,1--,0,8 (2-2),0,-0.02,-0.33,1.08,Flyball: CF
+44360,12,2014-08-17,Jean Segura,MIL,@LAD,Dan Haren,ahead 0-2,Out,t2,1--,1,3 (1-1),0,0.03,0.37,.86,Reached on E3 (catch) (Ground Ball to Weak 2B-1B to 2B); Davis to 2B; Segura to 1B
+44361,13,2014-08-17,Carlos Gomez,MIL,@LAD,Dan Haren,ahead 0-2,BB,t2,12-,2,5 (3-1),0,0.02,0.32,1.23,Walk; Davis to 3B; Segura to 2B
+44362,14,2014-08-17,Jonathan Lucroy,MIL,@LAD,Dan Haren,ahead 0-2,2B,t2,123,2,2 (1-0),3,0.17,2.57,2.14,Double to LF (Line Drive to Deep LF-CF); Davis Scores/unER; Segura Scores/unER; Gomez Scores/unER
+44363,15,2014-08-17,Ryan Braun,MIL,@LAD,Dan Haren,ahead 0-5,Out,t2,-2-,2,6 (2-2),0,-0.01,-0.29,.33,Groundout: 3B-1B (SS-3B Hole)
+44364,16,2014-08-17,Carl Crawford,LAD,MIL,Wily Peralta,down 5-0,Out,b2,---,0,3 (1-1),0,-0.01,-0.20,.50,Flyball: LF (Short LF)
+44365,17,2014-08-17,Justin Turner,LAD,MIL,Wily Peralta,down 5-0,1B,b2,---,1,2 (1-0),0,0.01,0.24,.32,Single to RF (Fly Ball to Short RF)
+44366,18,2014-08-17,Darwin Barney,LAD,MIL,Wily Peralta,down 5-0,BB,b2,-2-,1,6 (3-2),0,0.02,0.21,.73,Walk
+44367,19,2014-08-17,Drew Butera,LAD,MIL,Wily Peralta,down 5-0,SO,b2,12-,1,5 (2-2),0,-0.03,-0.43,1.29,Strikeout Swinging
+44368,20,2014-08-17,Aramis Ramirez,MIL,@LAD,Dan Haren,ahead 0-5,Out,t3,---,0,5 (2-2),0,-0.00,-0.20,.21,Flyball: CF (Deep CF-RF)
+44369,21,2014-08-17,Scooter Gennett,MIL,@LAD,Dan Haren,ahead 0-5,1B,t3,---,1,5 (2-2),0,0.01,0.24,.13,Single to CF (Line Drive to Short CF)
+44370,22,2014-08-17,Khris Davis,MIL,@LAD,Dan Haren,ahead 0-5,2B,t3,1--,1,5 (2-2),0,0.02,0.86,.27,Double to CF (Line Drive to Deep CF-RF); Gennett to 3B
+44371,23,2014-08-17,Mark Reynolds,MIL,@LAD,Dan Haren,ahead 0-5,IBB,t3,-23,1,4 (3-0),0,0.00,0.16,.38,Intentional Walk
+44372,24,2014-08-17,Jean Segura,MIL,@LAD,Dan Haren,ahead 0-5,Out,t3,123,1,2 (0-1),1,0.01,-0.08,.60,Lineout: LF/Sacrifice Fly; Gennett Scores
+44373,25,2014-08-17,Dee Gordon,LAD,MIL,Wily Peralta,down 6-0,Out,b3,---,0,4 (1-2),0,-0.01,-0.20,.34,Groundout: C-1B (Front of Home)
+44374,26,2014-08-17,Yasiel Puig,LAD,MIL,Wily Peralta,down 6-0,Out,b3,---,1,4 (2-1),0,-0.01,-0.13,.22,Groundout: SS-1B
+44375,27,2014-08-17,Adrian Gonzalez,LAD,MIL,Wily Peralta,down 6-0,SO,b3,---,2,4 (1-2),0,-0.00,-0.09,.10,Strikeout Swinging
+44376,1,2014-08-17,Ender Inciarte,ARI,@MIA,Tom Koehler,tied 0-0,Out,t1,---,0,4 (1-2),0,-0.02,-0.21,.87,*LEADOFF GM*:Groundout: SS-1B (SS-3B Hole)
+44377,2,2014-08-17,Cliff Pennington,ARI,@MIA,Tom Koehler,tied 0-0,SO,t1,---,1,3 (0-2),0,-0.01,-0.14,.61,Strikeout Swinging
+44378,3,2014-08-17,David Peralta,ARI,@MIA,Tom Koehler,tied 0-0,1B,t1,---,2,2 (1-0),0,0.01,0.12,.39,Single to 1B (Ground Ball to 2B-1B)
+44379,4,2014-08-17,Mark Trumbo,ARI,@MIA,Tom Koehler,tied 0-0,BB,t1,-2-,2,6 (3-2),0,0.01,0.11,1.16,Walk
+44380,5,2014-08-17,Miguel Montero,ARI,@MIA,Tom Koehler,tied 0-0,BB,t1,-23,2,6 (3-2),0,0.01,0.17,2.03,Walk
+44381,6,2014-08-17,Jake Lamb,ARI,@MIA,Tom Koehler,tied 0-0,SO,t1,123,2,6 (3-2),0,-0.07,-0.73,2.96,Strikeout Swinging
+44382,7,2014-08-17,Christian Yelich,MIA,ARI,Josh Collmenter,tied 0-0,2B,b1,---,0,4 (2-1),0,0.06,0.61,.87,Double to RF (Line Drive to Deep CF-RF)
+44383,8,2014-08-17,Jeff Baker,MIA,ARI,Josh Collmenter,tied 0-0,BB,b1,-2-,0,6 (3-2),0,0.03,0.36,1.27,Walk
+44384,9,2014-08-17,Giancarlo Stanton,MIA,ARI,Josh Collmenter,tied 0-0,HR,b1,12-,0,5 (3-1),3,0.19,2.04,1.95,Home Run (Fly Ball to Deep LF); Yelich Scores; Baker Scores
+44385,10,2014-08-17,Casey McGehee,MIA,ARI,Josh Collmenter,ahead 0-3,Out,b1,---,0,5 (1-2),0,-0.01,-0.21,.44,Lineout: LF (Deep LF)
+44386,11,2014-08-17,Garrett Jones,MIA,ARI,Josh Collmenter,ahead 0-3,HR,b1,---,1,2 (0-1),1,0.06,1.00,.32,Home Run (Fly Ball to Deep RF)
+44387,12,2014-08-17,Marcell Ozuna,MIA,ARI,Josh Collmenter,ahead 0-4,SO,b1,---,1,5 (2-2),0,-0.01,-0.14,.22,Strikeout Swinging
+44388,13,2014-08-17,Jarrod Saltalamacchia,MIA,ARI,Josh Collmenter,ahead 0-4,1B,b1,---,2,7 (3-2),0,0.00,0.12,.10,Single to 2B (Line Drive)
+44389,14,2014-08-17,Adeiny Hechavarria,MIA,ARI,Josh Collmenter,ahead 0-4,SO,b1,1--,2,3 (0-2),0,-0.01,-0.21,.29,Strikeout Swinging
+44390,15,2014-08-17,Alfredo Marte,ARI,@MIA,Tom Koehler,down 4-0,SO,t2,---,0,5 (2-2),0,-0.02,-0.21,.63,Strikeout Looking
+44391,16,2014-08-17,Didi Gregorius,ARI,@MIA,Tom Koehler,down 4-0,SO,t2,---,1,4 (1-2),0,-0.01,-0.14,.40,Strikeout Swinging
+44392,17,2014-08-17,Christian Yelich,MIA,ARI,Josh Collmenter,ahead 0-4,Out,b2,---,1,4 (1-2),0,-0.00,-0.14,.19,Flyball: LF
+44393,18,2014-08-17,Jeff Baker,MIA,ARI,Josh Collmenter,ahead 0-4,Out,b2,---,2,5 (1-2),0,-0.00,-0.09,.14,Groundout: 3B-1B (SS-3B Hole)
+44394,19,2014-08-17,Ender Inciarte,ARI,@MIA,Tom Koehler,down 4-0,Out,t3,---,0,5 (0-2),0,-0.02,-0.21,.62,Groundout: SS-1B
+44395,20,2014-08-17,Cliff Pennington,ARI,@MIA,Tom Koehler,down 4-0,Out,t3,---,1,2 (0-1),0,-0.01,-0.14,.41,Flyball: LF (Short LF Line)
+44396,21,2014-08-17,David Peralta,ARI,@MIA,Tom Koehler,down 4-0,Out,t3,---,2,3 (1-1),0,-0.01,-0.09,.24,Groundout: 2B-1B
+44397,22,2014-08-17,Giancarlo Stanton,MIA,ARI,Josh Collmenter,ahead 0-4,Out,b3,---,0,6 (2-2),0,-0.01,-0.21,.26,Groundout: 3B-1B (SS-3B Hole)
+44398,23,2014-08-17,Casey McGehee,MIA,ARI,Josh Collmenter,ahead 0-4,Out,b3,---,1,5 (3-1),0,-0.00,-0.14,.18,Flyball: RF (Deep RF)
+44399,24,2014-08-17,Garrett Jones,MIA,ARI,Josh Collmenter,ahead 0-4,1B,b3,---,2,4 (1-2),0,0.00,0.12,.09,Single to RF (Line Drive to Short CF-RF)
+44400,25,2014-08-17,Marcell Ozuna,MIA,ARI,Josh Collmenter,ahead 0-4,Out,b3,-2-,2,3 (2-0),0,-0.01,-0.30,.38,Popfly: SS (Deep SS-3B Hole)
+44401,1,2014-08-17,Nori Aoki,KCR,@MIN,Tommy Milone,tied 0-0,Out,t1,---,0,2 (1-0),0,-0.02,-0.22,.87,*LEADOFF GM*:Groundout: P-1B
+44402,2,2014-08-17,Omar Infante,KCR,@MIN,Tommy Milone,tied 0-0,SO,t1,---,1,6 (2-2),0,-0.01,-0.15,.62,Strikeout Swinging
+44403,3,2014-08-17,Salvador Perez,KCR,@MIN,Tommy Milone,tied 0-0,Out,t1,---,2,1 (0-0),0,-0.01,-0.10,.40,Groundout: 1B-P (2B-1B)
+44404,4,2014-08-17,Danny Santana,MIN,KCR,Jeremy Guthrie,tied 0-0,3B,b1,---,0,4 (0-2),0,0.09,0.92,.87,Triple to LF (Line Drive to Deep LF-CF)
+44405,5,2014-08-17,Brian Dozier,MIN,KCR,Jeremy Guthrie,tied 0-0,Out,b1,--3,0,3 (1-1),0,-0.04,-0.47,1.08,Flyball: RF (RF Line)
+44406,6,2014-08-17,Joe Mauer,MIN,KCR,Jeremy Guthrie,tied 0-0,BB,b1,--3,1,4 (3-0),0,0.02,0.24,1.40,Walk
+44407,7,2014-08-17,Kennys Vargas,MIN,KCR,Jeremy Guthrie,tied 0-0,1B,b1,1-3,1,3 (1-1),1,0.07,0.72,1.87,Single to LF (Ground Ball); Santana Scores; Mauer to 2B
+44408,8,2014-08-17,Oswaldo Arcia,MIN,KCR,Jeremy Guthrie,ahead 0-1,SO,b1,12-,1,4 (1-2),0,-0.04,-0.46,1.65,Strikeout Looking
+44409,9,2014-08-17,Kurt Suzuki,MIN,KCR,Jeremy Guthrie,ahead 0-1,Out,b1,12-,2,3 (1-1),0,-0.04,-0.42,1.42,Popfly: SS
+44410,10,2014-08-17,Billy Butler,KCR,@MIN,Tommy Milone,down 1-0,1B,t2,---,0,6 (3-2),0,0.04,0.38,.97,Single to CF (Line Drive)
+44411,11,2014-08-17,Alex Gordon,KCR,@MIN,Tommy Milone,down 1-0,HBP,t2,1--,0,2 (0-1),0,0.06,0.60,1.64,Hit By Pitch; Butler to 2B
+44412,12,2014-08-17,Josh Willingham,KCR,@MIN,Tommy Milone,down 1-0,BB,t2,12-,0,5 (3-1),0,0.09,0.85,2.20,Walk; Butler to 3B; Gordon to 2B
+44413,13,2014-08-17,Mike Moustakas,KCR,@MIN,Tommy Milone,down 1-0,Out,t2,123,0,2 (0-1),0,-0.08,-0.76,2.61,Foul Popfly: 3B (3B Foul)
+44414,14,2014-08-17,Alcides Escobar,KCR,@MIN,Tommy Milone,down 1-0,1B,t2,123,1,2 (1-0),2,0.14,1.34,3.01,Single to CF (Ground Ball thru SS-2B); Butler Scores; Gordon Scores; Willingham to 2B
+44415,15,2014-08-17,Jarrod Dyson,KCR,@MIN,Tommy Milone,ahead 1-2,BB,t2,12-,1,6 (3-2),0,0.06,0.66,1.81,Walk; Willingham to 3B; Escobar to 2B
+44416,16,2014-08-17,Nori Aoki,KCR,@MIN,Tommy Milone,ahead 1-2,1B,t2,123,1,2 (0-1),2,0.13,1.62,2.36,Single to CF (Line Drive); Willingham Scores; Escobar Scores; Dyson to 3B
+44417,17,2014-08-17,Omar Infante,KCR,@MIN,Tommy Milone,ahead 1-4,RoE,t2,-23,1,4 (2-1),0,0.06,1.13,.91,Reached on E4 (Ground Ball); Dyson Scores/unER/No RBI; Aoki Scores/No RBI
+44418,18,2014-08-17,Salvador Perez,KCR,@MIN,Tommy Milone,ahead 1-6,1B,t2,1--,1,2 (0-1),0,0.01,0.38,.35,Single to CF (Ground Ball thru SS-2B); Infante to 2B
+44419,19,2014-08-17,Billy Butler,KCR,@MIN,Sam Deduno,ahead 1-6,1B,t2,12-,1,4 (1-2),1,0.03,1.00,.57,Single to LF (Line Drive); Infante Scores; Perez to 2B
+44420,20,2014-08-17,Alex Gordon,KCR,@MIN,Sam Deduno,ahead 1-7,Out,t2,12-,1,4 (1-2),0,-0.02,-0.88,.39,Ground Ball Double Play: P-2B-SS-1B (SS-2B)
+44421,21,2014-08-17,Chris Parmelee,MIN,KCR,Jeremy Guthrie,down 7-1,SO,b2,---,0,5 (2-2),0,-0.01,-0.22,.41,Strikeout Swinging
+44422,22,2014-08-17,Eduardo Escobar,MIN,KCR,Jeremy Guthrie,down 7-1,Out,b2,---,1,5 (2-2),0,-0.01,-0.15,.27,Flyball: LF (Deep LF)
+44423,23,2014-08-17,Jordan Schafer,MIN,KCR,Jeremy Guthrie,down 7-1,Out,b2,---,2,3 (0-2),0,-0.00,-0.10,.15,Flyball: CF
+44424,24,2014-08-17,Josh Willingham,KCR,@MIN,Sam Deduno,ahead 1-7,SO,t3,---,0,4 (1-2),0,-0.00,-0.22,.15,Strikeout Swinging
+44425,25,2014-08-17,Mike Moustakas,KCR,@MIN,Sam Deduno,ahead 1-7,Out,t3,---,1,2 (1-0),0,-0.00,-0.15,.11,Groundout: 1B-P (2B-1B)
+44426,26,2014-08-17,Alcides Escobar,KCR,@MIN,Sam Deduno,ahead 1-7,Out,t3,---,2,7 (3-2),0,-0.00,-0.10,.08,Popfly: 2B
+44427,27,2014-08-17,Danny Santana,MIN,KCR,Jeremy Guthrie,down 7-1,SO,b3,---,0,5 (2-2),0,-0.01,-0.22,.39,Strikeout Swinging
+44428,28,2014-08-17,Brian Dozier,MIN,KCR,Jeremy Guthrie,down 7-1,Out,b3,---,1,2 (0-1),0,-0.01,-0.15,.25,Lineout: RF (Deep RF)
+44429,29,2014-08-17,Joe Mauer,MIN,KCR,Jeremy Guthrie,down 7-1,HR,b3,---,2,1 (0-0),1,0.03,1.00,.19,Home Run (Fly Ball to Deep LF-CF)
+44430,30,2014-08-17,Kennys Vargas,MIN,KCR,Jeremy Guthrie,down 7-2,SO,b3,---,2,4 (1-2),0,-0.01,-0.10,.19,Strikeout Looking
+44431,1,2014-08-17,Chris Coghlan,CHC,@NYM,Rafael Montero,tied 0-0,Out,t1,---,0,6 (3-2),0,-0.02,-0.20,.87,*LEADOFF GM*:Flyball: LF
+44432,2,2014-08-17,Javier Baez,CHC,@NYM,Rafael Montero,tied 0-0,SO,t1,---,1,5 (2-2),0,-0.01,-0.13,.60,Strikeout Swinging
+44433,3,2014-08-17,Anthony Rizzo,CHC,@NYM,Rafael Montero,tied 0-0,Out,t1,---,2,1 (0-0),0,-0.01,-0.08,.38,Popfly: 1B (2B-1B)
+44434,4,2014-08-17,Curtis Granderson,NYM,CHC,Jake Arrieta,tied 0-0,Out,b1,---,0,5 (2-2),0,-0.02,-0.20,.87,Flyball: LF (LF-CF)
+44435,5,2014-08-17,Juan Lagares,NYM,CHC,Jake Arrieta,tied 0-0,Out,b1,---,1,1 (0-0),0,-0.01,-0.13,.60,Groundout: 1B-P (2B-1B)
+44436,6,2014-08-17,Daniel Murphy,NYM,CHC,Jake Arrieta,tied 0-0,Out,b1,---,2,2 (0-1),0,-0.01,-0.08,.39,Groundout: 2B-1B
+44437,7,2014-08-17,Starlin Castro,CHC,@NYM,Rafael Montero,tied 0-0,1B,t2,---,0,6 (3-2),0,0.04,0.36,.93,Single to CF (Line Drive to Short CF-RF)
+44438,8,2014-08-17,Luis Valbuena,CHC,@NYM,Rafael Montero,tied 0-0,Out,t2,1--,0,1 (0-0),0,-0.08,-0.69,1.64,Ground Ball Double Play: 1B-SS (2B-1B)
+44439,9,2014-08-17,Arismendy Alcantara,CHC,@NYM,Rafael Montero,tied 0-0,SO,t2,---,2,4 (1-2),0,-0.01,-0.08,.40,Strikeout Swinging
+44440,10,2014-08-17,Lucas Duda,NYM,CHC,Jake Arrieta,tied 0-0,1B,b2,---,0,6 (3-2),0,0.04,0.36,.92,Single to LF (Line Drive to Short LF-CF)
+44441,11,2014-08-17,Eric Campbell,NYM,CHC,Jake Arrieta,tied 0-0,SO,b2,1--,0,4 (0-2),0,-0.04,-0.33,1.61,Strikeout Swinging
+44442,12,2014-08-17,Matt den Dekker,NYM,CHC,Jake Arrieta,tied 0-0,SO,b2,1--,1,5 (2-2),0,-0.03,-0.26,1.25,Strikeout Swinging
+44443,13,2014-08-17,Anthony Recker,NYM,CHC,Jake Arrieta,tied 0-0,SO,b2,1--,2,4 (1-2),0,-0.02,-0.20,.85,Strikeout Swinging
+44444,14,2014-08-17,Ryan Sweeney,CHC,@NYM,Rafael Montero,tied 0-0,1B,t3,---,0,7 (3-2),0,0.04,0.36,.99,Single to LF (Line Drive to Short LF)
+44445,15,2014-08-17,John Baker,CHC,@NYM,Rafael Montero,tied 0-0,SO,t3,1--,0,3 (0-2),0,-0.04,-0.33,1.75,Strikeout Swinging
+44446,16,2014-08-17,Chris Coghlan,CHC,@NYM,Rafael Montero,tied 0-0,Out,t3,1--,2,2 (1-0),0,-0.02,-0.20,.92,Flyball: LF (LF-CF)
+44447,17,2014-08-17,Ruben Tejada,NYM,CHC,Jake Arrieta,tied 0-0,1B,b3,---,0,3 (1-1),0,0.04,0.36,1.00,Single to CF (Line Drive to Short CF-RF)
+44448,18,2014-08-17,Curtis Granderson,NYM,CHC,Jake Arrieta,tied 0-0,RoE,b3,-2-,1,3 (1-1),0,0.06,0.49,1.47,Reached on E3 (throw) (Ground Ball); Tejada to 3B
+44449,19,2014-08-17,Juan Lagares,NYM,CHC,Jake Arrieta,tied 0-0,Out,b3,1-3,1,2 (0-1),0,-0.13,-1.11,2.36,Ground Ball Double Play: SS-2B-1B
+44450,1,2014-08-17,Ben Revere,PHI,@SFG,Tim Lincecum,tied 0-0,1B,t1,---,0,5 (2-2),0,0.04,0.36,.87,*LEADOFF GM*:Single to LF (Line Drive)
+44451,2,2014-08-17,Jimmy Rollins,PHI,@SFG,Tim Lincecum,tied 0-0,BB,t1,---,1,5 (3-1),0,0.02,0.24,.60,Walk
+44452,3,2014-08-17,Chase Utley,PHI,@SFG,Tim Lincecum,tied 0-0,3B,t1,1--,1,4 (1-2),1,0.15,1.43,1.17,Triple to CF (Line Drive to Deep CF-RF); Rollins Scores
+44453,4,2014-08-17,Ryan Howard,PHI,@SFG,Tim Lincecum,ahead 0-1,BB,t1,--3,1,6 (3-2),0,0.02,0.23,1.37,Walk
+44454,5,2014-08-17,Marlon Byrd,PHI,@SFG,Tim Lincecum,ahead 0-1,Out,t1,1-3,1,5 (3-1),0,-0.06,-0.66,1.80,Popfly: 2B
+44455,6,2014-08-17,Grady Sizemore,PHI,@SFG,Tim Lincecum,ahead 0-1,Out,t1,1-3,2,4 (2-1),0,-0.04,-0.45,1.61,Groundout: 2B-1B
+44456,7,2014-08-17,Angel Pagan,SFG,PHI,David Buchanan,down 1-0,Out,b1,---,0,4 (1-2),0,-0.02,-0.20,.93,Flyball: LF (LF-CF)
+44457,8,2014-08-17,Hunter Pence,SFG,PHI,David Buchanan,down 1-0,Out,b1,---,1,2 (1-0),0,-0.02,-0.13,.64,Flyball: CF (Deep LF-CF)
+44458,9,2014-08-17,Buster Posey,SFG,PHI,David Buchanan,down 1-0,Out,b1,---,2,4 (1-2),0,-0.01,-0.09,.41,Flyball: RF (Deep CF-RF)
+44459,10,2014-08-17,Carlos Ruiz,PHI,@SFG,Tim Lincecum,ahead 0-1,Out,t2,---,0,6 (2-2),0,-0.02,-0.20,.80,Lineout: CF (Deep CF)
+44460,11,2014-08-17,Cody Asche,PHI,@SFG,Tim Lincecum,ahead 0-1,1B,t2,---,1,6 (3-2),0,0.02,0.24,.55,Single to RF (Line Drive to CF-RF)
+44461,12,2014-08-17,Ben Revere,PHI,@SFG,Tim Lincecum,ahead 0-1,1B,t2,-2-,2,2 (1-0),0,0.01,0.16,1.10,Single to LF (Line Drive to Short LF); Asche to 3B
+44462,13,2014-08-17,Jimmy Rollins,PHI,@SFG,Tim Lincecum,ahead 0-1,SO,t2,-23,2,6 (2-2),0,-0.05,-0.55,1.89,Strikeout Swinging
+44463,14,2014-08-17,Pablo Sandoval,SFG,PHI,David Buchanan,down 1-0,Out,b2,---,0,4 (2-1),0,-0.02,-0.20,1.00,Groundout: 3B-1B (SS-3B Hole)
+44464,15,2014-08-17,Mike Morse,SFG,PHI,David Buchanan,down 1-0,1B,b2,---,1,1 (0-0),0,0.03,0.24,.70,Single to RF (Line Drive)
+44465,16,2014-08-17,Joe Panik,SFG,PHI,David Buchanan,down 1-0,Out,b2,1--,1,2 (0-1),0,-0.03,-0.26,1.37,Lineout: CF (Deep CF-RF)
+44466,17,2014-08-17,Andrew Susac,SFG,PHI,David Buchanan,down 1-0,1B,b2,1--,2,5 (2-2),0,0.02,0.19,.91,Single to CF (Line Drive to CF-RF); Morse to 2B
+44467,18,2014-08-17,Brandon Crawford,SFG,PHI,David Buchanan,down 1-0,1B,b2,12-,2,6 (2-2),1,0.24,1.93,1.96,Single to RF (Ground Ball thru 2B-1B); Morse Scores; Susac Scores/Adv on E5/unER; Crawford to 3B
+44468,19,2014-08-17,Chase Utley,PHI,@SFG,Tim Lincecum,down 2-1,Out,t3,---,0,3 (2-0),0,-0.03,-0.20,1.04,Groundout: P-1B (P's Left)
+44469,20,2014-08-17,Ryan Howard,PHI,@SFG,Tim Lincecum,down 2-1,Out,t3,---,1,4 (1-2),0,-0.02,-0.13,.72,Groundout: 2B-1B (Deep 1B)
+44470,21,2014-08-17,Marlon Byrd,PHI,@SFG,Tim Lincecum,down 2-1,1B,t3,---,2,2 (1-0),0,0.01,0.11,.45,Single to CF (Ground Ball)
+44471,22,2014-08-17,Grady Sizemore,PHI,@SFG,Tim Lincecum,down 2-1,2B,t3,1--,2,2 (1-0),0,0.05,0.35,.94,Double to LF (Line Drive to LF Line); Byrd to 3B
+44472,23,2014-08-17,Carlos Ruiz,PHI,@SFG,Tim Lincecum,down 2-1,BB,t3,-23,2,7 (3-2),0,0.02,0.17,2.51,Walk
+44473,24,2014-08-17,Cody Asche,PHI,@SFG,Tim Lincecum,down 2-1,BB,t3,123,2,5 (3-1),1,0.12,1.00,3.70,Walk; Byrd Scores; Sizemore to 3B; Ruiz to 2B
+44474,25,2014-08-17,Angel Pagan,SFG,PHI,David Buchanan,tied 2-2,Out,b3,---,0,2 (1-0),0,-0.02,-0.20,.99,Groundout: 2B-1B (2B-1B)
+44475,26,2014-08-17,Hunter Pence,SFG,PHI,David Buchanan,tied 2-2,BB,b3,---,1,5 (3-1),0,0.03,0.24,.69,Walk
+44476,27,2014-08-17,Buster Posey,SFG,PHI,David Buchanan,tied 2-2,SO,b3,1--,1,4 (1-2),0,-0.03,-0.26,1.34,Strikeout Swinging
+44477,28,2014-08-17,Pablo Sandoval,SFG,PHI,David Buchanan,tied 2-2,Out,b3,1--,2,1 (0-0),0,-0.02,-0.20,.92,Groundout: SS-1B (SS-2B)
+44478,1,2014-08-17,Yangervis Solarte,SDP,@STL,Adam Wainwright,tied 0-0,Out,t1,---,0,1 (0-0),0,-0.02,-0.21,.87,*LEADOFF GM*:Groundout: SS-1B (Weak SS)
+44479,2,2014-08-17,Abraham Almonte,SDP,@STL,Adam Wainwright,tied 0-0,SO,t1,---,1,5 (2-2),0,-0.01,-0.14,.61,Strikeout Looking
+44480,3,2014-08-17,Seth Smith,SDP,@STL,Adam Wainwright,tied 0-0,Out,t1,---,2,2 (1-0),0,-0.01,-0.09,.39,Flyball: CF (Deep CF)
+44481,4,2014-08-17,Matt Carpenter,STL,SDP,Odrisamer Despaigne,tied 0-0,1B,b1,---,0,3 (1-1),0,0.04,0.37,.87,Single to CF (Line Drive)
+44482,5,2014-08-17,Kolten Wong,STL,SDP,Odrisamer Despaigne,tied 0-0,BB,b1,1--,0,4 (3-0),0,0.06,0.60,1.48,Walk; Carpenter to 2B
+44483,6,2014-08-17,Jhonny Peralta,STL,SDP,Odrisamer Despaigne,tied 0-0,Out,b1,12-,0,6 (3-2),0,-0.05,-0.56,1.95,Flyball: RF (Short RF)
+44484,7,2014-08-17,Matt Adams,STL,SDP,Odrisamer Despaigne,tied 0-0,1B,b1,12-,1,5 (2-2),0,0.06,0.65,1.98,Single to CF (Line Drive); Carpenter to 3B; Wong to 2B
+44485,8,2014-08-17,Jon Jay,STL,SDP,Odrisamer Despaigne,tied 0-0,1B,b1,123,1,3 (1-1),2,0.13,1.35,2.66,Single to RF (Line Drive); Carpenter Scores; Wong Scores; Adams to 2B
+44486,9,2014-08-17,Oscar Taveras,STL,SDP,Odrisamer Despaigne,ahead 0-2,Out,b1,12-,1,2 (1-0),0,-0.03,-0.44,1.30,Lineout: CF
+44487,10,2014-08-17,Peter Bourjos,STL,SDP,Odrisamer Despaigne,ahead 0-2,1B,b1,12-,2,6 (3-2),1,0.08,1.06,1.13,Single to CF (Ground Ball thru SS-2B); Adams Scores; Jay to 3B
+44488,11,2014-08-17,Tony Cruz,STL,SDP,Odrisamer Despaigne,ahead 0-3,1B,b1,1-3,2,2 (0-1),1,0.06,1.00,.92,Single to RF (Ground Ball thru 2B-1B); Jay Scores; Bourjos to 3B
+44489,12,2014-08-17,Yasmani Grandal,SDP,@STL,Adam Wainwright,down 4-0,Out,t2,---,0,2 (1-0),0,-0.02,-0.21,.63,Lineout: RF
+44490,13,2014-08-17,Jedd Gyorko,SDP,@STL,Adam Wainwright,down 4-0,Out,t2,---,1,4 (2-1),0,-0.01,-0.14,.40,Flyball: RF (CF-RF)
+44491,14,2014-08-17,Jake Goebbert,SDP,@STL,Adam Wainwright,down 4-0,SO,t2,---,2,8 (3-2),0,-0.01,-0.09,.24,Strikeout Looking
+44492,15,2014-08-17,Matt Carpenter,STL,SDP,Odrisamer Despaigne,ahead 0-4,HR,b2,---,0,5 (2-2),1,0.04,1.00,.29,Home Run (Line Drive to Deep CF-RF)
+44493,16,2014-08-17,Kolten Wong,STL,SDP,Odrisamer Despaigne,ahead 0-5,Out,b2,---,0,1 (0-0),0,-0.00,-0.21,.18,Groundout: 1B-P (2B-1B)
+44494,17,2014-08-17,Jhonny Peralta,STL,SDP,Odrisamer Despaigne,ahead 0-5,Out,b2,---,1,2 (1-0),0,-0.00,-0.14,.12,Flyball: CF (Deep CF)
+44495,18,2014-08-17,Matt Adams,STL,SDP,Odrisamer Despaigne,ahead 0-5,Out,b2,---,2,1 (0-0),0,-0.00,-0.09,.09,Flyball: CF (Deep CF)
+44496,19,2014-08-17,Will Venable,SDP,@STL,Adam Wainwright,down 5-0,SO,t3,---,0,5 (2-2),0,-0.01,-0.21,.46,Strikeout Looking
+44497,20,2014-08-17,Alexi Amarista,SDP,@STL,Adam Wainwright,down 5-0,Out,t3,---,1,5 (2-2),0,-0.01,-0.14,.29,Foul Popfly: 3B (3B Foul)
+44498,21,2014-08-17,Jon Jay,STL,SDP,Odrisamer Despaigne,ahead 0-5,Out,b3,---,0,2 (1-0),0,-0.00,-0.21,.15,Groundout: 1B-P (Weak 2B-1B)
+44499,22,2014-08-17,Oscar Taveras,STL,SDP,Odrisamer Despaigne,ahead 0-5,Out,b3,---,1,4 (2-1),0,-0.00,-0.14,.11,Groundout: P-1B (P's Left)
+44500,23,2014-08-17,Peter Bourjos,STL,SDP,Odrisamer Despaigne,ahead 0-5,Out,b3,---,2,1 (0-0),0,-0.00,-0.09,.08,Groundout: SS-1B

@@ -1,0 +1,502 @@
+
+Yr#,Gm#,Date,Batter,Tm,Opp,Pitcher,Score,,Inn,RoB,Out,Pit(cnt)Sequence,RBI,WPA,RE24,LI,Play Description
+26501,19,2012-06-25,Carlos Pena,TBR,@KCR,Luke Hochevar,down 1-0,Out,t3,--3,2,7 (3-2),0,-0.04,-0.36,1.51,Flyball: CF (CF-RF)
+26502,20,2012-06-25,Alcides Escobar,KCR,TBR,Alex Cobb,ahead 0-1,1B,b3,---,0,3 (1-1),0,0.03,0.39,.80,Single to 3B/Bunt (Bunt to Short 3B Line)
+26503,21,2012-06-25,Alex Gordon,KCR,TBR,Alex Cobb,ahead 0-1,1B,b3,1--,0,5 (1-2),0,0.05,0.61,1.30,Single to LF (Ground Ball); Escobar to 2B
+26504,22,2012-06-25,Yuniesky Betancourt,KCR,TBR,Alex Cobb,ahead 0-1,1B,b3,-23,0,5 (3-1),2,0.07,0.90,1.19,Single to CF (Ground Ball thru SS-2B); Escobar Scores; Gordon Scores
+26505,23,2012-06-25,Mike Moustakas,KCR,TBR,Alex Cobb,ahead 0-3,Out,b3,1--,0,4 (1-2),0,-0.02,-0.36,.70,Popfly: SS (Deep SS-3B Hole)
+26506,24,2012-06-25,Billy Butler,KCR,TBR,Alex Cobb,ahead 0-3,1B,b3,1--,1,3 (2-0),0,0.02,0.39,.59,Single to LF (Line Drive to LF-CF); Betancourt to 2B
+26507,25,2012-06-25,Jeff Francoeur,KCR,TBR,Alex Cobb,ahead 0-3,1B,b3,12-,1,2 (0-1),1,0.03,0.41,.94,Single to RF (Fly Ball to CF-RF); Betancourt Scores; Butler out at 3B/RF-3B; Francoeur to 2B/Adv on throw to 3B
+26508,26,2012-06-25,Eric Hosmer,KCR,TBR,Alex Cobb,ahead 0-4,1B,b3,-2-,2,2 (0-1),1,0.04,0.91,.42,Single to 2B (Ground Ball to SS-2B); Francoeur Scores
+26509,27,2012-06-25,Salvador Perez,KCR,TBR,Alex Cobb,ahead 0-5,1B,b3,-2-,2,5 (2-2),1,0.02,0.68,.27,Single to CF (Line Drive to LF-CF); Hosmer Scores; Perez out at 2B/LF-3B-1B-2B-3B
+26510,1,2012-06-25,Rafael Furcal,STL,@MIA,Ricky Nolasco,tied 0-0,Out,t1,---,0,5 (2-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Flyball: RF
+26511,2,2012-06-25,Jon Jay,STL,@MIA,Ricky Nolasco,tied 0-0,Out,t1,---,1,2 (1-0),0,-0.02,-0.16,.62,Bunt Groundout: P-1B (Short 3B Line)
+26512,3,2012-06-25,Matt Holliday,STL,@MIA,Ricky Nolasco,tied 0-0,1B,t1,---,2,4 (0-2),0,0.01,0.12,.40,Single to LF (Ground Ball thru SS-3B Hole)
+26513,4,2012-06-25,Carlos Beltran,STL,@MIA,Ricky Nolasco,tied 0-0,1B,t1,1--,2,2 (0-1),0,0.02,0.20,.79,Single to RF (Line Drive); Holliday to 2B
+26514,5,2012-06-25,Allen Craig,STL,@MIA,Ricky Nolasco,tied 0-0,SO,t1,12-,2,6 (3-2),0,-0.04,-0.43,1.63,Strikeout Swinging (C-1B)
+26515,6,2012-06-25,Jose Reyes,MIA,STL,Jake Westbrook,tied 0-0,Out,b1,---,0,3 (1-1),0,-0.02,-0.23,.87,Groundout: 2B-1B (Weak SS-2B)
+26516,7,2012-06-25,Hanley Ramirez,MIA,STL,Jake Westbrook,tied 0-0,Out,b1,---,1,2 (0-1),0,-0.02,-0.16,.62,Flyball: LF (Short LF-CF)
+26517,8,2012-06-25,Giancarlo Stanton,MIA,STL,Jake Westbrook,tied 0-0,Out,b1,---,2,4 (1-2),0,-0.01,-0.10,.40,Flyball: CF
+26518,9,2012-06-25,Yadier Molina,STL,@MIA,Ricky Nolasco,tied 0-0,Out,t2,---,0,5 (1-2),0,-0.02,-0.23,.93,Groundout: SS-1B (Weak 3B)
+26519,10,2012-06-25,David Freese,STL,@MIA,Ricky Nolasco,tied 0-0,SO,t2,---,1,8 (3-2),0,-0.02,-0.16,.65,Strikeout Looking
+26520,11,2012-06-25,Daniel Descalso,STL,@MIA,Ricky Nolasco,tied 0-0,BB,t2,---,2,8 (3-2),0,0.01,0.12,.42,Walk
+26521,12,2012-06-25,Logan Morrison,MIA,STL,Jake Westbrook,tied 0-0,Out,b2,---,0,2 (0-1),0,-0.02,-0.23,.92,Groundout: 1B unassisted
+26522,13,2012-06-25,Greg Dobbs,MIA,STL,Jake Westbrook,tied 0-0,Out,b2,---,1,2 (0-1),0,-0.02,-0.16,.66,Lineout: 3B (Weak 3B)
+26523,14,2012-06-25,Omar Infante,MIA,STL,Jake Westbrook,tied 0-0,1B,b2,---,2,2 (1-0),0,0.01,0.12,.43,Single to CF (Fly Ball to Short CF)
+26524,15,2012-06-25,Scott Cousins,MIA,STL,Jake Westbrook,tied 0-0,Out,b2,1--,2,3 (0-2),0,-0.02,-0.22,.84,Flyball: LF (Short LF)
+26525,16,2012-06-25,Rafael Furcal,STL,@MIA,Ricky Nolasco,tied 0-0,Out,t3,---,0,3 (1-1),0,-0.03,-0.23,.99,Groundout: 1B unassisted
+26526,17,2012-06-25,Jon Jay,STL,@MIA,Ricky Nolasco,tied 0-0,SO,t3,---,1,4 (1-2),0,-0.02,-0.16,.71,Strikeout Swinging (C-1B)
+26527,18,2012-06-25,Matt Holliday,STL,@MIA,Ricky Nolasco,tied 0-0,Out,t3,---,2,5 (2-2),0,-0.01,-0.10,.46,Flyball: CF (Short CF-RF)
+26528,19,2012-06-25,John Buck,MIA,STL,Jake Westbrook,tied 0-0,BB,b3,---,0,5 (3-1),0,0.04,0.38,.99,Walk
+26529,20,2012-06-25,Jose Reyes,MIA,STL,Jake Westbrook,tied 0-0,2B,b3,-2-,1,4 (2-1),1,0.06,0.43,1.39,Double to LF (Line Drive to Deep LF Line); Buck Scores; Reyes out at 3B/LF-3B
+26530,21,2012-06-25,Hanley Ramirez,MIA,STL,Jake Westbrook,ahead 0-1,1B,b3,---,2,3 (1-1),0,0.01,0.12,.39,Single to CF (Fly Ball to Short CF)
+26531,22,2012-06-25,Giancarlo Stanton,MIA,STL,Jake Westbrook,ahead 0-1,Out,b3,1--,2,3 (1-1),0,-0.02,-0.22,.74,Groundout: SS-1B (Weak SS)
+26532,1,2012-06-25,Alejandro De Aza,CHW,@MIN,Francisco Liriano,tied 0-0,Out,t1,---,0,4 (1-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Foul Popfly: 3B (3B Foul)
+26533,2,2012-06-25,Kevin Youkilis,CHW,@MIN,Francisco Liriano,tied 0-0,Out,t1,---,1,4 (2-1),0,-0.02,-0.16,.62,Groundout: SS-1B (Weak SS)
+26534,3,2012-06-25,Adam Dunn,CHW,@MIN,Francisco Liriano,tied 0-0,SO,t1,---,2,3 (0-2),0,-0.01,-0.10,.40,Strikeout Swinging
+26535,4,2012-06-25,Denard Span,MIN,CHW,Jake Peavy,tied 0-0,2B,b1,---,0,6 (2-2),0,0.06,0.62,.87,Double to RF (Line Drive to RF Line)
+26536,5,2012-06-25,Ben Revere,MIN,CHW,Jake Peavy,tied 0-0,1B,b1,-2-,0,1 (0-0),0,0.06,0.73,1.22,Single to P/Bunt (Bunt to Weak 2B-1B); Span to 3B
+26537,6,2012-06-25,Joe Mauer,MIN,CHW,Jake Peavy,tied 0-0,Out,b1,1-3,0,5 (2-2),1,-0.02,-0.32,1.57,Flyball: RF/Sacrifice Fly (Deep RF); Span Scores
+26538,7,2012-06-25,Josh Willingham,MIN,CHW,Jake Peavy,ahead 0-1,Out,b1,1--,1,3 (1-1),0,-0.04,-0.51,1.00,Ground Ball Double Play: SS-2B-1B (Weak SS)
+26539,8,2012-06-25,Paul Konerko,CHW,@MIN,Francisco Liriano,down 1-0,Out,t2,---,0,3 (1-1),0,-0.02,-0.23,.97,Groundout: 2B-1B
+26540,9,2012-06-25,Alex Rios,CHW,@MIN,Francisco Liriano,down 1-0,Out,t2,---,1,2 (1-0),0,-0.02,-0.16,.68,Groundout: SS-1B (Weak SS)
+26541,10,2012-06-25,A.J. Pierzynski,CHW,@MIN,Francisco Liriano,down 1-0,Out,t2,---,2,6 (3-2),0,-0.01,-0.10,.42,Groundout: 1B unassisted
+26542,11,2012-06-25,Justin Morneau,MIN,CHW,Jake Peavy,ahead 0-1,Out,b2,---,0,8 (3-2),0,-0.02,-0.23,.76,Flyball: CF (Short CF-RF)
+26543,12,2012-06-25,Trevor Plouffe,MIN,CHW,Jake Peavy,ahead 0-1,1B,b2,---,1,3 (1-1),0,0.02,0.26,.56,Single to 1B (Ground Ball)
+26544,13,2012-06-25,Brian Dozier,MIN,CHW,Jake Peavy,ahead 0-1,1B,b2,1--,1,2 (0-1),0,0.13,1.42,1.04,Single to RF (Ground Ball thru 2B-1B); Plouffe Scores/Adv on E9 (throw); Dozier to 3B
+26545,14,2012-06-25,Drew Butera,MIN,CHW,Jake Peavy,ahead 0-2,SO,b2,--3,1,3 (0-2),0,-0.04,-0.58,1.02,Strikeout Swinging
+26546,15,2012-06-25,Jamey Carroll,MIN,CHW,Jake Peavy,ahead 0-2,1B,b2,--3,2,1 (0-0),1,0.07,0.87,.98,Single to CF (Line Drive); Dozier Scores
+26547,16,2012-06-25,Denard Span,MIN,CHW,Jake Peavy,ahead 0-3,2B,b2,1--,2,1 (0-0),0,0.02,0.37,.43,Double to RF (Fly Ball to Deep CF-RF); Carroll to 3B
+26548,17,2012-06-25,Ben Revere,MIN,CHW,Jake Peavy,ahead 0-3,Out,b2,-23,2,4 (1-2),0,-0.03,-0.59,1.02,Groundout: 2B-1B
+26549,18,2012-06-25,Dayan Viciedo,CHW,@MIN,Francisco Liriano,down 3-0,Out,t3,---,0,3 (1-1),0,-0.02,-0.23,.83,Groundout: P-1B (Front of Home)
+26550,19,2012-06-25,Alexei Ramirez,CHW,@MIN,Francisco Liriano,down 3-0,1B,t3,---,1,4 (2-1),0,0.04,0.41,.57,Single to SS (Ground Ball to Weak SS); Ramirez to 2B/Adv on E6 (throw to 1B)
+26551,20,2012-06-25,Gordon Beckham,CHW,@MIN,Francisco Liriano,down 3-0,Out,t3,-2-,1,1 (0-0),0,-0.03,-0.31,1.15,Foul Flyball: RF (RF Foul); Ramirez to 3B
+26552,21,2012-06-25,Alejandro De Aza,CHW,@MIN,Francisco Liriano,down 3-0,SO,t3,--3,2,4 (1-2),0,-0.03,-0.36,1.09,Strikeout Swinging
+26553,22,2012-06-25,Joe Mauer,MIN,CHW,Jake Peavy,ahead 0-3,1B,b3,---,0,6 (2-2),0,0.02,0.38,.44,Single to P (Ground Ball to Weak 2B)
+26554,23,2012-06-25,Josh Willingham,MIN,CHW,Jake Peavy,ahead 0-3,Out,b3,1--,0,3 (1-1),0,-0.02,-0.35,.69,Foul Popfly: 2B (1B Foul)
+26555,24,2012-06-25,Justin Morneau,MIN,CHW,Jake Peavy,ahead 0-3,1B,b3,1--,1,3 (2-0),0,0.03,0.66,.57,Single to CF (Ground Ball thru SS-2B); Mauer to 3B
+26556,25,2012-06-25,Trevor Plouffe,MIN,CHW,Jake Peavy,ahead 0-3,SO,b3,1-3,1,4 (1-2),0,-0.03,-0.68,.92,Strikeout Swinging
+26557,26,2012-06-25,Brian Dozier,MIN,CHW,Jake Peavy,ahead 0-3,Out,b3,1-3,2,4 (1-2),0,-0.02,-0.49,.89,Flyball: RF
+26558,1,2012-06-25,Shin-Soo Choo,CLE,@NYY,Hiroki Kuroda,tied 0-0,Out,t1,---,0,4 (2-1),0,-0.02,-0.24,.87,*LEADOFF GM*:Flyball: LF (Deep LF)
+26559,2,2012-06-25,Asdrubal Cabrera,CLE,@NYY,Hiroki Kuroda,tied 0-0,SO,t1,---,1,4 (1-2),0,-0.02,-0.17,.62,Strikeout Swinging
+26560,3,2012-06-25,Jason Kipnis,CLE,@NYY,Hiroki Kuroda,tied 0-0,Out,t1,---,2,5 (2-2),0,-0.01,-0.11,.40,Groundout: 2B-1B
+26561,4,2012-06-25,Derek Jeter,NYY,CLE,Josh Tomlin,tied 0-0,Out,b1,---,0,9 (3-2),0,-0.02,-0.24,.87,Groundout: 2B-1B
+26562,5,2012-06-25,Curtis Granderson,NYY,CLE,Josh Tomlin,tied 0-0,BB,b1,---,1,10 (3-2),0,0.02,0.26,.62,Walk
+26563,6,2012-06-25,Mark Teixeira,NYY,CLE,Josh Tomlin,tied 0-0,1B,b1,1--,1,7 (2-2),0,0.06,0.66,1.15,Single to RF (Line Drive to Deep RF); Granderson to 3B
+26564,7,2012-06-25,Robinson Cano,NYY,CLE,Josh Tomlin,tied 0-0,2B,b1,1-3,1,3 (2-0),2,0.09,0.91,1.77,Double to CF (Line Drive to Deep CF); Granderson Scores; Teixeira Scores; Cano out at 3B/CF-2B-C-3B
+26565,8,2012-06-25,Nick Swisher,NYY,CLE,Josh Tomlin,ahead 0-2,SO,b1,---,2,6 (3-2),0,-0.01,-0.11,.30,Strikeout Swinging
+26566,9,2012-06-25,Carlos Santana,CLE,@NYY,Hiroki Kuroda,down 2-0,Out,t2,---,0,2 (1-0),0,-0.02,-0.24,.92,Groundout: 2B-1B (2B-1B)
+26567,10,2012-06-25,Michael Brantley,CLE,@NYY,Hiroki Kuroda,down 2-0,1B,t2,---,1,4 (2-1),0,0.03,0.26,.64,Single to RF (Ground Ball thru 2B-1B)
+26568,11,2012-06-25,Johnny Damon,CLE,@NYY,Hiroki Kuroda,down 2-0,Out,t2,1--,1,4 (2-1),0,-0.02,-0.21,1.21,Groundout: 1B unassisted (Weak 2B-1B); Brantley to 2B
+26569,12,2012-06-25,Casey Kotchman,CLE,@NYY,Hiroki Kuroda,down 2-0,SO,t2,-2-,2,3 (0-2),0,-0.03,-0.33,1.09,Strikeout Swinging
+26570,13,2012-06-25,Raul Ibanez,NYY,CLE,Josh Tomlin,ahead 0-2,SO,b2,---,0,4 (1-2),0,-0.02,-0.24,.63,Strikeout Looking
+26571,14,2012-06-25,Eric Chavez,NYY,CLE,Josh Tomlin,ahead 0-2,1B,b2,---,1,7 (3-2),0,0.02,0.26,.46,Single to RF (Ground Ball thru 2B-1B)
+26572,15,2012-06-25,Dewayne Wise,NYY,CLE,Josh Tomlin,ahead 0-2,HR,b2,1--,1,4 (1-2),2,0.12,1.74,.83,Home Run (Fly Ball to Deep CF-RF); Chavez Scores
+26573,16,2012-06-25,Chris Stewart,NYY,CLE,Josh Tomlin,ahead 0-4,SO,b2,---,1,3 (0-2),0,-0.01,-0.17,.25,Strikeout Swinging
+26574,17,2012-06-25,Derek Jeter,NYY,CLE,Josh Tomlin,ahead 0-4,Out,b2,---,2,6 (2-2),0,-0.00,-0.11,.17,Groundout: SS-1B (Weak SS)
+26575,18,2012-06-25,Jack Hannahan,CLE,@NYY,Hiroki Kuroda,down 4-0,Out,t3,---,0,10 (3-2),0,-0.02,-0.24,.68,Groundout: SS-1B (Weak SS)
+26576,19,2012-06-25,Lonnie Chisenhall,CLE,@NYY,Hiroki Kuroda,down 4-0,Out,t3,---,1,3 (2-0),0,-0.01,-0.17,.45,Flyball: RF (Deep RF)
+26577,20,2012-06-25,Shin-Soo Choo,CLE,@NYY,Hiroki Kuroda,down 4-0,1B,t3,---,2,2 (1-0),0,0.01,0.13,.27,Single to RF (Line Drive)
+26578,21,2012-06-25,Asdrubal Cabrera,CLE,@NYY,Hiroki Kuroda,down 4-0,Out,t3,1--,2,2 (1-0),0,-0.02,-0.24,.55,Popfly: SS (Weak SS)
+26579,22,2012-06-25,Curtis Granderson,NYY,CLE,Josh Tomlin,ahead 0-4,Out,b3,---,0,2 (0-1),0,-0.01,-0.24,.31,Popfly: 3B (Weak 3B)
+26580,23,2012-06-25,Mark Teixeira,NYY,CLE,Josh Tomlin,ahead 0-4,Out,b3,---,1,3 (2-0),0,-0.01,-0.17,.23,Groundout: 1B-P (2B-1B)
+26581,24,2012-06-25,Robinson Cano,NYY,CLE,Josh Tomlin,ahead 0-4,HR,b3,---,2,2 (1-0),1,0.04,1.00,.28,Home Run (Fly Ball to Deep RF)
+26582,25,2012-06-25,Nick Swisher,NYY,CLE,Josh Tomlin,ahead 0-5,HR,b3,---,2,7 (2-2),1,0.03,1.00,.19,Home Run (Fly Ball to Deep LF Line)
+26583,26,2012-06-25,Raul Ibanez,NYY,CLE,Josh Tomlin,ahead 0-6,BB,b3,---,2,5 (3-1),0,0.00,0.13,.06,Walk
+26584,27,2012-06-25,Eric Chavez,NYY,CLE,Josh Tomlin,ahead 0-6,Out,b3,1--,2,2 (0-1),0,-0.00,-0.24,.14,Foul Popfly: C (Behind Home)
+26585,1,2012-06-25,Alex Presley,PIT,@PHI,Joe Blanton,tied 0-0,Out,t1,---,0,4 (1-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Groundout: SS-1B (Weak SS)
+26586,2,2012-06-25,Jose Tabata,PIT,@PHI,Joe Blanton,tied 0-0,SO,t1,---,1,5 (2-2),0,-0.02,-0.16,.62,Strikeout Swinging
+26587,3,2012-06-25,Andrew McCutchen,PIT,@PHI,Joe Blanton,tied 0-0,RoE,t1,---,2,3 (1-1),0,0.01,0.12,.40,Reached on E6 (Ground Ball to Weak SS-2B)
+26588,4,2012-06-25,Garrett Jones,PIT,@PHI,Joe Blanton,tied 0-0,BB,t1,1--,2,5 (3-1),0,0.02,0.20,.79,Walk; McCutchen to 2B
+26589,5,2012-06-25,Neil Walker,PIT,@PHI,Joe Blanton,tied 0-0,Out,t1,12-,2,2 (0-1),0,-0.04,-0.43,1.63,Groundout: 2B-1B
+26590,6,2012-06-25,Jimmy Rollins,PHI,PIT,Jeff Karstens,tied 0-0,2B,b1,---,0,4 (1-2),0,0.06,0.62,.87,Double to RF (Ground Ball)
+26591,7,2012-06-25,Juan Pierre,PHI,PIT,Jeff Karstens,tied 0-0,Out,b1,-2-,0,1 (0-0),0,-0.01,-0.17,1.22,Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Rollins to 3B
+26592,8,2012-06-25,Hunter Pence,PHI,PIT,Jeff Karstens,tied 0-0,1B,b1,--3,1,2 (0-1),1,0.06,0.58,1.38,Single to RF (Fly Ball to Short RF); Rollins Scores
+26593,9,2012-06-25,Carlos Ruiz,PHI,PIT,Jeff Karstens,ahead 0-1,1B,b1,1--,1,4 (2-1),0,0.12,1.42,1.00,Single to RF (Line Drive to CF-RF); Pence Scores/Adv on E9 (throw to 3B)/No RBI; Ruiz to 3B/Adv on E5 (throw to 2B)
+26594,10,2012-06-25,Shane Victorino,PHI,PIT,Jeff Karstens,ahead 0-2,1B,b1,--3,1,3 (2-0),1,0.04,0.58,1.01,Single to CF (Line Drive); Ruiz Scores
+26595,11,2012-06-25,Placido Polanco,PHI,PIT,Jeff Karstens,ahead 0-3,1B,b1,1--,1,5 (1-2),0,0.06,1.16,.62,Single to RF (Line Drive to Short RF); Victorino Scores/Adv on E9 (throw to 3B)/No RBI/unER; Polanco to 2B/Adv on throw to Hm
+26596,12,2012-06-25,Ty Wigginton,PHI,PIT,Jeff Karstens,ahead 0-4,SO,b1,-2-,1,5 (2-2),0,-0.01,-0.35,.48,Strikeout Swinging
+26597,13,2012-06-25,Mike Fontenot,PHI,PIT,Jeff Karstens,ahead 0-4,SO,b1,-2-,2,4 (1-2),0,-0.01,-0.32,.48,Strikeout Swinging
+26598,14,2012-06-25,Pedro Alvarez,PIT,@PHI,Joe Blanton,down 4-0,1B,t2,---,0,4 (1-2),0,0.03,0.38,.65,Single to CF (Line Drive)
+26599,15,2012-06-25,Clint Barmes,PIT,@PHI,Joe Blanton,down 4-0,Out,t2,12-,0,3 (1-1),0,-0.09,-1.12,1.71,Ground Ball Double Play: SS-2B-1B (Weak 3B); Alvarez to 3B
+26600,16,2012-06-25,Jimmy Rollins,PHI,PIT,Jeff Karstens,ahead 0-4,Out,b2,---,1,3 (1-1),0,-0.01,-0.16,.23,Groundout: 1B unassisted (2B-1B)
+26601,17,2012-06-25,Juan Pierre,PHI,PIT,Jeff Karstens,ahead 0-4,Out,b2,---,2,3 (1-1),0,-0.00,-0.10,.15,Groundout: 2B-1B
+26602,18,2012-06-25,Alex Presley,PIT,@PHI,Joe Blanton,down 4-0,SO,t3,---,0,4 (1-2),0,-0.02,-0.23,.66,Strikeout Looking
+26603,19,2012-06-25,Jose Tabata,PIT,@PHI,Joe Blanton,down 4-0,HR,t3,---,1,2 (1-0),1,0.06,1.00,.43,Home Run (Fly Ball to Deep CF-RF)
+26604,20,2012-06-25,Andrew McCutchen,PIT,@PHI,Joe Blanton,down 4-1,SO,t3,---,1,4 (1-2),0,-0.01,-0.16,.57,Strikeout Swinging
+26605,21,2012-06-25,Garrett Jones,PIT,@PHI,Joe Blanton,down 4-1,Out,t3,---,2,5 (1-2),0,-0.01,-0.10,.33,Flyball: LF
+26606,22,2012-06-25,Hunter Pence,PHI,PIT,Jeff Karstens,ahead 1-4,Out,b3,---,0,2 (1-0),0,-0.01,-0.23,.44,Groundout: SS-1B (Weak SS)
+26607,23,2012-06-25,Carlos Ruiz,PHI,PIT,Jeff Karstens,ahead 1-4,1B,b3,---,1,4 (1-2),0,0.01,0.26,.31,Single to CF (Line Drive to Deep CF)
+26608,24,2012-06-25,Shane Victorino,PHI,PIT,Jeff Karstens,ahead 1-4,Out,b3,-2-,1,3 (1-1),0,-0.01,-0.31,.61,Groundout: 2B-1B; Ruiz to 3B
+26609,25,2012-06-25,Placido Polanco,PHI,PIT,Jeff Karstens,ahead 1-4,1B,b3,--3,2,2 (1-0),1,0.05,0.87,.71,Single to CF (Line Drive); Ruiz Scores
+26610,26,2012-06-25,Ty Wigginton,PHI,PIT,Jeff Karstens,ahead 1-5,Out,b3,1--,2,2 (0-1),0,-0.01,-0.22,.27,Groundout: 3B-2B/Forceout at 2B (Weak 3B)
+26611,1,2012-06-25,Coco Crisp,OAK,@SEA,Erasmo Ramirez,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Strikeout Looking
+26612,2,2012-06-25,Jemile Weeks,OAK,@SEA,Erasmo Ramirez,tied 0-0,SO,t1,---,1,5 (2-2),0,-0.01,-0.15,.61,Strikeout Looking
+26613,3,2012-06-25,Josh Reddick,OAK,@SEA,Erasmo Ramirez,tied 0-0,SO,t1,---,2,6 (2-2),0,-0.01,-0.09,.39,Strikeout Swinging
+26614,4,2012-06-25,Ichiro Suzuki,SEA,OAK,Tommy Milone,tied 0-0,Out,b1,---,0,3 (1-1),0,-0.02,-0.22,.87,Flyball: LF
+26615,5,2012-06-25,Franklin Gutierrez,SEA,OAK,Tommy Milone,tied 0-0,1B,b1,---,1,3 (0-2),0,0.02,0.25,.61,Single to CF (Line Drive)
+26616,6,2012-06-25,Kyle Seager,SEA,OAK,Tommy Milone,tied 0-0,SO,b1,1--,1,4 (1-2),0,-0.03,-0.27,1.17,Strikeout Looking
+26617,7,2012-06-25,Jesus Montero,SEA,OAK,Tommy Milone,tied 0-0,1B,b1,1--,2,1 (0-0),0,0.03,0.26,.80,Single to CF (Line Drive); Gutierrez to 3B
+26618,8,2012-06-25,Justin Smoak,SEA,OAK,Tommy Milone,tied 0-0,Out,b1,1-3,2,5 (2-2),0,-0.05,-0.47,1.78,Groundout: 1B unassisted (Weak 2B-1B)
+26619,9,2012-06-25,Yoenis Cespedes,OAK,@SEA,Erasmo Ramirez,tied 0-0,Out,t2,---,0,6 (2-2),0,-0.02,-0.22,.93,Popfly: 2B (SS-2B)
+26620,10,2012-06-25,Seth Smith,OAK,@SEA,Erasmo Ramirez,tied 0-0,HR,t2,---,1,1 (0-0),1,0.12,1.00,.64,Home Run (Fly Ball to Deep CF)
+26621,11,2012-06-25,Brandon Inge,OAK,@SEA,Erasmo Ramirez,ahead 0-1,Out,t2,---,1,2 (0-1),0,-0.01,-0.15,.57,Groundout: 2B-1B (Weak 2B)
+26622,12,2012-06-25,Brandon Moss,OAK,@SEA,Erasmo Ramirez,ahead 0-1,SO,t2,---,2,4 (1-2),0,-0.01,-0.09,.37,Strikeout Swinging
+26623,13,2012-06-25,Michael Saunders,SEA,OAK,Tommy Milone,down 1-0,Out,b2,---,0,6 (2-2),0,-0.02,-0.22,1.00,Flyball: LF
+26624,14,2012-06-25,Miguel Olivo,SEA,OAK,Tommy Milone,down 1-0,SO,b2,---,1,3 (0-2),0,-0.02,-0.15,.70,Strikeout Swinging
+26625,15,2012-06-25,Dustin Ackley,SEA,OAK,Tommy Milone,down 1-0,1B,b2,---,2,4 (1-2),0,0.01,0.12,.45,Single to LF (Line Drive to Short LF)
+26626,16,2012-06-25,Brendan Ryan,SEA,OAK,Tommy Milone,down 1-0,Out,b2,1--,2,5 (2-2),0,-0.02,-0.21,.91,Popfly: 2B (2B-1B)
+26627,17,2012-06-25,Kurt Suzuki,OAK,@SEA,Erasmo Ramirez,ahead 0-1,Out,t3,---,0,1 (0-0),0,-0.02,-0.22,.85,Groundout: SS-1B (Weak SS)
+26628,18,2012-06-25,Cliff Pennington,OAK,@SEA,Erasmo Ramirez,ahead 0-1,SO,t3,---,1,3 (0-2),0,-0.01,-0.15,.60,Strikeout Swinging
+26629,19,2012-06-25,Coco Crisp,OAK,@SEA,Erasmo Ramirez,ahead 0-1,Out,t3,---,2,3 (1-1),0,-0.01,-0.09,.40,Flyball: RF (CF-RF)
+26630,20,2012-06-25,Ichiro Suzuki,SEA,OAK,Tommy Milone,down 1-0,1B,b3,---,0,10 (2-2),0,0.05,0.37,1.09,Single to 2B (Ground Ball to SS-2B)
+26631,21,2012-06-25,Franklin Gutierrez,SEA,OAK,Tommy Milone,down 1-0,Out,b3,1--,0,2 (1-0),0,-0.09,-0.73,1.86,Ground Ball Double Play: SS-2B-1B (Weak SS)
+26632,22,2012-06-25,Kyle Seager,SEA,OAK,Tommy Milone,down 1-0,Out,b3,---,2,2 (1-0),0,-0.01,-0.09,.48,Flyball: CF
+26633,1,2012-06-25,Dee Gordon,LAD,@SFG,Barry Zito,tied 0-0,BB,t1,---,0,5 (3-1),0,0.04,0.36,.87,*LEADOFF GM*:Walk
+26634,2,2012-06-25,Elian Herrera,LAD,@SFG,Barry Zito,tied 0-0,Out,t1,1--,0,2 (0-1),0,-0.07,-0.70,1.53,Ground Ball Double Play: 2B-SS-1B (Weak 2B)
+26635,3,2012-06-25,Andre Ethier,LAD,@SFG,Barry Zito,tied 0-0,Out,t1,---,2,6 (2-2),0,-0.01,-0.09,.39,Groundout: SS-1B (Weak SS)
+26636,4,2012-06-25,Gregor Blanco,SFG,LAD,Nathan Eovaldi,tied 0-0,Out,b1,---,0,4 (2-1),0,-0.02,-0.20,.87,Groundout: 1B unassisted (Weak 1B)
+26637,5,2012-06-25,Ryan Theriot,SFG,LAD,Nathan Eovaldi,tied 0-0,1B,b1,---,1,6 (3-2),0,0.02,0.24,.60,Single to SS (Ground Ball to Weak SS)
+26638,6,2012-06-25,Melky Cabrera,SFG,LAD,Nathan Eovaldi,tied 0-0,1B,b1,1--,1,2 (0-1),0,0.04,0.37,1.17,Single to CF (Fly Ball); Theriot to 2B
+26639,7,2012-06-25,Angel Pagan,SFG,LAD,Nathan Eovaldi,tied 0-0,2B,b1,12-,1,6 (2-2),1,0.15,1.49,2.01,Double to 1B (Ground Ball); Theriot Scores; Cabrera to 3B
+26640,8,2012-06-25,Pablo Sandoval,SFG,LAD,Nathan Eovaldi,ahead 0-1,2B,b1,-23,1,3 (1-1),2,0.11,1.30,1.38,Double to RF (Line Drive to RF Line); Cabrera Scores; Pagan Scores
+26641,9,2012-06-25,Brandon Belt,SFG,LAD,Nathan Eovaldi,ahead 0-3,Out,b1,-2-,1,4 (1-2),0,-0.01,-0.29,.62,Groundout: 2B-1B (Weak 2B); Sandoval to 3B
+26642,10,2012-06-25,Hector Sanchez,SFG,LAD,Nathan Eovaldi,ahead 0-3,1B,b1,--3,2,4 (2-1),1,0.05,0.87,.71,Single to CF (Line Drive); Sandoval Scores
+26643,11,2012-06-25,Brandon Crawford,SFG,LAD,Nathan Eovaldi,ahead 0-4,Out,b1,1--,2,3 (0-2),0,-0.01,-0.20,.27,Groundout: 2B-1B (Weak 2B)
+26644,12,2012-06-25,Juan Rivera,LAD,@SFG,Barry Zito,down 4-0,BB,t2,---,0,5 (3-1),0,0.03,0.36,.61,Walk
+26645,13,2012-06-25,Jerry Hairston,LAD,@SFG,Barry Zito,down 4-0,SO,t2,1--,0,5 (2-2),0,-0.02,-0.33,1.15,Strikeout Swinging
+26646,14,2012-06-25,A.J. Ellis,LAD,@SFG,Barry Zito,down 4-0,BB,t2,1--,1,6 (3-2),0,0.03,0.37,.82,Walk; Rivera to 2B
+26647,15,2012-06-25,Juan Uribe,LAD,@SFG,Barry Zito,down 4-0,Out,t2,12-,1,2 (1-0),0,-0.03,-0.43,1.54,Flyball: LF (Short LF-CF)
+26648,16,2012-06-25,Tony Gwynn,LAD,@SFG,Barry Zito,down 4-0,Out,t2,12-,2,3 (1-1),0,-0.03,-0.39,1.15,Popfly: SS (Deep SS)
+26649,17,2012-06-25,Gregor Blanco,SFG,LAD,Nathan Eovaldi,ahead 0-4,1B,b2,1--,0,3 (0-2),0,0.02,0.59,.45,Single to CF (Line Drive); Zito to 2B
+26650,18,2012-06-25,Ryan Theriot,SFG,LAD,Nathan Eovaldi,ahead 0-4,Out,b2,12-,0,1 (0-0),0,-0.00,-0.27,.56,Groundout: SS unassisted/Forceout at 2B (SS-2B); Zito to 3B
+26651,19,2012-06-25,Melky Cabrera,SFG,LAD,Nathan Eovaldi,ahead 0-4,1B,b2,1-3,1,9 (3-2),1,0.02,0.72,.65,Single to LF (Line Drive to Short LF-CF); Zito Scores; Theriot to 2B
+26652,20,2012-06-25,Angel Pagan,SFG,LAD,Nathan Eovaldi,ahead 0-5,1B,b2,12-,1,2 (1-0),1,0.03,1.28,.39,Single to RF (Line Drive to Short CF-RF); Theriot Scores; Cabrera to 3B
+26653,21,2012-06-25,Pablo Sandoval,SFG,LAD,Nathan Eovaldi,ahead 0-6,Out,b2,1-3,1,4 (3-0),1,0.00,0.09,.26,Flyball: LF/Sacrifice Fly; Cabrera Scores
+26654,22,2012-06-25,Brandon Belt,SFG,LAD,Nathan Eovaldi,ahead 0-7,Out,b2,1--,2,2 (0-1),0,-0.00,-0.20,.07,Popfly: SS (Weak SS)
+26655,23,2012-06-25,Dee Gordon,LAD,@SFG,Barry Zito,down 7-0,1B,t3,---,1,4 (1-2),0,0.01,0.24,.14,Single to 3B (Ground Ball to Weak 3B)
+26656,24,2012-06-25,Elian Herrera,LAD,@SFG,Barry Zito,down 7-0,Out,t3,1--,1,3 (1-1),0,-0.01,-0.26,.26,Popfly: 2B (2B-1B)
+26657,25,2012-06-25,Andre Ethier,LAD,@SFG,Barry Zito,down 7-0,Out,t3,-2-,2,5 (3-1),0,-0.01,-0.29,.21,Lineout: CF (Deep CF)
+26658,26,2012-06-25,Hector Sanchez,SFG,LAD,Nathan Eovaldi,ahead 0-7,Out,b3,---,0,5 (3-1),0,-0.00,-0.20,.05,Groundout: 1B-P (Weak 2B-1B)
+26659,27,2012-06-25,Brandon Crawford,SFG,LAD,Nathan Eovaldi,ahead 0-7,Out,b3,---,1,2 (1-0),0,-0.00,-0.13,.03,Groundout: 1B unassisted (Weak 2B-1B)
+26660,1,2012-06-25,Austin Jackson,DET,@TEX,Justin Grimm,tied 0-0,2B,t1,---,0,4 (1-2),0,0.06,0.63,.87,*LEADOFF GM*:Double to CF (Fly Ball to Deep CF)
+26661,2,2012-06-25,Quintin Berry,DET,@TEX,Justin Grimm,tied 0-0,1B,t1,-2-,0,3 (1-1),0,0.06,0.72,1.18,Single to P/Bunt (Bunt to Weak 3B); Jackson to 3B
+26662,3,2012-06-25,Miguel Cabrera,DET,@TEX,Justin Grimm,tied 0-0,2B,t1,1-3,0,1 (0-0),2,0.11,1.28,1.52,Double to CF (Line Drive to Deep CF-RF); Jackson Scores; Berry Scores
+26663,4,2012-06-25,Prince Fielder,DET,@TEX,Justin Grimm,ahead 0-2,Out,t1,-2-,0,6 (3-2),0,-0.01,-0.20,.90,Groundout: 3B-1B (Weak 3B); Cabrera to 3B
+26664,5,2012-06-25,Delmon Young,DET,@TEX,Justin Grimm,ahead 0-2,1B,t1,--3,1,1 (0-0),1,0.04,0.59,1.04,Single to CF (Line Drive); Cabrera Scores
+26665,6,2012-06-25,Brennan Boesch,DET,@TEX,Justin Grimm,ahead 0-3,Out,t1,1--,1,10 (2-2),0,-0.01,-0.22,.74,Groundout: P-1B (Front of Home); Young to 2B
+26666,7,2012-06-25,Jhonny Peralta,DET,@TEX,Justin Grimm,ahead 0-3,2B,t1,-2-,2,3 (1-1),1,0.07,1.00,.74,Double to LF (Line Drive to Deep LF Line); Young Scores
+26667,8,2012-06-25,Ramon Santiago,DET,@TEX,Justin Grimm,ahead 0-4,1B,t1,-2-,2,2 (1-0),1,0.05,0.91,.59,Single to CF (Line Drive); Peralta Scores
+26668,9,2012-06-25,Gerald Laird,DET,@TEX,Justin Grimm,ahead 0-5,1B,t1,1--,2,3 (1-1),0,0.01,0.21,.31,Single to RF (Line Drive to Short RF); Santiago to 2B
+26669,10,2012-06-25,Austin Jackson,DET,@TEX,Justin Grimm,ahead 0-5,Out,t1,12-,2,7 (3-2),0,-0.02,-0.46,.61,Flyball: LF (LF-CF)
+26670,11,2012-06-25,Ian Kinsler,TEX,DET,Rick Porcello,down 5-0,1B,b1,---,0,5 (2-2),0,0.03,0.39,.61,Single to RF (Ground Ball thru 2B-1B)
+26671,12,2012-06-25,Elvis Andrus,TEX,DET,Rick Porcello,down 5-0,SO,b1,1--,0,3 (0-2),0,-0.02,-0.38,1.04,Strikeout Looking
+26672,13,2012-06-25,Josh Hamilton,TEX,DET,Rick Porcello,down 5-0,BB,b1,1--,1,6 (3-2),0,0.03,0.39,.79,Walk; Kinsler to 2B
+26673,14,2012-06-25,Adrian Beltre,TEX,DET,Rick Porcello,down 5-0,SO,b1,12-,1,4 (1-2),0,-0.03,-0.49,1.39,Strikeout Swinging
+26674,15,2012-06-25,Michael Young,TEX,DET,Rick Porcello,down 5-0,Out,b1,12-,2,4 (2-1),0,-0.03,-0.46,1.06,Groundout: 2B-1B
+26675,16,2012-06-25,Quintin Berry,DET,@TEX,Justin Grimm,ahead 0-5,BB,t2,---,0,9 (3-2),0,0.01,0.39,.31,Walk
+26676,17,2012-06-25,Miguel Cabrera,DET,@TEX,Justin Grimm,ahead 0-5,1B,t2,-2-,0,3 (1-1),0,0.02,0.72,.39,Single to RF (Ground Ball thru 2B-1B); Berry to 3B
+26677,18,2012-06-25,Prince Fielder,DET,@TEX,Michael Kirkman,ahead 0-5,Out,t2,1-3,0,6 (2-2),1,-0.00,-0.33,.43,Flyball: RF/Sacrifice Fly (RF Line); Berry Scores
+26678,19,2012-06-25,Delmon Young,DET,@TEX,Michael Kirkman,ahead 0-6,SO,t2,1--,1,4 (1-2),0,-0.01,-0.31,.29,Strikeout Swinging
+26679,20,2012-06-25,Brennan Boesch,DET,@TEX,Michael Kirkman,ahead 0-6,SO,t2,1--,2,4 (1-2),0,-0.01,-0.25,.21,Strikeout Swinging
+26680,21,2012-06-25,Nelson Cruz,TEX,DET,Rick Porcello,down 6-0,Out,b2,---,0,2 (0-1),0,-0.01,-0.25,.47,Groundout: 2B-1B
+26681,22,2012-06-25,David Murphy,TEX,DET,Rick Porcello,down 6-0,Out,b2,---,1,5 (2-2),0,-0.01,-0.17,.31,Foul Popfly: 3B (3B Foul)
+26682,23,2012-06-25,Mike Napoli,TEX,DET,Rick Porcello,down 6-0,1B,b2,---,2,6 (3-2),0,0.01,0.13,.15,Single to RF (Line Drive to Short RF)
+26683,24,2012-06-25,Leonys Martin,TEX,DET,Rick Porcello,down 6-0,Out,b2,1--,2,4 (1-2),0,-0.01,-0.25,.37,Groundout: 2B-SS/Forceout at 2B
+26684,25,2012-06-25,Jhonny Peralta,DET,@TEX,Michael Kirkman,ahead 0-6,Out,t3,---,0,1 (0-0),0,-0.01,-0.25,.20,Lineout: 3B (Weak 3B)
+26685,26,2012-06-25,Ramon Santiago,DET,@TEX,Michael Kirkman,ahead 0-6,Out,t3,---,1,4 (2-1),0,-0.00,-0.17,.15,Groundout: 3B-1B (Weak 3B)
+26686,27,2012-06-25,Gerald Laird,DET,@TEX,Michael Kirkman,ahead 0-6,Out,t3,---,2,2 (1-0),0,-0.00,-0.11,.10,Lineout: CF
+26687,28,2012-06-25,Ian Kinsler,TEX,DET,Rick Porcello,down 6-0,SO,b3,---,0,6 (2-2),0,-0.01,-0.25,.46,Strikeout Looking
+26688,29,2012-06-25,Elvis Andrus,TEX,DET,Rick Porcello,down 6-0,SO,b3,---,1,4 (0-2),0,-0.01,-0.17,.30,Strikeout Looking
+26689,30,2012-06-25,Josh Hamilton,TEX,DET,Rick Porcello,down 6-0,Out,b3,---,2,2 (0-1),0,-0.00,-0.11,.17,Lineout: 2B
+26690,1,2012-06-26,Willie Bloomquist,ARI,@ATL,Tim Hudson,tied 0-0,Out,t1,---,0,6 (1-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Groundout: SS-1B (Weak 3B)
+26691,2,2012-06-26,Aaron Hill,ARI,@ATL,Tim Hudson,tied 0-0,1B,t1,---,1,2 (0-1),0,0.02,0.26,.62,Single to 2B (Pop Fly to Deep 1B)
+26692,3,2012-06-26,Justin Upton,ARI,@ATL,Tim Hudson,tied 0-0,1B,t1,1--,1,5 (2-2),0,0.04,0.38,1.15,Single to CF (Fly Ball to LF-CF); Hill to 2B
+26693,4,2012-06-26,Jason Kubel,ARI,@ATL,Tim Hudson,tied 0-0,SO,t1,12-,1,5 (1-2),0,-0.04,-0.47,1.95,Strikeout Swinging
+26694,5,2012-06-26,Paul Goldschmidt,ARI,@ATL,Tim Hudson,tied 0-0,SO,t1,12-,2,4 (1-2),0,-0.04,-0.43,1.63,Strikeout Looking
+26695,6,2012-06-26,Michael Bourn,ATL,ARI,Daniel Hudson,tied 0-0,HR,b1,---,0,6 (3-2),1,0.10,1.00,.87,Home Run (Fly Ball to Deep CF-RF)
+26696,7,2012-06-26,Jason Heyward,ATL,ARI,Daniel Hudson,ahead 0-1,1B,b1,---,0,1 (0-0),0,0.03,0.38,.74,Single to RF (Line Drive to CF-RF)
+26697,8,2012-06-26,Martin Prado,ATL,ARI,Daniel Hudson,ahead 0-1,SO,b1,1--,0,5 (2-2),0,-0.03,-0.35,1.23,Strikeout Swinging
+26698,9,2012-06-26,Brian McCann,ATL,ARI,Daniel Hudson,ahead 0-1,Out,b1,1--,1,4 (1-2),0,-0.02,-0.29,1.00,Flyball: LF (Deep LF Line)
+26699,10,2012-06-26,Dan Uggla,ATL,ARI,Daniel Hudson,ahead 0-1,SO,b1,1--,2,5 (1-2),0,-0.02,-0.22,.70,Strikeout Swinging
+26700,11,2012-06-26,Miguel Montero,ARI,@ATL,Tim Hudson,down 1-0,1B,t2,---,0,2 (0-1),0,0.04,0.38,.97,Single to P (Line Drive to Short CF)
+26701,12,2012-06-26,Ryan Roberts,ARI,@ATL,Tim Hudson,down 1-0,Out,t2,1--,0,2 (0-1),0,-0.02,-0.20,1.62,Groundout: 3B-1B (Weak 3B); Montero to 2B
+26702,13,2012-06-26,Gerardo Parra,ARI,@ATL,Tim Hudson,down 1-0,BB,t2,-2-,1,7 (3-2),0,0.02,0.23,1.35,Walk
+26703,14,2012-06-26,Willie Bloomquist,ARI,@ATL,Tim Hudson,down 1-0,Out,t2,12-,2,3 (0-2),0,-0.05,-0.43,1.81,Groundout: SS-1B (Weak SS-2B)
+26704,15,2012-06-26,Chipper Jones,ATL,ARI,Daniel Hudson,ahead 0-1,2B,b2,---,0,6 (3-2),0,0.05,0.62,.76,Double to LF (Line Drive to Deep LF-CF)
+26705,16,2012-06-26,Freddie Freeman,ATL,ARI,Daniel Hudson,ahead 0-1,2B,b2,-2-,0,3 (1-1),1,0.08,1.00,1.06,Double to LF (Line Drive to Deep LF Line); Jones Scores
+26706,17,2012-06-26,Andrelton Simmons,ATL,ARI,Daniel Hudson,ahead 0-2,1B,b2,-2-,0,2 (0-1),1,0.06,1.00,.83,Single to RF (Line Drive to Short RF); Freeman Scores; Simmons to 2B/Adv on throw to Hm
+26707,18,2012-06-26,Michael Bourn,ATL,ARI,Daniel Hudson,ahead 0-3,1B,b2,-2-,1,7 (2-2),0,0.02,0.50,.63,Single to SS (Ground Ball to SS-2B); Simmons to 3B
+26708,19,2012-06-26,Jason Heyward,ATL,ARI,Daniel Hudson,ahead 0-3,Out,b2,1-3,1,1 (0-0),1,0.01,0.05,.97,Flyball: RF/Sacrifice Fly (Deep RF); Simmons Scores
+26709,20,2012-06-26,Martin Prado,ATL,ARI,Daniel Hudson,ahead 0-4,1B,b2,1--,2,5 (3-1),0,0.01,0.27,.30,Single to RF (Ground Ball thru 2B-1B); Bourn to 3B
+26710,21,2012-06-26,Brian McCann,ATL,ARI,Josh Collmenter,ahead 0-4,1B,b2,1-3,2,5 (3-1),1,0.04,0.94,.65,Single to CF (Ground Ball thru SS-2B); Bourn Scores; Prado to 2B
+26711,22,2012-06-26,Dan Uggla,ATL,ARI,Josh Collmenter,ahead 0-5,Out,b2,12-,2,3 (1-1),0,-0.01,-0.43,.41,Flyball: RF (Short RF)
+26712,23,2012-06-26,Aaron Hill,ARI,@ATL,Tim Hudson,down 5-0,SO,t3,---,0,4 (1-2),0,-0.01,-0.23,.50,Strikeout Swinging
+26713,24,2012-06-26,Justin Upton,ARI,@ATL,Tim Hudson,down 5-0,SO,t3,---,1,3 (0-2),0,-0.01,-0.16,.32,Strikeout Looking
+26714,25,2012-06-26,Jason Kubel,ARI,@ATL,Tim Hudson,down 5-0,HR,t3,---,2,2 (1-0),1,0.04,1.00,.26,Home Run (Fly Ball to Deep RF)
+26715,26,2012-06-26,Paul Goldschmidt,ARI,@ATL,Tim Hudson,down 5-1,Out,t3,---,2,2 (0-1),0,-0.01,-0.10,.25,Groundout: SS-1B (Weak SS)
+26716,27,2012-06-26,Chipper Jones,ATL,ARI,Josh Collmenter,ahead 1-5,1B,b3,---,0,6 (2-2),0,0.01,0.38,.29,Single to CF (Ground Ball thru SS-2B)
+26717,28,2012-06-26,Freddie Freeman,ATL,ARI,Josh Collmenter,ahead 1-5,1B,b3,1--,0,6 (2-2),0,-0.00,-0.20,.46,Single to LF (Line Drive); Jones out at 3B/LF-3B; Freeman to 2B/Adv on throw to 3B
+26718,29,2012-06-26,Andrelton Simmons,ATL,ARI,Josh Collmenter,ahead 1-5,Out,b3,-2-,1,1 (0-0),0,-0.01,-0.35,.40,Groundout: 3B-1B
+26719,30,2012-06-26,Michael Bourn,ATL,ARI,Josh Collmenter,ahead 1-5,Out,b3,12-,2,5 (2-2),0,-0.01,-0.43,.54,Groundout: 2B-1B
+26720,1,2012-06-26,Mike Trout,LAA,@BAL,Brian Matusz,tied 0-0,Out,t1,---,0,4 (1-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Foul Popfly: 1B (1B Foul)
+26721,2,2012-06-26,Torii Hunter,LAA,@BAL,Brian Matusz,tied 0-0,Out,t1,---,1,1 (0-0),0,-0.02,-0.16,.62,Groundout: 3B-1B (Weak 3B)
+26722,3,2012-06-26,Albert Pujols,LAA,@BAL,Brian Matusz,tied 0-0,2B,t1,---,2,1 (0-0),0,0.02,0.22,.40,Double to LF (Line Drive to Deep LF Line)
+26723,4,2012-06-26,Mark Trumbo,LAA,@BAL,Brian Matusz,tied 0-0,Out,t1,-2-,2,2 (1-0),0,-0.03,-0.32,1.12,Flyball: LF (LF-CF)
+26724,5,2012-06-26,Brian Roberts,BAL,LAA,C.J. Wilson,tied 0-0,Out,b1,---,0,2 (0-1),0,-0.02,-0.24,.87,Groundout: SS-1B (Weak SS)
+26725,6,2012-06-26,J.J. Hardy,BAL,LAA,C.J. Wilson,tied 0-0,SO,b1,---,1,5 (2-2),0,-0.02,-0.16,.62,Strikeout Swinging
+26726,7,2012-06-26,Adam Jones,BAL,LAA,C.J. Wilson,tied 0-0,Out,b1,---,2,1 (0-0),0,-0.01,-0.11,.40,Groundout: SS-1B (Weak 3B)
+26727,8,2012-06-26,Howie Kendrick,LAA,@BAL,Brian Matusz,tied 0-0,1B,t2,---,0,4 (1-2),0,0.04,0.39,.93,Single to CF (Ground Ball)
+26728,9,2012-06-26,Erick Aybar,LAA,@BAL,Brian Matusz,tied 0-0,Out,t2,1--,0,4 (1-2),0,-0.04,-0.36,1.52,Flyball: LF (Deep LF-CF)
+26729,10,2012-06-26,Maicer Izturis,LAA,@BAL,Brian Matusz,tied 0-0,1B,t2,1--,1,4 (1-2),0,0.04,0.39,1.23,Single to LF (Ground Ball thru Weak 3B); Kendrick to 2B
+26730,11,2012-06-26,Peter Bourjos,LAA,@BAL,Brian Matusz,tied 0-0,Out,t2,12-,1,4 (2-1),0,-0.03,-0.31,2.04,Groundout: 2B-1B (2B-1B); Kendrick to 3B; Izturis to 2B
+26731,12,2012-06-26,John Hester,LAA,@BAL,Brian Matusz,tied 0-0,Out,t2,-23,2,2 (1-0),0,-0.06,-0.61,2.07,Flyball: LF (Deep LF)
+26732,13,2012-06-26,Matt Wieters,BAL,LAA,C.J. Wilson,tied 0-0,Out,b2,---,0,2 (0-1),0,-0.02,-0.24,.92,Groundout: 2B-1B
+26733,14,2012-06-26,Mark Reynolds,BAL,LAA,C.J. Wilson,tied 0-0,Out,b2,---,1,2 (1-0),0,-0.02,-0.16,.67,Flyball: RF (CF-RF)
+26734,15,2012-06-26,Wilson Betemit,BAL,LAA,C.J. Wilson,tied 0-0,Out,b2,---,2,5 (3-1),0,-0.01,-0.11,.43,Groundout: 2B-1B
+26735,16,2012-06-26,Mike Trout,LAA,@BAL,Brian Matusz,tied 0-0,2B,t3,---,0,5 (2-2),0,0.07,0.62,.99,Double to LF (Line Drive to Deep LF)
+26736,17,2012-06-26,Torii Hunter,LAA,@BAL,Brian Matusz,tied 0-0,1B,t3,-2-,0,5 (2-2),1,0.10,1.00,1.37,Single to CF (Ground Ball thru SS-2B); Trout Scores; Hunter to 2B/Adv on throw to Hm
+26737,18,2012-06-26,Albert Pujols,LAA,@BAL,Brian Matusz,ahead 0-1,FC,t3,-2-,0,3 (0-2),0,-0.06,-0.60,1.17,Fielder's Choice P; Hunter out at 3B/P-2B-3B
+26738,19,2012-06-26,Mark Trumbo,LAA,@BAL,Brian Matusz,ahead 0-1,1B,t3,1--,1,2 (1-0),0,0.03,0.39,1.14,Single to CF (Ground Ball thru SS-2B); Pujols to 2B
+26739,20,2012-06-26,Howie Kendrick,LAA,@BAL,Brian Matusz,ahead 0-1,Out,t3,12-,1,4 (0-2),0,-0.08,-0.92,1.88,Ground Ball Double Play: SS-1B (Weak SS-2B)
+26740,21,2012-06-26,Steve Pearce,BAL,LAA,C.J. Wilson,down 1-0,Out,b3,---,0,3 (1-1),0,-0.03,-0.24,1.08,Popfly: 2B (Short CF)
+26741,22,2012-06-26,Steven Tolleson,BAL,LAA,C.J. Wilson,down 1-0,BB,b3,---,1,5 (3-1),0,0.03,0.26,.77,Walk
+26742,23,2012-06-26,Robert Andino,BAL,LAA,C.J. Wilson,down 1-0,Out,b3,1--,1,4 (1-2),0,-0.03,-0.30,1.43,Lineout: 3B (Weak 3B)
+26743,24,2012-06-26,Brian Roberts,BAL,LAA,C.J. Wilson,down 1-0,Out,b3,1--,2,2 (0-1),0,-0.03,-0.23,.98,Groundout: SS-2B/Forceout at 2B (Weak SS)
+26744,1,2012-06-26,Brett Lawrie,TOR,@BOS,Daisuke Matsuzaka,tied 0-0,2B,t1,---,0,9 (3-2),0,0.06,0.63,.87,*LEADOFF GM*:Double to CF (Line Drive to Deep LF-CF)
+26745,2,2012-06-26,Colby Rasmus,TOR,@BOS,Daisuke Matsuzaka,tied 0-0,FC,t1,-2-,0,5 (3-1),0,0.06,0.72,1.20,Fielder's Choice SS; Lawrie to 3B
+26746,3,2012-06-26,Jose Bautista,TOR,@BOS,Daisuke Matsuzaka,tied 0-0,Out,t1,1-3,0,6 (3-2),0,-0.06,-0.66,1.57,Foul Popfly: C (Behind Home)
+26747,4,2012-06-26,Edwin Encarnacion,TOR,@BOS,Daisuke Matsuzaka,tied 0-0,1B,t1,1-3,1,1 (0-0),1,0.11,1.22,1.78,Single to 3B (Ground Ball); Lawrie Scores; Rasmus to 3B/Adv on E5 (throw); Encarnacion to 2B
+26748,5,2012-06-26,Kelly Johnson,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,Out,t1,-23,1,2 (1-0),0,-0.07,-0.81,1.32,Flyball: LF (Deep SS)
+26749,6,2012-06-26,Yunel Escobar,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,Out,t1,-23,2,1 (0-0),0,-0.05,-0.61,1.75,Lineout: P (Front of Home)
+26750,7,2012-06-26,Mike Aviles,BOS,TOR,Aaron Laffey,down 1-0,1B,b1,---,0,4 (2-1),0,0.04,0.39,.92,Single to CF (Line Drive to Short CF)
+26751,8,2012-06-26,Dustin Pedroia,BOS,TOR,Aaron Laffey,down 1-0,Out,b1,1--,0,3 (0-2),0,-0.04,-0.37,1.51,Flyball: LF (Deep LF)
+26752,9,2012-06-26,David Ortiz,BOS,TOR,Aaron Laffey,down 1-0,Out,b1,1--,1,1 (0-0),0,-0.03,-0.30,1.22,Flyball: LF (Short LF)
+26753,10,2012-06-26,Cody Ross,BOS,TOR,Aaron Laffey,down 1-0,SO,b1,1--,2,7 (2-2),0,-0.02,-0.24,.83,Strikeout Looking
+26754,11,2012-06-26,Rajai Davis,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,1B,t2,---,0,6 (1-2),0,0.03,0.39,.82,Single to CF (Line Drive to Short CF)
+26755,12,2012-06-26,Adam Lind,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,1B,t2,---,1,4 (2-1),0,0.02,0.26,.60,Single to RF (Ground Ball thru 2B-1B)
+26756,13,2012-06-26,Jeff Mathis,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,SO,t2,1--,1,4 (1-2),0,-0.03,-0.30,1.10,Strikeout Swinging
+26757,14,2012-06-26,Brett Lawrie,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,Out,t2,1--,2,5 (2-2),0,-0.02,-0.24,.76,Groundout: 3B-2B/Forceout at 2B
+26758,15,2012-06-26,Adrian Gonzalez,BOS,TOR,Aaron Laffey,down 1-0,Out,b2,---,0,3 (2-0),0,-0.03,-0.24,.99,Groundout: SS-1B (SS-2B)
+26759,16,2012-06-26,Will Middlebrooks,BOS,TOR,Aaron Laffey,down 1-0,SO,b2,---,1,3 (0-2),0,-0.02,-0.17,.71,Strikeout Looking
+26760,17,2012-06-26,Jarrod Saltalamacchia,BOS,TOR,Aaron Laffey,down 1-0,Out,b2,---,2,3 (1-1),0,-0.01,-0.11,.46,Flyball: CF
+26761,18,2012-06-26,Colby Rasmus,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,Out,t3,---,0,3 (1-1),0,-0.02,-0.24,.87,Groundout: 1B-2B (2B-1B)
+26762,19,2012-06-26,Jose Bautista,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,Out,t3,---,1,5 (2-2),0,-0.02,-0.17,.63,Groundout: 3B-1B
+26763,20,2012-06-26,Edwin Encarnacion,TOR,@BOS,Daisuke Matsuzaka,ahead 0-1,SO,t3,---,2,6 (3-2),0,-0.01,-0.11,.42,Strikeout Swinging
+26764,21,2012-06-26,Darnell McDonald,BOS,TOR,Aaron Laffey,down 1-0,Out,b3,---,0,2 (0-1),0,-0.03,-0.24,1.08,Groundout: 3B-1B (Weak 3B)
+26765,22,2012-06-26,Brent Lillibridge,BOS,TOR,Aaron Laffey,down 1-0,Out,b3,---,1,1 (0-0),0,-0.02,-0.17,.77,Groundout: 2B-1B
+26766,23,2012-06-26,Mike Aviles,BOS,TOR,Aaron Laffey,down 1-0,Out,b3,---,2,6 (3-2),0,-0.01,-0.11,.49,Groundout: 2B-1B
+26767,1,2012-06-26,Kirk Nieuwenhuis,NYM,@CHC,Randy Wells,tied 0-0,BB,t1,---,0,7 (3-2),0,0.04,0.38,.87,*LEADOFF GM*:Walk
+26768,2,2012-06-26,Ruben Tejada,NYM,@CHC,Randy Wells,tied 0-0,Out,t1,---,1,3 (2-0),0,-0.02,-0.15,.62,Popfly: 3B (Weak 3B)
+26769,3,2012-06-26,David Wright,NYM,@CHC,Randy Wells,tied 0-0,Out,t1,---,2,2 (0-1),0,-0.01,-0.10,.40,Groundout: 1B-P (2B-1B)
+26770,4,2012-06-26,David DeJesus,CHC,NYM,Dillon Gee,tied 0-0,1B,b1,---,0,5 (1-2),0,0.04,0.38,.87,Single to CF (Line Drive)
+26771,5,2012-06-26,Starlin Castro,CHC,NYM,Dillon Gee,tied 0-0,Out,b1,1--,0,3 (0-2),0,-0.03,-0.35,1.44,Lineout: CF (Short CF)
+26772,6,2012-06-26,Anthony Rizzo,CHC,NYM,Dillon Gee,tied 0-0,1B,b1,1--,1,2 (0-1),0,0.04,0.38,1.16,Single to SS (Ground Ball to Weak SS); DeJesus to 2B
+26773,7,2012-06-26,Alfonso Soriano,CHC,NYM,Dillon Gee,tied 0-0,SO,b1,12-,1,4 (1-2),0,-0.04,-0.46,1.94,Strikeout Swinging
+26774,8,2012-06-26,Bryan LaHair,CHC,NYM,Dillon Gee,tied 0-0,Out,b1,12-,2,4 (2-1),0,-0.04,-0.43,1.63,Flyball: LF (LF Line)
+26775,9,2012-06-26,Lucas Duda,NYM,@CHC,Randy Wells,tied 0-0,Out,t2,---,0,5 (2-2),0,-0.02,-0.23,.93,Lineout: 1B
+26776,10,2012-06-26,Ike Davis,NYM,@CHC,Randy Wells,tied 0-0,Out,t2,---,1,6 (3-2),0,-0.02,-0.15,.65,Popfly: 3B (Deep SS)
+26777,11,2012-06-26,Scott Hairston,NYM,@CHC,Randy Wells,tied 0-0,1B,t2,---,2,3 (1-1),0,0.01,0.12,.42,Single to LF (Line Drive to Short LF)
+26778,12,2012-06-26,Daniel Murphy,NYM,@CHC,Randy Wells,tied 0-0,1B,t2,1--,2,5 (2-2),0,0.02,0.20,.84,Single to RF (Line Drive to Short RF); Hairston to 2B
+26779,13,2012-06-26,Josh Thole,NYM,@CHC,Randy Wells,tied 0-0,1B,t2,12-,2,7 (3-2),1,0.12,1.06,1.75,Single to RF (Line Drive to Short RF); Hairston Scores; Murphy to 3B
+26780,14,2012-06-26,Kirk Nieuwenhuis,NYM,@CHC,Randy Wells,ahead 0-2,SO,t2,12-,2,3 (0-2),0,-0.03,-0.43,1.27,Strikeout Swinging
+26781,15,2012-06-26,Luis Valbuena,CHC,NYM,Dillon Gee,down 2-0,1B,b2,---,0,5 (1-2),0,0.04,0.38,.97,Single to 3B (Ground Ball)
+26782,16,2012-06-26,Darwin Barney,CHC,NYM,Dillon Gee,down 2-0,Out,b2,1--,0,3 (1-1),0,-0.04,-0.35,1.66,Popfly: P (Front of Home)
+26783,17,2012-06-26,Steve Clevenger,CHC,NYM,Dillon Gee,down 2-0,Out,b2,1--,1,1 (0-0),0,-0.03,-0.28,1.29,Flyball: CF (Deep CF)
+26784,18,2012-06-26,Ruben Tejada,NYM,@CHC,Randy Wells,ahead 0-2,SO,t3,---,0,6 (3-2),0,-0.02,-0.23,.68,Strikeout Looking
+26785,19,2012-06-26,David Wright,NYM,@CHC,Randy Wells,ahead 0-2,SO,t3,---,1,4 (1-2),0,-0.01,-0.15,.50,Strikeout Swinging
+26786,20,2012-06-26,Lucas Duda,NYM,@CHC,Randy Wells,ahead 0-2,BB,t3,---,2,4 (3-0),0,0.01,0.12,.33,Walk
+26787,21,2012-06-26,Ike Davis,NYM,@CHC,Randy Wells,ahead 0-2,2B,t3,1--,2,4 (2-1),0,0.03,0.37,.64,Double to RF (Line Drive to Deep RF Line); Duda to 3B
+26788,22,2012-06-26,Scott Hairston,NYM,@CHC,Randy Wells,ahead 0-2,BB,t3,-23,2,5 (3-1),0,0.01,0.17,1.54,Walk
+26789,23,2012-06-26,Daniel Murphy,NYM,@CHC,Randy Wells,ahead 0-2,Out,t3,123,2,4 (1-2),0,-0.05,-0.76,2.19,Groundout: 1B unassisted
+26790,24,2012-06-26,David DeJesus,CHC,NYM,Dillon Gee,down 2-0,1B,b3,---,0,3 (1-1),0,0.04,0.38,1.05,Single to RF (Line Drive to Short RF)
+26791,25,2012-06-26,Starlin Castro,CHC,NYM,Dillon Gee,down 2-0,BB,b3,1--,0,6 (3-2),0,0.07,0.60,1.79,Walk; DeJesus to 2B
+26792,26,2012-06-26,Anthony Rizzo,CHC,NYM,Dillon Gee,down 2-0,Out,b3,12-,0,5 (2-2),0,-0.01,-0.08,2.43,Groundout: 1B unassisted; DeJesus to 3B; Castro to 2B
+26793,27,2012-06-26,Alfonso Soriano,CHC,NYM,Dillon Gee,down 2-0,Out,b3,-23,1,1 (0-0),1,-0.01,-0.03,1.97,Groundout: 2B-1B; DeJesus Scores; Castro to 3B
+26794,28,2012-06-26,Bryan LaHair,CHC,NYM,Dillon Gee,down 2-1,BB,b3,--3,2,4 (3-0),0,0.02,0.13,1.64,Walk
+26795,29,2012-06-26,Luis Valbuena,CHC,NYM,Dillon Gee,down 2-1,2B,b3,1-3,2,4 (1-2),1,0.13,1.10,2.20,Double to RF (Fly Ball to Deep RF); Castro Scores; LaHair to 3B
+26796,30,2012-06-26,Darwin Barney,CHC,NYM,Dillon Gee,tied 2-2,1B,b3,-23,2,2 (0-1),1,0.06,0.41,2.26,Single to SS (Ground Ball to Weak SS-2B); LaHair Scores; Valbuena out at Hm/2B-3B
+26797,1,2012-06-26,Nori Aoki,MIL,@CIN,Bronson Arroyo,tied 0-0,Out,t1,---,0,5 (1-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Groundout: P-2B-1B
+26798,2,2012-06-26,Nyjer Morgan,MIL,@CIN,Bronson Arroyo,tied 0-0,SO,t1,---,1,6 (2-2),0,-0.02,-0.16,.62,Strikeout Swinging
+26799,3,2012-06-26,Ryan Braun,MIL,@CIN,Bronson Arroyo,tied 0-0,HBP,t1,---,2,9 (3-2),0,0.01,0.12,.40,Hit By Pitch
+26800,4,2012-06-26,Aramis Ramirez,MIL,@CIN,Bronson Arroyo,tied 0-0,Out,t1,1--,2,3 (1-1),0,-0.02,-0.23,.79,Flyball: RF (Deep RF)
+26801,5,2012-06-26,Zack Cozart,CIN,MIL,Marco Estrada,tied 0-0,SO,b1,---,0,5 (2-2),0,-0.02,-0.23,.87,Strikeout Swinging
+26802,6,2012-06-26,Drew Stubbs,CIN,MIL,Marco Estrada,tied 0-0,BB,b1,---,1,5 (3-1),0,0.02,0.26,.62,Walk
+26803,7,2012-06-26,Joey Votto,CIN,MIL,Marco Estrada,tied 0-0,SO,b1,1--,1,3 (0-2),0,-0.03,-0.29,1.16,Strikeout Swinging
+26804,8,2012-06-26,Brandon Phillips,CIN,MIL,Marco Estrada,tied 0-0,Out,b1,-2-,2,5 (2-2),0,-0.03,-0.32,1.14,Flyball: CF (Deep CF)
+26805,9,2012-06-26,Travis Ishikawa,MIL,@CIN,Bronson Arroyo,tied 0-0,Out,t2,---,0,1 (0-0),0,-0.02,-0.23,.93,Popfly: 2B (Deep 2B)
+26806,10,2012-06-26,George Kottaras,MIL,@CIN,Bronson Arroyo,tied 0-0,SO,t2,---,1,6 (3-2),0,-0.02,-0.16,.65,Strikeout Swinging
+26807,11,2012-06-26,Taylor Green,MIL,@CIN,Bronson Arroyo,tied 0-0,Out,t2,---,2,5 (2-2),0,-0.01,-0.10,.42,Groundout: 2B-1B
+26808,12,2012-06-26,Jay Bruce,CIN,MIL,Marco Estrada,tied 0-0,SO,b2,---,0,4 (1-2),0,-0.02,-0.23,.92,Strikeout Swinging
+26809,13,2012-06-26,Scott Rolen,CIN,MIL,Marco Estrada,tied 0-0,SO,b2,---,1,4 (1-2),0,-0.02,-0.16,.67,Strikeout Swinging
+26810,14,2012-06-26,Ryan Ludwick,CIN,MIL,Marco Estrada,tied 0-0,SO,b2,---,2,3 (0-2),0,-0.01,-0.10,.43,Strikeout Looking
+26811,15,2012-06-26,Cesar Izturis,MIL,@CIN,Bronson Arroyo,tied 0-0,Out,t3,---,0,4 (2-1),0,-0.03,-0.23,.99,Groundout: 1B-P (2B-1B)
+26812,16,2012-06-26,Nori Aoki,MIL,@CIN,Bronson Arroyo,tied 0-0,Out,t3,---,2,4 (1-2),0,-0.01,-0.10,.46,Popfly: 2B (Deep 2B)
+26813,17,2012-06-26,Ryan Hanigan,CIN,MIL,Marco Estrada,tied 0-0,Out,b3,---,0,1 (0-0),0,-0.03,-0.23,.99,Lineout: RF (Short RF)
+26814,18,2012-06-26,Zack Cozart,CIN,MIL,Marco Estrada,tied 0-0,Out,b3,---,2,4 (2-1),0,-0.01,-0.10,.47,Flyball: CF (Deep LF-CF)
+26815,1,2012-06-26,Danny Espinosa,WSN,@COL,Christian Friedrich,tied 0-0,Out,t1,---,0,1 (0-0),0,-0.02,-0.26,.87,*LEADOFF GM*:Groundout: 3B-1B (Weak 3B)
+26816,2,2012-06-26,Bryce Harper,WSN,@COL,Christian Friedrich,tied 0-0,Out,t1,---,1,5 (3-1),0,-0.02,-0.18,.63,Groundout: 3B-1B (Weak 3B)
+26817,3,2012-06-26,Ryan Zimmerman,WSN,@COL,Christian Friedrich,tied 0-0,Out,t1,---,2,2 (0-1),0,-0.01,-0.12,.41,Groundout: SS-1B (Weak SS)
+26818,4,2012-06-26,Dexter Fowler,COL,WSN,Gio Gonzalez,tied 0-0,Out,b1,---,0,2 (1-0),0,-0.02,-0.26,.87,Lineout: RF (Deep CF-RF)
+26819,5,2012-06-26,Jordan Pacheco,COL,WSN,Gio Gonzalez,tied 0-0,Out,b1,---,1,4 (2-1),0,-0.02,-0.18,.63,Flyball: CF (Deep CF-RF)
+26820,6,2012-06-26,Carlos Gonzalez,COL,WSN,Gio Gonzalez,tied 0-0,1B,b1,---,2,4 (2-1),0,0.01,0.13,.41,Single to RF (Ground Ball thru 2B-1B)
+26821,7,2012-06-26,Michael Cuddyer,COL,WSN,Gio Gonzalez,tied 0-0,1B,b1,1--,2,2 (0-1),0,0.03,0.28,.79,Single to RF (Line Drive to Short RF); Gonzalez to 3B
+26822,8,2012-06-26,Todd Helton,COL,WSN,Gio Gonzalez,tied 0-0,SO,b1,1-3,2,4 (1-2),0,-0.05,-0.53,1.69,Strikeout Swinging
+26823,9,2012-06-26,Mike Morse,WSN,@COL,Christian Friedrich,tied 0-0,Out,t2,---,0,3 (1-1),0,-0.02,-0.26,.93,Groundout: SS-1B (Weak SS)
+26824,10,2012-06-26,Adam LaRoche,WSN,@COL,Christian Friedrich,tied 0-0,HR,t2,---,1,1 (0-0),1,0.10,1.00,.67,Home Run (Fly Ball to Deep LF)
+26825,11,2012-06-26,Ian Desmond,WSN,@COL,Christian Friedrich,ahead 0-1,2B,t2,---,1,6 (1-2),0,0.04,0.43,.61,Double to LF (Ground Ball)
+26826,12,2012-06-26,Tyler Moore,WSN,@COL,Christian Friedrich,ahead 0-1,1B,t2,-2-,1,1 (0-0),0,0.04,0.51,1.13,Single to LF (Ground Ball thru Weak 3B); Desmond to 3B
+26827,13,2012-06-26,Jesus Flores,WSN,@COL,Christian Friedrich,ahead 0-1,Out,t2,1-3,1,3 (1-1),0,-0.11,-1.24,1.63,Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+26828,14,2012-06-26,Chris Nelson,COL,WSN,Gio Gonzalez,down 1-0,Out,b2,---,0,5 (3-1),0,-0.03,-0.26,.99,Lineout: RF (Deep RF)
+26829,15,2012-06-26,Wilin Rosario,COL,WSN,Gio Gonzalez,down 1-0,SO,b2,---,1,3 (0-2),0,-0.02,-0.18,.72,Strikeout Swinging
+26830,16,2012-06-26,Jonathan Herrera,COL,WSN,Gio Gonzalez,down 1-0,Out,b2,---,2,3 (1-1),0,-0.01,-0.12,.46,Groundout: 1B-P (2B-1B)
+26831,17,2012-06-26,Danny Espinosa,WSN,@COL,Christian Friedrich,ahead 0-1,1B,t3,---,1,3 (2-0),0,0.02,0.28,.65,Single to CF (Ground Ball thru SS-2B)
+26832,18,2012-06-26,Bryce Harper,WSN,@COL,Christian Friedrich,ahead 0-1,SO,t3,1--,1,4 (1-2),0,-0.03,-0.32,1.15,Strikeout Swinging
+26833,19,2012-06-26,Ryan Zimmerman,WSN,@COL,Christian Friedrich,ahead 0-1,2B,t3,1--,2,2 (0-1),0,0.03,0.39,.81,Double to SS (Line Drive to Deep CF); Espinosa to 3B
+26834,20,2012-06-26,Mike Morse,WSN,@COL,Christian Friedrich,ahead 0-1,2B,t3,-23,2,1 (0-0),2,0.16,1.71,1.92,Double to CF (Fly Ball to Deep CF-RF); Espinosa Scores; Zimmerman Scores
+26835,21,2012-06-26,Adam LaRoche,WSN,@COL,Christian Friedrich,ahead 0-3,SO,t3,-2-,2,5 (1-2),0,-0.02,-0.35,.76,Strikeout Swinging
+26836,22,2012-06-26,Dexter Fowler,COL,WSN,Gio Gonzalez,down 3-0,SO,b3,---,1,6 (3-2),0,-0.02,-0.18,.66,Strikeout Looking
+26837,23,2012-06-26,Jordan Pacheco,COL,WSN,Gio Gonzalez,down 3-0,1B,b3,---,2,2 (1-0),0,0.01,0.13,.40,Single to CF (Line Drive)
+26838,24,2012-06-26,Carlos Gonzalez,COL,WSN,Gio Gonzalez,down 3-0,2B,b3,1--,2,3 (2-0),1,0.10,1.10,.80,Double to LF (Line Drive to Deep LF Line); Pacheco Scores
+26839,25,2012-06-26,Michael Cuddyer,COL,WSN,Gio Gonzalez,down 3-1,BB,b3,-2-,2,9 (3-2),0,0.01,0.12,1.25,Walk
+26840,26,2012-06-26,Todd Helton,COL,WSN,Gio Gonzalez,down 3-1,1B,b3,12-,2,7 (3-2),1,0.21,1.88,1.89,Single to CF (Ground Ball thru SS-2B); Gonzalez Scores; Cuddyer Scores/Adv on E8 (throw)/unER; Helton to 2B
+26841,27,2012-06-26,Chris Nelson,COL,WSN,Gio Gonzalez,tied 3-3,Out,b3,-2-,2,2 (1-0),0,-0.04,-0.35,1.28,Flyball: RF (RF Line)
+26842,1,2012-06-26,Will Venable,SDP,@HOU,Jordan Lyles,tied 0-0,Out,t1,---,0,7 (3-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Groundout: 1B unassisted
+26843,2,2012-06-26,Cameron Maybin,SDP,@HOU,Jordan Lyles,tied 0-0,SO,t1,---,1,4 (1-2),0,-0.02,-0.15,.62,Strikeout Swinging (C-1B)
+26844,3,2012-06-26,Carlos Quentin,SDP,@HOU,Jordan Lyles,tied 0-0,Out,t1,---,2,1 (0-0),0,-0.01,-0.10,.40,Popfly: 2B (Deep 2B-1B)
+26845,4,2012-06-26,Brian Bixler,HOU,SDP,Kip Wells,tied 0-0,Out,b1,---,0,3 (1-1),0,-0.02,-0.22,.87,Popfly: 2B (Short CF-RF)
+26846,5,2012-06-26,Jed Lowrie,HOU,SDP,Kip Wells,tied 0-0,Out,b1,---,1,4 (2-1),0,-0.02,-0.15,.62,Flyball: LF (Short LF)
+26847,6,2012-06-26,Carlos Lee,HOU,SDP,Kip Wells,tied 0-0,BB,b1,---,2,6 (3-2),0,0.01,0.12,.40,Walk
+26848,7,2012-06-26,Brian Bogusevic,HOU,SDP,Kip Wells,tied 0-0,Out,b1,1--,2,2 (0-1),0,-0.02,-0.22,.79,Groundout: 2B-SS/Forceout at 2B
+26849,8,2012-06-26,Mark Kotsay,SDP,@HOU,Jordan Lyles,tied 0-0,Out,t2,---,0,6 (2-2),0,-0.02,-0.22,.93,Groundout: SS-1B (SS-2B)
+26850,9,2012-06-26,John Baker,SDP,@HOU,Jordan Lyles,tied 0-0,RoE,t2,---,1,4 (1-2),0,0.03,0.25,.65,Reached on E5 (Ground Ball to Short LF)
+26851,10,2012-06-26,Everth Cabrera,SDP,@HOU,Jordan Lyles,tied 0-0,1B,t2,1--,1,3 (2-0),0,0.04,0.38,1.23,Single to 3B (Ground Ball); Baker to 2B
+26852,11,2012-06-26,Alexi Amarista,SDP,@HOU,Jordan Lyles,tied 0-0,1B,t2,12-,1,3 (2-0),0,0.06,0.66,2.08,Single to RF (Ground Ball thru 2B-1B); Baker to 3B; Cabrera to 2B
+26853,12,2012-06-26,Logan Forsythe,SDP,@HOU,Jordan Lyles,tied 0-0,Out,t2,123,1,2 (0-1),0,-0.08,-0.79,2.76,Foul Popfly: 1B (1B Foul)
+26854,13,2012-06-26,Chris Johnson,HOU,SDP,Kip Wells,tied 0-0,BB,b2,---,0,4 (3-0),0,0.04,0.38,.92,Walk
+26855,14,2012-06-26,Jason Castro,HOU,SDP,Kip Wells,tied 0-0,1B,b2,1--,0,5 (3-1),0,0.06,0.60,1.54,Single to P (Ground Ball to Weak 3B); Johnson to 2B
+26856,15,2012-06-26,J.D. Martinez,HOU,SDP,Kip Wells,tied 0-0,Out,b2,12-,0,1 (0-0),0,-0.05,-0.57,1.98,Flyball: RF (Short RF)
+26857,16,2012-06-26,Jordan Schafer,HOU,SDP,Kip Wells,tied 0-0,BB,b2,12-,1,7 (3-2),0,0.06,0.66,2.05,Walk; Johnson to 3B; Castro to 2B
+26858,17,2012-06-26,Brian Bixler,HOU,SDP,Kip Wells,tied 0-0,Out,b2,123,2,4 (2-1),0,-0.08,-0.75,3.03,Groundout: SS-1B (Weak 3B)
+26859,18,2012-06-26,Will Venable,SDP,@HOU,Jordan Lyles,tied 0-0,HR,t3,---,0,5 (2-2),1,0.12,1.00,.99,Home Run (Fly Ball to Deep RF)
+26860,19,2012-06-26,Cameron Maybin,SDP,@HOU,Jordan Lyles,ahead 0-1,Out,t3,---,0,5 (2-2),0,-0.02,-0.22,.86,Foul Popfly: 3B (3B Foul)
+26861,20,2012-06-26,Carlos Quentin,SDP,@HOU,Jordan Lyles,ahead 0-1,1B,t3,---,1,3 (0-2),0,0.02,0.25,.61,Single to 2B (Ground Ball to SS-2B)
+26862,21,2012-06-26,Mark Kotsay,SDP,@HOU,Jordan Lyles,ahead 0-1,1B,t3,1--,1,2 (1-0),0,0.03,0.38,1.14,Single to RF (Ground Ball thru 2B-1B); Quentin to 2B
+26863,22,2012-06-26,John Baker,SDP,@HOU,Jordan Lyles,ahead 0-1,SO,t3,12-,1,3 (0-2),0,-0.04,-0.46,1.88,Strikeout Swinging
+26864,23,2012-06-26,Everth Cabrera,SDP,@HOU,Jordan Lyles,ahead 0-1,BB,t3,12-,2,5 (3-1),0,0.03,0.33,1.62,Walk; Quentin to 3B; Kotsay to 2B
+26865,24,2012-06-26,Alexi Amarista,SDP,@HOU,Jordan Lyles,ahead 0-1,Out,t3,123,2,4 (2-1),0,-0.07,-0.75,2.77,Groundout: SS-1B (Weak SS)
+26866,25,2012-06-26,Jed Lowrie,HOU,SDP,Kip Wells,down 1-0,HR,b3,---,0,4 (2-1),1,0.13,1.00,1.08,Home Run (Fly Ball to Deep CF-RF)
+26867,26,2012-06-26,Carlos Lee,HOU,SDP,Kip Wells,tied 1-1,Out,b3,---,0,4 (1-2),0,-0.02,-0.22,.99,Lineout: LF (Deep LF-CF)
+26868,27,2012-06-26,Brian Bogusevic,HOU,SDP,Kip Wells,tied 1-1,1B,b3,---,1,2 (1-0),0,0.03,0.25,.71,Single to RF (Line Drive to Short RF)
+26869,28,2012-06-26,Chris Johnson,HOU,SDP,Kip Wells,tied 1-1,Out,b3,1--,1,5 (2-2),0,-0.03,-0.28,1.32,Groundout: 2B-SS/Forceout at 2B
+26870,29,2012-06-26,Jason Castro,HOU,SDP,Kip Wells,tied 1-1,Out,b3,1--,2,4 (2-1),0,-0.03,-0.22,.92,Popfly: SS (Deep SS-3B Hole)
+26871,1,2012-06-26,Melvin Upton,TBR,@KCR,Bruce Chen,tied 0-0,Out,t1,---,0,6 (3-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Flyball: RF
+26872,2,2012-06-26,Carlos Pena,TBR,@KCR,Bruce Chen,tied 0-0,1B,t1,---,1,3 (0-2),0,0.02,0.26,.62,Single to LF (Line Drive to LF-CF)
+26873,3,2012-06-26,Jeff Keppinger,TBR,@KCR,Bruce Chen,tied 0-0,1B,t1,1--,1,7 (2-2),0,0.06,0.66,1.15,Single to CF (Line Drive to Deep CF); Pena to 3B
+26874,4,2012-06-26,Hideki Matsui,TBR,@KCR,Bruce Chen,tied 0-0,Out,t1,1-3,1,1 (0-0),0,0.02,0.13,1.80,Flyball: CF (Deep CF); Pena Scores/Safe on E2 (catch)/No RBI/unER; Keppinger to 2B/Adv on throw to Hm
+26875,5,2012-06-26,Ben Zobrist,TBR,@KCR,Bruce Chen,ahead 0-1,Out,t1,-2-,2,4 (2-1),0,-0.03,-0.32,1.03,Lineout: 3B
+26876,6,2012-06-26,Alex Gordon,KCR,TBR,Chris Archer,down 1-0,SO,b1,---,0,5 (2-2),0,-0.02,-0.24,.92,Strikeout Swinging
+26877,7,2012-06-26,Yuniesky Betancourt,KCR,TBR,Chris Archer,down 1-0,Out,b1,---,1,5 (2-2),0,-0.02,-0.16,.65,Flyball: RF (Deep RF)
+26878,8,2012-06-26,Mike Moustakas,KCR,TBR,Chris Archer,down 1-0,Out,b1,---,2,4 (3-0),0,-0.01,-0.11,.42,Groundout: SS-1B
+26879,9,2012-06-26,Sean Rodriguez,TBR,@KCR,Bruce Chen,ahead 0-1,SO,t2,---,0,3 (0-2),0,-0.02,-0.24,.82,Strikeout Looking
+26880,10,2012-06-26,Desmond Jennings,TBR,@KCR,Bruce Chen,ahead 0-1,SO,t2,---,1,4 (0-2),0,-0.01,-0.16,.59,Strikeout Swinging
+26881,11,2012-06-26,Brooks Conrad,TBR,@KCR,Bruce Chen,ahead 0-1,HR,t2,---,2,6 (1-2),1,0.10,1.00,.39,Home Run (Fly Ball to Deep LF)
+26882,12,2012-06-26,Jose Lobaton,TBR,@KCR,Bruce Chen,ahead 0-2,Out,t2,---,2,4 (1-2),0,-0.01,-0.11,.33,Popfly: SS (Deep SS)
+26883,13,2012-06-26,Billy Butler,KCR,TBR,Chris Archer,down 2-0,Out,b2,---,0,2 (0-1),0,-0.02,-0.24,.97,Popfly: 2B
+26884,14,2012-06-26,Jeff Francoeur,KCR,TBR,Chris Archer,down 2-0,SO,b2,---,1,3 (0-2),0,-0.02,-0.16,.67,Strikeout Swinging
+26885,15,2012-06-26,Eric Hosmer,KCR,TBR,Chris Archer,down 2-0,1B,b2,---,2,2 (0-1),0,0.01,0.13,.42,Single to LF (Ground Ball)
+26886,16,2012-06-26,Brayan Pena,KCR,TBR,Chris Archer,down 2-0,SO,b2,1--,2,7 (3-2),0,-0.02,-0.23,.86,Strikeout Swinging
+26887,17,2012-06-26,Melvin Upton,TBR,@KCR,Bruce Chen,ahead 0-2,Out,t3,---,0,2 (0-1),0,-0.02,-0.24,.69,Flyball: CF (Deep CF)
+26888,18,2012-06-26,Carlos Pena,TBR,@KCR,Bruce Chen,ahead 0-2,SO,t3,---,1,3 (0-2),0,-0.01,-0.16,.51,Strikeout Swinging
+26889,19,2012-06-26,Jeff Keppinger,TBR,@KCR,Bruce Chen,ahead 0-2,Out,t3,---,2,4 (1-2),0,-0.01,-0.11,.34,Flyball: CF (Deep CF)
+26890,20,2012-06-26,Jarrod Dyson,KCR,TBR,Chris Archer,down 2-0,1B,b3,---,0,3 (0-2),0,0.04,0.39,1.05,Single to LF (Line Drive to LF-CF)
+26891,21,2012-06-26,Alcides Escobar,KCR,TBR,Chris Archer,down 2-0,2B,b3,1--,0,3 (2-0),0,0.18,1.54,1.76,Double to CF (Fly Ball to Deep CF); Dyson Scores/Adv on E6 (throw); Escobar to 3B
+26892,22,2012-06-26,Alex Gordon,KCR,TBR,Chris Archer,down 2-1,1B,b3,--3,0,1 (0-0),1,0.05,0.46,1.33,Single to SS (Ground Ball to Weak SS); Escobar Scores
+26893,23,2012-06-26,Yuniesky Betancourt,KCR,TBR,Chris Archer,tied 2-2,HR,b3,1--,0,5 (2-2),2,0.17,1.61,1.60,Home Run (Fly Ball to Deep LF); Gordon Scores
+26894,24,2012-06-26,Mike Moustakas,KCR,TBR,Chris Archer,ahead 2-4,SO,b3,---,0,6 (3-2),0,-0.02,-0.24,.61,Strikeout Swinging
+26895,25,2012-06-26,Billy Butler,KCR,TBR,Chris Archer,ahead 2-4,SO,b3,---,1,6 (3-2),0,-0.01,-0.16,.45,Strikeout Swinging
+26896,26,2012-06-26,Jeff Francoeur,KCR,TBR,Chris Archer,ahead 2-4,Out,b3,---,2,7 (3-2),0,-0.01,-0.11,.31,Popfly: 2B (Deep 1B)
+26897,1,2012-06-26,Rafael Furcal,STL,@MIA,Carlos Zambrano,tied 0-0,1B,t1,---,0,3 (1-1),0,0.04,0.38,.87,*LEADOFF GM*:Single to CF (Ground Ball thru SS-2B)
+26898,2,2012-06-26,Jon Jay,STL,@MIA,Carlos Zambrano,tied 0-0,SO,t1,1--,0,4 (1-2),0,-0.03,-0.35,1.46,Strikeout Swinging
+26899,3,2012-06-26,Matt Holliday,STL,@MIA,Carlos Zambrano,tied 0-0,RoE,t1,1--,1,2 (0-1),0,0.06,0.66,1.15,Reached on E1 (throw to 2B)/attempted forceout (Ground Ball); Furcal to 3B
+26900,4,2012-06-26,Carlos Beltran,STL,@MIA,Carlos Zambrano,tied 0-0,1B,t1,1-3,1,7 (3-2),1,0.07,0.72,1.85,Single to CF (Ground Ball thru SS-2B); Furcal Scores/unER; Holliday to 2B
+26901,5,2012-06-26,Allen Craig,STL,@MIA,Carlos Zambrano,ahead 0-1,1B,t1,12-,1,6 (2-2),1,0.09,1.00,1.73,Single to SS (Weak SS); Holliday Scores; Beltran to 2B
+26902,6,2012-06-26,Yadier Molina,STL,@MIA,Carlos Zambrano,ahead 0-2,HR,t1,12-,1,7 (3-2),3,0.16,2.36,1.44,Home Run (Fly Ball to Deep LF); Beltran Scores; Craig Scores
+26903,7,2012-06-26,Skip Schumaker,STL,@MIA,Carlos Zambrano,ahead 0-5,2B,t1,---,1,6 (3-2),0,0.01,0.41,.21,Double to CF (Line Drive to Deep CF)
+26904,8,2012-06-26,Daniel Descalso,STL,@MIA,Carlos Zambrano,ahead 0-5,Out,t1,-2-,1,2 (0-1),0,-0.02,-0.67,.41,Fly Ball Double Play: LF (Deep SS-3B Hole); Schumaker out at 2B/LF-2B
+26905,9,2012-06-26,Jose Reyes,MIA,STL,Kyle Lohse,down 5-0,Out,b1,---,0,4 (1-2),0,-0.01,-0.23,.57,Flyball: CF (Deep CF)
+26906,10,2012-06-26,Hanley Ramirez,MIA,STL,Kyle Lohse,down 5-0,Out,b1,---,1,5 (2-2),0,-0.01,-0.16,.37,Flyball: RF (Deep RF)
+26907,11,2012-06-26,Giancarlo Stanton,MIA,STL,Kyle Lohse,down 5-0,HR,b1,---,2,5 (3-1),1,0.05,1.00,.22,Home Run (Fly Ball to Deep CF)
+26908,12,2012-06-26,Logan Morrison,MIA,STL,Kyle Lohse,down 5-1,Out,b1,---,2,4 (2-1),0,-0.01,-0.10,.28,Flyball: LF (Short LF-CF)
+26909,13,2012-06-26,Rafael Furcal,STL,@MIA,Carlos Zambrano,ahead 1-5,Out,t2,---,1,2 (0-1),0,-0.01,-0.16,.29,Popfly: SS (Weak SS)
+26910,14,2012-06-26,Jon Jay,STL,@MIA,Carlos Zambrano,ahead 1-5,1B,t2,---,2,1 (0-0),0,0.01,0.12,.13,Single to LF (Line Drive to Short LF)
+26911,15,2012-06-26,Matt Holliday,STL,@MIA,Carlos Zambrano,ahead 1-5,BB,t2,1--,2,5 (3-1),0,0.01,0.20,.36,Walk; Jay to 2B
+26912,16,2012-06-26,Carlos Beltran,STL,@MIA,Carlos Zambrano,ahead 1-5,Out,t2,12-,2,2 (1-0),0,-0.02,-0.43,.73,Groundout: 1B unassisted (2B-1B)
+26913,17,2012-06-26,Greg Dobbs,MIA,STL,Kyle Lohse,down 5-1,1B,b2,---,0,5 (1-2),0,0.03,0.38,.73,Single to RF (Line Drive to Short RF Line)
+26914,18,2012-06-26,Omar Infante,MIA,STL,Kyle Lohse,down 5-1,Out,b2,1--,0,4 (2-1),0,-0.03,-0.35,1.27,Flyball: CF (Deep CF)
+26915,19,2012-06-26,Scott Cousins,MIA,STL,Kyle Lohse,down 5-1,SO,b2,1--,1,3 (0-2),0,-0.02,-0.29,.96,Strikeout Swinging
+26916,20,2012-06-26,John Buck,MIA,STL,Kyle Lohse,down 5-1,Out,b2,1--,2,3 (1-1),0,-0.02,-0.22,.60,Foul Flyball: RF (RF Foul)
+26917,21,2012-06-26,Allen Craig,STL,@MIA,Carlos Zambrano,ahead 1-5,1B,t3,---,0,4 (1-2),0,0.01,0.38,.37,Single to 2B (Ground Ball to SS-2B)
+26918,22,2012-06-26,Yadier Molina,STL,@MIA,Carlos Zambrano,ahead 1-5,Out,t3,1--,0,1 (0-0),0,-0.01,-0.35,.58,Lineout: CF
+26919,23,2012-06-26,Skip Schumaker,STL,@MIA,Carlos Zambrano,ahead 1-5,SO,t3,1--,1,6 (3-2),0,-0.01,-0.29,.48,Strikeout Swinging
+26920,24,2012-06-26,Daniel Descalso,STL,@MIA,Carlos Zambrano,ahead 1-5,BB,t3,1--,2,6 (3-2),0,0.01,0.20,.35,Walk; Craig to 2B
+26921,25,2012-06-26,Jose Reyes,MIA,STL,Kyle Lohse,down 5-1,Out,b3,---,1,1 (0-0),0,-0.01,-0.16,.49,Groundout: SS-1B (Weak SS)
+26922,26,2012-06-26,Hanley Ramirez,MIA,STL,Kyle Lohse,down 5-1,Out,b3,---,2,4 (1-2),0,-0.01,-0.10,.28,Groundout: SS-1B (Weak 3B)
+26923,1,2012-06-26,Alejandro De Aza,CHW,@MIN,Liam Hendriks,tied 0-0,Out,t1,---,0,5 (2-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Flyball: CF (Deep LF-CF)
+26924,2,2012-06-26,Kevin Youkilis,CHW,@MIN,Liam Hendriks,tied 0-0,1B,t1,---,1,6 (3-2),0,0.02,0.26,.62,Single to CF (Line Drive to LF-CF)
+26925,3,2012-06-26,Adam Dunn,CHW,@MIN,Liam Hendriks,tied 0-0,SO,t1,1--,1,6 (3-2),0,-0.03,-0.29,1.15,Strikeout Swinging
+26926,4,2012-06-26,Paul Konerko,CHW,@MIN,Liam Hendriks,tied 0-0,Out,t1,1--,2,1 (0-0),0,-0.02,-0.22,.79,Flyball: LF (LF-CF)
+26927,5,2012-06-26,Denard Span,MIN,CHW,Gavin Floyd,tied 0-0,2B,b1,---,0,6 (2-2),0,0.06,0.62,.87,Double to CF (Fly Ball to Deep LF-CF)
+26928,6,2012-06-26,Ben Revere,MIN,CHW,Gavin Floyd,tied 0-0,Out,b1,-2-,0,3 (1-1),0,-0.01,-0.17,1.22,Groundout: 2B-1B; Span to 3B
+26929,7,2012-06-26,Joe Mauer,MIN,CHW,Gavin Floyd,tied 0-0,SO,b1,--3,1,4 (1-2),0,-0.06,-0.58,1.38,Strikeout Swinging
+26930,8,2012-06-26,Josh Willingham,MIN,CHW,Gavin Floyd,tied 0-0,Out,b1,--3,2,3 (1-1),0,-0.04,-0.36,1.33,Flyball: CF (Deep CF)
+26931,9,2012-06-26,Alex Rios,CHW,@MIN,Liam Hendriks,tied 0-0,Out,t2,---,0,3 (0-2),0,-0.02,-0.23,.93,Flyball: RF (Short RF)
+26932,10,2012-06-26,Dayan Viciedo,CHW,@MIN,Liam Hendriks,tied 0-0,Out,t2,---,1,3 (1-1),0,-0.02,-0.16,.65,Groundout: SS-1B (Weak SS)
+26933,11,2012-06-26,Alexei Ramirez,CHW,@MIN,Liam Hendriks,tied 0-0,3B,t2,---,2,1 (0-0),0,0.03,0.25,.42,Triple to LF (Line Drive to Deep LF Line)
+26934,12,2012-06-26,Tyler Flowers,CHW,@MIN,Liam Hendriks,tied 0-0,SO,t2,--3,2,4 (1-2),0,-0.04,-0.36,1.40,Strikeout Looking
+26935,13,2012-06-26,Justin Morneau,MIN,CHW,Gavin Floyd,tied 0-0,Out,b2,---,0,6 (3-2),0,-0.02,-0.23,.92,Flyball: RF (Deep RF)
+26936,14,2012-06-26,Trevor Plouffe,MIN,CHW,Gavin Floyd,tied 0-0,SO,b2,---,1,4 (1-2),0,-0.02,-0.16,.66,Strikeout Swinging
+26937,15,2012-06-26,Ryan Doumit,MIN,CHW,Gavin Floyd,tied 0-0,HBP,b2,---,2,2 (1-0),0,0.01,0.12,.43,Hit By Pitch
+26938,16,2012-06-26,Alexi Casilla,MIN,CHW,Gavin Floyd,tied 0-0,1B,b2,1--,2,1 (0-0),0,0.02,0.20,.84,Single to CF (Ground Ball thru SS-2B); Doumit to 2B
+26939,17,2012-06-26,Jamey Carroll,MIN,CHW,Gavin Floyd,tied 0-0,Out,b2,-23,2,3 (1-1),0,-0.06,-0.59,2.09,Groundout: 1B-P (2B-1B)
+26940,18,2012-06-26,Gordon Beckham,CHW,@MIN,Liam Hendriks,tied 0-0,Out,t3,---,0,4 (0-2),0,-0.03,-0.23,.99,Flyball: RF (RF Line)
+26941,19,2012-06-26,Alejandro De Aza,CHW,@MIN,Liam Hendriks,tied 0-0,Out,t3,---,1,4 (1-2),0,-0.02,-0.16,.71,Lineout: 2B
+26942,20,2012-06-26,Kevin Youkilis,CHW,@MIN,Liam Hendriks,tied 0-0,Out,t3,---,2,5 (1-2),0,-0.01,-0.10,.46,Groundout: 2B-1B
+26943,21,2012-06-26,Denard Span,MIN,CHW,Gavin Floyd,tied 0-0,SO,b3,---,0,8 (3-2),0,-0.02,-0.23,.99,Strikeout Looking
+26944,22,2012-06-26,Ben Revere,MIN,CHW,Gavin Floyd,tied 0-0,2B,b3,---,1,6 (3-2),0,0.05,0.41,.71,Double to CF (Fly Ball to Deep CF-RF)
+26945,23,2012-06-26,Joe Mauer,MIN,CHW,Gavin Floyd,tied 0-0,SO,b3,-2-,1,5 (2-2),0,-0.04,-0.35,1.39,Strikeout Looking
+26946,24,2012-06-26,Josh Willingham,MIN,CHW,Gavin Floyd,tied 0-0,SO,b3,-2-,2,4 (1-2),0,-0.04,-0.32,1.33,Strikeout Swinging
+26947,1,2012-06-26,Shin-Soo Choo,CLE,@NYY,Phil Hughes,tied 0-0,BB,t1,---,0,6 (3-2),0,0.04,0.39,.87,*LEADOFF GM*:Walk
+26948,2,2012-06-26,Asdrubal Cabrera,CLE,@NYY,Phil Hughes,tied 0-0,Out,t1,1--,0,2 (0-1),0,-0.03,-0.37,1.43,Popfly: SS (Deep SS-3B Hole)
+26949,3,2012-06-26,Jason Kipnis,CLE,@NYY,Phil Hughes,tied 0-0,Out,t1,1--,1,3 (2-0),0,-0.03,-0.30,1.15,Lineout: RF (Deep RF)
+26950,4,2012-06-26,Carlos Santana,CLE,@NYY,Phil Hughes,tied 0-0,Out,t1,1--,2,4 (0-2),0,-0.02,-0.24,.79,Popfly: 3B
+26951,5,2012-06-26,Derek Jeter,NYY,CLE,Justin Masterson,tied 0-0,Out,b1,---,0,6 (3-2),0,-0.02,-0.24,.87,Groundout: 2B-1B
+26952,6,2012-06-26,Curtis Granderson,NYY,CLE,Justin Masterson,tied 0-0,Out,b1,---,1,4 (1-2),0,-0.02,-0.17,.62,Lineout: 2B (2B-1B)
+26953,7,2012-06-26,Alex Rodriguez,NYY,CLE,Justin Masterson,tied 0-0,BB,b1,---,2,5 (3-1),0,0.01,0.13,.40,Walk
+26954,8,2012-06-26,Robinson Cano,NYY,CLE,Justin Masterson,tied 0-0,Out,b1,1--,2,6 (2-2),0,-0.02,-0.24,.79,Groundout: P-1B (Short 3B Line)
+26955,9,2012-06-26,Michael Brantley,CLE,@NYY,Phil Hughes,tied 0-0,Out,t2,---,0,4 (1-2),0,-0.02,-0.24,.93,Foul Popfly: 3B (3B Foul)
+26956,10,2012-06-26,Johnny Damon,CLE,@NYY,Phil Hughes,tied 0-0,Out,t2,---,1,4 (2-1),0,-0.02,-0.17,.66,Flyball: RF (Deep RF)
+26957,11,2012-06-26,Casey Kotchman,CLE,@NYY,Phil Hughes,tied 0-0,Out,t2,---,2,2 (1-0),0,-0.01,-0.11,.42,Flyball: RF (Deep RF)
+26958,12,2012-06-26,Mark Teixeira,NYY,CLE,Justin Masterson,tied 0-0,BB,b2,---,0,6 (3-2),0,0.04,0.39,.92,Walk
+26959,13,2012-06-26,Nick Swisher,NYY,CLE,Justin Masterson,tied 0-0,Out,b2,1--,0,1 (0-0),0,-0.03,-0.37,1.49,Groundout: 2B-SS/Forceout at 2B (2B-1B)
+26960,14,2012-06-26,Raul Ibanez,NYY,CLE,Justin Masterson,tied 0-0,Out,b2,1--,1,3 (0-2),0,-0.03,-0.30,1.22,Flyball: LF (Deep LF)
+26961,15,2012-06-26,Dewayne Wise,NYY,CLE,Justin Masterson,tied 0-0,1B,b2,1--,2,6 (3-2),0,0.03,0.27,.84,Single to RF (Ground Ball thru 2B-1B); Swisher to 3B
+26962,16,2012-06-26,Chris Stewart,NYY,CLE,Justin Masterson,tied 0-0,1B,b2,1-3,2,7 (2-2),1,0.10,0.94,1.85,Single to 3B (Line Drive); Swisher Scores; Wise to 2B
+26963,17,2012-06-26,Derek Jeter,NYY,CLE,Justin Masterson,ahead 0-1,1B,b2,12-,2,3 (1-1),0,0.03,0.34,1.47,Single to P (Ground Ball to Weak SS); Wise to 3B; Stewart to 2B
+26964,18,2012-06-26,Curtis Granderson,NYY,CLE,Justin Masterson,ahead 0-1,1B,b2,123,2,5 (1-2),2,0.15,1.73,2.49,Single to LF (Line Drive to LF-CF); Wise Scores; Stewart Scores; Jeter to 3B
+26965,19,2012-06-26,Alex Rodriguez,NYY,CLE,Justin Masterson,ahead 0-3,Out,b2,1-3,2,6 (2-2),0,-0.03,-0.51,.96,Groundout: 3B-1B (Weak SS)
+26966,20,2012-06-26,Jack Hannahan,CLE,@NYY,Phil Hughes,down 3-0,1B,t3,---,0,4 (2-1),0,0.04,0.39,.85,Single to P (Ground Ball to SS-2B)
+26967,21,2012-06-26,Lonnie Chisenhall,CLE,@NYY,Phil Hughes,down 3-0,1B,t3,1--,0,6 (3-2),0,0.06,0.61,1.44,Single to SS (Ground Ball); Hannahan to 2B
+26968,22,2012-06-26,Shin-Soo Choo,CLE,@NYY,Phil Hughes,down 3-0,Out,t3,12-,0,3 (1-1),0,-0.11,-1.15,2.05,Ground Ball Double Play: 2B-SS-1B; Hannahan to 3B
+26969,23,2012-06-26,Asdrubal Cabrera,CLE,@NYY,Phil Hughes,down 3-0,Out,t3,--3,2,3 (0-2),0,-0.03,-0.37,1.10,Lineout: RF (Short CF-RF)
+26970,24,2012-06-26,Robinson Cano,NYY,CLE,Justin Masterson,ahead 0-3,Out,b3,---,0,3 (2-0),0,-0.01,-0.24,.46,Groundout: 1B-P (2B-1B)
+26971,25,2012-06-26,Mark Teixeira,NYY,CLE,Justin Masterson,ahead 0-3,Out,b3,---,1,4 (1-2),0,-0.01,-0.17,.33,Popfly: 3B (Weak SS)
+26972,26,2012-06-26,Nick Swisher,NYY,CLE,Justin Masterson,ahead 0-3,Out,b3,---,2,4 (2-1),0,-0.01,-0.11,.23,Groundout: 2B-1B
+26973,1,2012-06-26,Jose Tabata,PIT,@PHI,Vance Worley,tied 0-0,HBP,t1,---,0,2 (0-1),0,0.04,0.38,.87,*LEADOFF GM*:Hit By Pitch
+26974,2,2012-06-26,Neil Walker,PIT,@PHI,Vance Worley,tied 0-0,BB,t1,1--,0,4 (3-0),0,0.06,0.61,1.46,Walk; Tabata to 2B
+26975,3,2012-06-26,Andrew McCutchen,PIT,@PHI,Vance Worley,tied 0-0,Out,t1,12-,0,5 (1-2),0,-0.00,-0.08,1.90,Groundout: SS-1B (Weak SS); Tabata to 3B; Walker to 2B
+26976,4,2012-06-26,Garrett Jones,PIT,@PHI,Vance Worley,tied 0-0,FC,t1,-23,1,4 (1-2),0,-0.09,-0.90,1.54,Fielder's Choice P; Tabata out at Hm/P-C; Walker to 3B
+26977,5,2012-06-26,Casey McGehee,PIT,@PHI,Vance Worley,tied 0-0,Out,t1,1-3,2,4 (2-1),0,-0.05,-0.49,1.75,Groundout: SS-2B/Forceout at 2B (Weak SS)
+26978,6,2012-06-26,Jimmy Rollins,PHI,PIT,Erik Bedard,tied 0-0,Out,b1,---,0,2 (0-1),0,-0.02,-0.23,.87,Groundout: 3B-1B (Weak 3B)
+26979,7,2012-06-26,Placido Polanco,PHI,PIT,Erik Bedard,tied 0-0,Out,b1,---,1,2 (0-1),0,-0.02,-0.16,.62,Groundout: 1B unassisted (2B-1B)
+26980,8,2012-06-26,Hunter Pence,PHI,PIT,Erik Bedard,tied 0-0,3B,b1,---,2,1 (0-0),0,0.03,0.25,.40,Triple to RF (Fly Ball to Deep CF-RF)
+26981,9,2012-06-26,Carlos Ruiz,PHI,PIT,Erik Bedard,tied 0-0,1B,b1,--3,2,3 (0-2),1,0.09,0.87,1.33,Single to LF (Ground Ball thru Weak 3B); Pence Scores
+26982,10,2012-06-26,Shane Victorino,PHI,PIT,Erik Bedard,ahead 0-1,1B,b1,1--,2,1 (0-0),0,0.02,0.20,.70,Single to CF (Ground Ball thru SS-2B); Ruiz to 2B
+26983,11,2012-06-26,Ty Wigginton,PHI,PIT,Erik Bedard,ahead 0-1,Out,b1,12-,2,6 (3-2),0,-0.04,-0.43,1.42,Groundout: 2B-1B
+26984,12,2012-06-26,Pedro Alvarez,PIT,@PHI,Vance Worley,down 1-0,2B,t2,---,0,5 (3-1),0,0.07,0.62,.97,Double to CF (Line Drive to Deep CF-RF)
+26985,13,2012-06-26,Clint Barmes,PIT,@PHI,Vance Worley,down 1-0,Out,t2,-2-,0,4 (2-1),0,-0.02,-0.17,1.39,Groundout: SS-1B (Weak SS-2B); Alvarez to 3B
+26986,14,2012-06-26,Michael McKenry,PIT,@PHI,Vance Worley,down 1-0,Out,t2,--3,1,4 (2-1),1,0.02,0.17,1.48,Flyball: LF/Sacrifice Fly (LF-CF); Alvarez Scores
+26987,15,2012-06-26,John Mayberry,PHI,PIT,Erik Bedard,tied 1-1,Out,b2,---,0,4 (1-2),0,-0.02,-0.23,.92,Lineout: LF
+26988,16,2012-06-26,Mike Fontenot,PHI,PIT,Erik Bedard,tied 1-1,1B,b2,---,1,3 (2-0),0,0.03,0.26,.66,Single to CF (Ground Ball thru SS-2B)
+26989,17,2012-06-26,Jimmy Rollins,PHI,PIT,Erik Bedard,tied 1-1,BB,b2,-2-,2,4 (3-0),0,0.01,0.11,1.22,Walk
+26990,18,2012-06-26,Placido Polanco,PHI,PIT,Erik Bedard,tied 1-1,1B,b2,12-,2,4 (1-2),1,0.07,0.57,1.75,Single to LF (Line Drive); Fontenot Scores; Rollins out at 3B/LF-3B-SS
+26991,19,2012-06-26,Jose Tabata,PIT,@PHI,Vance Worley,down 2-1,Out,t3,---,0,3 (1-1),0,-0.03,-0.23,1.03,Popfly: SS (Deep SS)
+26992,20,2012-06-26,Neil Walker,PIT,@PHI,Vance Worley,down 2-1,Out,t3,---,1,4 (2-1),0,-0.02,-0.16,.73,Groundout: 2B-1B
+26993,21,2012-06-26,Andrew McCutchen,PIT,@PHI,Vance Worley,down 2-1,SO,t3,---,2,6 (3-2),0,-0.01,-0.10,.46,Strikeout Looking
+26994,22,2012-06-26,Hunter Pence,PHI,PIT,Erik Bedard,ahead 1-2,Out,b3,---,0,4 (1-2),0,-0.02,-0.23,.79,Flyball: LF (Deep LF)
+26995,23,2012-06-26,Carlos Ruiz,PHI,PIT,Erik Bedard,ahead 1-2,1B,b3,---,1,1 (0-0),0,0.02,0.26,.58,Single to RF (Ground Ball thru 2B-1B)
+26996,24,2012-06-26,Shane Victorino,PHI,PIT,Erik Bedard,ahead 1-2,Out,b3,1--,1,3 (1-1),0,-0.03,-0.29,1.07,Flyball: LF
+26997,25,2012-06-26,Ty Wigginton,PHI,PIT,Erik Bedard,ahead 1-2,HR,b3,1--,2,6 (3-2),2,0.18,1.88,.74,Home Run (Fly Ball to Deep LF); Ruiz Scores
+26998,26,2012-06-26,John Mayberry,PHI,PIT,Erik Bedard,ahead 1-4,Out,b3,---,2,3 (1-1),0,-0.01,-0.10,.21,Groundout: 2B-1B
+26999,1,2012-06-26,Jemile Weeks,OAK,@SEA,Jason Vargas,tied 0-0,Out,t1,---,0,3 (0-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Flyball: CF (Deep CF-RF)
+27000,2,2012-06-26,Brandon Hicks,OAK,@SEA,Jason Vargas,tied 0-0,SO,t1,---,1,4 (1-2),0,-0.01,-0.15,.61,Strikeout Swinging

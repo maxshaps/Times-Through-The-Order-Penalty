@@ -1,0 +1,502 @@
+
+Yr#,Gm#,Date,Batter,Tm,Opp,Pitcher,Score,,Inn,RoB,Out,Pit(cnt)Sequence,RBI,WPA,RE24,LI,Play Description
+501,8,2013-04-03,Justin Upton,ATL,PHI,Roy Halladay,tied 0-0,HR,b1,1--,1,6 (1-2),2,0.18,1.76,1.17,Home Run (Fly Ball to Deep CF-RF); Heyward Scores
+502,9,2013-04-03,Freddie Freeman,ATL,PHI,Roy Halladay,ahead 0-2,BB,b1,---,1,7 (3-2),0,0.02,0.24,.42,Walk
+503,10,2013-04-03,Melvin Upton,ATL,PHI,Roy Halladay,ahead 0-2,SO,b1,1--,1,5 (2-2),0,-0.02,-0.27,.78,Strikeout Swinging
+504,11,2013-04-03,Dan Uggla,ATL,PHI,Roy Halladay,ahead 0-2,BB,b1,1--,2,5 (3-1),0,0.01,0.20,.54,Walk; Freeman to 2B
+505,12,2013-04-03,Juan Francisco,ATL,PHI,Roy Halladay,ahead 0-2,1B,b1,12-,2,3 (1-1),1,0.08,1.06,1.13,Single to RF (Ground Ball thru 2B-1B); Freeman Scores; Uggla to 3B
+506,13,2013-04-03,Evan Gattis,ATL,PHI,Roy Halladay,ahead 0-3,SO,b1,1-3,2,4 (1-2),0,-0.02,-0.46,.92,Strikeout Swinging
+507,14,2013-04-03,Domonic Brown,PHI,@ATL,Paul Maholm,down 3-0,1B,t2,---,0,2 (1-0),0,0.03,0.37,.78,Single to CF (Line Drive)
+508,15,2013-04-03,John Mayberry,PHI,@ATL,Paul Maholm,down 3-0,1B,t2,1--,0,2 (0-1),0,0.06,0.60,1.41,Single to LF (Line Drive to LF-CF); Brown to 2B
+509,16,2013-04-03,Erik Kratz,PHI,@ATL,Paul Maholm,down 3-0,Out,t2,12-,0,8 (3-2),0,-0.10,-1.08,2.04,Ground Ball Double Play: SS-2B-1B; Brown to 3B
+510,17,2013-04-03,Andrelton Simmons,ATL,PHI,Roy Halladay,ahead 0-3,SO,b2,---,1,7 (3-2),0,-0.01,-0.14,.30,Strikeout Swinging
+511,18,2013-04-03,Jason Heyward,ATL,PHI,Roy Halladay,ahead 0-3,SO,b2,---,2,4 (1-2),0,-0.00,-0.09,.19,Strikeout Swinging (C-1B)
+512,19,2013-04-03,Ben Revere,PHI,@ATL,Paul Maholm,down 3-0,Out,t3,---,0,4 (1-2),0,-0.02,-0.21,.81,Groundout: 2B-1B
+513,20,2013-04-03,Jimmy Rollins,PHI,@ATL,Paul Maholm,down 3-0,1B,t3,---,1,6 (3-2),0,0.02,0.24,.54,Single to LF (Line Drive to Short LF)
+514,21,2013-04-03,Chase Utley,PHI,@ATL,Paul Maholm,down 3-0,Out,t3,1--,1,6 (3-2),0,-0.03,-0.27,1.08,Flyball: CF
+515,22,2013-04-03,Ryan Howard,PHI,@ATL,Paul Maholm,down 3-0,SO,t3,1--,2,4 (1-2),0,-0.02,-0.21,.68,Strikeout Looking
+516,23,2013-04-03,Justin Upton,ATL,PHI,Roy Halladay,ahead 0-3,SO,b3,---,0,6 (3-2),0,-0.01,-0.21,.40,Strikeout Swinging
+517,24,2013-04-03,Freddie Freeman,ATL,PHI,Roy Halladay,ahead 0-3,1B,b3,---,1,3 (0-2),0,0.01,0.24,.29,Single to LF (Line Drive to Short LF)
+518,25,2013-04-03,Melvin Upton,ATL,PHI,Roy Halladay,ahead 0-3,SO,b3,-2-,1,5 (2-2),0,-0.02,-0.34,.58,Strikeout Swinging
+519,26,2013-04-03,Dan Uggla,ATL,PHI,Roy Halladay,ahead 0-3,BB,b3,-2-,2,5 (3-1),0,0.00,0.11,.57,Walk
+520,27,2013-04-03,Juan Francisco,ATL,PHI,Roy Halladay,ahead 0-3,Out,b3,12-,2,4 (1-2),0,-0.02,-0.41,.76,Groundout: 1B-P (2B-1B)
+521,1,2013-04-03,Alex Gordon,KCR,@CHW,Jake Peavy,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Strikeout Swinging
+522,2,2013-04-03,Alcides Escobar,KCR,@CHW,Jake Peavy,tied 0-0,SO,t1,---,1,3 (0-2),0,-0.02,-0.16,.62,Strikeout Swinging
+523,3,2013-04-03,Billy Butler,KCR,@CHW,Jake Peavy,tied 0-0,Out,t1,---,2,8 (3-2),0,-0.01,-0.10,.40,Groundout: 2B-1B
+524,4,2013-04-03,Alejandro De Aza,CHW,KCR,Ervin Santana,tied 0-0,Out,b1,---,0,9 (3-2),0,-0.02,-0.24,.87,Popfly: SS (Deep SS)
+525,5,2013-04-03,Jeff Keppinger,CHW,KCR,Ervin Santana,tied 0-0,Out,b1,---,1,3 (1-1),0,-0.02,-0.16,.62,Lineout: SS
+526,6,2013-04-03,Alex Rios,CHW,KCR,Ervin Santana,tied 0-0,Out,b1,---,2,6 (3-2),0,-0.01,-0.10,.40,Groundout: SS-1B
+527,7,2013-04-03,Mike Moustakas,KCR,@CHW,Jake Peavy,tied 0-0,SO,t2,---,0,5 (2-2),0,-0.02,-0.24,.93,Strikeout Swinging
+528,8,2013-04-03,Salvador Perez,KCR,@CHW,Jake Peavy,tied 0-0,1B,t2,---,1,5 (1-2),0,0.03,0.26,.65,Single to CF (Line Drive)
+529,9,2013-04-03,Eric Hosmer,KCR,@CHW,Jake Peavy,tied 0-0,SO,t2,1--,1,9 (3-2),0,-0.03,-0.30,1.23,Strikeout Swinging
+530,10,2013-04-03,Lorenzo Cain,KCR,@CHW,Jake Peavy,tied 0-0,SO,t2,1--,2,4 (1-2),0,-0.02,-0.23,.84,Strikeout Swinging
+531,11,2013-04-03,Adam Dunn,CHW,KCR,Ervin Santana,tied 0-0,HR,b2,---,0,1 (0-0),1,0.11,1.00,.92,Home Run (Fly Ball to Deep RF)
+532,12,2013-04-03,Paul Konerko,CHW,KCR,Ervin Santana,ahead 0-1,Out,b2,---,0,8 (3-2),0,-0.02,-0.24,.77,Groundout: 3B-1B (SS-3B Hole)
+533,13,2013-04-03,Dayan Viciedo,CHW,KCR,Ervin Santana,ahead 0-1,SO,b2,---,1,5 (2-2),0,-0.01,-0.16,.57,Strikeout Swinging
+534,14,2013-04-03,Alexei Ramirez,CHW,KCR,Ervin Santana,ahead 0-1,Out,b2,---,2,3 (2-0),0,-0.01,-0.10,.37,Lineout: RF (CF-RF)
+535,15,2013-04-03,Jeff Francoeur,KCR,@CHW,Jake Peavy,down 1-0,Out,t3,---,0,1 (0-0),0,-0.03,-0.24,1.03,Groundout: 3B-1B (SS-3B Hole)
+536,16,2013-04-03,Chris Getz,KCR,@CHW,Jake Peavy,down 1-0,RoE,t3,---,1,5 (2-2),0,0.03,0.26,.73,Reached on E6 (Pop Fly to Deep SS-3B Hole)
+537,17,2013-04-03,Alex Gordon,KCR,@CHW,Jake Peavy,down 1-0,Out,t3,1--,1,6 (3-2),0,-0.03,-0.30,1.39,Flyball: CF (Deep CF)
+538,18,2013-04-03,Alcides Escobar,KCR,@CHW,Jake Peavy,down 1-0,1B,t3,1--,2,4 (2-1),0,0.13,1.09,.93,Single to LF (Line Drive to Short LF); Getz Scores/Adv on E7/No RBI/unER; Escobar to 2B
+539,19,2013-04-03,Billy Butler,KCR,@CHW,Jake Peavy,tied 1-1,Out,t3,-2-,2,5 (0-2),0,-0.04,-0.32,1.30,Groundout: SS-1B
+540,20,2013-04-03,Tyler Flowers,CHW,KCR,Ervin Santana,tied 1-1,HR,b3,---,0,1 (0-0),1,0.12,1.00,.99,Home Run (Fly Ball to Deep LF)
+541,21,2013-04-03,Gordon Beckham,CHW,KCR,Ervin Santana,ahead 1-2,SO,b3,---,0,5 (2-2),0,-0.02,-0.24,.80,Strikeout Swinging
+542,22,2013-04-03,Alejandro De Aza,CHW,KCR,Ervin Santana,ahead 1-2,SO,b3,---,1,6 (2-2),0,-0.01,-0.16,.59,Strikeout Looking
+543,23,2013-04-03,Jeff Keppinger,CHW,KCR,Ervin Santana,ahead 1-2,Out,b3,---,2,4 (1-2),0,-0.01,-0.10,.39,Flyball: CF
+544,1,2013-04-03,Mike Trout,LAA,@CIN,Mat Latos,tied 0-0,SO,t1,---,0,5 (2-2),0,-0.02,-0.21,.87,*LEADOFF GM*:Strikeout Swinging
+545,2,2013-04-03,Erick Aybar,LAA,@CIN,Mat Latos,tied 0-0,Out,t1,---,1,1 (0-0),0,-0.01,-0.14,.61,Groundout: 2B-1B
+546,3,2013-04-03,Albert Pujols,LAA,@CIN,Mat Latos,tied 0-0,BB,t1,---,2,8 (3-2),0,0.01,0.12,.39,Walk
+547,4,2013-04-03,Shin-Soo Choo,CIN,LAA,C.J. Wilson,tied 0-0,Out,b1,---,0,3 (0-2),0,-0.02,-0.21,.87,Groundout: 1B unassisted
+548,5,2013-04-03,Chris Heisey,CIN,LAA,C.J. Wilson,tied 0-0,Out,b1,---,1,1 (0-0),0,-0.01,-0.14,.61,Flyball: RF
+549,6,2013-04-03,Joey Votto,CIN,LAA,C.J. Wilson,tied 0-0,Out,b1,---,2,5 (2-2),0,-0.01,-0.09,.40,Groundout: SS-1B
+550,7,2013-04-03,Josh Hamilton,LAA,@CIN,Mat Latos,tied 0-0,SO,t2,---,0,6 (2-2),0,-0.02,-0.21,.93,Strikeout Swinging
+551,8,2013-04-03,Mark Trumbo,LAA,@CIN,Mat Latos,tied 0-0,SO,t2,---,1,6 (2-2),0,-0.02,-0.14,.64,Strikeout Looking
+552,9,2013-04-03,Howie Kendrick,LAA,@CIN,Mat Latos,tied 0-0,Out,t2,---,2,2 (1-0),0,-0.01,-0.09,.41,Flyball: RF (Short RF Line)
+553,10,2013-04-03,Brandon Phillips,CIN,LAA,C.J. Wilson,tied 0-0,Out,b2,---,0,2 (0-1),0,-0.02,-0.21,.92,Flyball: LF (Deep LF)
+554,11,2013-04-03,Jay Bruce,CIN,LAA,C.J. Wilson,tied 0-0,Out,b2,---,1,3 (1-1),0,-0.02,-0.14,.65,Groundout: SS-1B (SS-2B)
+555,12,2013-04-03,Todd Frazier,CIN,LAA,C.J. Wilson,tied 0-0,SO,b2,---,2,3 (0-2),0,-0.01,-0.09,.42,Strikeout Swinging
+556,13,2013-04-03,Alberto Callaspo,LAA,@CIN,Mat Latos,tied 0-0,Out,t3,---,0,4 (2-1),0,-0.02,-0.21,.99,Flyball: RF (Deep RF)
+557,14,2013-04-03,Chris Iannetta,LAA,@CIN,Mat Latos,tied 0-0,1B,t3,---,1,1 (0-0),0,0.03,0.24,.70,Single to LF (Line Drive)
+558,15,2013-04-03,Mike Trout,LAA,@CIN,Mat Latos,tied 0-0,2B,t3,1--,2,1 (0-0),0,0.04,0.36,.92,Ground-rule Double (Line Drive to Deep CF-RF); Iannetta to 3B
+559,16,2013-04-03,Erick Aybar,LAA,@CIN,Mat Latos,tied 0-0,Out,t3,-23,2,7 (2-2),0,-0.07,-0.56,2.31,Groundout: 1B-P (2B-1B)
+560,17,2013-04-03,Zack Cozart,CIN,LAA,C.J. Wilson,tied 0-0,Out,b3,---,0,4 (2-1),0,-0.02,-0.21,.99,Groundout: SS-1B
+561,18,2013-04-03,Ryan Hanigan,CIN,LAA,C.J. Wilson,tied 0-0,Out,b3,---,1,4 (1-2),0,-0.02,-0.14,.70,Flyball: LF (Deep LF)
+562,1,2013-04-03,Ian Kinsler,TEX,@HOU,Philip Humber,tied 0-0,SO,t1,---,0,3 (0-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Strikeout Swinging
+563,2,2013-04-03,Elvis Andrus,TEX,@HOU,Philip Humber,tied 0-0,Out,t1,---,1,2 (0-1),0,-0.02,-0.15,.62,Lineout: SS
+564,3,2013-04-03,Lance Berkman,TEX,@HOU,Philip Humber,tied 0-0,BB,t1,---,2,4 (3-0),0,0.01,0.12,.40,Walk
+565,4,2013-04-03,Adrian Beltre,TEX,@HOU,Philip Humber,tied 0-0,Out,t1,1--,2,4 (1-2),0,-0.02,-0.22,.79,Groundout: 3B-2B/Forceout at 2B (Weak 3B)
+566,5,2013-04-03,Jose Altuve,HOU,TEX,Alexi Ogando,tied 0-0,2B,b1,---,0,3 (1-1),0,0.06,0.62,.87,Double to 3B (Ground Ball)
+567,6,2013-04-03,Brett Wallace,HOU,TEX,Alexi Ogando,tied 0-0,Out,b1,-2-,0,2 (1-0),0,-0.01,-0.17,1.23,Groundout: 2B-P; Altuve to 3B
+568,7,2013-04-03,Carlos Pena,HOU,TEX,Alexi Ogando,tied 0-0,SO,b1,--3,1,5 (1-2),0,-0.06,-0.57,1.39,Strikeout Swinging
+569,8,2013-04-03,Chris Carter,HOU,TEX,Alexi Ogando,tied 0-0,SO,b1,--3,2,3 (0-2),0,-0.04,-0.35,1.34,Strikeout Swinging
+570,9,2013-04-03,David Murphy,TEX,@HOU,Philip Humber,tied 0-0,Out,t2,---,0,3 (1-1),0,-0.02,-0.23,.93,Lineout: CF (Deep CF)
+571,10,2013-04-03,Nelson Cruz,TEX,@HOU,Philip Humber,tied 0-0,1B,t2,---,1,5 (1-2),0,0.03,0.25,.65,Single to CF (Ground Ball)
+572,11,2013-04-03,A.J. Pierzynski,TEX,@HOU,Philip Humber,tied 0-0,1B,t2,1--,1,2 (1-0),0,0.04,0.38,1.23,Single to CF (Line Drive); Cruz to 2B
+573,12,2013-04-03,Mitch Moreland,TEX,@HOU,Philip Humber,tied 0-0,SO,t2,12-,1,5 (1-2),0,-0.05,-0.46,2.08,Strikeout Swinging
+574,13,2013-04-03,Leonys Martin,TEX,@HOU,Philip Humber,tied 0-0,HBP,t2,12-,2,4 (1-2),0,0.03,0.33,1.75,Hit By Pitch; Cruz to 3B; Pierzynski to 2B
+575,14,2013-04-03,Ian Kinsler,TEX,@HOU,Philip Humber,tied 0-0,Out,t2,123,2,3 (1-1),0,-0.08,-0.76,3.06,Flyball: RF
+576,15,2013-04-03,Jason Castro,HOU,TEX,Alexi Ogando,tied 0-0,Out,b2,---,0,4 (1-2),0,-0.02,-0.23,.92,Groundout: 2B-1B
+577,16,2013-04-03,Justin Maxwell,HOU,TEX,Alexi Ogando,tied 0-0,SO,b2,---,1,4 (0-2),0,-0.02,-0.15,.66,Strikeout Swinging
+578,17,2013-04-03,Rick Ankiel,HOU,TEX,Alexi Ogando,tied 0-0,SO,b2,---,2,6 (2-2),0,-0.01,-0.10,.43,Strikeout Swinging
+579,18,2013-04-03,Elvis Andrus,TEX,@HOU,Philip Humber,tied 0-0,Out,t3,---,0,2 (0-1),0,-0.03,-0.23,.99,Lineout: CF
+580,19,2013-04-03,Lance Berkman,TEX,@HOU,Philip Humber,tied 0-0,Out,t3,---,1,1 (0-0),0,-0.02,-0.15,.71,Groundout: SS-1B
+581,20,2013-04-03,Adrian Beltre,TEX,@HOU,Philip Humber,tied 0-0,Out,t3,---,2,7 (3-2),0,-0.01,-0.10,.46,Flyball: RF
+582,21,2013-04-03,Matt Dominguez,HOU,TEX,Alexi Ogando,tied 0-0,Out,b3,---,0,6 (3-2),0,-0.02,-0.23,.99,Popfly: 1B (2B-1B)
+583,22,2013-04-03,Ronny Cedeno,HOU,TEX,Alexi Ogando,tied 0-0,1B,b3,---,1,4 (1-2),0,0.03,0.25,.71,Single to CF (Line Drive)
+584,23,2013-04-03,Jose Altuve,HOU,TEX,Alexi Ogando,tied 0-0,SO,b3,1--,1,4 (1-2),0,-0.03,-0.28,1.32,Strikeout Swinging
+585,24,2013-04-03,Brett Wallace,HOU,TEX,Alexi Ogando,tied 0-0,BB,b3,-2-,2,4 (3-0),0,0.01,0.11,1.33,Walk
+586,25,2013-04-03,Carlos Pena,HOU,TEX,Alexi Ogando,tied 0-0,Out,b3,12-,2,3 (2-0),0,-0.05,-0.43,1.87,Groundout: 2B-1B (Deep 2B)
+587,1,2013-04-03,Angel Pagan,SFG,@LAD,Josh Beckett,tied 0-0,Out,t1,---,0,5 (1-2),0,-0.02,-0.20,.87,*LEADOFF GM*:Groundout: P-1B (P's Right)
+588,2,2013-04-03,Marco Scutaro,SFG,@LAD,Josh Beckett,tied 0-0,Out,t1,---,1,2 (0-1),0,-0.01,-0.14,.60,Groundout: SS-1B
+589,3,2013-04-03,Pablo Sandoval,SFG,@LAD,Josh Beckett,tied 0-0,Out,t1,---,2,6 (3-2),0,-0.01,-0.09,.39,Groundout: 2B-1B
+590,4,2013-04-03,Carl Crawford,LAD,SFG,Tim Lincecum,tied 0-0,1B,b1,---,0,3 (1-1),0,0.04,0.36,.87,Single to LF (Line Drive to LF-CF)
+591,5,2013-04-03,Skip Schumaker,LAD,SFG,Tim Lincecum,tied 0-0,BB,b1,1--,0,5 (3-1),0,0.06,0.59,1.51,Walk; Crawford to 2B
+592,6,2013-04-03,Matt Kemp,LAD,SFG,Tim Lincecum,tied 0-0,Out,b1,12-,0,1 (0-0),0,-0.02,-0.27,2.00,Flyball: CF (Deep CF); Crawford to 3B
+593,7,2013-04-03,Adrian Gonzalez,LAD,SFG,Tim Lincecum,tied 0-0,BB,b1,1-3,1,4 (3-0),0,0.07,0.72,2.01,Walk Passed Ball; Crawford Scores/No RBI/unER; Schumaker to 2B
+594,8,2013-04-03,Andre Ethier,LAD,SFG,Tim Lincecum,ahead 0-1,Out,b1,12-,1,1 (0-0),0,-0.04,-0.43,1.67,Popfly: SS (Deep SS-3B Hole)
+595,9,2013-04-03,Luis Cruz,LAD,SFG,Tim Lincecum,ahead 0-1,SO,b1,12-,2,5 (1-2),0,-0.03,-0.40,1.42,Strikeout Looking
+596,10,2013-04-03,Buster Posey,SFG,@LAD,Josh Beckett,down 1-0,1B,t2,---,0,3 (1-1),0,0.04,0.36,.97,Single to LF (Line Drive)
+597,11,2013-04-03,Hunter Pence,SFG,@LAD,Josh Beckett,down 1-0,Out,t2,1--,0,2 (1-0),0,-0.08,-0.70,1.72,Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+598,12,2013-04-03,Hector Sanchez,SFG,@LAD,Josh Beckett,down 1-0,Out,t2,---,2,3 (1-1),0,-0.01,-0.09,.41,Foul Popfly: C (Behind Home)
+599,13,2013-04-03,Juan Uribe,LAD,SFG,Tim Lincecum,ahead 0-1,Out,b2,---,0,3 (1-1),0,-0.02,-0.20,.74,Flyball: CF (Deep CF)
+600,14,2013-04-03,A.J. Ellis,LAD,SFG,Tim Lincecum,ahead 0-1,2B,b2,---,1,6 (3-2),0,0.04,0.40,.53,Double to RF (Fly Ball to Deep CF-RF)
+601,15,2013-04-03,Carl Crawford,LAD,SFG,Tim Lincecum,ahead 0-1,1B,b2,12-,1,1 (0-0),0,0.05,0.65,1.71,Single to RF (Line Drive to Short RF); Ellis to 3B; Beckett to 2B
+602,16,2013-04-03,Skip Schumaker,LAD,SFG,Tim Lincecum,ahead 0-1,SO,b2,123,1,3 (0-2),0,-0.06,-0.76,2.27,Strikeout Swinging
+603,17,2013-04-03,Matt Kemp,LAD,SFG,Tim Lincecum,ahead 0-1,Out,b2,123,2,2 (1-0),0,-0.06,-0.72,2.55,Flyball: CF (CF-RF)
+604,18,2013-04-03,Gregor Blanco,SFG,@LAD,Josh Beckett,down 1-0,1B,t3,---,0,2 (0-1),0,0.05,0.36,1.04,Single to RF (Line Drive to Short RF)
+605,19,2013-04-03,Brandon Crawford,SFG,@LAD,Josh Beckett,down 1-0,2B,t3,1--,0,5 (1-2),0,0.14,1.10,1.85,Double to RF (Line Drive to RF Line); Blanco to 3B
+606,20,2013-04-03,Angel Pagan,SFG,@LAD,Josh Beckett,tied 1-1,RoE,t3,--3,1,2 (1-0),1,0.07,0.57,1.75,Reached on E4 (Ground Ball); Crawford Scores
+607,21,2013-04-03,Marco Scutaro,SFG,@LAD,Josh Beckett,ahead 1-2,Out,t3,1--,1,4 (1-2),0,-0.03,-0.26,1.12,Flyball: RF
+608,22,2013-04-03,Pablo Sandoval,SFG,@LAD,Josh Beckett,ahead 1-2,HR,t3,1--,2,4 (1-2),2,0.20,1.89,.77,Home Run (Line Drive to Deep RF); Pagan Scores/unER; Sandoval Scores/unER
+609,23,2013-04-03,Buster Posey,SFG,@LAD,Josh Beckett,ahead 1-4,BB,t3,---,2,6 (3-2),0,0.01,0.11,.22,Walk
+610,24,2013-04-03,Hunter Pence,SFG,@LAD,Josh Beckett,ahead 1-4,SO,t3,1--,2,5 (2-2),0,-0.01,-0.20,.43,Strikeout Looking
+611,25,2013-04-03,Adrian Gonzalez,LAD,SFG,Tim Lincecum,down 4-1,Out,b3,---,0,3 (1-1),0,-0.02,-0.20,.87,Groundout: 1B-P (2B-1B)
+612,26,2013-04-03,Andre Ethier,LAD,SFG,Tim Lincecum,down 4-1,SO,b3,---,1,5 (1-2),0,-0.01,-0.14,.58,Strikeout Swinging
+613,27,2013-04-03,Luis Cruz,LAD,SFG,Tim Lincecum,down 4-1,Out,b3,---,2,1 (0-0),0,-0.01,-0.09,.34,Flyball: RF
+614,1,2013-04-03,Eric Young,COL,@MIL,Wily Peralta,tied 0-0,BB,t1,---,0,10 (3-2),0,0.04,0.37,.87,*LEADOFF GM*:Walk
+615,2,2013-04-03,Dexter Fowler,COL,@MIL,Wily Peralta,tied 0-0,SO,t1,1--,0,6 (3-2),0,-0.03,-0.34,1.49,Strikeout Swinging
+616,3,2013-04-03,Carlos Gonzalez,COL,@MIL,Wily Peralta,tied 0-0,Out,t1,---,2,3 (2-0),0,-0.01,-0.09,.39,Groundout: P-1B (P's Right)
+617,4,2013-04-03,Nori Aoki,MIL,COL,Juan Nicasio,tied 0-0,Out,b1,---,0,5 (1-2),0,-0.02,-0.22,.87,Groundout: SS-1B
+618,5,2013-04-03,Rickie Weeks,MIL,COL,Juan Nicasio,tied 0-0,1B,b1,---,1,5 (2-2),0,0.02,0.25,.61,Single to RF (Line Drive to CF-RF)
+619,6,2013-04-03,Ryan Braun,MIL,COL,Juan Nicasio,tied 0-0,BB,b1,1--,1,10 (3-2),0,0.04,0.38,1.17,Walk; Weeks to 2B
+620,7,2013-04-03,Aramis Ramirez,MIL,COL,Juan Nicasio,tied 0-0,Out,b1,12-,1,6 (2-2),0,-0.04,-0.45,1.96,Foul Popfly: 1B (1B Foul)
+621,8,2013-04-03,Alex Gonzalez,MIL,COL,Juan Nicasio,tied 0-0,Out,b1,12-,2,4 (2-1),0,-0.04,-0.41,1.65,Foul Popfly: 1B (1B Foul)
+622,9,2013-04-03,Troy Tulowitzki,COL,@MIL,Wily Peralta,tied 0-0,BB,t2,---,0,4 (3-0),0,0.04,0.37,.93,Walk
+623,10,2013-04-03,Wilin Rosario,COL,@MIL,Wily Peralta,tied 0-0,HR,t2,1--,0,8 (3-2),2,0.17,1.63,1.58,Home Run (Line Drive to Deep LF); Tulowitzki Scores
+624,11,2013-04-03,Jordan Pacheco,COL,@MIL,Wily Peralta,ahead 0-2,Out,t2,---,0,3 (2-0),0,-0.02,-0.22,.66,Groundout: SS-1B (SS-2B)
+625,12,2013-04-03,Josh Rutledge,COL,@MIL,Wily Peralta,ahead 0-2,1B,t2,---,1,3 (1-1),0,0.02,0.25,.47,Single to CF (Line Drive)
+626,13,2013-04-03,Reid Brignac,COL,@MIL,Wily Peralta,ahead 0-2,Out,t2,1--,1,2 (1-0),0,-0.04,-0.49,.88,Ground Ball Double Play: 2B-SS-1B
+627,14,2013-04-03,Martin Maldonado,MIL,COL,Juan Nicasio,down 2-0,Out,b2,---,0,5 (2-2),0,-0.02,-0.22,.96,Groundout: 2B-1B
+628,15,2013-04-03,Carlos Gomez,MIL,COL,Juan Nicasio,down 2-0,Out,b2,---,1,1 (0-0),0,-0.02,-0.15,.65,Flyball: LF (LF-CF)
+629,16,2013-04-03,Jean Segura,MIL,COL,Juan Nicasio,down 2-0,SO,b2,---,2,3 (0-2),0,-0.01,-0.09,.41,Strikeout Swinging
+630,17,2013-04-03,Eric Young,COL,@MIL,Wily Peralta,ahead 0-2,SO,t3,---,1,4 (1-2),0,-0.01,-0.15,.48,Strikeout Swinging
+631,18,2013-04-03,Dexter Fowler,COL,@MIL,Wily Peralta,ahead 0-2,Out,t3,---,2,5 (2-2),0,-0.01,-0.09,.32,Lineout: LF (Deep LF-CF)
+632,19,2013-04-03,Nori Aoki,MIL,COL,Juan Nicasio,down 2-0,Out,b3,---,1,1 (0-0),0,-0.02,-0.15,.71,Lineout: CF (Deep CF)
+633,20,2013-04-03,Rickie Weeks,MIL,COL,Juan Nicasio,down 2-0,HR,b3,---,2,2 (1-0),1,0.11,1.00,.44,Home Run (Line Drive to Deep LF-CF)
+634,21,2013-04-03,Ryan Braun,MIL,COL,Juan Nicasio,down 2-1,1B,b3,---,2,4 (2-1),0,0.02,0.12,.48,Single to CF (Ground Ball thru SS-2B)
+635,22,2013-04-03,Aramis Ramirez,MIL,COL,Juan Nicasio,down 2-1,2B,b3,1--,2,2 (0-1),0,0.05,0.36,.99,Double to 3B (Ground Ball); Braun to 3B
+636,23,2013-04-03,Alex Gonzalez,MIL,COL,Juan Nicasio,down 2-1,1B,b3,-23,2,2 (0-1),1,0.06,0.43,2.53,Single to LF (Line Drive); Braun Scores; Ramirez out at Hm/LF-C
+637,1,2013-04-03,Austin Jackson,DET,@MIN,Kevin Correia,tied 0-0,1B,t1,---,0,3 (1-1),0,0.04,0.38,.87,*LEADOFF GM*:Single to SS (Pop Fly to LF-CF)
+638,2,2013-04-03,Torii Hunter,DET,@MIN,Kevin Correia,tied 0-0,Out,t1,1--,0,1 (0-0),0,-0.03,-0.36,1.45,Popfly: SS (Deep SS)
+639,3,2013-04-03,Miguel Cabrera,DET,@MIN,Kevin Correia,tied 0-0,SO,t1,1--,1,5 (1-2),0,-0.03,-0.29,1.15,Strikeout Looking
+640,4,2013-04-03,Prince Fielder,DET,@MIN,Kevin Correia,tied 0-0,Out,t1,1--,2,2 (1-0),0,-0.02,-0.23,.79,Groundout: 3B-1B (Weak 3B)
+641,5,2013-04-03,Aaron Hicks,MIN,DET,Anibal Sanchez,tied 0-0,BB,b1,---,0,6 (3-2),0,0.04,0.38,.87,Walk
+642,6,2013-04-03,Joe Mauer,MIN,DET,Anibal Sanchez,tied 0-0,Out,b1,1--,0,8 (3-2),0,-0.02,-0.20,1.43,Groundout: 2B-1B; Hicks to 2B
+643,7,2013-04-03,Josh Willingham,MIN,DET,Anibal Sanchez,tied 0-0,Out,b1,-2-,1,3 (1-1),0,-0.03,-0.35,1.22,Flyball: CF
+644,8,2013-04-03,Justin Morneau,MIN,DET,Anibal Sanchez,tied 0-0,BB,b1,-2-,2,6 (3-2),0,0.01,0.11,1.15,Walk
+645,9,2013-04-03,Ryan Doumit,MIN,DET,Anibal Sanchez,tied 0-0,Out,b1,12-,2,3 (1-1),0,-0.04,-0.43,1.63,Groundout: SS-1B (SS-2B)
+646,10,2013-04-03,Victor Martinez,DET,@MIN,Kevin Correia,tied 0-0,Out,t2,---,0,4 (2-1),0,-0.02,-0.23,.93,Groundout: 2B-1B
+647,11,2013-04-03,Andy Dirks,DET,@MIN,Kevin Correia,tied 0-0,Out,t2,---,1,3 (1-1),0,-0.02,-0.16,.65,Flyball: CF (LF-CF)
+648,12,2013-04-03,Jhonny Peralta,DET,@MIN,Kevin Correia,tied 0-0,Out,t2,---,2,1 (0-0),0,-0.01,-0.10,.42,Lineout: SS
+649,13,2013-04-03,Trevor Plouffe,MIN,DET,Anibal Sanchez,tied 0-0,SO,b2,---,0,5 (1-2),0,-0.02,-0.23,.92,Strikeout Swinging (C-1B)
+650,14,2013-04-03,Chris Parmelee,MIN,DET,Anibal Sanchez,tied 0-0,Out,b2,---,1,4 (1-2),0,-0.02,-0.16,.67,Groundout: 2B-1B (Weak 2B)
+651,15,2013-04-03,Brian Dozier,MIN,DET,Anibal Sanchez,tied 0-0,Out,b2,---,2,5 (1-2),0,-0.01,-0.10,.43,Flyball: RF
+652,16,2013-04-03,Alex Avila,DET,@MIN,Kevin Correia,tied 0-0,Out,t3,---,0,5 (1-2),0,-0.03,-0.23,.99,Flyball: CF (Deep LF-CF)
+653,17,2013-04-03,Omar Infante,DET,@MIN,Kevin Correia,tied 0-0,Out,t3,---,1,3 (1-1),0,-0.02,-0.16,.72,Groundout: SS-1B
+654,18,2013-04-03,Austin Jackson,DET,@MIN,Kevin Correia,tied 0-0,BB,t3,---,2,10 (3-2),0,0.01,0.12,.46,Walk
+655,19,2013-04-03,Torii Hunter,DET,@MIN,Kevin Correia,tied 0-0,1B,t3,1--,2,2 (0-1),0,0.02,0.21,.91,Single to RF (Fly Ball to Short RF); Jackson to 2B
+656,20,2013-04-03,Miguel Cabrera,DET,@MIN,Kevin Correia,tied 0-0,1B,t3,12-,2,2 (1-0),1,0.12,1.00,1.88,Single to LF (Ground Ball thru SS-3B Hole); Jackson Scores; Hunter to 2B
+657,21,2013-04-03,Prince Fielder,DET,@MIN,Kevin Correia,ahead 0-1,Out,t3,12-,2,4 (2-1),0,-0.04,-0.43,1.62,Groundout: 1B-P (2B-1B)
+658,22,2013-04-03,Pedro Florimon,MIN,DET,Anibal Sanchez,down 1-0,Out,b3,---,0,7 (3-2),0,-0.03,-0.23,1.08,Lineout: RF
+659,23,2013-04-03,Aaron Hicks,MIN,DET,Anibal Sanchez,down 1-0,SO,b3,---,1,3 (0-2),0,-0.02,-0.16,.77,Strikeout Looking
+660,24,2013-04-03,Joe Mauer,MIN,DET,Anibal Sanchez,down 1-0,SO,b3,---,2,5 (2-2),0,-0.01,-0.10,.49,Strikeout Swinging
+661,1,2013-04-03,Jacoby Ellsbury,BOS,@NYY,Hiroki Kuroda,tied 0-0,Out,t1,---,0,4 (2-1),0,-0.02,-0.23,.87,*LEADOFF GM*:Popfly: SS
+662,2,2013-04-03,Daniel Nava,BOS,@NYY,Hiroki Kuroda,tied 0-0,1B,t1,---,1,5 (3-1),0,0.02,0.25,.62,Single to LF (Line Drive to Deep SS-3B Hole)
+663,3,2013-04-03,Dustin Pedroia,BOS,@NYY,Hiroki Kuroda,tied 0-0,1B,t1,1--,1,4 (1-2),0,0.04,0.38,1.15,Single to RF (Line Drive to CF-RF); Nava to 2B
+664,4,2013-04-03,Mike Napoli,BOS,@NYY,Hiroki Kuroda,tied 0-0,Out,t1,12-,1,4 (1-2),0,-0.04,-0.41,1.95,Flyball: CF (Deep CF); Nava to 3B
+665,5,2013-04-03,Jarrod Saltalamacchia,BOS,@NYY,Hiroki Kuroda,tied 0-0,1B,t1,1-3,2,4 (2-1),1,0.10,1.00,1.75,Single to RF (Line Drive to Deep CF-RF); Nava Scores; Pedroia to 3B
+666,6,2013-04-03,Will Middlebrooks,BOS,@NYY,Hiroki Kuroda,ahead 0-1,SO,t1,1-3,2,4 (1-2),0,-0.04,-0.49,1.59,Strikeout Swinging
+667,7,2013-04-03,Brett Gardner,NYY,BOS,Clay Buchholz,down 1-0,Out,b1,---,0,1 (0-0),0,-0.02,-0.23,.92,Bunt Groundout: 3B-1B (Weak 3B)
+668,8,2013-04-03,Ichiro Suzuki,NYY,BOS,Clay Buchholz,down 1-0,BB,b1,---,1,6 (3-2),0,0.03,0.25,.65,Walk
+669,9,2013-04-03,Robinson Cano,NYY,BOS,Clay Buchholz,down 1-0,Out,b1,1--,1,2 (1-0),0,-0.03,-0.29,1.24,Flyball: LF (Deep LF-CF)
+670,10,2013-04-03,Kevin Youkilis,NYY,BOS,Clay Buchholz,down 1-0,1B,b1,1--,2,4 (0-2),0,0.02,0.20,.83,Single to LF (Line Drive to LF-CF); Suzuki to 2B
+671,11,2013-04-03,Travis Hafner,NYY,BOS,Clay Buchholz,down 1-0,Out,b1,12-,2,2 (0-1),0,-0.04,-0.43,1.75,Flyball: RF (Deep CF-RF)
+672,12,2013-04-03,Shane Victorino,BOS,@NYY,Hiroki Kuroda,ahead 0-1,1B,t2,---,0,3 (1-1),0,0.03,0.38,.82,Single to P (Line Drive)
+673,13,2013-04-03,Jackie Bradley,BOS,@NYY,Hiroki Kuroda,ahead 0-1,HBP,t2,1--,0,4 (1-2),0,0.05,0.61,1.34,Hit By Pitch; Victorino to 2B
+674,14,2013-04-03,Jose Iglesias,BOS,@NYY,Hiroki Kuroda,ahead 0-1,Out,t2,12-,0,3 (0-2),0,-0.05,-0.58,1.71,Groundout: C-3B/Forceout at 3B (Front of Home); Bradley to 2B
+675,15,2013-04-03,Jacoby Ellsbury,BOS,@NYY,Hiroki Kuroda,ahead 0-1,BB,t2,12-,1,4 (3-0),0,0.05,0.66,1.81,Walk; Bradley to 3B; Iglesias to 2B
+676,16,2013-04-03,Daniel Nava,BOS,@NYY,Hiroki Kuroda,ahead 0-1,HBP,t2,123,1,2 (0-1),1,0.08,1.00,2.34,Hit By Pitch; Bradley Scores; Iglesias to 3B; Ellsbury to 2B
+677,17,2013-04-03,Dustin Pedroia,BOS,@NYY,Cody Eppley,ahead 0-2,Out,t2,123,1,4 (1-2),0,-0.11,-1.55,1.89,Ground Ball Double Play: SS-1B
+678,18,2013-04-03,Vernon Wells,NYY,BOS,Clay Buchholz,down 2-0,1B,b2,---,0,2 (1-0),0,0.04,0.38,.97,Single to LF (Line Drive)
+679,19,2013-04-03,Lyle Overbay,NYY,BOS,Clay Buchholz,down 2-0,Out,b2,1--,0,3 (1-1),0,-0.08,-0.76,1.66,Ground Ball Double Play: SS-2B-1B
+680,20,2013-04-03,Eduardo Nunez,NYY,BOS,Clay Buchholz,down 2-0,Out,b2,---,2,2 (0-1),0,-0.01,-0.10,.42,Flyball: RF (Short RF)
+681,21,2013-04-03,Mike Napoli,BOS,@NYY,Cody Eppley,ahead 0-2,Out,t3,---,0,2 (0-1),0,-0.02,-0.23,.68,Groundout: 2B-1B
+682,22,2013-04-03,Jarrod Saltalamacchia,BOS,@NYY,Cody Eppley,ahead 0-2,1B,t3,---,1,5 (3-1),0,0.02,0.25,.50,Single to RF (Ground Ball thru 2B-1B)
+683,23,2013-04-03,Will Middlebrooks,BOS,@NYY,Cody Eppley,ahead 0-2,SO,t3,-2-,1,5 (2-2),0,-0.03,-0.35,.96,Strikeout Swinging
+684,24,2013-04-03,Shane Victorino,BOS,@NYY,Cody Eppley,ahead 0-2,1B,t3,-2-,2,2 (0-1),1,0.08,0.91,.93,Single to LF (Line Drive to LF-CF); Saltalamacchi Scores
+685,25,2013-04-03,Jackie Bradley,BOS,@NYY,Cody Eppley,ahead 0-3,1B,t3,-2-,2,5 (2-2),1,0.06,0.91,.71,Single to CF (Ground Ball thru SS-2B); Victorino Scores
+686,26,2013-04-03,Jose Iglesias,BOS,@NYY,Cody Eppley,ahead 0-4,2B,t3,1--,2,5 (1-2),0,0.01,0.37,.35,Double to LF (Ground Ball); Bradley to 3B
+687,27,2013-04-03,Jacoby Ellsbury,BOS,@NYY,Adam Warren,ahead 0-4,1B,t3,-23,2,4 (1-2),2,0.07,1.63,.82,Single to CF (Line Drive); Bradley Scores; Iglesias Scores
+688,28,2013-04-03,Daniel Nava,BOS,@NYY,Adam Warren,ahead 0-6,Out,t3,1--,2,3 (1-1),0,-0.00,-0.22,.17,Groundout: 2B-1B
+689,29,2013-04-03,Chris Stewart,NYY,BOS,Clay Buchholz,down 6-0,Out,b3,---,0,4 (1-2),0,-0.01,-0.23,.40,Lineout: CF (Deep CF)
+690,30,2013-04-03,Brett Gardner,NYY,BOS,Clay Buchholz,down 6-0,SO,b3,---,1,5 (2-2),0,-0.01,-0.15,.26,Strikeout Swinging
+691,31,2013-04-03,Ichiro Suzuki,NYY,BOS,Clay Buchholz,down 6-0,Out,b3,---,2,2 (0-1),0,-0.00,-0.10,.14,Popfly: 3B (SS-3B Hole)
+692,1,2013-04-03,Everth Cabrera,SDP,@NYM,Matt Harvey,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.20,.87,*LEADOFF GM*:Strikeout Swinging
+693,2,2013-04-03,Will Venable,SDP,@NYM,Matt Harvey,tied 0-0,SO,t1,---,1,3 (0-2),0,-0.01,-0.13,.60,Strikeout Swinging
+694,3,2013-04-03,Carlos Quentin,SDP,@NYM,Matt Harvey,tied 0-0,Out,t1,---,2,2 (0-1),0,-0.01,-0.08,.38,Popfly: 2B (Deep SS-2B)
+695,4,2013-04-03,Collin Cowgill,NYM,SDP,Clayton Richard,tied 0-0,Out,b1,---,0,2 (0-1),0,-0.02,-0.20,.87,Groundout: 1B-P (2B-1B)
+696,5,2013-04-03,Daniel Murphy,NYM,SDP,Clayton Richard,tied 0-0,Out,b1,---,1,4 (2-1),0,-0.01,-0.13,.60,Flyball: LF
+697,6,2013-04-03,David Wright,NYM,SDP,Clayton Richard,tied 0-0,BB,b1,---,2,5 (3-1),0,0.01,0.11,.39,Walk
+698,7,2013-04-03,Ike Davis,NYM,SDP,Clayton Richard,tied 0-0,Out,b1,1--,2,1 (0-0),0,-0.02,-0.20,.80,Groundout: 2B-1B
+699,8,2013-04-03,Yonder Alonso,SDP,@NYM,Matt Harvey,tied 0-0,Out,t2,---,0,5 (2-2),0,-0.02,-0.20,.93,Flyball: LF (Short LF-CF)
+700,9,2013-04-03,Jedd Gyorko,SDP,@NYM,Matt Harvey,tied 0-0,SO,t2,---,1,5 (2-2),0,-0.02,-0.13,.63,Strikeout Swinging
+701,10,2013-04-03,Nick Hundley,SDP,@NYM,Matt Harvey,tied 0-0,SO,t2,---,2,7 (3-2),0,-0.01,-0.08,.41,Strikeout Looking
+702,11,2013-04-03,Marlon Byrd,NYM,SDP,Clayton Richard,tied 0-0,1B,b2,---,0,3 (1-1),0,0.04,0.36,.92,Single to SS (Ground Ball to SS-3B Hole)
+703,12,2013-04-03,Lucas Duda,NYM,SDP,Clayton Richard,tied 0-0,HR,b2,1--,0,3 (1-1),2,0.18,1.64,1.61,Home Run (Fly Ball to Deep RF Line); Byrd Scores
+704,13,2013-04-03,John Buck,NYM,SDP,Clayton Richard,ahead 0-2,Out,b2,---,0,4 (1-2),0,-0.01,-0.20,.56,Popfly: 2B (Deep 1B)
+705,14,2013-04-03,Ruben Tejada,NYM,SDP,Clayton Richard,ahead 0-2,Out,b2,---,1,2 (1-0),0,-0.01,-0.13,.40,Flyball: CF (Deep CF)
+706,15,2013-04-03,Collin Cowgill,NYM,SDP,Clayton Richard,ahead 0-2,Out,b2,1--,2,2 (0-1),0,-0.01,-0.20,.53,Popfly: SS (Weak SS)
+707,16,2013-04-03,Alexi Amarista,SDP,@NYM,Matt Harvey,down 2-0,Out,t3,---,0,2 (0-1),0,-0.02,-0.20,.97,Bunt Groundout: 1B unassisted (Weak 2B-1B)
+708,17,2013-04-03,Cameron Maybin,SDP,@NYM,Matt Harvey,down 2-0,Out,t3,---,1,4 (1-2),0,-0.01,-0.13,.63,Flyball: RF (Short RF)
+709,18,2013-04-03,Daniel Murphy,NYM,SDP,Clayton Richard,ahead 0-2,Out,b3,---,0,1 (0-0),0,-0.01,-0.20,.55,Flyball: CF (LF-CF)
+710,19,2013-04-03,David Wright,NYM,SDP,Clayton Richard,ahead 0-2,Out,b3,---,1,5 (1-2),0,-0.01,-0.13,.39,Lineout: CF
+711,20,2013-04-03,Ike Davis,NYM,SDP,Clayton Richard,ahead 0-2,Out,b3,---,2,1 (0-0),0,-0.01,-0.08,.27,Groundout: 2B-1B (SS-2B)
+712,1,2013-04-03,Franklin Gutierrez,SEA,@OAK,Tommy Milone,tied 0-0,HR,t1,---,0,4 (2-1),1,0.10,1.00,.87,*LEADOFF GM*:Home Run (Fly Ball to Deep LF)
+713,2,2013-04-03,Kyle Seager,SEA,@OAK,Tommy Milone,ahead 0-1,Out,t1,---,0,3 (1-1),0,-0.02,-0.22,.79,Flyball: CF
+714,3,2013-04-03,Kendrys Morales,SEA,@OAK,Tommy Milone,ahead 0-1,Out,t1,---,1,4 (2-1),0,-0.01,-0.15,.55,Flyball: CF
+715,4,2013-04-03,Mike Morse,SEA,@OAK,Tommy Milone,ahead 0-1,HR,t1,---,2,4 (2-1),1,0.10,1.00,.36,Home Run (Fly Ball to Deep CF)
+716,5,2013-04-03,Justin Smoak,SEA,@OAK,Tommy Milone,ahead 0-2,Out,t1,---,2,4 (1-2),0,-0.01,-0.10,.30,Flyball: CF (Short CF)
+717,6,2013-04-03,Coco Crisp,OAK,SEA,Joe Saunders,down 2-0,Out,b1,---,0,4 (1-2),0,-0.02,-0.22,.91,Flyball: CF (Deep CF)
+718,7,2013-04-03,Jed Lowrie,OAK,SEA,Joe Saunders,down 2-0,2B,b1,---,1,7 (3-2),0,0.04,0.41,.63,Double to LF (Line Drive to Deep LF Line)
+719,8,2013-04-03,Chris Young,OAK,SEA,Joe Saunders,down 2-0,Out,b1,-2-,1,3 (2-0),0,-0.04,-0.35,1.28,Groundout: SS-1B (SS-3B Hole)
+720,9,2013-04-03,Yoenis Cespedes,OAK,SEA,Joe Saunders,down 2-0,Out,b1,-2-,2,4 (2-1),0,-0.03,-0.31,1.13,Groundout: SS-1B
+721,10,2013-04-03,Jesus Montero,SEA,@OAK,Tommy Milone,ahead 0-2,1B,t2,---,0,2 (1-0),0,0.03,0.38,.67,Single to LF (Line Drive to Short LF-CF)
+722,11,2013-04-03,Jason Bay,SEA,@OAK,Tommy Milone,ahead 0-2,BB,t2,1--,0,5 (3-1),0,0.04,0.60,1.09,Walk; Montero to 2B
+723,12,2013-04-03,Robert Andino,SEA,@OAK,Tommy Milone,ahead 0-2,Out,t2,12-,0,3 (1-1),0,-0.07,-1.10,1.37,Ground Ball Double Play: 3B-2B-1B (P's Right); Montero to 3B
+724,13,2013-04-03,Brendan Ryan,SEA,@OAK,Tommy Milone,ahead 0-2,SO,t2,--3,2,5 (1-2),0,-0.03,-0.35,1.06,Strikeout Swinging
+725,14,2013-04-03,Josh Donaldson,OAK,SEA,Joe Saunders,down 2-0,2B,b2,---,0,5 (2-2),0,0.07,0.62,.97,Double to RF (Line Drive to RF Line)
+726,15,2013-04-03,Derek Norris,OAK,SEA,Joe Saunders,down 2-0,BB,b2,-2-,0,7 (3-2),0,0.04,0.36,1.45,Walk
+727,16,2013-04-03,Josh Reddick,OAK,SEA,Joe Saunders,down 2-0,Out,b2,12-,0,4 (1-2),0,-0.12,-1.10,2.28,Ground Ball Double Play: SS-2B-1B; Donaldson to 3B
+728,17,2013-04-03,Nate Freiman,OAK,SEA,Joe Saunders,down 2-0,1B,b2,--3,2,5 (2-2),1,0.09,0.87,1.38,Single to CF (Ground Ball thru SS-2B); Donaldson Scores
+729,18,2013-04-03,Scott Sizemore,OAK,SEA,Joe Saunders,down 2-1,2B,b2,1--,2,2 (0-1),0,-0.03,-0.22,.90,Double to LF (Line Drive to LF Line); Freiman out at Hm/LF-SS-C
+730,19,2013-04-03,Franklin Gutierrez,SEA,@OAK,Tommy Milone,ahead 1-2,Out,t3,---,0,5 (2-2),0,-0.02,-0.22,.86,Groundout: SS-1B
+731,20,2013-04-03,Kyle Seager,SEA,@OAK,Tommy Milone,ahead 1-2,Out,t3,---,1,3 (1-1),0,-0.01,-0.15,.61,Foul Popfly: 3B (3B Foul)
+732,21,2013-04-03,Kendrys Morales,SEA,@OAK,Tommy Milone,ahead 1-2,Out,t3,---,2,2 (0-1),0,-0.01,-0.10,.41,Groundout: SS-1B
+733,22,2013-04-03,Coco Crisp,OAK,SEA,Joe Saunders,down 2-1,2B,b3,---,0,2 (1-0),0,0.08,0.62,1.08,Double to CF (Line Drive to Deep CF)
+734,23,2013-04-03,Jed Lowrie,OAK,SEA,Joe Saunders,down 2-1,BB,b3,-2-,0,6 (3-2),0,0.04,0.36,1.55,Walk
+735,24,2013-04-03,Chris Young,OAK,SEA,Joe Saunders,down 2-1,BB,b3,12-,0,5 (3-1),0,0.09,0.85,2.40,Walk; Crisp to 3B; Lowrie to 2B
+736,25,2013-04-03,Yoenis Cespedes,OAK,SEA,Joe Saunders,down 2-1,Out,b3,123,0,6 (1-2),1,-0.04,-0.42,2.74,Flyball: CF/Sacrifice Fly (Deep CF); Crisp Scores
+737,26,2013-04-03,Josh Donaldson,OAK,SEA,Joe Saunders,tied 2-2,Out,b3,12-,1,1 (0-0),0,-0.05,-0.46,2.19,Flyball: LF (Deep LF)
+738,27,2013-04-03,Derek Norris,OAK,SEA,Joe Saunders,tied 2-2,SO,b3,12-,2,5 (2-2),0,-0.05,-0.42,1.88,Strikeout Swinging
+739,1,2013-04-03,Dave Sappelt,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t1,---,0,3 (1-1),0,-0.02,-0.20,.87,*LEADOFF GM*:Flyball: CF (Deep CF)
+740,2,2013-04-03,Starlin Castro,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t1,---,1,3 (1-1),0,-0.01,-0.13,.60,Flyball: RF
+741,3,2013-04-03,Anthony Rizzo,CHC,@PIT,Wandy Rodriguez,tied 0-0,BB,t1,---,2,7 (3-2),0,0.01,0.11,.39,Walk
+742,4,2013-04-03,Alfonso Soriano,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t1,1--,2,5 (2-2),0,-0.02,-0.20,.80,Flyball: RF
+743,5,2013-04-03,Starling Marte,PIT,CHC,Edwin Jackson,tied 0-0,SO,b1,---,0,6 (2-2),0,-0.02,-0.20,.87,Strikeout Swinging
+744,6,2013-04-03,Garrett Jones,PIT,CHC,Edwin Jackson,tied 0-0,SO,b1,---,1,3 (0-2),0,-0.01,-0.13,.60,Strikeout Swinging
+745,7,2013-04-03,Andrew McCutchen,PIT,CHC,Edwin Jackson,tied 0-0,SO,b1,---,2,8 (3-2),0,-0.01,-0.09,.39,Strikeout Swinging
+746,8,2013-04-03,Scott Hairston,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t2,---,0,2 (0-1),0,-0.02,-0.20,.93,Foul Popfly: 1B (1B Foul)
+747,9,2013-04-03,Welington Castillo,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t2,---,1,9 (2-2),0,-0.02,-0.13,.63,Lineout: CF (CF-RF)
+748,10,2013-04-03,Brent Lillibridge,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t2,---,2,2 (1-0),0,-0.01,-0.09,.41,Popfly: SS (Weak SS-2B)
+749,11,2013-04-03,Pedro Alvarez,PIT,CHC,Edwin Jackson,tied 0-0,Out,b2,---,0,1 (0-0),0,-0.02,-0.20,.92,Groundout: 2B-1B (2B-1B)
+750,12,2013-04-03,Gaby Sanchez,PIT,CHC,Edwin Jackson,tied 0-0,Out,b2,---,1,5 (2-2),0,-0.02,-0.13,.64,Flyball: RF (CF-RF)
+751,13,2013-04-03,Neil Walker,PIT,CHC,Edwin Jackson,tied 0-0,1B,b2,---,2,4 (2-1),0,0.01,0.11,.42,Single to CF (Ground Ball thru SS-2B)
+752,14,2013-04-03,Russell Martin,PIT,CHC,Edwin Jackson,tied 0-0,Out,b2,1--,2,1 (0-0),0,-0.02,-0.20,.85,Groundout: 2B-1B (Weak SS-2B)
+753,15,2013-04-03,Alberto Gonzalez,CHC,@PIT,Wandy Rodriguez,tied 0-0,1B,t3,---,0,2 (0-1),0,0.04,0.36,.99,Single to RF (Ground Ball)
+754,16,2013-04-03,Dave Sappelt,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t3,-2-,1,5 (3-1),0,-0.04,-0.33,1.47,Flyball: RF
+755,17,2013-04-03,Starlin Castro,CHC,@PIT,Wandy Rodriguez,tied 0-0,Out,t3,-2-,2,2 (1-0),0,-0.04,-0.29,1.37,Flyball: RF (Deep CF-RF)
+756,18,2013-04-03,Clint Barmes,PIT,CHC,Edwin Jackson,tied 0-0,Out,b3,---,0,9 (3-2),0,-0.02,-0.20,.99,Foul Popfly: 3B (3B Foul)
+757,19,2013-04-03,Starling Marte,PIT,CHC,Edwin Jackson,tied 0-0,Out,b3,---,2,4 (1-2),0,-0.01,-0.09,.46,Groundout: 2B-1B
+758,1,2013-04-03,Nate McLouth,BAL,@TBR,Jeremy Hellickson,tied 0-0,Out,t1,---,0,5 (2-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Flyball: CF (Deep CF)
+759,2,2013-04-03,Manny Machado,BAL,@TBR,Jeremy Hellickson,tied 0-0,SO,t1,---,1,3 (0-2),0,-0.01,-0.15,.61,Strikeout Swinging
+760,3,2013-04-03,Nick Markakis,BAL,@TBR,Jeremy Hellickson,tied 0-0,1B,t1,---,2,1 (0-0),0,0.01,0.12,.39,Single to CF (Ground Ball thru SS-2B)
+761,4,2013-04-03,Adam Jones,BAL,@TBR,Jeremy Hellickson,tied 0-0,1B,t1,1--,2,3 (1-1),0,0.03,0.26,.80,Single to RF (Ground Ball thru 2B-1B); Markakis to 3B
+762,5,2013-04-03,Chris Davis,BAL,@TBR,Jeremy Hellickson,tied 0-0,HR,t1,1-3,2,6 (3-2),3,0.25,2.62,1.76,Home Run (Fly Ball to Deep LF-CF); Markakis Scores; Jones Scores
+763,6,2013-04-03,Matt Wieters,BAL,@TBR,Jeremy Hellickson,ahead 0-3,Out,t1,---,2,6 (2-2),0,-0.01,-0.10,.24,Groundout: 1B unassisted
+764,7,2013-04-03,Desmond Jennings,TBR,BAL,Wei-Yin Chen,down 3-0,1B,b1,---,0,5 (2-2),0,0.04,0.38,.82,Single to LF (Line Drive to Short LF)
+765,8,2013-04-03,Sean Rodriguez,TBR,BAL,Wei-Yin Chen,down 3-0,Out,b1,1--,0,1 (0-0),0,-0.07,-0.75,1.44,Ground Ball Double Play: SS-2B-1B
+766,9,2013-04-03,Ben Zobrist,TBR,BAL,Wei-Yin Chen,down 3-0,Out,b1,---,2,4 (2-1),0,-0.01,-0.10,.34,Groundout: 3B-1B (Weak 3B)
+767,10,2013-04-03,J.J. Hardy,BAL,@TBR,Jeremy Hellickson,ahead 0-3,Out,t2,---,0,4 (0-2),0,-0.01,-0.22,.51,Groundout: 3B-1B
+768,11,2013-04-03,Nolan Reimold,BAL,@TBR,Jeremy Hellickson,ahead 0-3,SO,t2,---,1,5 (2-2),0,-0.01,-0.15,.37,Strikeout Swinging
+769,12,2013-04-03,Brian Roberts,BAL,@TBR,Jeremy Hellickson,ahead 0-3,Out,t2,---,2,2 (1-0),0,-0.01,-0.10,.24,Lineout: CF (LF-CF)
+770,13,2013-04-03,Evan Longoria,TBR,BAL,Wei-Yin Chen,down 3-0,1B,b2,---,0,3 (1-1),0,0.04,0.38,.86,Single to LF (Line Drive)
+771,14,2013-04-03,Shelley Duncan,TBR,BAL,Wei-Yin Chen,down 3-0,Out,b2,1--,0,3 (1-1),0,-0.07,-0.75,1.51,Ground Ball Double Play: 3B-2B-1B (Weak 3B)
+772,15,2013-04-03,Yunel Escobar,TBR,BAL,Wei-Yin Chen,down 3-0,2B,b2,---,2,2 (0-1),0,0.02,0.21,.35,Double to LF (Fly Ball to Deep LF-CF)
+773,16,2013-04-03,Ryan Roberts,TBR,BAL,Wei-Yin Chen,down 3-0,Out,b2,-2-,2,5 (2-2),0,-0.03,-0.31,1.02,Groundout: P-1B
+774,17,2013-04-03,Nate McLouth,BAL,@TBR,Jeremy Hellickson,ahead 0-3,Out,t3,---,0,2 (0-1),0,-0.01,-0.22,.49,Groundout: SS-1B
+775,18,2013-04-03,Manny Machado,BAL,@TBR,Jeremy Hellickson,ahead 0-3,Out,t3,---,1,3 (2-0),0,-0.01,-0.15,.36,Groundout: SS-1B (Weak SS)
+776,19,2013-04-03,Nick Markakis,BAL,@TBR,Jeremy Hellickson,ahead 0-3,Out,t3,---,2,2 (0-1),0,-0.01,-0.10,.24,Flyball: CF (Deep CF)
+777,20,2013-04-03,Jose Lobaton,TBR,BAL,Wei-Yin Chen,down 3-0,1B,b3,---,0,3 (1-1),0,0.04,0.38,.90,Single to CF (Fly Ball to Short CF)
+778,21,2013-04-03,Kelly Johnson,TBR,BAL,Wei-Yin Chen,down 3-0,Out,b3,1--,0,1 (0-0),0,-0.04,-0.35,1.60,Flyball: CF (LF-CF)
+779,22,2013-04-03,Desmond Jennings,TBR,BAL,Wei-Yin Chen,down 3-0,Out,b3,1--,1,4 (2-1),0,-0.05,-0.50,1.20,Ground Ball Double Play: SS-2B-1B
+780,1,2013-04-03,Michael Bourn,CLE,@TOR,Brandon Morrow,tied 0-0,SO,t1,---,0,5 (2-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Strikeout Swinging
+781,2,2013-04-03,Asdrubal Cabrera,CLE,@TOR,Brandon Morrow,tied 0-0,BB,t1,---,1,7 (3-2),0,0.02,0.26,.62,Walk
+782,3,2013-04-03,Jason Kipnis,CLE,@TOR,Brandon Morrow,tied 0-0,Out,t1,1--,1,7 (3-2),0,-0.03,-0.29,1.15,Flyball: LF (Deep LF)
+783,4,2013-04-03,Nick Swisher,CLE,@TOR,Brandon Morrow,tied 0-0,Out,t1,1--,2,5 (3-1),0,-0.02,-0.23,.79,Flyball: LF (Short LF-CF)
+784,5,2013-04-03,Jose Reyes,TOR,CLE,Ubaldo Jimenez,tied 0-0,1B,b1,---,0,2 (1-0),0,0.04,0.38,.87,Single to RF (Line Drive to CF-RF)
+785,6,2013-04-03,Melky Cabrera,TOR,CLE,Ubaldo Jimenez,tied 0-0,Out,b1,1--,0,1 (0-0),0,-0.03,-0.36,1.43,Groundout: 1B-SS/Forceout at 2B (2B-1B)
+786,7,2013-04-03,Jose Bautista,TOR,CLE,Ubaldo Jimenez,tied 0-0,Out,b1,1--,1,7 (2-2),0,-0.05,-0.52,1.16,Ground Ball Double Play: 2B-SS-1B
+787,8,2013-04-03,Michael Brantley,CLE,@TOR,Brandon Morrow,tied 0-0,1B,t2,---,0,2 (0-1),0,0.04,0.38,.93,Single to 2B (Ground Ball to Weak 2B)
+788,9,2013-04-03,Carlos Santana,CLE,@TOR,Brandon Morrow,tied 0-0,1B,t2,1--,0,3 (1-1),0,0.06,0.61,1.54,Single to RF (Line Drive to Deep 2B); Brantley to 2B
+789,10,2013-04-03,Mark Reynolds,CLE,@TOR,Brandon Morrow,tied 0-0,SO,t2,12-,0,3 (0-2),0,-0.06,-0.58,1.99,Strikeout Looking
+790,11,2013-04-03,Lonnie Chisenhall,CLE,@TOR,Brandon Morrow,tied 0-0,SO,t2,12-,1,4 (1-2),0,-0.05,-0.47,2.06,Strikeout Swinging
+791,12,2013-04-03,Drew Stubbs,CLE,@TOR,Brandon Morrow,tied 0-0,SO,t2,12-,2,4 (1-2),0,-0.04,-0.43,1.73,Strikeout Swinging
+792,13,2013-04-03,Edwin Encarnacion,TOR,CLE,Ubaldo Jimenez,tied 0-0,Out,b2,---,0,5 (2-2),0,-0.02,-0.23,.92,Popfly: 2B (Deep 2B)
+793,14,2013-04-03,Adam Lind,TOR,CLE,Ubaldo Jimenez,tied 0-0,Out,b2,---,1,3 (2-0),0,-0.02,-0.16,.67,Groundout: SS-1B (Deep SS)
+794,15,2013-04-03,J.P. Arencibia,TOR,CLE,Ubaldo Jimenez,tied 0-0,BB,b2,---,2,4 (3-0),0,0.01,0.12,.43,Walk
+795,16,2013-04-03,Colby Rasmus,TOR,CLE,Ubaldo Jimenez,tied 0-0,SO,b2,1--,2,6 (2-2),0,-0.02,-0.23,.84,Strikeout Swinging
+796,17,2013-04-03,Michael Bourn,CLE,@TOR,Brandon Morrow,tied 0-0,2B,t3,---,0,4 (1-2),0,0.07,0.62,.99,Double to 3B (Line Drive)
+797,18,2013-04-03,Asdrubal Cabrera,CLE,@TOR,Brandon Morrow,tied 0-0,Out,t3,-2-,0,1 (0-0),0,-0.02,-0.18,1.39,Lineout: RF; Bourn to 3B
+798,19,2013-04-03,Jason Kipnis,CLE,@TOR,Brandon Morrow,tied 0-0,SO,t3,--3,1,5 (2-2),0,-0.07,-0.58,1.57,Strikeout Swinging
+799,20,2013-04-03,Nick Swisher,CLE,@TOR,Brandon Morrow,tied 0-0,BB,t3,--3,2,4 (3-0),0,0.01,0.14,1.52,Walk
+800,21,2013-04-03,Michael Brantley,CLE,@TOR,Brandon Morrow,tied 0-0,1B,t3,1-3,2,4 (1-2),1,0.11,0.94,2.01,Single to LF (Ground Ball thru SS-3B Hole); Bourn Scores; Swisher to 2B
+801,22,2013-04-03,Carlos Santana,CLE,@TOR,Brandon Morrow,ahead 0-1,SO,t3,12-,2,4 (1-2),0,-0.04,-0.43,1.62,Strikeout Swinging
+802,23,2013-04-03,Maicer Izturis,TOR,CLE,Ubaldo Jimenez,down 1-0,HR,b3,---,0,8 (3-2),1,0.12,1.00,1.08,Home Run (Fly Ball to Deep RF)
+803,24,2013-04-03,Emilio Bonifacio,TOR,CLE,Ubaldo Jimenez,tied 1-1,SO,b3,---,0,6 (2-2),0,-0.03,-0.23,.99,Strikeout Looking
+804,25,2013-04-03,Jose Reyes,TOR,CLE,Ubaldo Jimenez,tied 1-1,SO,b3,---,1,3 (0-2),0,-0.02,-0.16,.72,Strikeout Swinging
+805,26,2013-04-03,Melky Cabrera,TOR,CLE,Ubaldo Jimenez,tied 1-1,Out,b3,---,2,5 (3-1),0,-0.01,-0.10,.47,Flyball: LF (Deep SS-3B Hole)
+806,1,2013-04-03,Juan Pierre,MIA,@WSN,Gio Gonzalez,tied 0-0,Out,t1,---,0,6 (3-2),0,-0.02,-0.22,.87,*LEADOFF GM*:Flyball: RF (CF-RF)
+807,2,2013-04-03,Donovan Solano,MIA,@WSN,Gio Gonzalez,tied 0-0,Out,t1,---,1,2 (0-1),0,-0.01,-0.15,.61,Groundout: SS-1B (Weak SS)
+808,3,2013-04-03,Giancarlo Stanton,MIA,@WSN,Gio Gonzalez,tied 0-0,Out,t1,---,2,1 (0-0),0,-0.01,-0.09,.39,Groundout: SS-1B
+809,4,2013-04-03,Denard Span,WSN,MIA,Kevin Slowey,tied 0-0,BB,b1,---,0,6 (3-2),0,0.04,0.37,.87,Walk
+810,5,2013-04-03,Jayson Werth,WSN,MIA,Kevin Slowey,tied 0-0,Out,b1,1--,0,4 (0-2),0,-0.03,-0.34,1.47,Flyball: RF (Short CF-RF)
+811,6,2013-04-03,Bryce Harper,WSN,MIA,Kevin Slowey,tied 0-0,1B,b1,1--,1,1 (0-0),0,0.04,0.38,1.17,Single to CF (Line Drive to Short CF-RF); Span to 2B
+812,7,2013-04-03,Ryan Zimmerman,WSN,MIA,Kevin Slowey,tied 0-0,Out,b1,12-,1,3 (0-2),0,-0.04,-0.45,1.96,Lineout: RF
+813,8,2013-04-03,Adam LaRoche,WSN,MIA,Kevin Slowey,tied 0-0,Out,b1,12-,2,1 (0-0),0,-0.04,-0.41,1.65,Flyball: LF (Deep LF)
+814,9,2013-04-03,Placido Polanco,MIA,@WSN,Gio Gonzalez,tied 0-0,Out,t2,---,0,2 (1-0),0,-0.02,-0.22,.93,Groundout: P unassisted (Short 1B Line)
+815,10,2013-04-03,Justin Ruggiano,MIA,@WSN,Gio Gonzalez,tied 0-0,RoE,t2,---,1,7 (3-2),0,0.03,0.25,.64,Reached on E6 (throw to 1B) (Ground Ball)
+816,11,2013-04-03,Miguel Olivo,MIA,@WSN,Gio Gonzalez,tied 0-0,Out,t2,1--,1,3 (0-2),0,-0.03,-0.27,1.24,Lineout: CF (Deep CF-RF)
+817,12,2013-04-03,Casey Kotchman,MIA,@WSN,Gio Gonzalez,tied 0-0,Out,t2,1--,2,3 (2-0),0,-0.02,-0.21,.85,Flyball: RF (Deep CF-RF)
+818,13,2013-04-03,Ian Desmond,WSN,MIA,Kevin Slowey,tied 0-0,Out,b2,---,0,4 (2-1),0,-0.02,-0.22,.92,Lineout: LF
+819,14,2013-04-03,Danny Espinosa,WSN,MIA,Kevin Slowey,tied 0-0,Out,b2,---,1,1 (0-0),0,-0.02,-0.15,.65,Foul Popfly: 3B (3B Foul)
+820,15,2013-04-03,Kurt Suzuki,WSN,MIA,Kevin Slowey,tied 0-0,HBP,b2,---,2,5 (2-2),0,0.01,0.12,.42,Hit By Pitch
+821,16,2013-04-03,Adeiny Hechavarria,MIA,@WSN,Gio Gonzalez,tied 0-0,Out,t3,---,0,9 (3-2),0,-0.02,-0.22,.99,Groundout: 2B-1B
+822,17,2013-04-03,Juan Pierre,MIA,@WSN,Gio Gonzalez,tied 0-0,1B,t3,---,2,6 (3-2),0,0.01,0.12,.45,Single to RF (Ground Ball thru 2B-1B)
+823,18,2013-04-03,Denard Span,WSN,MIA,Kevin Slowey,tied 0-0,2B,b3,---,0,1 (0-0),0,0.07,0.61,.99,Double to RF (Line Drive to Short RF)
+824,19,2013-04-03,Jayson Werth,WSN,MIA,Kevin Slowey,tied 0-0,Out,b3,-2-,0,4 (2-1),0,-0.05,-0.42,1.40,Groundout: SS-1B
+825,20,2013-04-03,Bryce Harper,WSN,MIA,Kevin Slowey,tied 0-0,SO,b3,-2-,1,6 (3-2),0,-0.04,-0.34,1.42,Strikeout Swinging
+826,21,2013-04-03,Ryan Zimmerman,WSN,MIA,Kevin Slowey,tied 0-0,Out,b3,-2-,2,4 (1-2),0,-0.04,-0.30,1.35,Groundout: P-1B
+827,1,2013-04-04,Ben Revere,PHI,@ATL,Kris Medlen,tied 0-0,Out,t1,---,0,4 (2-1),0,-0.02,-0.21,.87,*LEADOFF GM*:Groundout: 3B-1B (Weak 3B)
+828,2,2013-04-04,Jimmy Rollins,PHI,@ATL,Kris Medlen,tied 0-0,1B,t1,---,1,7 (3-2),0,0.02,0.24,.61,Single to RF (Fly Ball to Short CF)
+829,3,2013-04-04,Chase Utley,PHI,@ATL,Kris Medlen,tied 0-0,Out,t1,1--,1,3 (2-0),0,-0.03,-0.27,1.16,Flyball: LF
+830,4,2013-04-04,Ryan Howard,PHI,@ATL,Kris Medlen,tied 0-0,1B,t1,1--,2,2 (1-0),0,0.02,0.20,.80,Single to CF (Ground Ball); Rollins to 2B
+831,5,2013-04-04,Michael Young,PHI,@ATL,Kris Medlen,tied 0-0,BB,t1,1-3,2,5 (3-1),0,0.02,0.27,1.79,Walk; Howard to 2B
+832,6,2013-04-04,Domonic Brown,PHI,@ATL,Kris Medlen,tied 0-0,Out,t1,123,2,6 (1-2),0,-0.07,-0.73,2.94,Groundout: 2B-1B
+833,7,2013-04-04,Andrelton Simmons,ATL,PHI,Cliff Lee,tied 0-0,Out,b1,---,0,7 (2-2),0,-0.02,-0.21,.87,Groundout: P-1B (Front of Home)
+834,8,2013-04-04,Jason Heyward,ATL,PHI,Cliff Lee,tied 0-0,Out,b1,---,1,5 (2-2),0,-0.01,-0.14,.61,Groundout: 2B-1B
+835,9,2013-04-04,Justin Upton,ATL,PHI,Cliff Lee,tied 0-0,Out,b1,---,2,7 (3-2),0,-0.01,-0.09,.40,Flyball: RF
+836,10,2013-04-04,Laynce Nix,PHI,@ATL,Kris Medlen,tied 0-0,1B,t2,---,0,4 (1-2),0,0.04,0.37,.93,Single to CF (Line Drive)
+837,11,2013-04-04,Erik Kratz,PHI,@ATL,Kris Medlen,tied 0-0,2B,t2,1--,0,2 (0-1),0,0.11,1.10,1.59,Double to LF (Line Drive to Deep LF Line); Nix to 3B
+838,12,2013-04-04,Ben Revere,PHI,@ATL,Kris Medlen,tied 0-0,Out,t2,123,0,3 (0-2),1,-0.00,-0.13,2.40,Groundout: SS-2B/Forceout at 2B; Nix Scores; Kratz to 3B
+839,13,2013-04-04,Jimmy Rollins,PHI,@ATL,Kris Medlen,ahead 0-1,BB,t2,-23,1,5 (3-1),0,0.01,0.16,1.47,Walk
+840,14,2013-04-04,Chase Utley,PHI,@ATL,Kris Medlen,ahead 0-1,Out,t2,123,1,1 (0-0),1,0.01,-0.10,2.41,Flyball: RF/Sacrifice Fly (CF-RF); Kratz Scores
+841,15,2013-04-04,Ryan Howard,PHI,@ATL,Kris Medlen,ahead 0-2,Out,t2,12-,2,1 (0-0),0,-0.03,-0.41,1.24,Lineout: SS
+842,16,2013-04-04,Freddie Freeman,ATL,PHI,Cliff Lee,down 2-0,SO,b2,---,0,6 (2-2),0,-0.02,-0.21,.96,Strikeout Swinging
+843,17,2013-04-04,Melvin Upton,ATL,PHI,Cliff Lee,down 2-0,SO,b2,---,1,5 (2-2),0,-0.02,-0.14,.65,Strikeout Swinging
+844,18,2013-04-04,Dan Uggla,ATL,PHI,Cliff Lee,down 2-0,1B,b2,---,2,2 (1-0),0,0.01,0.12,.41,Single to LF (Line Drive to Short LF)
+845,19,2013-04-04,Chris Johnson,ATL,PHI,Cliff Lee,down 2-0,Out,b2,1--,2,9 (3-2),0,-0.02,-0.21,.86,Groundout: 3B-1B (SS-3B Hole)
+846,20,2013-04-04,Michael Young,PHI,@ATL,Kris Medlen,ahead 0-2,Out,t3,---,0,1 (0-0),0,-0.02,-0.21,.65,Groundout: 2B-1B
+847,21,2013-04-04,Domonic Brown,PHI,@ATL,Kris Medlen,ahead 0-2,1B,t3,---,1,3 (2-0),0,0.02,0.24,.47,Single to CF (Line Drive)
+848,22,2013-04-04,Laynce Nix,PHI,@ATL,Kris Medlen,ahead 0-2,Out,t3,1--,1,6 (2-2),0,-0.02,-0.27,.87,Flyball: RF (Deep RF)
+849,23,2013-04-04,Erik Kratz,PHI,@ATL,Kris Medlen,ahead 0-2,Out,t3,1--,2,2 (0-1),0,-0.02,-0.21,.61,Groundout: SS-1B (SS-3B Hole); Brown to 2B
+850,24,2013-04-04,Gerald Laird,ATL,PHI,Cliff Lee,down 2-0,SO,b3,---,0,4 (1-2),0,-0.03,-0.21,1.04,Strikeout Swinging
+851,25,2013-04-04,Andrelton Simmons,ATL,PHI,Cliff Lee,down 2-0,Out,b3,---,2,2 (0-1),0,-0.01,-0.09,.44,Popfly: 2B
+852,1,2013-04-04,Alex Gordon,KCR,@CHW,Gavin Floyd,tied 0-0,Out,t1,---,0,5 (1-2),0,-0.02,-0.24,.87,*LEADOFF GM*:Flyball: CF
+853,2,2013-04-04,Alcides Escobar,KCR,@CHW,Gavin Floyd,tied 0-0,SO,t1,---,1,5 (1-2),0,-0.02,-0.16,.62,Strikeout Looking
+854,3,2013-04-04,Billy Butler,KCR,@CHW,Gavin Floyd,tied 0-0,SO,t1,---,2,4 (1-2),0,-0.01,-0.10,.40,Strikeout Swinging
+855,4,2013-04-04,Alejandro De Aza,CHW,KCR,Jeremy Guthrie,tied 0-0,SO,b1,---,0,7 (2-2),0,-0.02,-0.24,.87,Strikeout Swinging
+856,5,2013-04-04,Jeff Keppinger,CHW,KCR,Jeremy Guthrie,tied 0-0,Out,b1,---,1,6 (3-2),0,-0.02,-0.16,.62,Groundout: 3B-1B (SS-3B Hole)
+857,6,2013-04-04,Alex Rios,CHW,KCR,Jeremy Guthrie,tied 0-0,SO,b1,---,2,6 (3-2),0,-0.01,-0.10,.40,Strikeout Swinging
+858,7,2013-04-04,Mike Moustakas,KCR,@CHW,Gavin Floyd,tied 0-0,SO,t2,---,0,4 (1-2),0,-0.02,-0.24,.93,Strikeout Swinging
+859,8,2013-04-04,Salvador Perez,KCR,@CHW,Gavin Floyd,tied 0-0,2B,t2,---,1,7 (2-2),0,0.04,0.42,.65,Double to LF (Line Drive to Deep LF)
+860,9,2013-04-04,Eric Hosmer,KCR,@CHW,Gavin Floyd,tied 0-0,Out,t2,-2-,1,5 (2-2),0,-0.04,-0.36,1.29,Flyball: LF (Deep LF-CF)
+861,10,2013-04-04,Jeff Francoeur,KCR,@CHW,Gavin Floyd,tied 0-0,Out,t2,-2-,2,1 (0-0),0,-0.03,-0.32,1.20,Groundout: 3B-1B (SS-3B Hole)
+862,11,2013-04-04,Adam Dunn,CHW,KCR,Jeremy Guthrie,tied 0-0,SO,b2,---,0,5 (1-2),0,-0.02,-0.24,.92,Strikeout Looking
+863,12,2013-04-04,Paul Konerko,CHW,KCR,Jeremy Guthrie,tied 0-0,Out,b2,---,1,3 (1-1),0,-0.02,-0.16,.67,Lineout: 2B
+864,13,2013-04-04,Dayan Viciedo,CHW,KCR,Jeremy Guthrie,tied 0-0,SO,b2,---,2,3 (0-2),0,-0.01,-0.10,.43,Strikeout Swinging
+865,14,2013-04-04,Jarrod Dyson,KCR,@CHW,Gavin Floyd,tied 0-0,Out,t3,---,0,4 (1-2),0,-0.03,-0.24,.99,Flyball: RF (RF Line)
+866,15,2013-04-04,Chris Getz,KCR,@CHW,Gavin Floyd,tied 0-0,Out,t3,---,1,3 (1-1),0,-0.02,-0.16,.72,Popfly: SS (Short LF)
+867,16,2013-04-04,Alex Gordon,KCR,@CHW,Gavin Floyd,tied 0-0,SO,t3,---,2,8 (2-2),0,-0.01,-0.10,.46,Strikeout Looking
+868,17,2013-04-04,Alexei Ramirez,CHW,KCR,Jeremy Guthrie,tied 0-0,Out,b3,---,0,2 (0-1),0,-0.03,-0.24,.99,Lineout: LF (LF-CF)
+869,18,2013-04-04,Tyler Flowers,CHW,KCR,Jeremy Guthrie,tied 0-0,BB,b3,---,1,6 (3-2),0,0.03,0.26,.72,Walk
+870,19,2013-04-04,Gordon Beckham,CHW,KCR,Jeremy Guthrie,tied 0-0,1B,b3,1--,1,2 (1-0),0,0.07,0.66,1.31,Single to RF (Ground Ball); Flowers to 3B
+871,20,2013-04-04,Alejandro De Aza,CHW,KCR,Jeremy Guthrie,tied 0-0,Out,b3,1-3,1,1 (0-0),0,-0.13,-1.19,2.06,Ground Ball Double Play: 2B-SS-1B (2B-1B)
+872,1,2013-04-04,Mike Trout,LAA,@CIN,Bronson Arroyo,tied 0-0,SO,t1,---,0,4 (1-2),0,-0.02,-0.21,.87,*LEADOFF GM*:Strikeout Swinging
+873,2,2013-04-04,Erick Aybar,LAA,@CIN,Bronson Arroyo,tied 0-0,2B,t1,---,1,3 (0-2),0,0.04,0.40,.61,Double to RF (Line Drive to Deep RF Line)
+874,3,2013-04-04,Albert Pujols,LAA,@CIN,Bronson Arroyo,tied 0-0,Out,t1,-2-,1,3 (0-2),0,-0.03,-0.30,1.26,Groundout: SS-1B (SS-2B); Aybar to 3B
+875,4,2013-04-04,Josh Hamilton,LAA,@CIN,Bronson Arroyo,tied 0-0,SO,t1,--3,2,7 (3-2),0,-0.04,-0.34,1.34,Strikeout Swinging
+876,5,2013-04-04,Shin-Soo Choo,CIN,LAA,Joe Blanton,tied 0-0,HR,b1,---,0,1 (0-0),1,0.11,1.00,.87,Home Run (Line Drive to Deep LF-CF)
+877,6,2013-04-04,Chris Heisey,CIN,LAA,Joe Blanton,ahead 0-1,Out,b1,---,0,3 (1-1),0,-0.02,-0.21,.73,Lineout: LF (LF-CF)
+878,7,2013-04-04,Joey Votto,CIN,LAA,Joe Blanton,ahead 0-1,Out,b1,---,1,5 (2-2),0,-0.01,-0.14,.52,Groundout: SS-1B (Weak SS-2B)
+879,8,2013-04-04,Brandon Phillips,CIN,LAA,Joe Blanton,ahead 0-1,2B,b1,---,2,4 (1-2),0,0.02,0.21,.34,Double to CF (Line Drive to Deep CF-RF)
+880,9,2013-04-04,Jay Bruce,CIN,LAA,Joe Blanton,ahead 0-1,Out,b1,-2-,2,4 (2-1),0,-0.03,-0.30,1.01,Groundout: 1B unassisted
+881,10,2013-04-04,Mark Trumbo,LAA,@CIN,Bronson Arroyo,down 1-0,SO,t2,---,0,6 (2-2),0,-0.02,-0.21,.97,Strikeout Swinging
+882,11,2013-04-04,Howie Kendrick,LAA,@CIN,Bronson Arroyo,down 1-0,1B,t2,---,1,2 (1-0),0,0.03,0.24,.67,Single to RF (Line Drive to Short CF-RF)
+883,12,2013-04-04,Alberto Callaspo,LAA,@CIN,Bronson Arroyo,down 1-0,Out,t2,1--,1,4 (2-1),0,-0.03,-0.27,1.30,Groundout: SS-2B/Forceout at 2B
+884,13,2013-04-04,Hank Conger,LAA,@CIN,Bronson Arroyo,down 1-0,Out,t2,1--,2,4 (2-1),0,-0.02,-0.21,.86,Groundout: 1B-SS/Forceout at 2B (Weak 2B-1B)
+885,14,2013-04-04,Todd Frazier,CIN,LAA,Joe Blanton,ahead 0-1,HR,b2,---,0,5 (1-2),1,0.10,1.00,.75,Home Run (Line Drive to Deep LF Line)
+886,15,2013-04-04,Zack Cozart,CIN,LAA,Joe Blanton,ahead 0-2,Out,b2,---,0,2 (0-1),0,-0.01,-0.21,.58,Groundout: 3B-1B
+887,16,2013-04-04,Ryan Hanigan,CIN,LAA,Joe Blanton,ahead 0-2,Out,b2,---,1,5 (2-2),0,-0.01,-0.14,.42,Flyball: RF (CF-RF)
+888,17,2013-04-04,Mike Trout,LAA,@CIN,Bronson Arroyo,down 2-0,Out,t3,---,1,1 (0-0),0,-0.02,-0.14,.65,Groundout: 3B-1B (Weak 3B)
+889,18,2013-04-04,Erick Aybar,LAA,@CIN,Bronson Arroyo,down 2-0,1B,t3,---,2,5 (2-2),0,0.01,0.12,.40,Single to LF (Line Drive to LF-CF)
+890,19,2013-04-04,Albert Pujols,LAA,@CIN,Bronson Arroyo,down 2-0,2B,t3,1--,2,1 (0-0),0,0.04,0.36,.85,Double to LF (Line Drive to Deep LF Line); Aybar to 3B
+891,20,2013-04-04,Josh Hamilton,LAA,@CIN,Bronson Arroyo,down 2-0,1B,t3,-23,2,1 (0-0),2,0.20,1.74,2.24,Single to CF (Line Drive); Aybar Scores; Pujols Scores; Hamilton to 2B/Adv on throw to Hm
+892,21,2013-04-04,Mark Trumbo,LAA,@CIN,Bronson Arroyo,tied 2-2,Out,t3,-2-,2,4 (1-2),0,-0.04,-0.30,1.34,Groundout: 2B-1B
+893,22,2013-04-04,Shin-Soo Choo,CIN,LAA,Joe Blanton,tied 2-2,Out,b3,---,0,2 (0-1),0,-0.02,-0.21,.99,Groundout: 2B-1B
+894,23,2013-04-04,Chris Heisey,CIN,LAA,Joe Blanton,tied 2-2,SO,b3,---,1,4 (1-2),0,-0.02,-0.14,.70,Strikeout Swinging
+895,24,2013-04-04,Joey Votto,CIN,LAA,Joe Blanton,tied 2-2,BB,b3,---,2,7 (3-2),0,0.01,0.12,.46,Walk
+896,25,2013-04-04,Brandon Phillips,CIN,LAA,Joe Blanton,tied 2-2,1B,b3,1--,2,5 (2-2),0,0.03,0.26,.92,Single to CF (Ground Ball thru SS-2B); Votto to 3B
+897,26,2013-04-04,Jay Bruce,CIN,LAA,Joe Blanton,tied 2-2,SO,b3,1-3,2,6 (1-2),0,-0.05,-0.46,2.06,Strikeout Swinging
+898,1,2013-04-04,Austin Jackson,DET,@MIN,Mike Pelfrey,tied 0-0,1B,t1,---,0,3 (0-2),0,0.04,0.38,.87,*LEADOFF GM*:Single to 1B (Ground Ball)
+899,2,2013-04-04,Torii Hunter,DET,@MIN,Mike Pelfrey,tied 0-0,Out,t1,--3,0,5 (1-2),1,-0.01,-0.15,1.09,Groundout: SS-1B; Jackson Scores/unER
+900,3,2013-04-04,Miguel Cabrera,DET,@MIN,Mike Pelfrey,ahead 0-1,Out,t1,---,1,2 (1-0),0,-0.01,-0.16,.56,Flyball: RF (Deep RF)
+901,4,2013-04-04,Prince Fielder,DET,@MIN,Mike Pelfrey,ahead 0-1,Out,t1,---,2,5 (2-2),0,-0.01,-0.10,.37,Groundout: SS-1B
+902,5,2013-04-04,Aaron Hicks,MIN,DET,Rick Porcello,down 1-0,Out,b1,---,0,2 (0-1),0,-0.02,-0.23,.92,Flyball: LF (Short LF)
+903,6,2013-04-04,Joe Mauer,MIN,DET,Rick Porcello,down 1-0,Out,b1,---,1,4 (2-1),0,-0.02,-0.16,.65,Groundout: 2B-1B
+904,7,2013-04-04,Josh Willingham,MIN,DET,Rick Porcello,down 1-0,BB,b1,---,2,8 (3-2),0,0.01,0.12,.42,Walk
+905,8,2013-04-04,Justin Morneau,MIN,DET,Rick Porcello,down 1-0,1B,b1,1--,2,5 (3-1),0,0.02,0.21,.83,Single to 2B (Ground Ball to 2B-1B); Willingham to 2B
+906,9,2013-04-04,Ryan Doumit,MIN,DET,Rick Porcello,down 1-0,Out,b1,12-,2,3 (2-0),0,-0.04,-0.43,1.74,Groundout: SS-1B (SS-2B)
+907,10,2013-04-04,Victor Martinez,DET,@MIN,Mike Pelfrey,ahead 0-1,1B,t2,---,0,5 (2-2),0,0.03,0.38,.82,Single to CF (Ground Ball thru SS-2B)
+908,11,2013-04-04,Don Kelly,DET,@MIN,Mike Pelfrey,ahead 0-1,Out,t2,1--,0,5 (2-2),0,-0.02,-0.20,1.34,Groundout: SS-1B (Weak SS); Martinez to 2B
+909,12,2013-04-04,Jhonny Peralta,DET,@MIN,Mike Pelfrey,ahead 0-1,Out,t2,-2-,1,3 (1-1),0,-0.03,-0.31,1.15,Groundout: 3B-1B (Weak 3B); Martinez to 3B
+910,13,2013-04-04,Alex Avila,DET,@MIN,Mike Pelfrey,ahead 0-1,SO,t2,--3,2,7 (3-2),0,-0.03,-0.36,1.27,Strikeout Swinging
+911,14,2013-04-04,Trevor Plouffe,MIN,DET,Rick Porcello,down 1-0,Out,b2,---,0,3 (1-1),0,-0.03,-0.23,.99,Groundout: P-1B (Front of Home)
+912,15,2013-04-04,Chris Parmelee,MIN,DET,Rick Porcello,down 1-0,SO,b2,---,1,5 (2-2),0,-0.02,-0.16,.71,Strikeout Looking
+913,16,2013-04-04,Jamey Carroll,MIN,DET,Rick Porcello,down 1-0,Out,b2,---,2,4 (2-1),0,-0.01,-0.10,.46,Flyball: RF
+914,17,2013-04-04,Omar Infante,DET,@MIN,Mike Pelfrey,ahead 0-1,Out,t3,---,0,4 (2-1),0,-0.02,-0.23,.87,Groundout: SS-1B
+915,18,2013-04-04,Austin Jackson,DET,@MIN,Mike Pelfrey,ahead 0-1,Out,t3,---,1,2 (1-0),0,-0.02,-0.16,.62,Flyball: RF
+916,19,2013-04-04,Torii Hunter,DET,@MIN,Mike Pelfrey,ahead 0-1,RoE,t3,---,2,2 (1-0),0,0.02,0.22,.41,Reached on E6 (throw to 1B) (Ground Ball); Hunter to 2B
+917,20,2013-04-04,Miguel Cabrera,DET,@MIN,Mike Pelfrey,ahead 0-1,1B,t3,-2-,2,1 (0-0),1,0.10,0.91,1.15,Single to LF (Line Drive to LF-CF); Hunter Scores/unER
+918,21,2013-04-04,Prince Fielder,DET,@MIN,Mike Pelfrey,ahead 0-2,Out,t3,1--,2,4 (0-2),0,-0.02,-0.23,.64,Groundout: 3B-1B (SS-3B Hole)
+919,22,2013-04-04,Pedro Florimon,MIN,DET,Rick Porcello,down 2-0,Out,b3,---,0,4 (1-2),0,-0.03,-0.23,1.05,Groundout: 2B-1B (Weak 2B)
+920,23,2013-04-04,Aaron Hicks,MIN,DET,Rick Porcello,down 2-0,SO,b3,---,1,6 (2-2),0,-0.02,-0.16,.73,Strikeout Looking
+921,24,2013-04-04,Joe Mauer,MIN,DET,Rick Porcello,down 2-0,1B,b3,---,2,5 (3-1),0,0.01,0.12,.46,Single to LF (Line Drive to LF-CF)
+922,25,2013-04-04,Josh Willingham,MIN,DET,Rick Porcello,down 2-0,HR,b3,1--,2,4 (2-1),2,0.22,1.88,.92,Home Run (Fly Ball to Deep LF-CF); Mauer Scores
+923,26,2013-04-04,Justin Morneau,MIN,DET,Rick Porcello,tied 2-2,Out,b3,---,2,4 (1-2),0,-0.01,-0.10,.47,Groundout: 2B-1B (2B-1B)
+924,1,2013-04-04,Jacoby Ellsbury,BOS,@NYY,Andy Pettitte,tied 0-0,Out,t1,---,0,3 (0-2),0,-0.02,-0.23,.87,*LEADOFF GM*:Flyball: CF (LF-CF)
+925,2,2013-04-04,Shane Victorino,BOS,@NYY,Andy Pettitte,tied 0-0,1B,t1,---,1,4 (1-2),0,0.02,0.25,.62,Single to RF (Line Drive to Short CF-RF)
+926,3,2013-04-04,Dustin Pedroia,BOS,@NYY,Andy Pettitte,tied 0-0,Out,t1,1--,1,2 (0-1),0,-0.03,-0.29,1.15,Flyball: RF (CF-RF)
+927,4,2013-04-04,Mike Napoli,BOS,@NYY,Andy Pettitte,tied 0-0,1B,t1,1--,2,1 (0-0),0,0.02,0.20,.79,Single to LF (Ground Ball thru SS-3B Hole); Victorino to 2B
+928,5,2013-04-04,Brett Gardner,NYY,BOS,Ryan Dempster,tied 0-0,BB,b1,---,0,6 (3-2),0,0.04,0.38,.87,Walk
+929,6,2013-04-04,Robinson Cano,NYY,BOS,Ryan Dempster,tied 0-0,Out,b1,---,1,6 (3-2),0,-0.02,-0.15,.62,Groundout: 3B-1B (Deep 2B-1B)
+930,7,2013-04-04,Kevin Youkilis,NYY,BOS,Ryan Dempster,tied 0-0,Out,b1,---,2,6 (3-2),0,-0.01,-0.10,.40,Groundout: SS-1B
+931,8,2013-04-04,Jonny Gomes,BOS,@NYY,Andy Pettitte,tied 0-0,Out,t2,---,0,5 (2-2),0,-0.02,-0.23,.93,Popfly: 2B (Short CF)
+932,9,2013-04-04,Will Middlebrooks,BOS,@NYY,Andy Pettitte,tied 0-0,1B,t2,---,1,1 (0-0),0,0.03,0.25,.65,Single to CF (Ground Ball)
+933,10,2013-04-04,Jackie Bradley,BOS,@NYY,Andy Pettitte,tied 0-0,Out,t2,1--,1,2 (1-0),0,-0.05,-0.51,1.23,Ground Ball Double Play: 2B-SS-1B
+934,11,2013-04-04,Travis Hafner,NYY,BOS,Ryan Dempster,tied 0-0,1B,b2,---,0,5 (2-2),0,0.04,0.38,.92,Single to CF (Fly Ball to Short CF)
+935,12,2013-04-04,Vernon Wells,NYY,BOS,Ryan Dempster,tied 0-0,SO,b2,1--,0,3 (0-2),0,-0.03,-0.35,1.53,Strikeout Swinging
+936,13,2013-04-04,Ichiro Suzuki,NYY,BOS,Ryan Dempster,tied 0-0,SO,b2,1--,1,4 (1-2),0,-0.03,-0.29,1.22,Strikeout Swinging
+937,14,2013-04-04,Eduardo Nunez,NYY,BOS,Ryan Dempster,tied 0-0,2B,b2,1--,2,3 (1-1),0,0.04,0.37,.84,Ground-rule Double (Fly Ball to Deep CF-RF); Hafner to 3B
+938,15,2013-04-04,Lyle Overbay,NYY,BOS,Ryan Dempster,tied 0-0,1B,b2,-23,2,1 (0-0),2,0.17,1.63,2.09,Single to CF (Fly Ball to Short LF-CF); Hafner Scores; Nunez Scores
+939,16,2013-04-04,Francisco Cervelli,NYY,BOS,Ryan Dempster,ahead 0-2,SO,b2,1--,2,5 (2-2),0,-0.02,-0.22,.57,Strikeout Swinging
+940,17,2013-04-04,David Ross,BOS,@NYY,Andy Pettitte,down 2-0,1B,t3,---,0,1 (0-0),0,0.04,0.38,.97,Single to LF (Ground Ball thru SS-3B Hole)
+941,18,2013-04-04,Jose Iglesias,BOS,@NYY,Andy Pettitte,down 2-0,Out,t3,1--,0,2 (0-1),0,-0.08,-0.76,1.67,Ground Ball Double Play: P-SS-1B (Front of Home)
+942,19,2013-04-04,Jacoby Ellsbury,BOS,@NYY,Andy Pettitte,down 2-0,Out,t3,---,2,5 (2-2),0,-0.01,-0.10,.41,Groundout: P-1B (P's Right)
+943,20,2013-04-04,Brett Gardner,NYY,BOS,Ryan Dempster,ahead 0-2,HR,b3,---,0,1 (0-0),1,0.08,1.00,.60,Home Run (Fly Ball to Deep RF)
+944,21,2013-04-04,Robinson Cano,NYY,BOS,Ryan Dempster,ahead 0-3,BB,b3,---,0,4 (3-0),0,0.02,0.38,.44,Walk
+945,22,2013-04-04,Kevin Youkilis,NYY,BOS,Ryan Dempster,ahead 0-3,SO,b3,1--,0,4 (0-2),0,-0.02,-0.35,.69,Strikeout Swinging
+946,23,2013-04-04,Travis Hafner,NYY,BOS,Ryan Dempster,ahead 0-3,SO,b3,1--,1,6 (3-2),0,-0.01,-0.29,.57,Strikeout Swinging
+947,24,2013-04-04,Vernon Wells,NYY,BOS,Ryan Dempster,ahead 0-3,Out,b3,1--,2,5 (3-1),0,-0.01,-0.22,.41,Flyball: RF (Deep CF-RF)
+948,1,2013-04-04,Everth Cabrera,SDP,@NYM,Dillon Gee,tied 0-0,BB,t1,---,0,5 (3-1),0,0.04,0.36,.87,*LEADOFF GM*:Walk
+949,2,2013-04-04,Will Venable,SDP,@NYM,Dillon Gee,tied 0-0,Out,t1,1--,0,3 (1-1),0,-0.02,-0.17,1.55,Bunt Groundout: P-1B/Sacrifice (Short 3B Line); Cabrera to 2B
+950,3,2013-04-04,Mark Kotsay,SDP,@NYM,Dillon Gee,tied 0-0,Out,t1,-2-,1,2 (0-1),0,-0.03,-0.29,1.29,Groundout: C-1B (Front of Home); Cabrera to 3B
+951,4,2013-04-04,Yonder Alonso,SDP,@NYM,Dillon Gee,tied 0-0,Out,t1,--3,2,4 (2-1),0,-0.04,-0.32,1.37,Flyball: CF (LF-CF)
+952,5,2013-04-04,Collin Cowgill,NYM,SDP,Eric Stults,tied 0-0,Out,b1,---,0,6 (3-2),0,-0.02,-0.20,.87,Groundout: SS-1B
+953,6,2013-04-04,Justin Turner,NYM,SDP,Eric Stults,tied 0-0,1B,b1,---,1,6 (3-2),0,0.02,0.24,.60,Single to LF (Ground Ball thru SS-3B Hole)
+954,7,2013-04-04,David Wright,NYM,SDP,Eric Stults,tied 0-0,SO,b1,1--,1,9 (3-2),0,-0.03,-0.26,1.17,Strikeout Looking
+955,8,2013-04-04,Ike Davis,NYM,SDP,Eric Stults,tied 0-0,SO,b1,1--,2,6 (2-2),0,-0.02,-0.20,.80,Strikeout Looking
+956,9,2013-04-04,Jedd Gyorko,SDP,@NYM,Dillon Gee,tied 0-0,Out,t2,---,0,1 (0-0),0,-0.02,-0.20,.93,Popfly: 2B (Deep 2B)
+957,10,2013-04-04,Alexi Amarista,SDP,@NYM,Dillon Gee,tied 0-0,SO,t2,---,1,5 (2-2),0,-0.02,-0.13,.63,Strikeout Looking
+958,11,2013-04-04,Cameron Maybin,SDP,@NYM,Dillon Gee,tied 0-0,Out,t2,---,2,4 (2-1),0,-0.01,-0.08,.41,Groundout: 3B-1B (SS-3B Hole)
+959,12,2013-04-04,Marlon Byrd,NYM,SDP,Eric Stults,tied 0-0,SO,b2,---,0,5 (1-2),0,-0.02,-0.20,.92,Strikeout Swinging
+960,13,2013-04-04,Lucas Duda,NYM,SDP,Eric Stults,tied 0-0,SO,b2,---,1,5 (2-2),0,-0.01,-0.13,.64,Strikeout Swinging
+961,14,2013-04-04,John Buck,NYM,SDP,Eric Stults,tied 0-0,1B,b2,---,2,3 (1-1),0,0.01,0.11,.41,Single to LF (Line Drive)
+962,15,2013-04-04,Ruben Tejada,NYM,SDP,Eric Stults,tied 0-0,BB,b2,1--,2,7 (3-2),0,0.02,0.19,.85,Walk; Buck to 2B
+963,16,2013-04-04,John Baker,SDP,@NYM,Dillon Gee,tied 0-0,Out,t3,---,0,5 (3-1),0,-0.02,-0.20,.99,Groundout: P-1B
+964,17,2013-04-04,Everth Cabrera,SDP,@NYM,Dillon Gee,tied 0-0,Out,t3,---,2,3 (2-0),0,-0.01,-0.08,.44,Lineout: P-1B
+965,18,2013-04-04,Collin Cowgill,NYM,SDP,Eric Stults,tied 0-0,Out,b3,---,0,4 (1-2),0,-0.02,-0.20,1.00,Flyball: CF (Short CF)
+966,19,2013-04-04,Justin Turner,NYM,SDP,Eric Stults,tied 0-0,2B,b3,---,1,4 (2-1),0,0.05,0.40,.69,Double to LF (Line Drive to Deep LF-CF)
+967,20,2013-04-04,David Wright,NYM,SDP,Eric Stults,tied 0-0,BB,b3,-2-,1,5 (3-1),0,0.02,0.21,1.46,Walk
+968,21,2013-04-04,Ike Davis,NYM,SDP,Eric Stults,tied 0-0,Out,b3,12-,1,2 (1-0),0,-0.10,-0.82,2.27,Ground Ball Double Play: 2B-SS-1B (2B-1B)
+969,1,2013-04-04,Michael Saunders,SEA,@OAK,A.J. Griffin,tied 0-0,Out,t1,---,0,3 (1-1),0,-0.02,-0.22,.87,*LEADOFF GM*:Foul Popfly: 3B (3B Foul)
+970,2,2013-04-04,Franklin Gutierrez,SEA,@OAK,A.J. Griffin,tied 0-0,Out,t1,---,1,4 (2-1),0,-0.02,-0.15,.62,Flyball: RF (Deep RF)
+971,3,2013-04-04,Raul Ibanez,SEA,@OAK,A.J. Griffin,tied 0-0,Out,t1,---,2,2 (0-1),0,-0.01,-0.10,.40,Groundout: 2B-1B (Deep 2B-1B)
+972,4,2013-04-04,Coco Crisp,OAK,SEA,Brandon Maurer,tied 0-0,1B,b1,---,0,3 (1-1),0,0.04,0.38,.87,Single to RF (Line Drive to CF-RF)
+973,5,2013-04-04,Jed Lowrie,OAK,SEA,Brandon Maurer,tied 0-0,Out,b1,1--,0,3 (0-2),0,-0.03,-0.35,1.45,Foul Flyball: LF (LF Foul)
+974,6,2013-04-04,Josh Reddick,OAK,SEA,Brandon Maurer,tied 0-0,HR,b1,1--,1,4 (1-2),2,0.18,1.75,1.16,Home Run (Fly Ball to Deep RF); Crisp Scores
+975,7,2013-04-04,Yoenis Cespedes,OAK,SEA,Brandon Maurer,ahead 0-2,Out,b1,---,1,5 (2-2),0,-0.01,-0.15,.44,Foul Popfly: C (Behind Home)
+976,8,2013-04-04,Brandon Moss,OAK,SEA,Brandon Maurer,ahead 0-2,Out,b1,---,2,2 (1-0),0,-0.01,-0.10,.28,Groundout: 2B-1B (2B-1B)
+977,9,2013-04-04,Mike Morse,SEA,@OAK,A.J. Griffin,down 2-0,SO,t2,---,0,4 (1-2),0,-0.02,-0.22,.92,Strikeout Swinging
+978,10,2013-04-04,Justin Smoak,SEA,@OAK,A.J. Griffin,down 2-0,Out,t2,---,1,1 (0-0),0,-0.02,-0.15,.63,Flyball: LF (Deep LF)
+979,11,2013-04-04,Kyle Seager,SEA,@OAK,A.J. Griffin,down 2-0,Out,t2,---,2,4 (2-1),0,-0.01,-0.10,.39,Flyball: LF (LF-CF)
+980,12,2013-04-04,Chris Young,OAK,SEA,Brandon Maurer,ahead 0-2,HBP,b2,---,0,2 (1-0),0,0.02,0.38,.60,Hit By Pitch
+981,13,2013-04-04,John Jaso,OAK,SEA,Brandon Maurer,ahead 0-2,Out,b2,1--,0,5 (1-2),0,-0.02,-0.35,.99,Lineout: 3B (SS-3B Hole)
+982,14,2013-04-04,Josh Donaldson,OAK,SEA,Brandon Maurer,ahead 0-2,Out,b2,1--,1,3 (0-2),0,-0.03,-0.50,.80,Ground Ball Double Play: SS-2B-1B
+983,15,2013-04-04,Dustin Ackley,SEA,@OAK,A.J. Griffin,down 2-0,Out,t3,---,0,4 (1-2),0,-0.02,-0.22,.97,Lineout: 1B (2B-1B)
+984,16,2013-04-04,Kelly Shoppach,SEA,@OAK,A.J. Griffin,down 2-0,BB,t3,---,1,6 (3-2),0,0.03,0.25,.66,Walk
+985,17,2013-04-04,Robert Andino,SEA,@OAK,A.J. Griffin,down 2-0,SO,t3,1--,1,5 (2-2),0,-0.03,-0.28,1.29,Strikeout Swinging
+986,18,2013-04-04,Michael Saunders,SEA,@OAK,A.J. Griffin,down 2-0,1B,t3,1--,2,2 (0-1),0,0.02,0.20,.85,Single to RF (Line Drive to CF-RF); Shoppach to 2B
+987,19,2013-04-04,Franklin Gutierrez,SEA,@OAK,A.J. Griffin,down 2-0,SO,t3,12-,2,4 (1-2),0,-0.05,-0.42,1.82,Strikeout Swinging
+988,20,2013-04-04,Eric Sogard,OAK,SEA,Brandon Maurer,ahead 0-2,Out,b3,---,0,2 (0-1),0,-0.01,-0.22,.59,Flyball: CF
+989,21,2013-04-04,Coco Crisp,OAK,SEA,Brandon Maurer,ahead 0-2,Out,b3,---,1,4 (2-1),0,-0.01,-0.15,.43,Flyball: LF (Short LF Line)
+990,22,2013-04-04,Jed Lowrie,OAK,SEA,Brandon Maurer,ahead 0-2,Out,b3,---,2,5 (2-2),0,-0.01,-0.10,.30,Groundout: 1B unassisted (2B-1B)
+991,1,2013-04-04,David DeJesus,CHC,@PIT,James McDonald,tied 0-0,BB,t1,---,0,7 (3-2),0,0.04,0.36,.87,*LEADOFF GM*:Walk
+992,2,2013-04-04,Starlin Castro,CHC,@PIT,James McDonald,tied 0-0,Out,t1,1--,0,2 (1-0),0,-0.03,-0.33,1.54,Flyball: CF (Short CF)
+993,3,2013-04-04,Anthony Rizzo,CHC,@PIT,James McDonald,tied 0-0,Out,t1,1--,1,6 (2-2),0,-0.03,-0.26,1.17,Flyball: LF (Deep LF)
+994,4,2013-04-04,Alfonso Soriano,CHC,@PIT,James McDonald,tied 0-0,Out,t1,1--,2,2 (0-1),0,-0.02,-0.20,.80,Flyball: CF (Short CF)
+995,5,2013-04-04,Starling Marte,PIT,CHC,Travis Wood,tied 0-0,Out,b1,---,0,5 (1-2),0,-0.02,-0.20,.87,Flyball: RF (Deep RF)
+996,6,2013-04-04,Russell Martin,PIT,CHC,Travis Wood,tied 0-0,Out,b1,---,1,3 (1-1),0,-0.01,-0.13,.60,Foul Popfly: SS (3B Foul)
+997,7,2013-04-04,Andrew McCutchen,PIT,CHC,Travis Wood,tied 0-0,SO,b1,---,2,4 (1-2),0,-0.01,-0.09,.39,Strikeout Swinging
+998,8,2013-04-04,Nate Schierholtz,CHC,@PIT,James McDonald,tied 0-0,SO,t2,---,0,9 (2-2),0,-0.02,-0.20,.93,Strikeout Looking
+999,9,2013-04-04,Dioner Navarro,CHC,@PIT,James McDonald,tied 0-0,Out,t2,---,1,3 (1-1),0,-0.02,-0.13,.63,Flyball: LF (Deep LF)
+1000,10,2013-04-04,Luis Valbuena,CHC,@PIT,James McDonald,tied 0-0,Out,t2,---,2,2 (1-0),0,-0.01,-0.09,.41,Flyball: CF
